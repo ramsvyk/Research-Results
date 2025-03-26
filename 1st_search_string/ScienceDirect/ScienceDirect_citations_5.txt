@@ -1,0 +1,1220 @@
+Eugene Syriani, Istvan David, Gauransh Kumar,
+Screening articles for systematic reviews with ChatGPT,
+Journal of Computer Languages,
+Volume 80,
+2024,
+101287,
+ISSN 2590-1184,
+https://doi.org/10.1016/j.cola.2024.101287.
+(https://www.sciencedirect.com/science/article/pii/S2590118424000303)
+Abstract: Systematic reviews (SRs) provide valuable evidence for guiding new research directions. However, the manual effort involved in selecting articles for inclusion in an SR is error-prone and time-consuming. While screening articles has traditionally been considered challenging to automate, the advent of large language models offers new possibilities. In this paper, we discuss the effect of using ChatGPT on the SR process. In particular, we investigate the effectiveness of different prompt strategies for automating the article screening process using five real SR datasets. Our results show that ChatGPT can reach up to 82% accuracy. The best performing prompts specify exclusion criteria and avoid negative shots. However, prompts should be adapted to different corpus characteristics.
+Keywords: Generative AI; GPT; Empirical research; Large language model; Literature review; Mapping study; Screening
+
+Randall J. Ellis, Ryan M. Sander, Alfonso Limon,
+Twelve key challenges in medical machine learning and solutions,
+Intelligence-Based Medicine,
+Volume 6,
+2022,
+100068,
+ISSN 2666-5212,
+https://doi.org/10.1016/j.ibmed.2022.100068.
+(https://www.sciencedirect.com/science/article/pii/S2666521222000217)
+Abstract: The utility of machine learning in biomedicine is being investigated in various contexts, including for diagnostic and interpretive purposes for imaging modalities, quantifying disease risk, and processing text from physician and patient reports. To best facilitate the potential of machine learning, clinicians and computational scientists must inform one another about the nature of their clinical challenges and available methods for solving them, respectively. To this end, clinicians need to critically evaluate machine learning studies conducted to solve relevant problems in medicine. This article serves as a checklist for clinicians to understand and appraise machine learning studies and help facilitate productive conversations between the clinical and data science communities to improve human health.
+Keywords: Machine learning; Baseline models; Performance metrics; Imbalanced datasets; Model and label uncertainty; Reproducibility
+
+Guillaume Guarino, Ahmed Samet, Denis Cavallucci,
+PaTRIZ: A framework for mining TRIZ contradictions in patents,
+Expert Systems with Applications,
+Volume 207,
+2022,
+117942,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2022.117942.
+(https://www.sciencedirect.com/science/article/pii/S0957417422011800)
+Abstract: Patents are a significant source of information about inventions. However, understanding the content of a patent with the aim of using it for an automatic solution search is still an unsolved challenge. To achieve this purpose, a model based on the TRIZ theory (Altshuller, 1984) has been developed. This theory introduces the notion of contradiction, which is a reliable and domain-independent technique to formulate the problem solved by each patent through an opposition between parameters of a system. Each patent is considered a solution concept to a contradiction. Mining contradictions, therefore, means characterizing solution concepts. In this paper, we propose a new approach called PaTRIZ, a complete framework for patent analysis based on a combination of sentences and word-level deep neural networks. The word-level network, called ParaBERT, comprises a novel Conditional Random Field structure, developed to integrate syntactic information. The idea is to mine the patent’s motivating problem (aka contradiction), which is fundamental to understanding the invention and identifying for which purpose it could be used. The models are evaluated on built-in real-world datasets.
+Keywords: Patent; Deep learning; NLP; Contradiction; TRIZ
+
+Christopher A. Barnes, Scott Vine, Ryan Nadeau,
+Assessing textbook affordability before and after the COVID-19 pandemic: Results of student and faculty surveys,
+The Journal of Academic Librarianship,
+Volume 50, Issue 2,
+2024,
+102864,
+ISSN 0099-1333,
+https://doi.org/10.1016/j.acalib.2024.102864.
+(https://www.sciencedirect.com/science/article/pii/S0099133324000259)
+Abstract: This article compares the results of a pair of course material surveys for faculty and students conducted before and after the COVID-19 pandemic by academic librarians at a private liberal arts college in the northeastern U.S. Findings indicate that overall students are spending significantly less per semester on required course materials, but some are going without significantly more required materials due to cost. Furthermore, first-year students were not found to be spending any less than prior to the pandemic and, as a result, spent significantly more in 2023 than most of their more experienced peers. The decrease in average student spending corresponds with our findings that faculty became more cost conscious and expanded efforts to make required materials affordable by assigning more OER and fewer materials which they consider to be overpriced or unaffordable. As a result of these and other strategies, by 2023 significantly more faculty had been able to develop courses for which the required materials cost nothing for students. The authors discuss the importance of these and additional findings, placing them in the context of similar surveys and suggesting ways that the data can be used to inform current library practices and future research.
+Keywords: Course materials; Textbook affordability; Open educational resources; Textbook crisis; Student spending; COVID-19 pandemic; Liberal arts college; Faculty survey
+
+Ramanpreet Kaur, Dušan Gabrijelčič, Tomaž Klobučar,
+Artificial intelligence for cybersecurity: Literature review and future research directions,
+Information Fusion,
+Volume 97,
+2023,
+101804,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2023.101804.
+(https://www.sciencedirect.com/science/article/pii/S1566253523001136)
+Abstract: Artificial intelligence (AI) is a powerful technology that helps cybersecurity teams automate repetitive tasks, accelerate threat detection and response, and improve the accuracy of their actions to strengthen the security posture against various security issues and cyberattacks. This article presents a systematic literature review and a detailed analysis of AI use cases for cybersecurity provisioning. The review resulted in 2395 studies, of which 236 were identified as primary. This article classifies the identified AI use cases based on a NIST cybersecurity framework using a thematic analysis approach. This classification framework will provide readers with a comprehensive overview of the potential of AI to improve cybersecurity in different contexts. The review also identifies future research opportunities in emerging cybersecurity application areas, advanced AI methods, data representation, and the development of new infrastructures for the successful adoption of AI-based cybersecurity in today's era of digital transformation and polycrisis.
+Keywords: Detection; Protection; Response; Recovery; Identify; Learning; Cyberattacks; Taxonomy
+
+Alejandro Barredo Arrieta, Natalia Díaz-Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador Garcia, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, Francisco Herrera,
+Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI,
+Information Fusion,
+Volume 58,
+2020,
+Pages 82-115,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2019.12.012.
+(https://www.sciencedirect.com/science/article/pii/S1566253519308103)
+Abstract: In the last few years, Artificial Intelligence (AI) has achieved a notable momentum that, if harnessed appropriately, may deliver the best of expectations over many application sectors across the field. For this to occur shortly in Machine Learning, the entire community stands in front of the barrier of explainability, an inherent problem of the latest techniques brought by sub-symbolism (e.g. ensembles or Deep Neural Networks) that were not present in the last hype of AI (namely, expert systems and rule based models). Paradigms underlying this problem fall within the so-called eXplainable AI (XAI) field, which is widely acknowledged as a crucial feature for the practical deployment of AI models. The overview presented in this article examines the existing literature and contributions already done in the field of XAI, including a prospect toward what is yet to be reached. For this purpose we summarize previous efforts made to define explainability in Machine Learning, establishing a novel definition of explainable Machine Learning that covers such prior conceptual propositions with a major focus on the audience for which the explainability is sought. Departing from this definition, we propose and discuss about a taxonomy of recent contributions related to the explainability of different Machine Learning models, including those aimed at explaining Deep Learning methods for which a second dedicated taxonomy is built and examined in detail. This critical literature analysis serves as the motivating background for a series of challenges faced by XAI, such as the interesting crossroads of data fusion and explainability. Our prospects lead toward the concept of Responsible Artificial Intelligence, namely, a methodology for the large-scale implementation of AI methods in real organizations with fairness, model explainability and accountability at its core. Our ultimate goal is to provide newcomers to the field of XAI with a thorough taxonomy that can serve as reference material in order to stimulate future research advances, but also to encourage experts and professionals from other disciplines to embrace the benefits of AI in their activity sectors, without any prior bias for its lack of interpretability.
+Keywords: Explainable Artificial Intelligence; Machine Learning; Deep Learning; Data Fusion; Interpretability; Comprehensibility; Transparency; Privacy; Fairness; Accountability; Responsible Artificial Intelligence
+
+Vani Rajasekar, J. Premalatha, Rajesh Kumar Dhanaraj,
+Chapter 19 - Security analytics,
+Editor(s): Prashant Johri, Adarsh Anand, Jüri Vain, Jagvinder Singh, Mohammad Quasim,
+In Emerging Methodologies and Applications in Modelling,
+System Assurances,
+Academic Press,
+2022,
+Pages 333-354,
+ISBN 9780323902403,
+https://doi.org/10.1016/B978-0-323-90240-3.00019-9.
+(https://www.sciencedirect.com/science/article/pii/B9780323902403000199)
+Abstract: Security analytics is a cyber security strategy that focuses on analyzing data to create robust cyber security interventions. It implies the usage of security analytic tools to improve the identification of proactive attacks and providing countermeasures. By gathering, normalizing, and analyzing network traffic for threat actions, security analytics tools identify behaviors that suggest malicious activity. The domain of security analytics is full of potentials and provides organizations looking to remain on top of vulnerabilities and one step ahead of cybercriminals with a comprehensive solution. Security analytics along with big data capabilities and threat intelligence helps to identify, analyze, and mitigate internal threats, cyber threats, and targeted attacks. Deep learning techniques and big data analytics are rapidly growing traction in the era of the security sector today. The NoSQL graph model is a leveraging security analytics and visualization technique. This approach gathers information from varied host and distributed network sources, connect them to a graph database, capturing complex relationship in the cyber security domain. In that respect, security analytics can also assist in formulating efficient ways of responding to attacks. The major applications of security analytics are network monitoring, cloud traffic, remote user behavior data, business applications, cyber security management, IoT security management, network security analytics, and big data security analytics. This chapter focuses on the introduction to security analytics, its need, challenges, applications, and its future research directions.
+Keywords: Security tools; Intrusion detection; Security threats; Anomaly detection; Cyber security
+
+Zhiyang Fang, Junfeng Wang, Jiaxuan Geng, Yingjie Zhou, Xuan Kan,
+A3CMal: Generating adversarial samples to force targeted misclassification by reinforcement learning,
+Applied Soft Computing,
+Volume 109,
+2021,
+107505,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2021.107505.
+(https://www.sciencedirect.com/science/article/pii/S1568494621004282)
+Abstract: Machine learning algorithms have been proved to be vulnerable to adversarial attacks. The potential adversary is able to force the model to produce deliberate errors by elaborately modifying the training samples. For malware analysis, most of the existing research on evasion attacks focuses on a detection scenario, while less attention is paid to the classification scenario which is vital to decide a suitable system response in time. To fulfill this gap, this paper tries to address the misclassification problem in malware analysis. A reinforcement learning model named A3CMal is proposed. This adversarial model aims to generate adversarial samples which can fool the target classifier. As a core component of A3CMal, the self-learning agent constantly takes optimal actions to confuse the classification by slightly modifying samples on the basis of the observed states. Extensive experiments are performed to test the validity of A3CMal. The results show that the proposed A3CMal can force the target classifier to make wrong predictions while preserving the malicious functionality of the malware. Remarkably, not only can it cause the system to indicate an incorrect classification, but also can mislead the target model to classify malware into a specific category. Furthermore, our experiments demonstrate that the PE-based classifier is vulnerable to the adversarial samples generated by A3CMal.
+Keywords: Malware classification; Adversarial samples; Deep reinforcement learning; A3C
+
+Yali Yuan, Jian Ge, Guang Cheng,
+DeMarking: A defense for network flow watermarking in real-time,
+Computers & Security,
+Volume 152,
+2025,
+104355,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2025.104355.
+(https://www.sciencedirect.com/science/article/pii/S0167404825000446)
+Abstract: The network flow watermarking technique associates the two communicating parties by actively modifying certain characteristics of the flow generated by the sender so that it covertly carries some special marking information. Some third-party attackers communicating with the hidden server as a Tor client may attempt de-anonymization attacks to uncover the real identity of the hidden server by using this technique. This compromises the privacy of the anonymized communication system. Therefore, we propose a watermark defense scheme based on deep neural networks. Firstly, we design a training architecture based on generative adversarial networks and adversarial attacks. This architecture can train a converter to convert the original Inter-Packet Delays (IPD) into newly generated “clean” IPDs by the model, causing the adversary’s detector to extract incorrect information and thus unable to perform traffic correlation. Using the trained converter model, we design a watermark defense scheme that can effectively resist time-based watermarking techniques.
+Keywords: Flow watermarking; Defense; Tor; Adversarial attacks; Generative adversarial networks
+
+Jordan Richard Schoenherr, Erin Chiou, Maria Goldshtein,
+8 - Building trust with the ethical affordances of education technologies: A sociotechnical systems perspective,
+Editor(s): Prithviraj Dasgupta, James Llinas, Tony Gillespie, Scott Fouse, William Lawless, Ranjeev Mittu, Donald Sofge,
+Putting AI in the Critical Loop,
+Academic Press,
+2024,
+Pages 127-165,
+ISBN 9780443159886,
+https://doi.org/10.1016/B978-0-443-15988-6.00003-0.
+(https://www.sciencedirect.com/science/article/pii/B9780443159886000030)
+Abstract: Learning engineering has the potential to impact society broadly. As we introduce novel AI-enabled technologies into learning environments, we must consider both the qualities of a technology that make it trustworthy (e.g., accuracy, reliability) as well as the qualities of the implementation context (e.g., permissions, involvement) that affect the trust of learners, educators, and administrators in this technology. In this chapter, we consider a broad cross-section of learning technologies and the social and ethical implications of adopting these technologies in higher education. Following a review of values in value-based approaches to psychometrics, we consider how specific formal and informal learning technologies manifest in various learning environments inside and outside of higher education, and the ethical affordances of these systems. We then expand on how these ethical affordances should impact our assessments of technology trustworthiness as well as the need for applications of current trust frameworks to expand their level of analysis beyond traditional evaluations of technology performance (e.g., accuracy and reliability), toward more sociotechnical system level considerations (e.g., social and organizational impacts).
+Keywords: Education technology; Learning engineering; Sociotechnical systems; Trust
+
+Jiayuan Liu, Joe Nandhakumar, Markos Zachariadis,
+When guanxi meets structural holes: Exploring the guanxi networks of Chinese entrepreneurs on digital platforms,
+The Journal of Strategic Information Systems,
+Volume 27, Issue 4,
+2018,
+Pages 311-334,
+ISSN 0963-8687,
+https://doi.org/10.1016/j.jsis.2018.10.003.
+(https://www.sciencedirect.com/science/article/pii/S0963868717301026)
+Abstract: In this exploratory study, we investigate how Chinese entrepreneurs on digital platforms interact and leverage guanxi (a system of relationships and social network) to buffer the negative impacts of structural holes on knowledge orchestration. We develop our research model and formulate ten hypotheses by drawing on the literature. We adopt a mixed-methods research approach in which we use quantitative surveys to test the hypotheses, and qualitative interviews to explain why certain relationships are stronger in one stage of entrepreneurial development than the other. The study contributes to the literature on digital entrepreneurship in two ways. First, this study offers an initial understanding of the dynamics of guanxi networks for knowledge mobilisation and knowledge coordination across start-up and growth stages of Chinese entrepreneurs on digital platforms. Second, by drawing on the relevant literature, our findings extend the current understanding of knowledge orchestration of digital entrepreneurs and contribute to the literatures of structural holes theory and guanxi.
+Keywords: Chinese digital entrepreneurs on digital platforms; Guanxi; Structural holes; Knowledge orchestration
+
+Simrandeep Singh, Harbinder Singh, Gloria Bueno, Oscar Deniz, Sartajvir Singh, Himanshu Monga, P.N. Hrisheekesha, Anibal Pedraza,
+A review of image fusion: Methods, applications and performance metrics,
+Digital Signal Processing,
+Volume 137,
+2023,
+104020,
+ISSN 1051-2004,
+https://doi.org/10.1016/j.dsp.2023.104020.
+(https://www.sciencedirect.com/science/article/pii/S105120042300115X)
+Abstract: The same sensor or a number of image sensors are used to take a series of photographs in order to gather as much data as possible about the scene. Several imaging techniques are used to retrieve entire information from the source under observation. Image fusion (IF) is used to create a new image that incorporates comprehensive information from many photographs. The various images may be captured from different viewpoints, different imaging sensors i.e., visible (VIS) and IR camera, different modalities i.e., computed tomography (CT) and magnetic resonance image (MRI), hyper spectral images i.e., panchromatic and multi-spectral satellite images, multi-exposure images and multi-focus images. Owing to the growing mandates and development of image enhancement schemes, numerous fusion methods were recently formulated. Consequentially, we are doing a survey study to document the methodological development in IF techniques. The outline of picture merging technologies is described in this article. Ultimately, latest state-of-the-art fusion techniques are also demonstrated. Readers will gain insights on current discoveries and their implications for the future through a review of diverse image fusion in various areas and fusion quality metrics.
+Keywords: Information fusion; Image decomposition; Quality metrics; Segmentation; Fusion criteria
+
+Danial Javaheri, Mahdi Fahmideh, Hassan Chizari, Pooia Lalbakhsh, Junbeom Hur,
+Cybersecurity threats in FinTech: A systematic review,
+Expert Systems with Applications,
+Volume 241,
+2024,
+122697,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2023.122697.
+(https://www.sciencedirect.com/science/article/pii/S0957417423031998)
+Abstract: The rapid evolution of the Smart-everything movement and Artificial Intelligence (AI) advancements have given rise to sophisticated cyber threats that traditional methods cannot counteract. Cyber threats are extremely critical in financial technology (FinTech) as a data-centric sector expected to provide 24/7 services. This paper introduces a novel and refined taxonomy of security threats in FinTech and conducts a comprehensive systematic review of defensive strategies. Through PRISMA methodology applied to 74 selected studies and topic modeling, we identified 11 central cyber threats, with 43 papers detailing them, and pinpointed 9 corresponding defense strategies, as covered in 31 papers. This in-depth analysis offers invaluable insights for stakeholders ranging from banks and enterprises to global governmental bodies, highlighting both the current challenges in FinTech and effective countermeasures, as well as directions for future research.
+Keywords: Banking trojan; Business sustainability; Cyber-attacks; Data privacy; Financial technology
+
+Sabine Hielscher, Benjamin K. Sovacool,
+Contested smart and low-carbon energy futures: Media discourses of smart meters in the United Kingdom,
+Journal of Cleaner Production,
+Volume 195,
+2018,
+Pages 978-990,
+ISSN 0959-6526,
+https://doi.org/10.1016/j.jclepro.2018.05.227.
+(https://www.sciencedirect.com/science/article/pii/S0959652618315749)
+Abstract: The Smart Meter Implementation Programme (SMIP) is arguably one of the most expansive and complex smart meter programmes globally. The UK government regards smart meters to be enablers of a low-carbon energy grid and has set out ambitious consumer-orientated aims within their programme across England, Scotland, and Wales. Despite considerable amount of research on how consumers will (or not) engage with smart meters, media discourses, where some public debates about smart meters are created and reproduced, have received little attention. This paper presents a content analysis of how smart meters are discussed within 11 years of popular print media coverage. A collection of nine discourses are identified: Four of these – “empowered consumers”, “energy conscious world”, “low-carbon grid”, and “future smart innovation” – depict smart meters as a harbinger of positive social change. Five of these – “hacked and vulnerable grid”, “big brother”, “costly disaster”, “astronomical bills”, and “families in turmoil” – represent smart meters as negative forces on society. The results show that discourses and associated storylines mainly represent continuous struggles over particular socio-technical promises linked to smart meters. Somewhat missing are attempts to open up the smart energy debate to broader issues of democracy and energy justice within the print media coverage.
+Keywords: Smart grid; Media discourses; Futures; Energy infrastructure; Smart meters
+
+Dalila Ressi, Riccardo Romanello, Carla Piazza, Sabina Rossi,
+AI-enhanced blockchain technology: A review of advancements and opportunities,
+Journal of Network and Computer Applications,
+Volume 225,
+2024,
+103858,
+ISSN 1084-8045,
+https://doi.org/10.1016/j.jnca.2024.103858.
+(https://www.sciencedirect.com/science/article/pii/S1084804524000353)
+Abstract: Blockchain technology has rapidly gained popularity, permeating various fields due to its inherent features of security, transparency, and decentralization. Blockchain-based applications, spanning from financial transactions to supply chain management, have revolutionized numerous industries. Concurrently, Artificial Intelligence (AI) techniques have emerged as a powerful tool for efficiently solving complex problems. The integration of AI into blockchain applications has shown promise in addressing key challenges such as security, consensus, scalability, and interoperability. While existing literature offers several surveys on the intersection of AI and blockchain, our work takes a distinct perspective by focusing on how AI solutions can enhance and optimize blockchain technology and its applications. Our goal is to provide a comprehensive literature overview of the methods that have been employed to improve blockchain technology through AI, encompassing machine learning, deep learning, natural language processing and reinforcement learning. Our contribution highlights AI’s potential to enhance blockchain, improving efficiency, security, and reliability of blockchain-based applications. By exploring AI’s role in consensus, smart contracts, and data privacy, it advances theory and practical applications, fostering innovation across sectors for a more secure and efficient digital future.
+Keywords: Blockchain; Artificial intelligence; Machine learning
+
+V.H. Arul,
+5 - Deep learning methods for data classification,
+Editor(s): D. Binu, B.R. Rajakumar,
+Artificial Intelligence in Data Mining,
+Academic Press,
+2021,
+Pages 87-108,
+ISBN 9780128206010,
+https://doi.org/10.1016/B978-0-12-820601-0.00001-X.
+(https://www.sciencedirect.com/science/article/pii/B978012820601000001X)
+Abstract: Deep learning is the key aspect of machine learning and artificial intelligence. In the past decades the methods introduced from the research of deep learning concepts impact an extensive range of information and signal processing task. The hierarchical models in the deep learning have the facility to learn various levels of data representation corresponding to different abstraction levels that enable the concept of representation in a dense way. Hence, the deep learning methods are extensively used in the last decades in various automatic classification processes. Various deep learning methods developed to perform the data classification process in the data mining activity are discussed in this chapter. Data classification is a data mining technique, where the training samples or database tuples are effectively analyzed to generate a generalized data. However, the classification scheme is used to sort out the future data samples and to provide superior understanding with the contents in the database.
+Keywords: Data classification; deep learning; data mining; clustering; database; training samples; data warehouse; information processing; data science; activation function
+
+Michael Anthony C. Dizon, Peter John Upson,
+Laws of encryption: An emerging legal framework,
+Computer Law & Security Review,
+Volume 43,
+2021,
+105635,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2021.105635.
+(https://www.sciencedirect.com/science/article/pii/S0267364921001084)
+Abstract: This article examines the emerging legal framework of encryption. It reviews the different categories of law that make up this legal framework, namely: export control laws, substantive cybercrime laws, criminal procedure laws, human rights laws, and cybersecurity laws. These laws are analysed according to which of the three regulatory subjects or targets they specifically address: the technology of encryption, the parties to encryption, or encrypted data and communications. For each category of law, illustrative examples of international and national laws are discussed. This article argues that understanding the legal framework of encryption is essential to determining how this technology is currently regulated and how these regulations can be improved. It concludes that the legal framework is the key to discerning the present state and future direction of encryption laws and policies.
+Keywords: Encryption laws; Cybercrime; Export control; Criminal procedure; Human rights; Cybersecurity
+
+Akram Hakiri, Aniruddha Gokhale, Sadok Ben Yahia, Nedra Mellouli,
+A comprehensive survey on digital twin for future networks and emerging Internet of Things industry,
+Computer Networks,
+Volume 244,
+2024,
+110350,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2024.110350.
+(https://www.sciencedirect.com/science/article/pii/S1389128624001828)
+Abstract: The rapid growth of industrial digitalization in the Industry 4.0 era is fundamentally transforming the industrial sector by connecting products, machines, and people, offering real-time digital models to allow self-diagnosis, self-optimization and self-configuration. However, this uptake in such a digital transformation faces numerous obstacles. For example, the lack of real-time data feeds to perform custom closed-loop control and realize common, powerful industrial systems, the complexity of traditional tools and their inability in finding effective solutions to industry problems, lack of capabilities to experiment rapidly on innovative ideas, and the absence of continuous real-time interactions between physical objects and their simulation representations along with reliable two-way communications, are key barriers towards the adoption of such a digital transformation. Digital twins hold the promise of improving maintainability and deployability, enabling flexibility, auditability, and responsiveness to changing conditions, allowing continuous learning, monitoring and actuation, and allowing easy integration of new technologies in order to deploy open, scalable and reliable Industrial Internet of Things (IIoT). A critical understanding of this emerging paradigm is necessary to address the multiple dimensions of challenges in realizing digital twins at scale and create new means to generate knowledge in the industrial IoT. To address these requirements, this paper surveys existing digital twin along software technologies, standardization efforts and the wide range of recent and state-of-the-art digital twin-based projects; presents diverse use cases that can benefit from this emerging technology; followed by an in-depth discussion of the major challenges in this area drawing upon the research status and key trends in Digital Twins.
+Keywords: Digital twin; Internet of Things; Interoperability; Standardization; Frameworks and prototypes; Security
+
+David Baxter, Paul Trott, Paul Ellwood,
+Reconceptualising innovation failure,
+Research Policy,
+Volume 52, Issue 7,
+2023,
+104811,
+ISSN 0048-7333,
+https://doi.org/10.1016/j.respol.2023.104811.
+(https://www.sciencedirect.com/science/article/pii/S0048733323000951)
+Abstract: This study examines the concept of innovation failure. It is a problematic subject without an accepted definition. For different stakeholders the same innovation can be both a success and a failure at the same time. The academic literature has concentrated on the determinants of innovation success. Yet, there is a notable lack of academic literature that deals with innovation failure as a topic in its own right. As a result, there is limited attention to, and little consensus on, the meaning of innovation failure. Existing definitions imply a highly contingent conceptualisation of innovation failure informed by the different theoretical framings and disciplinary interests of the researchers. We adopt a systematic literature review methodology that examines the concept of innovation failure at the level of the firm and from an innovation management perspective. The findings of this review are based on a total of 69 peer-reviewed articles from 1977 to 2021. We find the concept is widely used yet poorly defined and frequently lacks any theoretical underpinning. By means of a theory-building inductive synthesis our findings contribute to research by reconceptualising the concept of innovation failure along three processual dimensions: failure-as-experimentation; −judgement and -event.
+Keywords: Innovation failure; Systematic literature review
+
+Filippo Chiarello, Paola Belingheri, Gualtiero Fantoni,
+Data science for engineering design: State of the art and future directions,
+Computers in Industry,
+Volume 129,
+2021,
+103447,
+ISSN 0166-3615,
+https://doi.org/10.1016/j.compind.2021.103447.
+(https://www.sciencedirect.com/science/article/pii/S0166361521000543)
+Abstract: Engineering design (ED) is the process of solving technical problems within requirements and constraints to create new artifacts. Data science (DS) is the inter-disciplinary field that uses computational systems to extract knowledge from structured and unstructured data. The synergies between these two fields have a long story and throughout the past decades, ED has increasingly benefited from an integration with DS. We present a literature review at the intersection between ED and DS, identifying the tools, algorithms and data sources that show the most potential in contributing to ED, and identifying a set of challenges that future data scientists and designers should tackle, to maximize the potential of DS in supporting effective and efficient designs. A rigorous scoping review approach has been supported by Natural Language Processing techniques, in order to offer a review of research across two fuzzy-confining disciplines. The paper identifies challenges related to the two fields of research and to their interfaces. The main gaps in the literature revolve around the adaptation of computational techniques to be applied in the peculiar context of design, the identification of data sources to boost design research and a proper featurization of this data. The challenges have been classified considering their impacts on ED phases and applicability of DS methods, giving a map for future research across the fields. The scoping review shows that to fully take advantage of DS tools there must be an increase in the collaboration between design practitioners and researchers in order to open new data driven opportunities.
+Keywords: Engineering design; Data science; Literature review; Scoping review; State of the art
+
+R. Alexander Teubner, Jan Stockhinger,
+Literature review: Understanding information systems strategy in the digital age,
+The Journal of Strategic Information Systems,
+Volume 29, Issue 4,
+2020,
+101642,
+ISSN 0963-8687,
+https://doi.org/10.1016/j.jsis.2020.101642.
+(https://www.sciencedirect.com/science/article/pii/S0963868720300500)
+Abstract: IT/IS strategy is of central importance to practice and many well-developed lines of research have contributed to our understanding of IT/IS strategy. However, throughout the last decade, digitalization has fundamentally transformed the business world and put into question traditional strategy wisdom. As information technologies are the driver of this digital transformation, we can expect an even more fundamental change in IT/IS strategy thinking. To verify this expectation, we undertook an in-depth, extensive review of the academic literature on this topic. Our review, which is time-framed to the years 2008–2018, distils five different directions in the development of IT/IS strategy research. It also identifies a shift in how IT/IS strategy is defined and investigated over this period. Moreover, we present an emerging debate on how digitalization challenges traditional IT/IS strategy wisdom. As this debate is still in its infancy, we take it further by entering into the larger discussion on digitalization, including digital innovation, digital ecosystems, and digital transformation. Building on this, we derive at deeper insights on how IT/IS strategy could, should, or should better not be understood in the digital age.
+Keywords: IT/IS strategy; Strategic information systems planning; Digital strategy; Digital business strategy; Digital infrastructure; Digital Transformation
+
+Linlin Zhao, Heather L. Ciallella, Lauren M. Aleksunes, Hao Zhu,
+Advancing computer-aided drug discovery (CADD) by big data and data-driven machine learning modeling,
+Drug Discovery Today,
+Volume 25, Issue 9,
+2020,
+Pages 1624-1638,
+ISSN 1359-6446,
+https://doi.org/10.1016/j.drudis.2020.07.005.
+(https://www.sciencedirect.com/science/article/pii/S1359644620302646)
+Abstract: Advancing a new drug to market requires substantial investments in time as well as financial resources. Crucial bioactivities for drug candidates, including their efficacy, pharmacokinetics (PK), and adverse effects, need to be investigated during drug development. With advancements in chemical synthesis and biological screening technologies over the past decade, a large amount of biological data points for millions of small molecules have been generated and are stored in various databases. These accumulated data, combined with new machine learning (ML) approaches, such as deep learning, have shown great potential to provide insights into relevant chemical structures to predict in vitro, in vivo, and clinical outcomes, thereby advancing drug discovery and development in the big data era.
+
+Mark Palmer, Inci Toral, Yann Truong, Fiona Lowe,
+Institutional pioneers and articulation work in digital platform infrastructure-building,
+Journal of Business Research,
+Volume 142,
+2022,
+Pages 930-945,
+ISSN 0148-2963,
+https://doi.org/10.1016/j.jbusres.2021.12.067.
+(https://www.sciencedirect.com/science/article/pii/S0148296321009814)
+Abstract: Digital platforms are an important organising form in business-to-business markets and have mirrored increasing research in end-user customers' interactions with digital platforms. Much less studied are the digital platform infrastructures underpinning this customer interfacing activity which must be built and maintained for digital platforms to exist and operate. We explore how institutional pioneers attempted to build a new digital platform with a vision of the cashless society beyond the traditional payment methods. Our findings demonstrate the insightful role of institutional pioneers in digital infrastructure-building through energizing the direction, network goals, positioning with other market-actors in the backstage. We show how the tensions produced by the organizing and ordering activities in the digital infrastructure field are resolved through brokering, alignment and workarounds. We unravel the way institutional pioneers use articulation work to define a legitimate course of actions for all actors in their organizing of standards, structure and behavioural focus.
+Keywords: Digital platforms; Articulation work; Infrastructure-building; Tension; Mobile payments; Cashless society
+
+A.K. Priya, Balaji Devarajan, Avinash Alagumalai, Hua Song,
+Artificial intelligence enabled carbon capture: A review,
+Science of The Total Environment,
+Volume 886,
+2023,
+163913,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2023.163913.
+(https://www.sciencedirect.com/science/article/pii/S0048969723025342)
+Abstract: Carbon capturing is imperative to fight climate change as much carbon emissions are liberated into the atmosphere, leading to adversely negative environmental impacts. Today's world addresses all the issues with the aid of digital technologies like data pooling and artificial intelligence (AI). Accordingly, this study is articulated based on AI-assisted carbon capturing. Techniques including machine learning (ML), deep learning (DL), and hybrid techniques being adopted in carbon capture are discussed. The role of AI tools, frameworks, and mathematical models are also discussed herein. Furthermore, the confluence of AI in carbon capture patent landscape is explored. This study would allow researchers to envision the growth of AI-assisted carbon capture in mitigating climate change and meeting SDG 13 - climate action.
+Keywords: AI in carbon capture; Machine learning; Prediction capability; Patent landscape
+
+Gabriela Kennedy,
+Asia–Pacific developments,
+Computer Law & Security Review,
+Volume 54,
+2024,
+106026,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2024.106026.
+(https://www.sciencedirect.com/science/article/pii/S026736492400092X)
+Abstract: This column provides a country by country analysis of the latest legal developments, cases and issues relevant to the IT, media and telecommunications' industries in key jurisdictions across the Asia Pacific region. The articles appearing in this column are intended to serve as ‘alerts’ and are not submitted as detailed analyses of cases or legal developments.
+
+Natalia Díaz-Rodríguez, Javier Del Ser, Mark Coeckelbergh, Marcos López de Prado, Enrique Herrera-Viedma, Francisco Herrera,
+Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation,
+Information Fusion,
+Volume 99,
+2023,
+101896,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2023.101896.
+(https://www.sciencedirect.com/science/article/pii/S1566253523002129)
+Abstract: Trustworthy Artificial Intelligence (AI) is based on seven technical requirements sustained over three main pillars that should be met throughout the system’s entire life cycle: it should be (1) lawful, (2) ethical, and (3) robust, both from a technical and a social perspective. However, attaining truly trustworthy AI concerns a wider vision that comprises the trustworthiness of all processes and actors that are part of the system’s life cycle, and considers previous aspects from different lenses. A more holistic vision contemplates four essential axes: the global principles for ethical use and development of AI-based systems, a philosophical take on AI ethics, a risk-based approach to AI regulation, and the mentioned pillars and requirements. The seven requirements (human agency and oversight; robustness and safety; privacy and data governance; transparency; diversity, non-discrimination and fairness; societal and environmental wellbeing; and accountability) are analyzed from a triple perspective: What each requirement for trustworthy AI is, Why it is needed, and How each requirement can be implemented in practice. On the other hand, a practical approach to implement trustworthy AI systems allows defining the concept of responsibility of AI-based systems facing the law, through a given auditing process. Therefore, a responsible AI system is the resulting notion we introduce in this work, and a concept of utmost necessity that can be realized through auditing processes, subject to the challenges posed by the use of regulatory sandboxes. Our multidisciplinary vision of trustworthy AI culminates in a debate on the diverging views published lately about the future of AI. Our reflections in this matter conclude that regulation is a key for reaching a consensus among these views, and that trustworthy and responsible AI systems will be crucial for the present and future of our society.
+Keywords: Trustworthy AI; AI ethics; Responsible AI systems; AI regulation; Regulatory sandbox
+
+Xianghua Xie, Chen Hu, Hanchi Ren, Jingjing Deng,
+A survey on vulnerability of federated learning: A learning algorithm perspective,
+Neurocomputing,
+Volume 573,
+2024,
+127225,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2023.127225.
+(https://www.sciencedirect.com/science/article/pii/S0925231223013486)
+Abstract: Federated Learning (FL) has emerged as a powerful paradigm for training Machine Learning (ML), particularly Deep Learning (DL) models on multiple devices or servers while maintaining data localized at owners’ sites. Without centralizing data, FL holds promise for scenarios where data integrity, privacy and security and are critical. However, this decentralized training process also opens up new avenues for opponents to launch unique attacks, where it has been becoming an urgent need to understand the vulnerabilities and corresponding defense mechanisms from a learning algorithm perspective. This review paper takes a comprehensive look at malicious attacks against FL, categorizing them from new perspectives on attack origins and targets, and providing insights into their methodology and impact. In this survey, we focus on threat models targeting the learning process of FL systems. Based on the source and target of the attack, we categorize existing threat models into four types, Data to Model (D2M), Model to Data (M2D), Model to Model (M2M) and composite attacks. For each attack type, we discuss the defense strategies proposed, highlighting their effectiveness, assumptions and potential areas for improvement. Defense strategies have evolved from using a singular metric to excluding malicious clients, to employing a multifaceted approach examining client models at various phases. In this survey paper, our research indicates that the to-learn data, the learning gradients, and the learned model at different stages all can be manipulated to initiate malicious attacks that range from undermining model performance, reconstructing private local data, and to inserting backdoors. We have also seen these threat are becoming more insidious. While earlier studies typically amplified malicious gradients, recent endeavors subtly alter the least significant weights in local models to bypass defense measures. This literature review provides a holistic understanding of the current FL threat landscape and highlights the importance of developing robust, efficient, and privacy-preserving defenses to ensure the safe and trusted adoption of FL in real-world applications. The categorized bibliography can be found at: https://github.com/Rand2AI/Awesome-Vulnerability-of-Federated-Learning.
+Keywords: Federated Learning; Deep Learning; Model vulnerability; Privacy preserving
+
+Ryan Stock, Maaz Gardezi,
+Make bloom and let wither: Biopolitics of precision agriculture at the dawn of surveillance capitalism,
+Geoforum,
+Volume 122,
+2021,
+Pages 193-203,
+ISSN 0016-7185,
+https://doi.org/10.1016/j.geoforum.2021.04.014.
+(https://www.sciencedirect.com/science/article/pii/S0016718521001135)
+Abstract: Precision agriculture is an assemblage of data-driven agricultural technologies, discursively articulated as a clever gambit against climate-induced food insecurity. Agritech companies engage in data grabbing as an accumulation strategy and to influence farmers’ behaviors, opening new agrarian frontiers for surveillance capitalism. Wielding big data to manage and optimize species within food production systems becomes a biopolitical calculation of “make bloom and let wither,” with implications for the agrarian question of labor. Drawing on mixed methods fieldwork from South Dakota and Vermont, we document how different actors perform and contest agri-algorithmic subjectivities, producing novel terrains of food politics and neoliberal state-citizen relations.
+Keywords: Precision agriculture; Biopolitics; Surveillance capitalism; Data grabbing; Governmentality; Agrarian question of labor
+
+Wenbo Wan, Jun Wang, Yunming Zhang, Jing Li, Hui Yu, Jiande Sun,
+A comprehensive survey on robust image watermarking,
+Neurocomputing,
+Volume 488,
+2022,
+Pages 226-247,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2022.02.083.
+(https://www.sciencedirect.com/science/article/pii/S0925231222002533)
+Abstract: With the rapid development and popularity of the Internet, multimedia security has become a general essential concern. Especially, as manipulation of digital images gets much easier, the challenges it brings to authentication certification are increasing. As part of the solution, digital watermarking has made significant contributions to image content security and has attracted increasing attention. In this paper, we present a comprehensive review on digital image watermarking methods that were published in recent years illustrating the conventional schemes in different domains. We provide an overview of geometric invariant techniques and emerging watermarking methods for novel medias, such as depth image based rendering (DIBR), high dynamic range (HDR), screen content images (SCIs), and point cloud model. Particularly, as deep learning has achieved a great success in the field of image processing, and has also successfully been used in the field of digital watermarking, learning-based watermarking methods using various neural networks are summarized according to the utilization of neural networks in the single stage training (SST) and double stage training (DST). Finally, we provide an analysis and summary on those methods, and suggest some future research directions.
+Keywords: Image watermarking; Robustness; Deep learning; HDR image; Model watermarking
+
+Edward D. Nicol, Jonathan R. Weir-McCall, Leslee J. Shaw, Eric Williamson,
+Great debates in cardiac computed tomography: OPINION: “Artificial intelligence and the future of cardiovascular CT – Managing expectation and challenging hype”,
+Journal of Cardiovascular Computed Tomography,
+Volume 17, Issue 1,
+2023,
+Pages 11-17,
+ISSN 1934-5925,
+https://doi.org/10.1016/j.jcct.2022.07.005.
+(https://www.sciencedirect.com/science/article/pii/S1934592522002519)
+Abstract: This manuscript has been written as a follow-up to the “AI/ML great debate” featured at the 2021 Society of Cardiovascular Computed Tomography (SCCT) Annual Scientific Meeting. In debate style, we highlighti the need for expectation management of AI/ML, debunking the hype around current AI techniques, and countering the argument that in its current day format AI/ML is the “silver bullet” for the interpretation of daily clinical CCTA practice.
+Keywords: Artificial intelligence; Machine learning; Cardiovascular CT; Hype
+
+Torsten Ringberg, Markus Reihlen, Pernille Rydén,
+The technology-mindset interactions: Leading to incremental, radical or revolutionary innovations,
+Industrial Marketing Management,
+Volume 79,
+2019,
+Pages 102-113,
+ISSN 0019-8501,
+https://doi.org/10.1016/j.indmarman.2018.06.009.
+(https://www.sciencedirect.com/science/article/pii/S0019850118304218)
+Abstract: Innovation is an integral part of the major transformation in modern business. Modern managers are increasingly pushed from both in- and outside the organization to innovate their processes including products and services. Research typically investigates innovative processes from either a technology perspective or managerial mindset perspective, but rarely both. We argue that technology and mindset should be analyzed in combination, as they are fundamentally co-constitutive albeit with different levels of interaction. We categorize the levels of interaction in a two-by-two model, with the Y-axis representing levels of innovative technology and the X-axis representing levels of innovative mindset. This categorization leads to a theoretical framework, a Technology-Mindset Matrix that consists of four typical technology-mindset interactions. We show how each type leads to unique innovative outcomes, and label the four types; incremental innovation, radical technological innovation, radical mindset innovation, and revolutionary innovation. We illustrate each square with case examples. Furthermore, we discuss core B2B issues managers face when transforming their organizations by moving up from incremental to higher ranked modes of innovation.
+Keywords: Innovation; Technological determinism; Managerial mindset determinism; Technology-mindset matrix; B2B marketing
+
+Nadia Zahoor, Zaheer Khan, Oded Shenkar,
+International vertical alliances within the international business field: A systematic literature review and future research agenda,
+Journal of World Business,
+Volume 58, Issue 1,
+2023,
+101385,
+ISSN 1090-9516,
+https://doi.org/10.1016/j.jwb.2022.101385.
+(https://www.sciencedirect.com/science/article/pii/S1090951622000761)
+Abstract: International vertical alliances (IVAs) have garnered increasing scholarly interest in the strategy and international business (IB) literature. Our review of 111 papers published in major IB journals from 2000 to 2020 sheds light on the antecedents, key mediators, moderators and outcomes of IVAs. To generate insights, we juxtaposed forward and backward alliances and compared IVAs with their domestic vertical and horizontal counterparts. In this paper, we highlight key areas for future IVA research, including—but not limited to—broadening the scope of the investigation in order to integrate new theories and methods suited to examine such alliances in the IB field.
+Keywords: International vertical alliances; Buyer-supplier alliances; Backward linkages; Forward linkages; International business; Systematic literature review
+
+Vincent Granville,
+Chapter 10 - Synthetic tabular data: copulas vs enhanced GANs,
+Editor(s): Vincent Granville,
+Synthetic Data and Generative AI,
+Morgan Kaufmann,
+2024,
+Pages 169-201,
+ISBN 9780443218576,
+https://doi.org/10.1016/B978-0-44-321857-6.00014-X.
+(https://www.sciencedirect.com/science/article/pii/B978044321857600014X)
+Abstract: In this chapter, you will learn how to create your own tabular synthetic data in Python, using two popular techniques: GANs and copulas. One example includes a real-life insurance data set: using copulas, you will be able to create an alternate (synthetic) data set that matches very well the distribution of the observations in your training set, including all the correlations. Another example is the diabetes data set; the goal is to predict cancer, and the context is supervised classification. You will learn how to synthesize this data set using GANs (generative adversarial networks). I also discuss data transformations, how to deal with missing data, and modern tools to assess the quality of the synthesized data, with illustrations. One section is focused on feature clustering to reduce the time required for training a GAN model. This chapter provides you with the skills to generate realistic synthetizations for your applications, and to quickly identify the strengths and weaknesses of each method (GANs, parametric copulas, noise injection), which one to use depending on your data or goal, and how to fine-tune or blend different methods to get the best results or minimize computing time. For instance, I show how to use a different copula for each group, after segmenting your training set. The deep neural networks used here for generative AI also lead to fully replicable experiments, in contrast to many current implementations.
+Keywords: curve fitting; unsupervised regression; logistic regression; constrained optimization; time series; clustering
+
+Leila Alinaghian, Kamran Razmdoost,
+How do social enterprises manage business relationships? A review of the literature and directions for future research,
+Journal of Business Research,
+Volume 136,
+2021,
+Pages 488-498,
+ISSN 0148-2963,
+https://doi.org/10.1016/j.jbusres.2021.08.003.
+(https://www.sciencedirect.com/science/article/pii/S0148296321005580)
+Abstract: Social enterprise–business relationships are an emerging unique form of business relationships. Whilst scholars have recently shown a growing interest in investigating the practices that social enterprises adopt to manage their relationships with businesses, the present literature lacks a synthesis of major findings and a reflection on current developments. The purpose of this paper is to critically and systematically review and assess the current status of research on practices through which social enterprise manage business relationships and to provide an organising framework for future scholarship. Adopting a systematic literature review approach, a total of 51 articles were reviewed. The results of our thematic analysis revealed that social enterprises engage in four key practices of initiation, persuasion, conflict resolution, and value creation to manage their relationships with businesses. Our review of literature also sheds light on the determinants and outcomes of these practices and offers avenues for future research.
+Keywords: Business relationships; Social enterprise; Systematic review; Business networks
+
+Ali A. Guenduez, Tobias Mettler,
+Strategically constructed narratives on artificial intelligence: What stories are told in governmental artificial intelligence policies?,
+Government Information Quarterly,
+Volume 40, Issue 1,
+2023,
+101719,
+ISSN 0740-624X,
+https://doi.org/10.1016/j.giq.2022.101719.
+(https://www.sciencedirect.com/science/article/pii/S0740624X22000521)
+Abstract: What stories are told in national artificial intelligence (AI) policies? Combining the novel technique of structural topic modeling (STM) and qualitative narrative analysis, this paper examines the policy narratives in 33 countries’ AI policies. We uncover six common narratives that are dominating the political agenda concerning AI. Our findings show that the policy narratives' saliences vary across time and countries. We make several contributions. First, our narratives describe well-grounded, supportable conceptions of AI among governments, and show that AI is still a fairly novel, multilayered, and controversial phenomenon. Building on the premise that human sensemaking is best represented and supported by narration, we address the applied rhetoric of governments to either minimize the risks or exalt the opportunities of AI. Second, we uncover the four prominent roles governments seek  to take concerning AI implementation: enabler, leader, regulator, and/or user. Third, we make a methodological contribution toward data-driven, computationally-intensive theory development. Our methodological approach and the identified narratives present key starting points for further research.
+Keywords: Artificial intelligence (AI); Policy research; Structural topic modeling (STM); Narrative policy framework (NPF); Role of government
+
+Sijjad Ali, Jia Wang, Victor Chung Ming Leung,
+AI-driven fusion with cybersecurity: Exploring current trends, advanced techniques, future directions, and policy implications for evolving paradigms– A comprehensive review,
+Information Fusion,
+Volume 118,
+2025,
+102922,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2024.102922.
+(https://www.sciencedirect.com/science/article/pii/S1566253524007000)
+Abstract: The fusion of Artificial Intelligence (AI) into cybersecurity has brought transformative advancements in protecting digital infrastructures from evolving cyber threats. This comprehensive review explores current AI-driven cybersecurity methodologies, emphasizing the capabilities of AI technologies — such as machine learning, deep learning, and natural language processing (NLP) — to enhance threat detection, behavioral analysis, automated response systems, and threat intelligence. The paper discusses AI’s ability to identify advanced persistent threats, zero-day vulnerabilities, and phishing attacks with improved accuracy and adaptability. Additionally, we examine emerging trends such as AI’s fusion with blockchain, the application of quantum computing, and the increasing role of self-healing systems in enhancing cybersecurity resilience. Challenges such as adversarial attacks, ethical concerns, and data privacy issues are critically analyzed, along with AI’s future potential in real-time threat management and its implications for policy and organizational frameworks. By summarizing recent advancements and identifying gaps in existing solutions, this review sets the stage for future AI-enhanced cybersecurity developments, offering insights into how AI can lead to more proactive and adaptive security strategies.
+Keywords: AI-driven threat detection; Machine learning in cybersecurity; Automated threat response; Behavioral analysis; Adversarial attacks
+
+Wenquan Sun, Jia Liu, Weina Dong, Lifeng Chen, Fuqiang Di,
+RWNeRF: Robust Watermarking Scheme for Neural Radiance Fields Based on Invertible Neural Networks,
+Computers, Materials and Continua,
+Volume 80, Issue 3,
+2024,
+Pages 4065-4083,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2024.053115.
+(https://www.sciencedirect.com/science/article/pii/S1546221824006258)
+Abstract: As neural radiance fields continue to advance in 3D content representation, the copyright issues surrounding 3D models oriented towards implicit representation become increasingly pressing. In response to this challenge, this paper treats the embedding and extraction of neural radiance field watermarks as inverse problems of image transformations and proposes a scheme for protecting neural radiance field copyrights using invertible neural network watermarking. Leveraging 2D image watermarking technology for 3D scene protection, the scheme embeds watermarks within the training images of neural radiance fields through the forward process in invertible neural networks and extracts them from images rendered by neural radiance fields through the reverse process, thereby ensuring copyright protection for both the neural radiance fields and associated 3D scenes. However, challenges such as information loss during rendering processes and deliberate tampering necessitate the design of an image quality enhancement module to increase the scheme’s robustness. This module restores distorted images through neural network processing before watermark extraction. Additionally, embedding watermarks in each training image enables watermark information extraction from multiple viewpoints. Our proposed watermarking method achieves a PSNR (Peak Signal-to-Noise Ratio) value exceeding 37 dB for images containing watermarks and 22 dB for recovered watermarked images, as evaluated on the Lego, Hotdog, and Chair datasets, respectively. These results demonstrate the efficacy of our scheme in enhancing copyright protection.
+Keywords: Neural radiance fields; 3D scene; robust; watermarking; invertible neural networks
+
+Giuseppe Soda, Akbar Zaheer, Xiaoming Sun, Wentian Cui,
+Brokerage evolution in innovation contexts: Formal structure, network neighborhoods and knowledge,
+Research Policy,
+Volume 50, Issue 10,
+2021,
+104343,
+ISSN 0048-7333,
+https://doi.org/10.1016/j.respol.2021.104343.
+(https://www.sciencedirect.com/science/article/pii/S0048733321001414)
+Abstract: Research in a number of fields has shown that brokerage is typically fragile while creating consequential outcomes. However, little work has examined the conditions under which brokerage ends, and furthermore, whether and when it terminates with closure in a closed triad that includes the broker, or in a dyad that connects the previously-disconnected alters but disintermediates the broker. We employ a comprehensive theoretical framework drawing on constrained agency to study these questions in a context of organizational innovation. Specifically, we investigate the role of hierarchy, inventors’ network neighborhoods and knowledge differences in shaping the evolution of brokerage. We test our ideas in the a setting of co-patenting in 41 large Chinese research-intensive organizations over the period 1996-2008, with a dataset of 36,338 patents applied for by these organizations. We first show that the type of brokerage ending matters for innovation outcomes by demonstrating that disintermediation creates more subsequent innovativeness than closure. Thereafter, we use a two-step model to first model the termination of brokerage and in the second step to predict the type of closing: disintermediation or closure. Our results show that the broker's and alters’ hierarchical rank similarity promotes disintermediation, as does alters’ connectedness in network neighborhoods, while knowledge differences among the broker and alters encourage the evolution of brokerage toward closure. We spell out the implications of our findings for organizational innovation and the management of R&D.
+Keywords: Co-patenting networks; Network evolution; Innovation management; Closure; Disintermediation
+
+Danuta M. Sampson, David D. Sampson,
+13 - AI-driven innovations in signal/image processing and data analysis for optical coherence tomography in clinical applications,
+Editor(s): Andrea Armani, Tatevik Chalyan, David D. Sampson,
+In Photonic Materials and Applications Series,
+Biophotonics and Biosensing,
+Elsevier,
+2024,
+Pages 417-480,
+ISBN 9780443188404,
+https://doi.org/10.1016/B978-0-44-318840-4.00022-X.
+(https://www.sciencedirect.com/science/article/pii/B978044318840400022X)
+Abstract: Fueled by the explosion of algorithms and computational innovations, optical coherence tomography (OCT) has progressed rapidly in the last decade, towards faster and more accurate imaging and characterization of ocular, systemic, and chronic diseases. This chapter describes recent advances in signal and image processing and data analysis methods responsible for this translational impact of OCT, which has been mainly in the retina, but other applications are included. The tools developed and used to enhance, segment, and extract meaningful and quantifiable parameters from OCT images are described. Traditional image processing methods are briefly outlined and AI-based innovations are reviewed. The importance of open research, protocol harmonization, big data, and patient data privacy in driving further innovation is also discussed. This chapter does not provide an exhaustive review, but rather its purpose is to be illustrative of the ongoing research and translational work and encourage engineers, scientists, and clinicians to work together in this exciting field. Sufficient detail is given to enable newcomers to the field, both engineers and clinicians, to understand the challenges and opportunities.
+Keywords: optical coherence tomography; OCT; signal processing; image processing; deep learning; artificial intelligence; machine learning; segmentation; detection; big data; data privacy
+
+Vagan Terziyan, Diana Malyk, Mariia Golovianko, Vladyslav Branytskyi,
+Encryption and Generation of Images for Privacy-Preserving Machine Learning in Smart Manufacturing,
+Procedia Computer Science,
+Volume 217,
+2023,
+Pages 91-101,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2022.12.205.
+(https://www.sciencedirect.com/science/article/pii/S1877050922022839)
+Abstract: Current advances in machine (deep) learning and the exponential growth of data collected by and shared between smart manufacturing processes give a unique opportunity to get extra value from that data. The use of public machine learning services actualizes the issue of data privacy. Ordinary encryption protects the data but could make it useless for the machine learning objectives. Therefore, “privacy of data vs. value from data” is the major dilemma within the privacy preserving machine learning activity. Special encryption techniques or synthetic data generation are being in focus to address the issue. In this paper, we discuss a complex hybrid protection algorithm, which assumes sequential use of two components: homeomorphic data space transformation and synthetic data generation. Special attention is given to the privacy of image data. Specifics of image representation require special approaches towards encryption and synthetic image generation. We suggest use of (convolutional, variational) autoencoders and pre-trained feature extractors to enable applying privacy protection algorithms on top of the latent feature vectors captured from the images, and we updated the hybrid algorithms composed of homeomorphic transformation-as-encryption plus synthetic image generation accordingly. We show that an encrypted image can be reconstructed (by the pre-trained Decoder component of the convolutional variational autoencoder) into a secured representation from the extracted (by either the Encoder or a feature extractor) and encrypted (homeomorphic transformation of the latent space) feature vector.
+Keywords: Industry 4.0; data privacy; anonymization; syntetic data generation; image processing; autoencoders
+
+Cheng Qian, Nitya Mathur, Nor Hidayati Zakaria, Rameshwar Arora, Vedika Gupta, Mazlan Ali,
+Understanding public opinions on social media for financial sentiment analysis using AI-based techniques,
+Information Processing & Management,
+Volume 59, Issue 6,
+2022,
+103098,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2022.103098.
+(https://www.sciencedirect.com/science/article/pii/S0306457322001996)
+Abstract: The digital currency has taken the financial markets by storm ever since its inception. Academia and industry are focussing on Artificial intelligence (AI) tools and techniques to study and gain an understanding of how businesses can draw insights from the large-scale data available online. As the market is driven by public opinions, and social media today provides an encouraging platform to share ideas and views; organizations and policy-makers could use the natural language processing (NLP) technology of AI to analyze public sentiments. Recently, a new and moderately unconventional instrument known as non-fungible tokens (NFTs) is emerging as an upcoming business market. Unlike the stock market, no precise quantitative parameters exist for the price determination of NFTs. Instead, NFT markets are driven more by public opinion, expectations, the perception of buyers, and the goodwill of creators. This study evaluates human emotions on the social media platforms Twitter posted by the public relating to NFTs. Additionally, this study conducts secondary market analysis to determine the reasons for the growing acceptance of NFTs through sentiment and emotion analysis. We segregate tweets using Pearson Product-Moment Correlation Coefficient (PPMCC) and study 8-scale emotions (Anger, Anticipation, Disgust, Fear, Joy, Sadness, Surprise, and Trust) along with Positive and Negative sentiments. Tweets majorly contained positive sentiment (∼ 72%), and positive emotions like anticipation and trust were found to be predominant all over the world. This is the first of its kind financial and emotional analysis of tweets pertaining to NFTs to the best of our understanding.
+Keywords: Non-fungible tokens (NFT); Emotion analysis; Sentiment analysis; Financial trends; Twitter; Ethereum
+
+Hossam Magdy Balaha, Magdy Hassan Balaha, Hesham Arafat Ali,
+Hybrid COVID-19 segmentation and recognition framework (HMB-HCF) using deep learning and genetic algorithms,
+Artificial Intelligence in Medicine,
+Volume 119,
+2021,
+102156,
+ISSN 0933-3657,
+https://doi.org/10.1016/j.artmed.2021.102156.
+(https://www.sciencedirect.com/science/article/pii/S0933365721001494)
+Abstract: COVID-19 (Coronavirus) went through a rapid escalation until it became a pandemic disease. The normal and manual medical infection discovery may take few days and therefore computer science engineers can share in the development of the automatic diagnosis for fast detection of that disease. The study suggests a hybrid COVID-19 framework (named HMB-HCF) based on deep learning (DL), genetic algorithm (GA), weighted sum (WS), and majority voting principles in nine phases. Its segmentation phase suggests a lung segmentation algorithm using X-Ray images (named HMB-LSAXI) for extracting lungs. Its classification phase is built from a hybrid convolutional neural network (CNN) architecture using an abstractly-designed CNN (named HMB1-COVID19) and transfer learning (TL) pre-trained models (VGG16, VGG19, ResNet50, ResNet101, Xception, DenseNet121, DenseNet169, MobileNet, and MobileNetV2). The hybrid CNN architecture is used for learning, classification, and parameters optimization while GA is used to optimize the hyperparameters. This hybrid working mechanism is combined in an overall algorithm named HMB-DLGA. The study experiments implemented the WS approach to evaluate the models' performance using the loss, accuracy, F1-score, precision, recall, and area under curve (AUC) metrics with different pre-defined ratios. A collected, combined, and unified X-Ray dataset from 8 different public datasets was used alongside the regularization, dropout, and data augmentation techniques to limit the overall overfitting. The applied experiments reported state-of-the-art metrics. VGG16 reported 100% WS metric (i.e., 0.0097, 99.78%, 0.9984, 99.89%, 99.78%, and 0.9996 for the loss, accuracy, F1, precision, recall, and AUC respectively) concerning the highest WS. It also reported a 99.92% WS metric (i.e., 0.0099, 99.84%, 0.9984, 99.84%, 99.84%, and 0.9996 for the loss, accuracy, F1, precision, recall, and AUC respectively) concerning the last reported WS result. HMB-HCF was validated on 13 different public datasets to verify its generalization. The best-achieved metrics were compared with 13 related studies. These extensive experiments' target was the applicability verification and generalization.
+Keywords: Classification; Convolutional neural network (CNN); COVID-19; Data augmentation (DA); Deep learning (DL); Genetic algorithms (GA); Optimization; Transfer learning (TL)
+
+A. Kayode Adesemowo,
+Towards a conceptual definition for IT assets through interrogating their nature and epistemic uncertainty,
+Computers & Security,
+Volume 105,
+2021,
+102131,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2020.102131.
+(https://www.sciencedirect.com/science/article/pii/S0167404820304041)
+Abstract: Security breaches and consequentially reputational risk are upon us on an almost daily basis. They are part of the risk that beset organizations as they innovate and derive value from their information technology (IT) investments. IT assets that must be identified and safeguarded, and values extracted from them are contributors to the risk. Literature is awash with models of threats to assets and use of mid-range theories. There is a growing literature on digital technologies within digital transformation. However, intrinsic nature and epistemic uncertainty of IT assets have not received attention. Therefore, how can a conceptual definition for IT assets flow from understanding their nature, given their inherent epistemic uncertainty? Drawing from critical realism principles, this paper investigates existing definitions for- and re-interrogates the tangible nature (tangibility) of IT assets. It was found that despite their ubiquity and due to their evolving nature, IT assets lack universal understanding and definition. Executives (and professionals) views about IT assets are informed by their industry sector and role (present and/or previous). Consequently, this paper recommends a conceptual definition of IT assets that would assist; with coherence in the asset identification stage of risk assessment, (possibly IT audits and IT valuation programs), with understanding of the intrinsic nature of IT assets in themselves, and aid organizations in holistically engaging with IT assets. This paper's IT assets definition contributes to the call for theorizing the “IT” in IT. It poses new probing questions about ‘old’, ‘established’ beliefs as IT assets evolve in the era of digital transformation, fourth industrial revolution, knowledge economy and beyond.
+Keywords: Risk; Epistemic uncertainty; Tangibility; Critical realism; Digital transformation; Information assets; Conceptual definition; IT assets
+
+Adam Eric Berkowitz,
+“Domo arigato, Mr. Roboto”: A qualitative content analysis of AI music in WorldCat,
+The Journal of Academic Librarianship,
+Volume 51, Issue 2,
+2025,
+103026,
+ISSN 0099-1333,
+https://doi.org/10.1016/j.acalib.2025.103026.
+(https://www.sciencedirect.com/science/article/pii/S0099133325000229)
+Abstract: Artificial intelligence (AI) has been used for experimentation in generating music for the last seventy years, but recent advances in generative AI (genAI) have led to novel, creative, and even surprising results. Issues arise when genAI and human efforts are simultaneously recognized in a creative work, constituting the uncanny valley and leading to discomfort among listeners. Additionally, the lack of transparency required of media producers regarding genAI use robs audiences of their right to choose whether to engage or avoid genAI content. This has sparked discussions among researchers, industry leaders, and lawmakers about regulating genAI use with priority given to enforcing transparency. Libraries can play a role in this by curating metadata when cataloging genAI materials, but current cataloging practices and policies inhibit the cataloger's ability to maximize accuracy and transparency when describing genAI items. This study features a content analysis that examines WorldCat item records belonging to genAI songs and music albums and finds inconsistent item record descriptions, often vaguely referring to or omitting genAI use. Supported by epidata theory, this study recommends adopting Resource Description and Access (RDA) standards to improve accuracy and transparency in cataloging genAI music.
+Keywords: Artificial intelligence; Librarianship; Ethics; Cataloging; WorldCat; Music
+
+Pierfrancesco Bellini, Ivan Bruno, Daniele Cenni, Paolo Nesi,
+Managing cloud via Smart Cloud Engine and Knowledge Base,
+Future Generation Computer Systems,
+Volume 78, Part 1,
+2018,
+Pages 142-154,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2016.10.006.
+(https://www.sciencedirect.com/science/article/pii/S0167739X16303867)
+Abstract: Complexity of cloud infrastructures needs models and tools for process management, configuration, scaling, elastic computing and cloud resource health control. This paper presents a Smart Cloud Engine and solution based on a Knowledge Base, KB, with the aim of modeling cloud resources, Service Level Agreements and their evolutions, and enabling the reasoning on structures by implementing strategies of efficient smart cloud management and intelligence. The solution proposed provides formal verification and intelligence tools for cloud control. It can be easily integrated with a large range of cloud configuration manager, cloud orchestrator, and monitoring tools, since the connections with these tools are performed by using REST calls and XML files. The proposed solution has been validated in the context of large ICARO Cloud project and in the cloud facility of a national cloud service provider. Some data resulting from the validation phases have been reported and are referring to the dynamic management of real ECLAP social network http://www.eclap.eu.
+Keywords: Knwoledge base; Smart cloud; Cloud computing; Service level agreement
+
+Satish D. Mali, Loganthan Agilandeeswari,
+DeepSecure watermarking: Hybrid Attention on Attention Net and Deep Belief Net based robust video authentication using Quaternion Curvelet Transform domain,
+Egyptian Informatics Journal,
+Volume 27,
+2024,
+100514,
+ISSN 1110-8665,
+https://doi.org/10.1016/j.eij.2024.100514.
+(https://www.sciencedirect.com/science/article/pii/S111086652400077X)
+Abstract: Digital videos have entered every facet of people’s lives because of the rise of live-streaming platforms and the Internet’s expansion & popularity. Additionally, there are a tonne of pirated videos on the Internet that seriously violate the rights and interests of those who own copyrights to videos, hindering the growth of the video business. As a result, trustworthy video watermarking algorithms for copyright defense have emerged in response to consumer demand. To effectively watermark videos, this article proposes a robust feature extraction approach namely Attention on Attention Net (AoA Net). AoA Net extracts the robust features from the Deep Belief Network features of the cover video frames and then generates the score map that helps to identify the suitable location for embedding. The Golden Section Fibonacci Tree Optimization is used to identify the Key frames and then apply Quaternion Curvelet Transform (QCT) on those frames to obtain the QCT coefficients over which the watermark needs to be embedded. Thus, the embedding phase involves embedding the watermark on the obtained score map. Next, an Inverse QCT and the concatenation produce the watermarked video. The resultant video is now vulnerable to adversarial attacks when it is transferred over the Adversary Layer. Consequently, the embedded video is given to the decoder and the extraction phase, which performs key frame extraction and QCT. On the obtained QCT coefficients the similar AoA Net features are used to generate the score map and thus the watermark gets extracted. The performance of the devised technique is evaluated for various intentional and unintentional attacks, and it is assessed using PSNR, MSE, SSIM, BER, and NCC. Finally, the proposed method attains the enhanced visual quality outcome with an Average PSNR and SSIM of 64.33 and 0.9895 respectively. The robustness of the proposed AoADB_QCT attains an average NCC of 0.9999, and BER of 0.001251.
+Keywords: Attention on Attention Network; Quaternion Curvelet Transform; Golden Section Fibonacci Tree Optimization; Deep Belief Network; Key Frame Extraction
+
+Xianjun Han, Qianqian Chen, Zhaoyang Xie, Xuejun Li, Hongyu Yang,
+Multiscale progressive text prompt network for medical image segmentation,
+Computers & Graphics,
+Volume 116,
+2023,
+Pages 262-274,
+ISSN 0097-8493,
+https://doi.org/10.1016/j.cag.2023.08.030.
+(https://www.sciencedirect.com/science/article/pii/S0097849323002170)
+Abstract: The accurate segmentation of medical images is a crucial step in obtaining reliable morphological statistics. However, training a deep neural network for this task requires a large amount of labeled data to ensure high-accuracy results. To address this issue, we propose using progressive text prompts as prior knowledge to guide the segmentation process. Our model consists of two stages. In the first stage, we perform contrastive learning on natural images to pretrain a powerful prior prompt encoder (PPE). This PPE leverages text prior prompts to generate multimodality features. In the second stage, medical image and text prior prompts are sent into the PPE inherited from the first stage to achieve the downstream medical image segmentation task. A multiscale feature fusion block (MSFF) combines the features from the PPE to produce multiscale multimodality features. These two progressive features not only bridge the semantic gap but also improve prediction accuracy. Finally, an UpAttention block refines the predicted results by merging the image and text features. This design provides a simple and accurate way to leverage multiscale progressive text prior prompts for medical image segmentation. Compared with using only images, our model achieves high-quality results with low data annotation costs. Moreover, our model not only has excellent reliability and validity on medical images but also performs well on natural images. The experimental results on different image datasets demonstrate that our model is effective and robust for image segmentation.
+Keywords: Medical image segmentation; Multiscale progressive network; Text prompt; Multimodal image segmentation
+
+Sangmin Song, Juhyoung Park, Juhwan Choi, Junho Lee, Kyohoon Jin, YoungBin Kim,
+Korean football in-game conversation state tracking dataset for dialogue and turn level evaluation,
+Engineering Applications of Artificial Intelligence,
+Volume 139, Part B,
+2025,
+109572,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2024.109572.
+(https://www.sciencedirect.com/science/article/pii/S0952197624017305)
+Abstract: Recent research in dialogue state tracking has made significant progress in tracking user goals through dialogue-level and turn-level approaches, but existing research primarily focused on predicting dialogue-level belief states. In this study, we present the KICK: Korean football In-game Conversation state tracKing dataset, which introduces a conversation-based approach. This approach leverages the roles of casters and commentators within the self-contained context of sports broadcasting to examine how utterances impact the belief state at both the dialogue-level and turn-level. Towards this end, we propose a task that aims to track the states of a specific time turn and understand conversations during the entire game. The proposed dataset comprises 228 games and 2463 events over one season, with a larger number of tokens per dialogue and turn, making it more challenging than existing datasets. Experiments revealed that the roles and interactions of casters and commentators are important for improving the zero-shot state tracking performance. By better understanding role-based utterances, we identify distinct approaches to the overall game process and events at specific turns.
+Keywords: Dialogue state tracking; Data annotation; Large language model
+
+Marco Botta, Davide Cavagnino, Roberto Esposito,
+NeuNAC: A novel fragile watermarking algorithm for integrity protection of neural networks,
+Information Sciences,
+Volume 576,
+2021,
+Pages 228-241,
+ISSN 0020-0255,
+https://doi.org/10.1016/j.ins.2021.06.073.
+(https://www.sciencedirect.com/science/article/pii/S0020025521006642)
+Abstract: The last decade has witnessed a massive deployment of Machine Learning tools in everyday life automated tasks. Neural Networks are nowadays in use in a growing number of application areas because of their excellent performances. Unfortunately, it has been shown by many researchers that they can be attacked and fooled in several different ways, and this can dangerously impair their ability to correctly perform their tasks. In this paper we describe a watermarking algorithm that can protect and verify the integrity of (Deep) Neural Networks when deployed in safety critical systems, such as autonomous driving systems or monitoring and surveillance systems.
+Keywords: Deep neural network; Fragile watermarking; Integrity protection; Linear transformation
+
+Meera A. Desai, Irene V. Pasquetto, Abigail Z. Jacobs, Dallas Card,
+An archival perspective on pretraining data,
+Patterns,
+Volume 5, Issue 4,
+2024,
+100966,
+ISSN 2666-3899,
+https://doi.org/10.1016/j.patter.2024.100966.
+(https://www.sciencedirect.com/science/article/pii/S2666389924000746)
+Abstract: Summary
+Alongside an explosion in research and development related to large language models, there has been a concomitant rise in the creation of pretraining datasets—massive collections of text, typically scraped from the web. Drawing on the field of archival studies, we analyze pretraining datasets as informal archives—heterogeneous collections of diverse material that mediate access to knowledge. We use this framework to identify impacts of pretraining data creation and use beyond directly shaping model behavior and reveal how choices about what is included in pretraining data necessarily involve subjective decisions about values. In doing so, the archival perspective helps us identify opportunities for researchers who study the social impacts of technology to contribute to confronting the challenges and trade-offs that arise in creating pretraining datasets at this scale.
+
+Liuchao Jin, Xiaoya Zhai, Kang Wang, Kang Zhang, Dazhong Wu, Aamer Nazir, Jingchao Jiang, Wei-Hsin Liao,
+Big data, machine learning, and digital twin assisted additive manufacturing: A review,
+Materials & Design,
+Volume 244,
+2024,
+113086,
+ISSN 0264-1275,
+https://doi.org/10.1016/j.matdes.2024.113086.
+(https://www.sciencedirect.com/science/article/pii/S026412752400460X)
+Abstract: Additive manufacturing (AM) has undergone significant development over the past decades, resulting in vast amounts of data that carry valuable information. Numerous research studies have been conducted to extract insights from AM data and utilize it for optimizing various aspects such as the manufacturing process, supply chain, and real-time monitoring. Data integration into proposed digital twin frameworks and the application of machine learning techniques is expected to play pivotal roles in advancing AM in the future. In this paper, we provide an overview of machine learning and digital twin-assisted AM. On one hand, we discuss the research domain and highlight the machine-learning methods utilized in this field, including material analysis, design optimization, process parameter optimization, defect detection and monitoring, and sustainability. On the other hand, we examine the status of digital twin-assisted AM from the current research status to the technical approach and offer insights into future developments and perspectives in this area. This review paper aims to examine present research and development in the convergence of big data, machine learning, and digital twin-assisted AM. Although there are numerous review papers on machine learning for additive manufacturing and others on digital twins for AM, no existing paper has considered how these concepts are intrinsically connected and interrelated. Our paper is the first to integrate the three concepts big data, machine learning, and digital twins and propose a cohesive framework for how they can work together to improve the efficiency, accuracy, and sustainability of AM processes. By exploring latest advancements and applications within these domains, our objective is to emphasize the potential advantages and future possibilities associated with integration of these technologies in AM.
+Keywords: Additive manufacturing; Big data; Machine learning; Digital twin; Data-driven
+
+Aikaterini Dedeloudi, Edward Weaver, Dimitrios A. Lamprou,
+Machine learning in additive manufacturing & Microfluidics for smarter and safer drug delivery systems,
+International Journal of Pharmaceutics,
+Volume 636,
+2023,
+122818,
+ISSN 0378-5173,
+https://doi.org/10.1016/j.ijpharm.2023.122818.
+(https://www.sciencedirect.com/science/article/pii/S0378517323002387)
+Abstract: A new technological passage has emerged in the pharmaceutical field, concerning the management, application, and transfer of knowledge from humans to machines, as well as the implementation of advanced manufacturing and product optimisation processes. Machine Learning (ML) methods have been introduced to Additive Manufacturing (AM) and Microfluidics (MFs) to predict and generate learning patterns for precise fabrication of tailor-made pharmaceutical treatments. Moreover, regarding the diversity and complexity of personalised medicine, ML has been part of quality by design strategy, targeting towards the development of safe and effective drug delivery systems. The utilisation of different and novel ML techniques along with Internet of Things sensors in AM and MFs, have shown promising aspects regarding the development of well-defined automated procedures towards the production of sustainable and quality-based therapeutic systems. Thus, the effective data utilisation, prospects on a flexible and broader production of “on demand” treatments. In this study, a thorough overview has been achieved, concerning scientific achievements of the past decade, which aims to trigger the research interest on incorporating different types of ML in AM and MFs, as essential techniques for the enhancement of quality standards of customised medicinal applications, as well as the reduction of variability potency, throughout a pharmaceutical process.
+Keywords: Machine learning; Quality by design; Additive manufacturing; 3D printing; Microfluidics; Algorithms
+
+Ludovico Rella, Malcolm Campbell-Verduyn,
+A stack made in heaven? Exploring AI-blockchain intersections and their implications for labour and value,
+Progress in Economic Geography,
+Volume 2, Issue 2,
+2024,
+100026,
+ISSN 2949-6942,
+https://doi.org/10.1016/j.peg.2024.100026.
+(https://www.sciencedirect.com/science/article/pii/S2949694224000208)
+Abstract: How have socio-technical practices in blockchain and artificial intelligence (AI) communities shaped one another and society more widely? This article explores the different and overlapping materialities, practices, spaces and places that the two most hyped technologies of the 21st century are impacting and evolving within. Employing the concept and analogy of “the stack”, we show how Machine Learning (ML), and crypto-assets each developed separately and yet become deeply interconnected. In doing so, we pluralise the concept of the stack to trace how two techno-communities have cometh, collided and colluded (Three Cs) in ways that pose varying implications for labour and the enactment of value in hyper capitalist tech-driven economic geographies.
+Keywords: Artificial intelligence; Blockchain; Labour; Technology; Value
+
+Xingyu Chen, Runyu Miao, Leihao Zhang, Zhen Yuan, Honglin Li, Shiliang Li,
+Chapter 38 - Computational methods for scaffold hopping,
+Editor(s): Bin Yu, Ning Li, Caiyun Fu,
+Privileged Scaffolds in Drug Discovery,
+Academic Press,
+2023,
+Pages 931-948,
+ISBN 9780443186110,
+https://doi.org/10.1016/B978-0-443-18611-0.00008-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443186110000085)
+Abstract: Drug discovery is an expensive and risky process. For a long time, researchers have developed several approaches to reducing failure during that process. Scaffold hopping is often used to find several compounds with different structures but similar biological activities. Thus, scaffold hopping has an important role in the field of drug design. This chapter introduces the principles and shows some successful cases of computational methods for scaffold hopping. We divided these methods into five categories according to principles including pharmacophore, similarity, fragment replacement, machine learning, and biological activity similarity. We also discuss the shortcomings of computational methods for scaffold hopping and look forward to their future development.
+Keywords: Biological activity; Fragment replacement; Machine learning; Pharmacophore; Scaffold hopping; Similarity
+
+Lucas Emmanuel Nascimento Silva, Leonardo Augusto de Vasconcelos Gomes, Aline Mariane de Faria, Felipe Mendes Borini,
+Innovation processes in ecosystem settings: An integrative framework and future directions,
+Technovation,
+Volume 132,
+2024,
+102984,
+ISSN 0166-4972,
+https://doi.org/10.1016/j.technovation.2024.102984.
+(https://www.sciencedirect.com/science/article/pii/S0166497224000348)
+Abstract: Although the foundational works of ecosystem research recognized the central role of innovation, the current scholarship lacks a more systemic, systemized understanding of how innovation processes take place in ecosystem settings. This lack of a dominant framework that bridges innovation processes and ecosystem fields risks leading to a situation in which crucial problems at the intersection of these two fields remain poorly investigated. Through a systematic literature review, we made a case for rediscovering how these two branches of knowledge can be bridged. As an initial step, we consolidate the literature on these intersections, profile the studies that initially began to establish a bridge between ecosystem and innovation processes, propose a tentative framework for integrating both literatures, and set an agenda for further studies.
+Keywords: Innovation processes; Ecosystem; Platform ecosystem; Innovation ecosystem; Entrepreneurial ecosystem; Knowledge ecosystem; Open innovation; Systematic literature review
+
+Mayra Macas, Chunming Wu, Walter Fuertes,
+A survey on deep learning for cybersecurity: Progress, challenges, and opportunities,
+Computer Networks,
+Volume 212,
+2022,
+109032,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2022.109032.
+(https://www.sciencedirect.com/science/article/pii/S1389128622001864)
+Abstract: As the number of Internet-connected systems rises, cyber analysts find it increasingly difficult to effectively monitor the produced volume of data, its velocity and diversity. Signature-based cybersecurity strategies are unlikely to achieve the required performance for detecting new attack vectors. Moreover, technological advances enable attackers to develop sophisticated attack strategies that can avoid detection by current security systems. As the cyber-threat landscape worsens, we need advanced tools and technologies to detect, investigate, and make quick decisions regarding emerging attacks and threats. Applications of artificial intelligence (AI) have the potential to analyze and automatically classify vast amounts of Internet traffic. AI-based solutions that automate the detection of attacks and tackle complex cybersecurity problems are gaining increasing attention. This paper comprehensively presents the promising applications of deep learning, a subfield of AI based on multiple layers of artificial neural networks, in a wide variety of security tasks. Before critically and comparatively surveying state-of-the-art solutions from the literature, we discuss the key characteristics of representative deep learning architectures employed in cybersecurity applications, we introduce the emerging trends in deep learning, and we provide an overview of necessary resources like a generic framework and suitable datasets. We identify the limitations of the reviewed works, and we bring forth a vision of the current challenges of the area, providing valuable insights and good practices for researchers and developers working on related problems. Finally, we uncover current pain points and outline directions for future research to address them.
+Keywords: Cybersecurity; Artificial intelligence; Machine learning; Deep learning; Cyber-threat; Botnets; Intrusion detection; Spam filtering; Encrypted traffic analysis
+
+Shuhan Yuan, Xintao Wu,
+Deep learning for insider threat detection: Review, challenges and opportunities,
+Computers & Security,
+Volume 104,
+2021,
+102221,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2021.102221.
+(https://www.sciencedirect.com/science/article/pii/S0167404821000456)
+Abstract: Insider threats, as one type of the most challenging threats in cyberspace, usually cause significant loss to organizations. While the problem of insider threat detection has been studied for a long time in both security and data mining communities, the traditional machine learning based detection approaches, which heavily rely on feature engineering, are hard to accurately capture the behavior difference between insiders and normal users due to various challenges related to the characteristics of underlying data, such as high-dimensionality, complexity, heterogeneity, sparsity, lack of labeled insider threats, and the subtle and adaptive nature of insider threats. Advanced deep learning techniques provide a new paradigm to learn end-to-end models from complex data. In this brief survey, we first introduce commonly-used datasets for insider threat detection and review the recent literature about deep learning for such research. The existing studies show that compared with traditional machine learning algorithms, deep learning models can improve the performance of insider threat detection. However, applying deep learning to further advance the insider threat detection task still faces several limitations, such as lack of labeled data, adaptive attacks. We discuss such challenges and suggest future research directions that have the potential to address challenges and further boost the performance of deep learning for insider threat detection.
+Keywords: Deep learning; Insider threats; Insiders; Cybersecurity
+
+Yunbi Xu, Xingping Zhang, Huihui Li, Hongjian Zheng, Jianan Zhang, Michael S. Olsen, Rajeev K. Varshney, Boddupalli M. Prasanna, Qian Qian,
+Smart breeding driven by big data, artificial intelligence, and integrated genomic-enviromic prediction,
+Molecular Plant,
+Volume 15, Issue 11,
+2022,
+Pages 1664-1695,
+ISSN 1674-2052,
+https://doi.org/10.1016/j.molp.2022.09.001.
+(https://www.sciencedirect.com/science/article/pii/S1674205222002957)
+Abstract: The first paradigm of plant breeding involves direct selection-based phenotypic observation, followed by predictive breeding using statistical models for quantitative traits constructed based on genetic experimental design and, more recently, by incorporation of molecular marker genotypes. However, plant performance or phenotype (P) is determined by the combined effects of genotype (G), envirotype (E), and genotype by environment interaction (GEI). Phenotypes can be predicted more precisely by training a model using data collected from multiple sources, including spatiotemporal omics (genomics, phenomics, and enviromics across time and space). Integration of 3D information profiles (G-P-E), each with multidimensionality, provides predictive breeding with both tremendous opportunities and great challenges. Here, we first review innovative technologies for predictive breeding. We then evaluate multidimensional information profiles that can be integrated with a predictive breeding strategy, particularly envirotypic data, which have largely been neglected in data collection and are nearly untouched in model construction. We propose a smart breeding scheme, integrated genomic-enviromic prediction (iGEP), as an extension of genomic prediction, using integrated multiomics information, big data technology, and artificial intelligence (mainly focused on machine and deep learning). We discuss how to implement iGEP, including spatiotemporal models, environmental indices, factorial and spatiotemporal structure of plant breeding data, and cross-species prediction. A strategy is then proposed for prediction-based crop redesign at both the macro (individual, population, and species) and micro (gene, metabolism, and network) scales. Finally, we provide perspectives on translating smart breeding into genetic gain through integrative breeding platforms and open-source breeding initiatives. We call for coordinated efforts in smart breeding through iGEP, institutional partnerships, and innovative technological support.
+Keywords: smart breeding; genomic selection; integrated genomic-enviromic selection; spatiotemporal omics; crop design; machine and deep learning; big data; artificial intelligence
+
+Rafael Ibán Segundo Marcos, Verónica López Fernández, María Teresa Daza González, Jessica Phillips-Silver,
+Promoting children’s creative thinking through reading and writing in a cooperative learning classroom,
+Thinking Skills and Creativity,
+Volume 36,
+2020,
+100663,
+ISSN 1871-1871,
+https://doi.org/10.1016/j.tsc.2020.100663.
+(https://www.sciencedirect.com/science/article/pii/S187118711930166X)
+Abstract: The objectives of the present study were to investigate whether students' creative thinking can be enhanced through a structured program of reading and writing activities in the context of a cooperative learning classroom, and to test for a possible correlation between improvements in creative thinking and improvements in academic performance. Sixty fifth-grade students from a primary school in the south of Spain participated over two months: half received reading and writing activities in a cooperative learning classroom (experimental group, n=30), and half received the standard fifth-grade reading and writing program (control group, n=30). Creative thinking was assessed through a divergent thinking task (CREA Test; Corbalán et al., 2003), and Grade Point Average (GPA) was used as index of academic achievement. The results revealed a significant increase in creativity scores in the experimental group as compared with the control, and a moderate positive correlation between creative thinking and academic achievement. The present findings are consistent with the idea that creative thinking (divergent thinking) can be enhanced with reading and writing activities implemented through cooperative learning in school-age children.
+Keywords: Creative thinking; Divergent thinking; Cooperative learning; Academic achievement; Literacy
+
+Alain Bernard, Jean-Pierre Kruth, Jian Cao, Gisela Lanza, Stefania Bruschi, Marion Merklein, Tom Vaneker, Michael Schmidt, John W. Sutherland, Alkan Donmez, Eraldo J. da Silva,
+Vision on metal additive manufacturing: Developments, challenges and future trends,
+CIRP Journal of Manufacturing Science and Technology,
+Volume 47,
+2023,
+Pages 18-58,
+ISSN 1755-5817,
+https://doi.org/10.1016/j.cirpj.2023.08.005.
+(https://www.sciencedirect.com/science/article/pii/S1755581723001256)
+Abstract: Additive Manufacturing (AM) is one of the innovative technologies to fabricate components, parts, assemblies or tools in various fields of application due to its main characteristics such as direct digital manufacturing, ability to offer both internal and external complex geometries without additional cost, and the potential of varying materials at the voxel level. However, despite high anticipations, AM as a real revolution for serial production of metal components has yet to be seen, mostly due to lacks of fundamental understanding, design engineering tools, and the global robustness of the value chains. This paper aims to provide a vision about the future of metal AM based on the collective knowledge of all ten scientific and technical committees of the International Academy of Production Engineering (CIRP).
+Keywords: Additive Manufacturing; 3D printing; Innovative manufacturing technologies; Metal AM processes
+
+Eranga Bandara, Xueping Liang, Peter Foytik, Sachin Shetty, Ravi Mukkamala, Abdul Rahman, Nalin Ranasinghe, Kasun De Zoysa, Wee Keong Ng,
+Lightweight, geo-scalable deterministic blockchain design for 5G networks sliced applications with hierarchical CFT/BFT consensus groups, IPFS and novel hardware design,
+Internet of Things,
+Volume 25,
+2024,
+101077,
+ISSN 2542-6605,
+https://doi.org/10.1016/j.iot.2024.101077.
+(https://www.sciencedirect.com/science/article/pii/S2542660524000192)
+Abstract: 5G network sliced applications enable IoT networks to connect billions of heterogeneous objects, providing high-quality service, network capacity, and enhanced throughput. The blockchain systems which attempt to facilitate 5G network-sliced application requirements present several challenges, such as lack of decentralized governance, reduced transaction throughput/scalability, inability to run on resource-constrained devices, lack of support for real-time/concurrent transaction handling, and non-deterministic Byzantine Fault Tolerance (BFT) consensus models. In this paper, we propose a highly scalable, lightweight blockchain system, “Librum,” for 5G-based network sliced applications. Librum’s lightweight design enables it to run in edge networks, and we have designed low-cost hardware nodes to run the Librum blockchain edge network. The embedded hardware devices contain wifi and cellular modules that allow the Librum blockchain nodes to be run on 5G edge networks. The Librum blockchain, stored on IPFS peer-to-peer decentralized storage, enables any Byzantine node to participate in the network. Librum’s Fungible (ERC20) and Non-Fungible Token (ERC721) smart contracts support concurrent transaction execution with a novel “Validate–Execute” blockchain architecture. We incorporated hierarchical consensus groups to run independent blockchain shards (local consensus groups) on different 5G network slices. The shards can run BFT or CFT (Crash Fault Tolerance) consensus models and reach global consensus via core-blockchain nodes in the network based on connectivity requirements. Core blockchain nodes can also run with BFT (e.g., Tendermint) or CFT (e.g., Proof-of-Authority/Kafka) consensus models, eliminating message-passing overhead and achieving BFT with a deterministic consensus model in Geo-distributed blockchain networks. Dynamic 5G network slice orchestration and data provenance of network slices are implemented with smart contracts. The proposed Librum blockchain is integrated with FreedomeFi and Magma 5G core-based 5G testbed environments.
+Keywords: 5G; Blockchain; IPFS; IoT; Byzantine fault tolerance; Hierarchical consensus
+
+Feiwei Qin, Shi Qiu, Shuming Gao, Jing Bai,
+3D CAD model retrieval based on sketch and unsupervised variational autoencoder,
+Advanced Engineering Informatics,
+Volume 51,
+2022,
+101427,
+ISSN 1474-0346,
+https://doi.org/10.1016/j.aei.2021.101427.
+(https://www.sciencedirect.com/science/article/pii/S1474034621001798)
+Abstract: How to quickly, accurately retrieve and effectively reuse 3D CAD models that conform to user’s design intention has become an urgent problem in product design. However, there are several problems with the existing retrieval methods, like not being fast, or accurate, or hard to use. Hence it is difficult to meet the actual needs of the industry. In this paper, we propose a 3D CAD model retrieval approach that considers the speed, accuracy and ease of use at the same time, based on sketches and unsupervised learning. Firstly, the loop is used as the fundamental element of sketch/view, and automatic structural semantics capture algorithms are proposed to extract and construct attributed loop relation tree; Secondly, the recursive neural network based deep variational autoencoders is constructed and optimized to transform arbitrary shapes and sizes of loop relation tree into fixed length descriptor; Finally, based on the fixed length vector descriptor, the sketches and views of 3D CAD models are embedded into the same target feature space, and k-nearest neighbors algorithm is adopted to conduct fast CAD model matching on the feature space. In this manner, a prototype 3D CAD model retrieval system is developed. Experiments on the dataset containing about two thousand 3D CAD models validate the feasibility and effectiveness of the proposed approach.
+Keywords: Model retrieval; Structural semantics; Sketch; Unsupervised learning; Deep learning
+
+Masoud Mahdianpari, Fariba Mohammadimanesh,
+Chapter 13 - Applying GeoAI for effective large-scale wetland monitoring,
+Editor(s): Saurabh Prasad, Jocelyn Chanussot, Jun Li,
+Advances in Machine Learning and Image Analysis for GeoAI,
+Elsevier,
+2024,
+Pages 281-313,
+ISBN 9780443190773,
+https://doi.org/10.1016/B978-0-44-319077-3.00018-3.
+(https://www.sciencedirect.com/science/article/pii/B9780443190773000183)
+Abstract: Wetlands are crucial ecosystems, essential for biodiversity conservation and environmental processes. This chapter explores the transformative impact of remote sensing technology on wetland mapping and monitoring. Over the past two decades, satellite sensors have provided valuable data, overcoming the limitations of traditional field campaigns. A multi-source data approach, combining optical, SAR, and elevation data, has emerged as a promising technique for capturing diverse wetland characteristics. However, high data acquisition and management costs historically hindered large-scale studies. The rise of cloud computing platforms, like Google Earth Engine (GEE), has revolutionized remote sensing of wetlands. These platforms offer scalability, data accessibility, storage capabilities, flexibility, collaboration opportunities, and cost-effectiveness. Researchers can now overcome data processing challenges, scale up their studies, and expedite research outcomes. Advanced remote sensing techniques applied in wetland-rich countries like Canada and China have led to significant mapping advancements, including updated inventories and detailed wetland classes.
+Keywords: Wetland mapping; Remote sensing; SAR; Optical; Cloud computing platform
+
+Wenqi Li, Banu Y. Ekren, Emel Aktas,
+27 - Additive manufacturing and its impact on pharmaceutical supply chains,
+Editor(s): Shadpour Mallakpour, Chaudhery Mustansar Hussain,
+In Additive Manufacturing Materials and Technologies,
+Medical Additive Manufacturing,
+Elsevier,
+2024,
+Pages 683-712,
+ISBN 9780323953832,
+https://doi.org/10.1016/B978-0-323-95383-2.00018-4.
+(https://www.sciencedirect.com/science/article/pii/B9780323953832000184)
+Abstract: Additive manufacturing (AM), also known as 3D printing, has the potential to improve the performance of the pharmaceutical supply chain (PSC). By using 3D printing for manufacturing drugs, pharmaceutical companies can reduce waste by using only the required number of raw materials and eliminating excess inventory. This chapter will provide a systematic literature review of the state of the art of AM in PSC and develop a conceptual framework to explain their interconnections. It was found that 3D printing impacts the SC in three main ways: reducing complexity, moving manufacturing facilities closer to the end user, and shifting production from make-to-stock to make-to-order. These changes influence the inventory level, which in turn affects SC sustainability, efficiency, responsiveness, and resilience. This study provides a conceptual framework that illustrates the interrelationships between various variables in the medical SC impacted by 3D printing technology.
+Keywords: Additive manufacturing; medical supply chain; 3D printing technology; supply chain resilience; pharmaceutical supply chain
+
+
+Index,
+Editor(s): John R. Vacca,
+Computer and Information Security Handbook (Fourth Edition),
+Morgan Kaufmann,
+2024,
+Pages I1-I32,
+ISBN 9780443132230,
+https://doi.org/10.1016/B978-0-443-13223-0.20001-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443132230200015)
+
+Tran Duc Le, Thang Le-Dinh, Sylvestre Uwizeyemungu,
+Search engine optimization poisoning: A cybersecurity threat analysis and mitigation strategies for small and medium-sized enterprises,
+Technology in Society,
+Volume 76,
+2024,
+102470,
+ISSN 0160-791X,
+https://doi.org/10.1016/j.techsoc.2024.102470.
+(https://www.sciencedirect.com/science/article/pii/S0160791X24000186)
+Abstract: This study investigates the emerging cybersecurity threat of search engine optimization (SEO) poisoning and its impact on small and medium-sized enterprises’ (SMEs) digital marketing efforts. Through a comprehensive analysis of SEO poisoning techniques employed by attackers, the study reveals the significant risks and consequences for SMEs, including reputational damage, financial losses, and disrupted operations. To address these threats, the study proposes tailored mitigation strategies aligned with the principles of the NIST Cybersecurity Framework while considering the resource constraints facing SMEs. The mitigation recommendations encompass technical measures such as website security audits and employee training alongside non-technical initiatives to foster a culture of cybersecurity awareness. Additionally, the study offers several discussions that elucidate the multifaceted challenges posed by SEO poisoning in the SME context from both internal and external perspectives. These contributions will empower SMEs and digital marketers to implement proactive safeguards against SEO poisoning risks and preserve their online presence. The study underscores the need for continued vigilance and adaptive security to combat the evolving tactics of cyber adversaries in the digital marketing domain.
+Keywords: SME; SEO; Digital marketing; Cybersecurity
+
+Darian Tomašević, Fadi Boutros, Naser Damer, Peter Peer, Vitomir Štruc,
+Generating bimodal privacy-preserving data for face recognition,
+Engineering Applications of Artificial Intelligence,
+Volume 133, Part E,
+2024,
+108495,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2024.108495.
+(https://www.sciencedirect.com/science/article/pii/S0952197624006535)
+Abstract: The performance of state-of-the-art face recognition systems depends crucially on the availability of large-scale training datasets. However, increasing privacy concerns nowadays accompany the collection and distribution of biometric data, which has already resulted in the retraction of valuable face recognition datasets. The use of synthetic data represents a potential solution, however, the generation of privacy-preserving facial images useful for training recognition models is still an open problem. Generative methods also remain bound to the visible spectrum, despite the benefits that multispectral data can provide. To address these issues, we present a novel identity-conditioned generative framework capable of producing large-scale recognition datasets of visible and near-infrared privacy-preserving face images. The framework relies on a novel identity-conditioned dual-branch style-based generative adversarial network to enable the synthesis of aligned high-quality samples of identities determined by features of a pretrained recognition model. In addition, the framework incorporates a novel filter to prevent samples of privacy-breaching identities from reaching the generated datasets and improve both identity separability and intra-identity diversity. Extensive experiments on six publicly available datasets reveal that our framework achieves competitive synthesis capabilities while preserving the privacy of real-world subjects. The synthesized datasets also facilitate training more powerful recognition models than datasets generated by competing methods or even small-scale real-world datasets. Employing both visible and near-infrared data for training also results in higher recognition accuracy on real-world visible spectrum benchmarks. Therefore, training with multispectral data could potentially improve existing recognition systems that utilize only the visible spectrum, without the need for additional sensors.
+Keywords: Image synthesis; Face-based biometrics; Privacy-preserving data; Multispectral recognition; Generative adversarial networks
+
+Aftab Akram, Pascal Zimmer, Clémentine Gritti, Ghassan Karame, Melek Önen,
+Chapter 18 - Fundamentals of privacy-preserving and secure machine learning,
+Editor(s): Marco Lorenzi, Maria A. Zuluaga,
+In The MICCAI Society book Series,
+Trustworthy AI in Medical Imaging,
+Academic Press,
+2025,
+Pages 385-409,
+ISBN 9780443237614,
+https://doi.org/10.1016/B978-0-44-323761-4.00031-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443237614000316)
+Abstract: This chapter discusses common threats against the privacy and security of Machine Learning (ML), such as inferring sensitive information from ML models and poisoning deployed models. It also discusses multiple countermeasures to overcome those attacks by focusing in particular on defenses that can be applied at various stages, e.g., during the inference and training phases, or capturing different inputs, e.g., model and data.
+Keywords: Inference-related attacks; Cryptography; Differential privacy; Trusted execution environment; Evasion attacks and defenses; Poisoning attacks and defenses
+
+T. Anukiruthika, D.S. Jayas,
+AI-driven grain storage solutions: Exploring current technologies, applications, and future trends,
+Journal of Stored Products Research,
+Volume 111,
+2025,
+102588,
+ISSN 0022-474X,
+https://doi.org/10.1016/j.jspr.2025.102588.
+(https://www.sciencedirect.com/science/article/pii/S0022474X25000475)
+Abstract: The integration of artificial intelligence (AI) and machine learning (ML) technologies is revolutionizing the food grain industry, particularly in the storage and quality management. This work provides a comprehensive review on the integration of AI and ML in the food grain industry, focusing on current technologies, applications, and future advancements. Various AI technologies including artificial neural networks (ANNs), fuzzy logic systems, and ML methods such as deep learning, supervised learning, and anomaly detection have been discussed. The practical applications of these technologies in addressing critical areas such as pest and insect damage detection, grain classification, crop disease detection, mycotoxin contamination, and supply chain management are highlighted. Applications of innovative technological approaches, including edge computing, digital twins, Internet of Things (IoT), and blockchain, have been discussed for their impact on enhancing grain storage quality management. The review also critically examines the challenges and limitations associated with AI and ML, such as data privacy, inaccuracies, and regulatory concerns. In addition, the emerging trends that are set to revolutionize grain quality management such as smart sensors, robotics, remote sensing, and augmented reality are discussed. By synthesizing current knowledge and future prospects, this review aims to provide a holistic understanding of AI's transformative potential in the grain industry.
+Keywords: Grain storage; Artificial intelligence; Machine learning; Internet of things; Blockchain; Quality management
+
+Benjamin Kaplan Weinger,
+Thirty years on: Planetary climate planning and the Intergovernmental Negotiating Committee,
+Global Environmental Change,
+Volume 80,
+2023,
+102669,
+ISSN 0959-3780,
+https://doi.org/10.1016/j.gloenvcha.2023.102669.
+(https://www.sciencedirect.com/science/article/pii/S0959378023000353)
+Abstract: On the occasion of the thirtieth anniversary of the United Nations Framework Convention on Climate Change, this principal supra-national institution remains paramount to the project of planetary climate planning and governance. Reflections on this anniversary should serve to recall the contestations through which this foundational institution was formed, and the delegate dynamics that continue to be reproduced in its wake. The contentious debates and political dynamics that afflicted the Intergovernmental Negotiating Committee tasked with crafting the Framework Convention on Climate Change, as well as dissension in the periphery, remain as relevant today as they were three decades ago. Reprising these dynamics through detailed historical and archival analysis, this article excavates the negotiations of the 1992 Framework Convention on Climate Change by the Intergovernmental Negotiating Committee, which met in 5 sessions during 1991–1992. The aim is to identify key fault-lines and conflicts in the lead-up to the finalization of the 1992 Convention, in order to demonstrate whose epistemic and normative commitments came to be reflected in the final outcome and to show how the legacy of this process endures to date. I seek to render visible actors and proposals peripheralized in the formation of planetary climate governance to extrapolate normative boundaries and proffer heterodox lessons from the margins.
+Keywords: Political geography; North-South relations; Climate governance; Climate planning; Climate justice
+
+Tuan Le, Robin Winter, Frank Noé, Djork-Arné Clevert,
+Neuraldecipher – reverse-engineering extended-connectivity fingerprints (ECFPs) to their molecular structures††Electronic supplementary information (ESI) available: Detailed information regarding the model architectures and computation time, degeneracy analysis for the ECFPs as well as the information loss due to hash collision. See DOI: 10.1039/d0sc03115a,
+Chemical Science,
+Volume 11, Issue 38,
+2020,
+Pages 10378-10389,
+ISSN 2041-6520,
+https://doi.org/10.1039/d0sc03115a.
+(https://www.sciencedirect.com/science/article/pii/S2041652023028882)
+Abstract: ABSTRACT
+Protecting molecular structures from disclosure against external parties is of great relevance for industrial and private associations, such as pharmaceutical companies. Within the framework of external collaborations, it is common to exchange datasets by encoding the molecular structures into descriptors. Molecular fingerprints such as the extended-connectivity fingerprints (ECFPs) are frequently used for such an exchange, because they typically perform well on quantitative structure–activity relationship tasks. ECFPs are often considered to be non-invertible due to the way they are computed. In this paper, we present a fast reverse-engineering method to deduce the molecular structure given revealed ECFPs. Our method includes the Neuraldecipher, a neural network model that predicts a compact vector representation of compounds, given ECFPs. We then utilize another pre-trained model to retrieve the molecular structure as SMILES representation. We demonstrate that our method is able to reconstruct molecular structures to some extent, and improves, when ECFPs with larger fingerprint sizes are revealed. For example, given ECFP count vectors of length 4096, we are able to correctly deduce up to 69% of molecular structures on a validation set (112 K unique samples) with our method.
+
+Joakim Laine, Matti Minkkinen, Matti Mäntymäki,
+Ethics-based AI auditing: A systematic literature review on conceptualizations of ethical principles and knowledge contributions to stakeholders,
+Information & Management,
+Volume 61, Issue 5,
+2024,
+103969,
+ISSN 0378-7206,
+https://doi.org/10.1016/j.im.2024.103969.
+(https://www.sciencedirect.com/science/article/pii/S037872062400051X)
+Abstract: This systematic literature review synthesizes the conceptualizations of ethical principles in AI auditing literature and the knowledge contributions to the stakeholders of AI auditing. We explain how the literature discusses fairness, transparency, non-maleficence, responsibility, privacy, trust, beneficence, and freedom/autonomy. Conceptualizations vary along social/technical- and process/outcome-oriented dimensions. The main stakeholders of ethics-based AI auditing are system developers and deployers, the wider public, researchers, auditors, AI system users, and regulators. AI auditing provides three types of knowledge contributions to stakeholders: 1) guidance; 2) methods, tools, and frameworks; and 3) awareness and empowerment.
+Keywords: Artificial intelligence; Auditing; AI ethics; AI governance; AI auditing; Ethics-based AI auditing; Systematic literature review
+
+Xiaoxuan Liu, Ben Glocker, Melissa M McCradden, Marzyeh Ghassemi, Alastair K Denniston, Lauren Oakden-Rayner,
+The medical algorithmic audit,
+The Lancet Digital Health,
+Volume 4, Issue 5,
+2022,
+Pages e384-e397,
+ISSN 2589-7500,
+https://doi.org/10.1016/S2589-7500(22)00003-6.
+(https://www.sciencedirect.com/science/article/pii/S2589750022000036)
+Abstract: Summary
+Artificial intelligence systems for health care, like any other medical device, have the potential to fail. However, specific qualities of artificial intelligence systems, such as the tendency to learn spurious correlates in training data, poor generalisability to new deployment settings, and a paucity of reliable explainability mechanisms, mean they can yield unpredictable errors that might be entirely missed without proactive investigation. We propose a medical algorithmic audit framework that guides the auditor through a process of considering potential algorithmic errors in the context of a clinical task, mapping the components that might contribute to the occurrence of errors, and anticipating their potential consequences. We suggest several approaches for testing algorithmic errors, including exploratory error analysis, subgroup testing, and adversarial testing, and provide examples from our own work and previous studies. The medical algorithmic audit is a tool that can be used to better understand the weaknesses of an artificial intelligence system and put in place mechanisms to mitigate their impact. We propose that safety monitoring and medical algorithmic auditing should be a joint responsibility between users and developers, and encourage the use of feedback mechanisms between these groups to promote learning and maintain safe deployment of artificial intelligence systems.
+
+Leah Marie Hamilton, Jacob Lahne,
+Chapter 16 - Natural Language Processing,
+Editor(s): Julien Delarue, J. Ben Lawlor,
+In Woodhead Publishing Series in Food Science, Technology and Nutrition,
+Rapid Sensory Profiling Techniques (Second Edition),
+Woodhead Publishing,
+2023,
+Pages 371-410,
+ISBN 9780128219362,
+https://doi.org/10.1016/B978-0-12-821936-2.00004-2.
+(https://www.sciencedirect.com/science/article/pii/B9780128219362000042)
+Abstract: Sensory evaluation is predicated on the use and interpretation of human language. We ask our subjects to describe their sensory experiences and affective responses, which we cannot directly observe. This formulation of sensory science encourages direct engagement with linguistics and in particular, a recent subfield of linguistics, computer science, and artificial intelligence called “Natural Language Processing” (NLP, sometimes “computational linguistics”). In this chapter we will provide an introduction to Natural Language Processing (NLP) for sensory scientists who wish to employ NLP as a rapid method for sensory evaluation. Because NLP is a large, diverse, and rapidly evolving field, we will begin with a brief, pragmatic overview of the discipline, with an emphasis on key historical and current methods and applications. We will then briefly discuss the linguistic perspective and its application to sensory evaluation, with an aim to motivating the remaining chapter. Following that, we will discuss key areas of NLP, from data collection to processing to analysis to advanced applications. Throughout the chapter, we will use a consistent case study of natural-language descriptions for a food product to provide examples and illustrate NLP methods.
+Keywords: Natural Language Processing; Machine learning; Deep learning; Text analysis; Computational linguistics; Sensory evaluation; Descriptive analysis
+
+Yash Jakhar, Malaya Dutta Borah,
+Effective near-duplicate image detection using perceptual hashing and deep learning,
+Information Processing & Management,
+Volume 62, Issue 4,
+2025,
+104086,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2025.104086.
+(https://www.sciencedirect.com/science/article/pii/S0306457325000287)
+Abstract: Computer vision has always been concerned with near-duplicate image detection. Previous approaches for detecting near duplicates highlighted the necessity to adequately explore the aspect of image transformations for effectively handling complex images. We proposed a method of finding near duplicate images using the integration of three different techniques: perceptual hashing, Siamese network, and Vision Transformer. Perceptual hashing gives us a quick way to filter out similar-looking pictures, while the Siamese network architecture paired with the Vision transformer helps us identify more complex near duplicate instances. The integrated approach learns a metric space from data, which reflects both visual similarity and perceptual closeness among items in the dataset. The results demonstrate the effectiveness and robustness of our proposed method, achieving an AUROC of 0.99 and a precision of 0.987 on the California-ND dataset, and an AUROC of 0.92 with a precision of 0.884 on the INRIA Holidays dataset, significantly outperforming traditional methods by over 10% in both metrics. This represents a significant step forward in near-duplicate image detection research.
+Keywords: Near-duplicate images; Neural network; Generative Adversarial Network; Perceptual hashing; Siamese network; Vision Transformer
+
+Maheshkumar Borkar, Arati Prabhu, Abhishek Kanugo, Rupesh Kumar Gautam,
+Chapter 5 - Pharmacophore modeling,
+Editor(s): Rupesh Kumar Gautam, Mohammad Amjad Kamal, Pooja Mittal,
+Computational Approaches in Drug Discovery, Development and Systems Pharmacology,
+Academic Press,
+2023,
+Pages 159-182,
+ISBN 9780323991377,
+https://doi.org/10.1016/B978-0-323-99137-7.00004-6.
+(https://www.sciencedirect.com/science/article/pii/B9780323991377000046)
+Abstract: Pharmacophore modeling is an important part of “computer-aided drug design (CADD)” and has led to numerous successful research outcomes. It contributed significantly in the rational drug design approach. The pharmacophore model abstracts crucial structural attributes of a molecule that are crucial for pharmacological activity, along with their relative positions in three-dimensional space. There are various ligand- and structure-based methods that have been developed for improved pharmacophore modeling and fruitfully applied in de novo design, lead optimization, virtual screening, off-target and target identification, side effect, and ADME-tox modeling. Current chapter gives a comprehensive impression of pharmacophore modeling, focus on various types of pharmacophores, methodology development, and its vast spectrum of applications.
+Keywords: Structure and ligand-based pharmacophore; HipHop; hydrogen; Ligand profiling; Pharmacophore fingerprints; Conformational analysis; Molecular superimposition
+
+Gary Dushnitsky, Lei Yu,
+Why do incumbents fund startups? A study of the antecedents of corporate venture capital in China,
+Research Policy,
+Volume 51, Issue 3,
+2022,
+104463,
+ISSN 0048-7333,
+https://doi.org/10.1016/j.respol.2021.104463.
+(https://www.sciencedirect.com/science/article/pii/S0048733321002559)
+Abstract: Established firms are instrumental in funding entrepreneurial ventures, a practice known as corporate venture capital (CVC). Yet, our knowledge of the reasons firms engage in CVC is calibrated mainly on data from the United States and Europe. Such a restricted focus limits our understanding of CVC practices and objectives. Accordingly, we adopt an abductive approach to study the antecedents of CVC in China. The country is a vibrant entrepreneurial setting, second only to the USA in total startup numbers and funding amounts. We construct a comprehensive data of Chinese CVCs during the late 2010s by integrate Chinese and international databases. Cross-industry analyses of CVC patterns underscore a novel objective; one that is predominantly associated with harnessing growth through market expansion rather than the prevailing view of CVC as a window on technology. The findings mirror the features of the Chinese setting, where entrepreneurs profit from the dramatic expansion in economic activity and serve as a vehicle to leverage the global innovation frontier.
+Keywords: Corporate Venture Capital; Venture Capital; Startups; Innovation; China
+
+Surbhi Raj, Jimson Mathew, Arijit Mondal,
+FDT: A python toolkit for fake image and video detection,
+SoftwareX,
+Volume 22,
+2023,
+101395,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2023.101395.
+(https://www.sciencedirect.com/science/article/pii/S2352711023000912)
+Abstract: With the advent of readily and widely available applications based on deepfake technology, several cybersecurity threats are on the rise. It is challenging to curtail these threats as deepfakes are realistic and very difficult to detect. The present work proposes a Fake Detection Tool (FDT) that streamlines the procedure of fake detection by incorporating various manipulation techniques and aids users in detecting and visualizing the same. The tool is also integrated with Twitter for streaming facial image posts based on hashtags. It provides an output dataframe and presents statistics of virality, sentiments, etc, using pie charts for better visualization. The proposed tool uses a wide variety of large-scale datasets for training to deal with the fakes in the wild and deploys models that are at par with the cutting-edge models. It is an efficient, user-friendly, and freely available software for fake detection. The source code of the FDT package toolkit is available at https://github.com/surbhiraj786/GUI_Fake-Detection.
+Keywords: Deepfake video; Generative Adversarial Networks (GANs); Fake Detection Tool (FDT); Copy-move; Splicing; Twitter
+
+Elsa T. Berthet, Gordon M. Hickey,
+Organizing collective innovation in support of sustainable agro-ecosystems: The role of network management,
+Agricultural Systems,
+Volume 165,
+2018,
+Pages 44-54,
+ISSN 0308-521X,
+https://doi.org/10.1016/j.agsy.2018.05.016.
+(https://www.sciencedirect.com/science/article/pii/S0308521X17310144)
+Abstract: Designing and managing sustainable agro-ecosystems remains a significant challenge for society. This is largely because their expected functions and values are multiple, and diverse networks of actors and institutions control common pool resources at different scales. Networks are expected to play an important role in facilitating collective innovation in agro-ecosystems, through enabling knowledge acquisition and transfer, resource mobilization for effective governance, and cooperation. However, in order to realize their potential benefit networks require effective management. Drawing on case studies located in the peri-urban agro-ecosystems surrounding Montreal (Quebec, Canada) and Paris (France), we analyze four collective innovation initiatives aiming to reduce the negative impacts of agriculture on the environment. For each case, we assess the contribution of network managers to the core tasks of: “Connecting” (initiating and facilitating interaction processes between actors), “Framing” (guiding interactions through process agreement), “Knowledge brokering” (facilitating knowledge transfer and capitalization) and “Exploring” (searching for goal congruency by creating new content). We then pay particular attention to the activities associated with Exploring across our cases and consider the implications for more collective approaches to designing innovation in agricultural landscapes. Our results suggest that, despite heterogeneity in the activities of network managers in each context, network managers devoted efforts across each of the four tasks. Yet, building a shared vision and engaging diverse stakeholders in a common goal over time were reported as challenging. We identify that the network managers tended to set objectives at the outset, and that design processes were often confined to a limited subgroup of actors. While these strategies were viewed as being efficient in the short term, they likely limited the success of the collective enterprise in the long run.
+Keywords: Collective action; Network governance; Design reasoning; Sustainability; Innovation brokering
+
+Anthony C. Chang, Alfonso Limon,
+Chapter 1 - Introduction to artificial intelligence for cardiovascular clinicians,
+Editor(s): Anthony C. Chang, Alfonso Limon,
+In Intelligence-Based Medicine: Subspecialty Series,
+Intelligence-Based Cardiology and Cardiac Surgery,
+Academic Press,
+2024,
+Pages 3-120,
+ISBN 9780323905343,
+https://doi.org/10.1016/B978-0-323-90534-3.00010-X.
+(https://www.sciencedirect.com/science/article/pii/B978032390534300010X)
+Abstract: The impressive gains in deep learning (DL) started in 2012 and its successful utilization in image interpretation have led to the current momentum for artificial intelligence (AI) awareness and adoption. In 2016, Google DeepMind's AlphaGo software soundly defeated the best human Go champion Lee Sedol to introduce the capability of DL outside of image interpretation. More recently, there have been impressive exponential advances in natural language processing with transformer tools such as GPT-3, GPT-4, and now ChatGPT. DeepMind and its AlphaFold AI tool has been able to predict the three-dimensional (3D) structure of proteins since 2021 and was Science magazine's “Breakthrough of the Year.” All of these AI accomplishments heralded the recent new era in AI. Major universities with AI departments (such as Stanford, MIT, and Carnegie Mellon) and technology giants (such as IBM, Apple, Facebook, and Microsoft in the United States as well as other large companies such as Baidu, Alibaba, and Tencent [BAT] in China) are all fervidly exploring real-life applications of AI. There is also a movement to democratize AI so that “no-code platforms” can accommodate people who do not know how to code [1].
+Keywords: Artificial intelligence; Cardiovascular clinicians; Deep learning technology; Human-machine intelligence continuum; Machine learning; Neuroscience
+
+Wu Qinqin, Sikandar Ali Qalati, Rana Yassir Hussain, Hira Irshad, Kayhan Tajeddini, Faiza Siddique, Thilini Chathurika Gamage,
+The effects of enterprises' attention to digital economy on innovation and cost control: Evidence from A-stock market of China,
+Journal of Innovation & Knowledge,
+Volume 8, Issue 4,
+2023,
+100415,
+ISSN 2444-569X,
+https://doi.org/10.1016/j.jik.2023.100415.
+(https://www.sciencedirect.com/science/article/pii/S2444569X23001117)
+Abstract: China's digital economy has made amazing achievements, which brings deep impacts on enterprise innovation. Based on unbalance panel dataset covering more than two thousand manufacturing listed companies in A-stock market of China during the 2011 to 2018 period, this paper employs two-way fixed effects (TWFE) model to examine the effects of attention to digital economy on enterprise innovation. The primary explanatory variable in this research is attention degree that enterprises pay to the digital economy measured by Python technology and text analysis. Additionally, the intermediate effect model is adopted to check the underlying mechanisms of cost control in enterprises, which is also impacted by the digital economy. Several novel findings emerge. First, the number of patent applications increase as enterprises pay more attention to the digital economy. Digital economy has positive impacts on different innovation processes, not only promotes invention, but also promotes appearance design. Second, digital technology and business model as two aspects of digital economy have different effects on innovation. The attention to digital technology has positive impacts on invention patents and design patents, while business model only has a positive impact on design patents. Third, enterprises that pay attention to the digital economy are more likely to increase their R&D expenditure and decrease their sales and finance expenses, which encourages the innovation output. This paper explains these findings in the context of China and makes some specific suggestions for enterprises to promote digital transformation and innovation.
+Keywords: Attention; Digital economy; Innovation; Patent applications; Cost control
+
+Michael E. Adel,
+Zipf's law applications in patent landscape analysis,
+World Patent Information,
+Volume 64,
+2021,
+102012,
+ISSN 0172-2190,
+https://doi.org/10.1016/j.wpi.2020.102012.
+(https://www.sciencedirect.com/science/article/pii/S0172219020301034)
+Abstract: New business insights are shown to be extractable from patent landscapes by the mathematical method of discrete Pareto analysis. By applying to patent publication distributions, a method analogous to that proposed by the linguist George Kingsley Zipf, metrics and methods of visualization are introduced which quantify scale, dominance and consolidation of a patent landscape. The key results of the method are illustrated in the Zipf plot of assignee patent publication count versus assignee rank for the lithography patent landscape shown below.
+Keywords: Discrete pareto analysis; Patent landscape; Zipf's law; Benchmark; Consolidation; Fragmentation
+
+Yingli Wang, Meita Singgih, Jingyao Wang, Mihaela Rit,
+Making sense of blockchain technology: How will it transform supply chains?,
+International Journal of Production Economics,
+Volume 211,
+2019,
+Pages 221-236,
+ISSN 0925-5273,
+https://doi.org/10.1016/j.ijpe.2019.02.002.
+(https://www.sciencedirect.com/science/article/pii/S0925527319300507)
+Abstract: This research uses sensemaking theory to explore how emerging blockchain technology may transform supply chains. We investigate three research questions (RQs): What are blockchain technology's perceived benefits to supply chains, where are disruptions mostly likely to occur and what are the potential challenges to further blockchain diffusion? We conducted in-depth interviews with 14 supply chain experts. Cognitive mapping and narrative analysis were deployed as the two main data analysis techniques to aid our understanding and evaluation of people's cognitive complexity in making sense of blockchain technology. We found that individual experts developed different cognitive structures within their own sensemaking processes. After merging individual cognitive maps into a strategic map, we identified several themes and central concepts that then allowed us to explore potential answers to the three RQs. Our study is among the very few to date to explicitly explore how blockchains may transform supply chain practices. Using the sensemaking approach afforded a deeper understanding of how senior executives diagnose the symptoms evident from blockchains and develop assumptions, expectations and knowledge of the technology, which will then shape their future actions regarding its utilisation. We demonstrate the usefulness of sensemaking theory as an alternative lens in investigating contemporary supply chain phenomena such as blockchains. Bringing sensemaking theory to this discipline in particular enriches emerging behavioural operations research. Our contributions also lie in extending the theories of prospective sensemaking and adding further insights to the stream of technology adoption studies.
+Keywords: Blockchains; Distributed ledger; Sensemaking; Cognitive mapping; Supply chain; Exploratory study; Expert interview
+
+Stefanos Mouzas, David Ford,
+The mediating role of consent in business marketing,
+Industrial Marketing Management,
+Volume 74,
+2018,
+Pages 195-204,
+ISSN 0019-8501,
+https://doi.org/10.1016/j.indmarman.2018.03.011.
+(https://www.sciencedirect.com/science/article/pii/S0019850117304406)
+Abstract: The study deepens our understanding of business marketing by looking beyond the individual choices of business actors to the role of consent between interacting actors. Based on an empirical investigation of manufacturers and retailers in Germany and drawing from previous research on business relationships, the paper develops a theoretical structure for the analysis of consent in business marketing. The paper argues for a shift from a view of individual choice as the basis of business marketing towards the idea of choice being part of an evolutionary discursive practice of consent. The study detects the mediating role of consent at four levels: 1) as a stratifying process, 2) as recursive practice, 3) as energizing interaction, and 4) as economizing activities, resources and actors; it elaborates significant theoretical implications and highlights managerial lessons.
+
+Mandeep Kaur Saggi, Amandeep Singh Bhatia, Sabre Kais,
+Chapter Eight - Federated quantum machine learning for drug discovery and healthcare,
+Editor(s): Angela K. Wilson,
+Annual Reports in Computational Chemistry,
+Elsevier,
+Volume 20,
+2024,
+Pages 269-322,
+ISSN 1574-1400,
+ISBN 9780443294365,
+https://doi.org/10.1016/bs.arcc.2024.10.007.
+(https://www.sciencedirect.com/science/article/pii/S1574140024000124)
+Abstract: Integrating quantum computing with traditional high-performance systems holds great promise for revolutionizing preclinical drug discovery and healthcare. This combination can improve data processing capabilities, accelerate research timelines, and optimize the analysis of complex biological data, ultimately leading to more efficient and effective drug development processes. Quantum advancements can help streamline the drug development process, ultimately lowering both the time and costs involved. This chapter provides an overview of the recent advancements in Quantum Machine Learning (QML) and Federated Learning (FL), highlighting their transformative potential in preclinical drug discovery and healthcare. As the demand for innovative solutions in drug development and patient care increases, integrating quantum computing capabilities offers a new paradigm for tackling complex biomedical challenges. Additionally, the chapter discusses the role of FL and Quantum Federated Learning (QFL) in facilitating collaborative research while preserving data privacy, allowing multiple pharmaceutical and healthcare sectors to contribute to model training without sharing sensitive patient information. In the pursuit of innovative solutions for quality assurance within the pharmaceutical sector, we investigate the implementation of quantum federated learning utilizing variational quantum circuits for pill classification. Our focus is on effectively distinguishing between defective and non-defective pills, particularly in the context of unbalanced data distributions. Additionally, we explore the potential of integrating genomic sequencing within quantum federated settings to enhance classification tasks in healthcare, aiming to leverage the strengths of quantum computing for improved accuracy and efficiency in critical quality assurance processes. In addition, we provide a review of existing frameworks for current federated learning research. This chapter highlights the synergy between quantum technologies and federated learning approaches, showcasing key studies and methodologies that advance preclinical research, particularly in clinical trial outcome prediction, trial matching, and site selection, ultimately enhancing healthcare outcomes. By providing a thorough analysis of the current research landscape, this chapter aims to illuminate the challenges and opportunities within this promising field, fostering a deeper understanding of how these innovative techniques can revolutionize drug discovery and healthcare practices.
+Keywords: Index Terms—Quantum Computing; Quantum Computer; Quantum Machine Learning; Quantum Neural Networks; Quantum Boltzmann Machine; Machine Learning; Neural Networks; Quantum Optimization; Quantum Federated Learning; Qubit; Superposition; Quantum Correlation; Entanglement; Quantum Gate; Quantum Circuit; Quantum Noise; Noisy Intermediate-Scale Quantum; Fault-Tolerant Quantum Computing; Parametrized Quantum Circuits; Quantum Annealing; Quantum Kernels
+
+Leila Alinaghian, Yusoon Kim, Jagjit Srai,
+A relational embeddedness perspective on dynamic capabilities: A grounded investigation of buyer-supplier routines,
+Industrial Marketing Management,
+Volume 85,
+2020,
+Pages 110-125,
+ISSN 0019-8501,
+https://doi.org/10.1016/j.indmarman.2019.10.003.
+(https://www.sciencedirect.com/science/article/pii/S0019850119301099)
+Abstract: Our study extends the emerging inter-firm-level theorization of dynamic capabilities by articulating how firms can develop and adapt their resource bases through supplier relations. Specifically, we aim to explore how different embedded relational aspects function together or separately to induce various inter-firm routines that presumably underpin the buying firm’s dynamic capabilities. The research design is a multiple case study involving 34 buyer-supplier dyad-level innovation events across six product groups of three multinational buying firms in the Pharmaceuticals, Aerospace, and Fast-Moving Consumer Goods sectors. Our inductive analysis suggests that the social, cognitive, and physical aspects of relational embeddedness play roles, in a cumulatively sequential fashion, in inducing three distinctive routine types—unilateral, quasi-unilateral, and bilateral—in the buyer-supplier dyads that underpin the three clusters of dynamic capabilities—sensing, seizing, and transforming, respectively. Furthermore, our study identifies two contingencies that explain variances in the observations and inferences. We therefore investigate the ‘black box’ of dynamic capabilities in inter-firm contexts, elucidating the roles and association of relational embeddedness and patterned activities (routines) in these relationships.
+Keywords: Buyer-supplier relationship; Dynamic capabilities; Inter-firm routines; Relational embeddedness; Case studies
+
+Antoine L. Harfouche, Farid Nakhle, Antoine H. Harfouche, Orlando G. Sardella, Eli Dart, Daniel Jacobson,
+A primer on artificial intelligence in plant digital phenomics: embarking on the data to insights journey,
+Trends in Plant Science,
+Volume 28, Issue 2,
+2023,
+Pages 154-184,
+ISSN 1360-1385,
+https://doi.org/10.1016/j.tplants.2022.08.021.
+(https://www.sciencedirect.com/science/article/pii/S1360138522002278)
+Abstract: Artificial intelligence (AI) has emerged as a fundamental component of global agricultural research that is poised to impact on many aspects of plant science. In digital phenomics, AI is capable of learning intricate structure and patterns in large datasets. We provide a perspective and primer on AI applications to phenome research. We propose a novel human-centric explainable AI (X-AI) system architecture consisting of data architecture, technology infrastructure, and AI architecture design. We clarify the difference between post hoc models and 'interpretable by design' models. We include guidance for effectively using an interpretable by design model in phenomic analysis. We also provide directions to sources of tools and resources for making data analytics increasingly accessible. This primer is accompanied by an interactive online tutorial.
+Keywords: AI system architecture; black box models; data analytics; digital phenomics; explainable artificial intelligence; interpretable by design models
+
+Patricia A. Iglesias, Carlos Ochoa, Melanie Revilla,
+A practical guide to (successfully) collect and process images through online surveys,
+Social Sciences & Humanities Open,
+Volume 9,
+2024,
+100792,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2023.100792.
+(https://www.sciencedirect.com/science/article/pii/S2590291123003972)
+Abstract: Asking online survey respondents to share images is a practice that has gained notoriety recently. Although this collecting strategy may offer many advantages, it requires researchers to know how to operationalize, collect, process, and analyze this type of data, which is not yet an extended expertise among survey practitioners. This paper aims to guide researchers inexperienced in image analysis by presenting the main steps involved in the process of using images as a new data source: 1) operationalization, 2) definition of the labels, 3) choice of the most suitable classification method(s), 4) collection, 5) enhancement, and 6) classification of the images, 7) verification of the classification outcomes, and 8) data analysis. Following this eight-step process can help practitioners assess whether image collection is appropriate for their research problem and, if so, plan their image-based research, by providing them with the key considerations and decisions to address throughout their implementation.
+Keywords: Images; Manual classification; Automatic classification; Visual data
+
+Jianjun Zhu, Fan Li, Jinyuan Chen,
+A survey of blockchain, artificial intelligence, and edge computing for Web 3.0,
+Computer Science Review,
+Volume 54,
+2024,
+100667,
+ISSN 1574-0137,
+https://doi.org/10.1016/j.cosrev.2024.100667.
+(https://www.sciencedirect.com/science/article/pii/S1574013724000510)
+Abstract: Web 3.0, as the third generation of the World Wide Web, aims to solve contemporary problems of trust, centralization, and data ownership. Driven by the latest advances in cutting-edge technologies, Web 3.0 is moving towards a more open, decentralized, intelligent, and interconnected network. Currently, increasingly widespread data breaches have raised awareness of online privacy and security of personal data. Additionally, since Web 3.0 is a complex integration, the technical details are not as clear as the characteristics it presents. In this survey, we conduct an in-depth exploration of Web 3.0 from the perspectives of blockchain, artificial intelligence, and edge computing. The methodology includes a comprehensive literature review, using specific keywords to identify relevant studies and applying strict inclusion and exclusion criteria to ensure a focus on high-quality literature. The main contributions include identifying the key challenges of Web 3.0, examining the fundamental role of each underlying technology, and surveying state-of-the-art practical applications within this ecosystem. Moreover, we introduce an innovative decentralized storage solution that facilitates secure communication and data processing without relying on centralized servers. We also introduce a novel decentralized computing solution that enhances the capabilities of Web 3.0 by enabling edge devices to perform data analysis locally, reducing dependence on traditional centralized servers. Finally, we highlight key challenges and potential research directions. Through the combination and mutual complementation of multiple technologies, Web 3.0 is expected to give users more control and ownership of data and digital assets.
+Keywords: Web 3.0; Decentralization; Ownership; Blockchain; Artificial intelligence; Edge computing
+
+Neil J. Rowan,
+Digital technologies to unlock safe and sustainable opportunities for medical device and healthcare sectors with a focus on the combined use of digital twin and extended reality applications: A review,
+Science of The Total Environment,
+Volume 926,
+2024,
+171672,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2024.171672.
+(https://www.sciencedirect.com/science/article/pii/S004896972401814X)
+Abstract: Medical devices have increased in complexity where there is a pressing need to consider design thinking and specialist training for manufacturers, healthcare and sterilization providers, and regulators. Appropriately addressing this consideration will positively inform end-to-end supply chain and logistics, production, processing, sterilization, safety, regulation, education, sustainability and circularity. There are significant opportunities to innovate and to develop appropriate digital tools to help unlock efficiencies in these important areas. This constitutes the first paper to create an awareness of and to define different digital technologies for informing and enabling medical device production from a holistic end-to-end life cycle perspective. It describes the added-value of using digital innovations to meet emerging opportunities for many disposable and reusable medical devices. It addresses the value of accessing and using integrated multi-actor HUBs that combine academia, industry, healthcare, regulators and society to help meet these opportunities. Such as cost-effective access to specialist pilot facilities and expertise that converges digital innovation, material science, biocompatibility, sterility assurance, business model and sustainability. It highlights the marked gap in academic R&D activities (PRISMA review of best publications conducted between January 2010 and January 2024) and the actual list of U.S. FDA's approved and marketed artificial intelligence/machine learning (AI/ML), and augmented reality/virtual reality (AR/VR) enabled-medical devices for different healthcare applications. Bespoke examples of benefits underlying future use of digital tools includes potential implementation of machine learning for supporting and enabling parametric release of sterilized products through efficient monitoring of critical process data (complying with ISO 11135:2014) that would benefit stakeholders. This paper also focuses on the transformative potential of combining digital twin with extended reality innovations to inform efficiencies in medical device design thinking, supply chain and training to inform patient safety, circularity and sustainability.
+Keywords: Medical devices; Digital transformation; Design thinking; Sterilization; Sustainability; Circularity
+
+Andrei Barbu, Dalitso Banda, Boris Katz,
+Deep video-to-video transformations for accessibility with an application to photosensitivity,
+Pattern Recognition Letters,
+Volume 137,
+2020,
+Pages 99-107,
+ISSN 0167-8655,
+https://doi.org/10.1016/j.patrec.2019.01.019.
+(https://www.sciencedirect.com/science/article/pii/S0167865519300133)
+Abstract: We demonstrate how to construct a new class of visual assistive technologies that, rather than extract symbolic information, learn to transform the visual environment to make it more accessible. We do so without engineering which transformations are useful allowing for arbitrary modifications of the visual input. As an instantiation of this idea we tackle a problem that affects and hurts millions worldwide: photosensitivity. Any time an affected person opens a website, video, or some other medium that contains an adverse visual stimulus, either intended or unintended, they might experience a seizure with potentially significant consequences. We show how a deep network can learn a video-to-video transformation rendering such stimuli harmless while otherwise preserving the video. This approach uses a specification of the adverse phenomena, the forward transformation, to learn the inverse transformation. We show how such a network generalizes to real-world videos that have triggered numerous seizures, both by mistake and in politically-motivated attacks. A number of complimentary approaches are demonstrated including using a hand-crafted generator and a GAN using a differentiable perceptual metric. Such technology can be deployed offline to protect videos before they are shown or online with assistive glasses or real-time post processing. Other applications of this general technique include helping those with limited vision, attention deficit hyperactivity disorder, and autism.
+Keywords: Photosensitivity; Accessibility; Computer vision; Video-to-video transformation
+
+Medha Mohan Ambali Parambil, Jaloliddin Rustamov, Soha Galalaldin Ahmed, Zahiriddin Rustamov, Ali Ismail Awad, Nazar Zaki, Fady Alnajjar,
+Integrating AI-based and conventional cybersecurity measures into online higher education settings: Challenges, opportunities, and prospects,
+Computers and Education: Artificial Intelligence,
+Volume 7,
+2024,
+100327,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2024.100327.
+(https://www.sciencedirect.com/science/article/pii/S2666920X24001309)
+Abstract: The rapid adoption of online learning in higher education has resulted in significant cybersecurity challenges. As educational institutions increasingly rely on digital platforms, they are facing cyber threats that can compromise sensitive data and disrupt operations. This systematic literature review explores the integration of artificial intelligence (AI) into traditional methods to address cybersecurity risks in online higher education. The review integrates a qualitative synthesis of relevant literature and a quantitative meta-analysis using PRISMA guidelines, ensuring comprehensive insights into the integration process. The most prevalent cybersecurity threats are examined, and the effectiveness of AI-based and conventional approaches in mitigating these challenges is compared. Additionally, the most effective AI techniques in cybersecurity solutions are analyzed, and their performance is compared across different contexts. Furthermore, the review considers the key ethical and technical considerations associated with integrating AI into traditional cybersecurity methods. The findings reveal that while AI-based techniques offer promising solutions for threat detection, authentication, and privacy preservation, their successful implementation requires careful consideration of data privacy, fairness, transparency, and robustness. The importance of interdisciplinary collaboration, continuous monitoring of AI models—by automated systems and humans—and the need for comprehensive guidelines to ensure responsible and ethical use of AI in cybersecurity are highlighted. The findings of this review provide actionable insights for educational institutions, educators, and students, helping to facilitate the development of secure and resilient online learning environments. The identified ethical and technical considerations can serve as a foundation for the responsible integration of AI into cybersecurity within the online higher-education sector.
+Keywords: Higher education; Online education systems; E-learning systems; Cybersecurity; Artificial intelligence; Ethics and privacy
+
+Laur Kanger, Peeter Tinits, Anna-Kati Pahker, Kati Orru, Amaresh Kumar Tiwari, Silver Sillak, Artjoms Šeļa, Kristiina Vaik,
+Deep Transitions: Towards a comprehensive framework for mapping major continuities and ruptures in industrial modernity,
+Global Environmental Change,
+Volume 72,
+2022,
+102447,
+ISSN 0959-3780,
+https://doi.org/10.1016/j.gloenvcha.2021.102447.
+(https://www.sciencedirect.com/science/article/pii/S0959378021002260)
+Abstract: The world is confronted by a socio-ecological emergency, requiring rapid and deep decarbonization of a broad range of socio-technical systems. A recent Deep Transitions framework argues that this fundamentally unsustainable trajectory has been generated by the co-evolutionary dynamics of multiple systems during the last 250 years. Altering this direction requires transformation in industrial modernity – a set of most fundamental ideas, institutions, and practices characterizing every industrial society to date. Although the proponents of the framework suggest that this shift has been unfolding since the 1960s, no attempts have been made to operationalize the concept of industrial modernity and to assess this claim. This paper develops a comprehensive multi-dimensional and multi-domain approach for the measurement of industrial modernity. As such it seeks to provide empirical evidence of long-term continuities and emerging ruptures in the dominant ideas, institutions, and practices of industrial societies along the domains of environment and technology. Using a methodologically novel approach where the text mining of newspapers is combined with data from various databases the paper provides results from three countries – Australia, Germany, Soviet Union/Russia – between 1900 and 2020. Despite considerable country-level differences the results show shifts in public environmental discourse from the 1960s, followed by institutional changes from the 1980s but with only a modest change in practices. We also observe some change in the direction of innovative activities and their regulation coupled with a resurgent optimism in technology-environment discourse. The findings tentatively suggest that industrial modernity might be in the process of hollowing out along ideational and institutional dimensions in the environmental domain but less so in the domain of technology and innovation.
+Keywords: Deep Transitions; Industrial modernity; Ideas; Institutions; Practices
+
+Alessandro Nichelini, Carlo Alberto Pozzoli, Stefano Longari, Michele Carminati, Stefano Zanero,
+CANova: A hybrid intrusion detection framework based on automatic signal classification for CAN,
+Computers & Security,
+Volume 128,
+2023,
+103166,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2023.103166.
+(https://www.sciencedirect.com/science/article/pii/S0167404823000767)
+Abstract: Over the years, vehicles have become increasingly complex and an attractive target for malicious adversaries. This raised the need for effective and efficient Intrusion Detection Systemss (IDSs) for onboard networks able to work with the stringent requirements and the heterogeneity of information transmitted on the Controller Area Network. While state-of-the-art solutions are effective in detecting specific types of anomalies and work on a subset of the CAN signals, no single method can perform better than the others on all types of attacks, particularly if they need to provide predictions to comply with the domain’s real-time constraints. In this paper, we present CANova, a modular framework that exploits the characteristics of the different Controller Area Network (CAN) packets to select the Intrusion Detection Systemss (IDSs) that better fits them. In particular, it uses flow- and payload-based IDSs to analyze the packets’ content and arrival time. We evaluate CANova by comparing its performance against state-of-the-art Intrusion Detection Systemss (IDSs) for in-vehicle network and a comprehensive set of synthetic and real attacks in real-world CAN datasets. We demonstrate that our approach can achieve good performances in terms of detection, false positive rates, and temporal performances.
+Keywords: Automotive Security; Intrusion Detection; Signal Classification; Controller Area Network; Flow and Payload based Detection
+
+Mehdi Hazratifard, Vibhav Agrawal, Fayez Gebali, Haytham Elmiligi, Mohammad Mamun,
+Chapter 12 - Review of using machine learning in secure IoT healthcare,
+Editor(s): Patricia Ordóñez de Pablos, Xi Zhang,
+In Information Technologies in Healthcare Industry,
+Accelerating Strategic Changes for Digital Transformation in the Healthcare Industry,
+Academic Press,
+Volume 2,
+2023,
+Pages 237-269,
+ISBN 9780443152993,
+https://doi.org/10.1016/B978-0-443-15299-3.00007-5.
+(https://www.sciencedirect.com/science/article/pii/B9780443152993000075)
+Abstract: The healthcare industry is experiencing a digital transformation through telehealth. As a result, users’ information is at risk of being compromised by intruders. Machine learning can provide the sector with reliable protection against potential threats to address security and privacy concerns. In this chapter, we explore possible machine-learning solutions to two security challenges in the telehealth system: continuous authentication and detecting insider attacks. Authentication is the process of confirming the identity of a device or a person before connecting to the system. One of the most effective authentication techniques in telehealth is to verify IoT devices constantly to enhance cybersecurity protection on an ongoing basis. Continuous authentication uses machine learning algorithms to monitor all telehealth network activities, from users and devices, and utilizes classification techniques to detect unauthorized activities. This method relies on the verification of the identity of registered users to avoid unauthorized access as a proactive approach to mitigate the security risks. The main advantage of using machine learning over traditional authentication methods is that it does not need the user's attention while being authenticated continuously over time. Another advantage is higher reliability and accuracy. The second security challenge is insider attacks. Insider attacks occur when a user is authenticated legitimately to the system and aims to perform malicious activities such as stealing confidential information. Machine learning-based outlier detection methods are often used to identify users’ abnormal behaviors and prevent further access to confidential information.
+Keywords: Machine learning; Continuous authentication; Anomaly detection; Telehealth; Smart healthcare; Insider attack detection
+
+Afolasayo A. Aromiwura, Tyler Settle, Muhammad Umer, Jonathan Joshi, Matthew Shotwell, Jishanth Mattumpuram, Mounica Vorla, Maryta Sztukowska, Sohail Contractor, Amir Amini, Dinesh K. Kalra,
+Artificial intelligence in cardiac computed tomography,
+Progress in Cardiovascular Diseases,
+Volume 81,
+2023,
+Pages 54-77,
+ISSN 0033-0620,
+https://doi.org/10.1016/j.pcad.2023.09.001.
+(https://www.sciencedirect.com/science/article/pii/S0033062023000920)
+Abstract: Artificial Intelligence (AI) is a broad discipline of computer science and engineering. Modern application of AI encompasses intelligent models and algorithms for automated data analysis and processing, data generation, and prediction with applications in visual perception, speech understanding, and language translation. AI in healthcare uses machine learning (ML) and other predictive analytical techniques to help sort through vast amounts of data and generate outputs that aid in diagnosis, clinical decision support, workflow automation, and prognostication. Coronary computed tomography angiography (CCTA) is an ideal union for these applications due to vast amounts of data generation and analysis during cardiac segmentation, coronary calcium scoring, plaque quantification, adipose tissue quantification, peri-operative planning, fractional flow reserve quantification, and cardiac event prediction. In the past 5 years, there has been an exponential increase in the number of studies exploring the use of AI for cardiac computed tomography (CT) image acquisition, de-noising, analysis, and prognosis. Beyond image processing, AI has also been applied to improve the imaging workflow in areas such as patient scheduling, urgent result notification, report generation, and report communication. In this review, we discuss algorithms applicable to AI and radiomic analysis; we then present a summary of current and emerging clinical applications of AI in cardiac CT. We conclude with AI's advantages and limitations in this new field.
+Keywords: Artificial intelligence; Computed tomography; Deep learning; Machine learning; Cardiovascular disease
+
+Yuzhu Cai, Sheng Yin, Yuxi Wei, Chenxin Xu, Weibo Mao, Felix Juefei-Xu, Siheng Chen, Yanfeng Wang,
+Ethical-Lens: Curbing malicious usages of open-source text-to-image models,
+Patterns,
+Volume 6, Issue 3,
+2025,
+101187,
+ISSN 2666-3899,
+https://doi.org/10.1016/j.patter.2025.101187.
+(https://www.sciencedirect.com/science/article/pii/S2666389925000352)
+Abstract: Summary
+The burgeoning landscape of text-to-image models, exemplified by innovations such as Midjourney and DALL·E 3, has revolutionized content creation across diverse sectors. However, these advances bring forth critical ethical concerns, particularly with the misuse of open-source models to generate content that violates societal norms. Addressing this, we introduce Ethical-Lens, a framework designed to facilitate the value-aligned usage of text-to-image tools without necessitating internal model revision. Ethical-Lens ensures value alignment in text-to-image models across toxicity and bias dimensions by refining user commands and rectifying model outputs. Systematic evaluation metrics, combining GPT4-V, HEIM, and FairFace scores, assess alignment capability. Our experiments reveal that Ethical-Lens enhances alignment capabilities to levels comparable with or superior to commercial models such as DALL·E 3, while preserving the quality of generated images. This study indicates the potential of Ethical-Lens to promote the sustainable development of open-source text-to-image tools and their beneficial integration into society.
+Keywords: value alignment; text-to-image models; large language models; AI safety
+
+Omar Ali, Peter A. Murray, Mujtaba Momin, Fawaz S. Al-Anzi,
+The knowledge and innovation challenges of ChatGPT: A scoping review,
+Technology in Society,
+Volume 75,
+2023,
+102402,
+ISSN 0160-791X,
+https://doi.org/10.1016/j.techsoc.2023.102402.
+(https://www.sciencedirect.com/science/article/pii/S0160791X23002075)
+Abstract: This study has several objectives. Firstly, the authors adopt a scoping review of extant research to identify common emerging themes in the ChatGPT model. Secondly, the manuscript explores the emerging innovation and knowledge management challenges by problematizing gaps that need to be explored. This study setting comprises a comprehensive scoping review and analysis of the ChatGPT and related literature. Based on a substantive content analysis of 652 articles between the years 2018 and 2023, four themes emerged from the literature that present gaps to be explored in future research. The technology acceptance model (TAM) grounds the theoretical framework to explore the emerging themes and potential user satisfaction criteria. In addition, this is the first study to broaden the TAM innovation literature by applying knowledge generation criteria to assess the extent to which ChatGPT would satisfy expected user sensemaking represented by know-that, know-how, know-why, and care-why knowledge. Two research questions assessed the findings against TAM and knowledge generation criteria. Based on the emerging gaps identified, the review found that by applying TAM, user satisfaction is not expected to be high especially when applied in educational settings given specific learner needs in complex learning situations. While aspects of user knowledge is expected to increase exponentially, the quality of the information generated by ChatGPT is not expected to result in high user know-why knowledge and complex system understanding. At a time when generative AI models are challenging traditional scientific means of delivering education pedagogy in driving student and user learning, this study has important implications for the future of the ChatGPT model application within educational and broader settings.
+Keywords: ChatGPT; Artificial intelligence; Challenges; Strategies; Education sector
+
+Sandra Maria Correia Loureiro, João Guerreiro, Iis Tussyadiah,
+Artificial intelligence in business: State of the art and future research agenda,
+Journal of Business Research,
+Volume 129,
+2021,
+Pages 911-926,
+ISSN 0148-2963,
+https://doi.org/10.1016/j.jbusres.2020.11.001.
+(https://www.sciencedirect.com/science/article/pii/S0148296320307451)
+Abstract: This study provides an overview of state-of-the-art research on Artificial Intelligence in the business context and proposes an agenda for future research. First, by analyzing 404 relevant articles collected through Web of Science and Scopus, this article presents the evolution of research on AI in business over time, highlighting seminal works in the field, and the leading publication venues. Next, using a text-mining approach based on Latent Dirichlet Allocation, latent topics were extracted from the literature and comprehensively analyzed. The findings reveal 18 topics classified into four main clusters: societal impact of AI, organizational impact of AI, AI systems, and AI methodologies. This study then presents several main developmental trends and the resulting challenges, including robots and automated systems, Internet-of-Things and AI integration, law, and ethics, among others. Finally, a research agenda is proposed to guide the directions of future AI research in business addressing the identified trends and challenges.
+Keywords: Artificial Intelligence; Intelligent agent; Business applications; Text mining; Research agenda; Future trends
+
+D.R. Gunasegaram, A.S. Barnard, M.J. Matthews, B.H. Jared, A.M. Andreaco, K. Bartsch, A.B. Murphy,
+Machine learning-assisted in-situ adaptive strategies for the control of defects and anomalies in metal additive manufacturing,
+Additive Manufacturing,
+Volume 81,
+2024,
+104013,
+ISSN 2214-8604,
+https://doi.org/10.1016/j.addma.2024.104013.
+(https://www.sciencedirect.com/science/article/pii/S2214860424000599)
+Abstract: In metal additive manufacturing (AM), the material microstructure and part geometry are formed incrementally. Consequently, the resulting part could be defect- and anomaly-free if sufficient care is taken to deposit each layer under optimal process conditions. Conventional closed-loop control (CLC) engineering solutions which sought to achieve this were deterministic and rule-based, thus resulting in limited success in the stochastic environment experienced in the highly dynamic AM process. On the other hand, emerging machine learning (ML) based strategies are better suited to providing the robustness, scope, flexibility, and scalability required for process control in an uncertain environment. Offline ML models that help optimise AM process parameters before a build begins and online ML models that efficiently processed in-situ sensory data to detect and diagnose flaws in real-time (or near-real-time) have been developed. However, ML models that enable a process to take evasive or corrective actions in relation to flaws via on the fly decision-making are only emerging. These models must possess prognostic capabilities to provide context-sensitive recommendations for in-situ process control based on real-time diagnostics. In this article, we pinpoint the shortcomings in traditional CLC strategies, and provide a framework for defect and anomaly control through ML-assisted CLC in AM. We discuss flaws in terms of their causes, in-situ detectability, and controllability, and examine their management under three scenarios: avoidance, mitigation, and repair. Then, we summarise the research into ML models developed for offline optimisation and in-situ diagnosis before initiating a detailed conversation on the implementation of ML-assisted in-situ process control. We found that researchers favoured reinforcement learning approaches or inverse ML models for making rapid, situation-aware control decisions. We also observed that, to-date, the defects addressed were those that may be quantified relatively easily autonomously, and that mitigation (rather than avoidance or repair) was the aim of ML-assisted in-situ control strategies. Additionally, we highlight the various technologies that must seamlessly combine to advance the field of autonomous in-situ control so that it becomes a reality in industrial settings. Finally, we raise awareness of seldom discussed, yet highly pertinent, topics relevant to adaptive control. Our work closes a significant gap in the current AM literature by broaching wide-ranging discussions on matters relevant to in-situ adaptive control in AM.
+Keywords: Artificial intelligence; Autonomous manufacturing; Closed-loop control; Diagnostics; Directed energy deposition; Industry 4.0; Powder bed fusion; Process monitoring; Prognostics; Zero defects manufacturing

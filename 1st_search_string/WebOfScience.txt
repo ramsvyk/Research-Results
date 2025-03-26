@@ -1,0 +1,264 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Cho, Yongbaek
+Z2  
+TI Attributable Watermarking of Speech Generative Models
+DT Dissertation/Thesis
+PD Jan 01 2021
+PY 2021
+ZR 0
+ZB 0
+Z8 0
+TC 0
+ZS 0
+ZA 0
+Z9 0
+C1 Arizona State University, Computer Science, Arizona, United States
+C3 Arizona State University
+BN 9798759962762
+UT PQDT:51318273
+ER
+
+PT J
+AU Fan, Chongyu
+   Liu, Jiancheng
+   Lin, Licong
+   Jia, Jinghan
+   Zhang, Ruiqi
+   Mei, Song
+   Liu, Sijia
+TI Simplicity Prevails: Rethinking Negative Preference Optimization for LLM
+   Unlearning
+SO Arxiv
+DI arXiv:2410.07163
+DT preprint
+VN 2
+PD Oct 28 2024
+PY 2024
+AB In this work, we address the problem of large language model (LLM)
+   unlearning, aiming to remove unwanted data influences and associated
+   model capabilities (e.g., copyrighted data or harmful content
+   generation) while preserving essential model utilities, without the need
+   for retraining from scratch. Despite the growing need for LLM
+   unlearning, a principled optimization framework remains lacking. To this
+   end, we revisit the state-of-the-art approach, negative preference
+   optimization (NPO), and identify the issue of reference model bias,
+   which could undermine NPO's effectiveness, particularly when unlearning
+   forget data of varying difficulty. Given that, we propose a simple yet
+   effective unlearning optimization framework, called SimNPO, showing that
+   'simplicity' in removing the reliance on a reference model (through the
+   lens of simple preference optimization) benefits unlearning. We also
+   provide deeper insights into SimNPO's advantages, supported by analysis
+   using mixtures of Markov chains. Furthermore, we present extensive
+   experiments validating SimNPO's superiority over existing unlearning
+   baselines in benchmarks like TOFU and MUSE, and robustness against
+   relearning attacks. 
+RI Liu, Sijia/HOC-2459-2023; Zhang, Ruiqi/JRY-0376-2023
+TC 0
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+Z9 0
+C1 Michigan State Univ, East Lansing, MI 48824, USA
+C1 Univ Calif Berkeley, Berkeley, CA, USA
+C1 IBM Res, Yorktown Hts, NY, USA
+C3 Michigan State Univ
+C3 IBM Res
+DA 2024-11-30
+UT PPRN:105760583
+ER
+
+PT J
+AU Zhang, Zhaoxi
+   Zhang, Xiaomei
+   Zhang, Yanjun
+   Zhang, Leo Yu
+   Chen, Chao
+   Hu, Shengshan
+   Gill, Asif
+   Pan, Shirui
+TI Large Language Model Watermark Stealing With Mixed Integer Programming
+SO Arxiv
+DI arXiv:2405.19677
+DT preprint
+VN 1
+PD May 30 2024
+PY 2024
+AB The Large Language Model (LLM) watermark is a newly emerging technique
+   that shows promise in addressing concerns surrounding LLM copyright,
+   monitoring AI -generated text, and preventing its misuse. The LLM
+   watermark scheme commonly includes generating secret keys to partition
+   the vocabulary into green and red lists, applying a perturbation to the
+   logits of tokens in the green list to increase their sampling
+   likelihood, thus facilitating watermark detection to identify AI
+   -generated text if the proportion of green tokens exceeds a threshold.
+   However, recent research indicates that watermarking methods using
+   numerous keys are susceptible to removal attacks, such as token editing,
+   synonym substitution, and paraphrasing, with robustness declining as the
+   number of keys increases. Therefore, the state-of-the-art watermark
+   schemes that employ fewer or single keys have been demonstrated to be
+   more robust against text editing and paraphrasing. In this paper, we
+   propose a novel green list stealing attack against the state-of-the-art
+   LLM watermark scheme and systematically examine its vulnerability to
+   this attack. We formalize the attack as a mixed integer programming
+   problem with constraints. We evaluate our attack under a comprehensive
+   threat model, including an extreme scenario where the attacker has no
+   prior knowledge, lacks access to the watermark detector API, and
+   possesses no information about the LLM’s parameter settings or watermark
+   injection/detection scheme. Extensive experiments on LLMs, such as OPT
+   and LLaMA, demonstrate that our attack can successfully steal the green
+   list and remove the watermark across all settings.
+RI Zhang, Leo/K-2043-2013; Gill, Asif/K-4375-2017
+ZA 0
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+TC 1
+Z9 1
+C1 Univ Technol, Sydney, Australia
+C1 Griffith Univ, Southport, QLD, Australia
+C1 Royal Melbourne Inst Technol, Melbourne, VIC, Australia
+C1 Huazhong Univ Sci & Technol, Wuhan, Peoples R China
+C3 Univ Technol
+C3 Royal Melbourne Inst Technol
+C3 Huazhong Univ Sci & Technol
+DA 2024-06-16
+UT PPRN:89110087
+ER
+
+PT J
+AU Wang, Zongqi
+   Wu, Baoyuan
+   Deng, Jingyuan
+   Yang, Yujiu
+TI ESpeW: Robust Copyright Protection for LLM-based EaaS via
+   Embedding-Specific Watermark
+SO Arxiv
+DI arXiv:2410.17552
+DT preprint
+VN 1
+PD Oct 24 2024
+PY 2024
+AB Embeddings as a Service (EaaS) is emerging as a crucial role in AI
+   applications. Unfortunately, EaaS is vulnerable to model extraction
+   attacks, highlighting the urgent need for copyright protection. Although
+   some preliminary works propose applying embedding watermarks to protect
+   EaaS, recent research reveals that these watermarks can be easily
+   removed. Hence, it is crucial to inject robust watermarks resistant to
+   watermark removal attacks. Existing watermarking methods typically
+   inject a target embedding into embeddings through linear interpolation
+   when the text contains triggers. However, this mechanism results in each
+   watermarked embedding having the same component, which makes the
+   watermark easy to identify and eliminate. Motivated by this, in this
+   paper, we propose a novel embedding-specific watermarking (ESpeW)
+   mechanism to offer robust copyright protection for EaaS. Our approach
+   involves injecting unique, yet readily identifiable watermarks into each
+   embedding. Watermarks inserted by ESpeW are designed to maintain a
+   significant distance from one another and to avoid sharing common
+   components, thus making it significantly more challenging to remove the
+   watermarks. Extensive experiments on four popular datasets demonstrate
+   that ESpeW can even watermark successfully against a highly aggressive
+   removal strategy without sacrificing the quality of embeddings.
+RI Deng, Jingyuan/AAP-6649-2020
+ZB 0
+ZS 0
+ZA 0
+TC 0
+ZR 0
+Z8 0
+Z9 0
+C1 Tsinghua Univ, Beijing, Peoples R China
+C1 Chinese Univ Hong Kong, Shenzhen, Peoples R China
+C3 Chinese Univ Hong Kong
+DA 2024-11-27
+UT PPRN:118800726
+ER
+
+PT J
+AU Zhao, Shenglei
+   Wang, Enyuan
+   Wang, Jinxin
+   Wang, Dongming
+   Li, Zhonghui
+   Zhang, Qiming
+TI Acoustic emission and electromagnetic radiation of coal-rock effective
+   and interference signal identification utilizing generative adversarial
+   learning and image feature mining
+SO PHYSICS OF FLUIDS
+VL 36
+IS 11
+AR 116606
+DI 10.1063/5.0237119
+DT Article
+PD NOV 2024
+PY 2024
+AB Acoustic Emission (AE) and Electromagnetic Radiation (EMR) are playing
+   an increasingly important role in the field of coal and rock dynamic
+   disaster early warning due to their accurate response to the evolution
+   process. However, blasting, drilling, and other coal mine technical
+   activities are easily to produce interference signals, which seriously
+   affect the credibility of early warning information. Moreover,
+   unbalanced samples and complex characteristic characterization cannot
+   achieve accurate identification. This paper presents a novel
+   identification method for effective and interference signal of AE and
+   EMR based on generative adversarial learning and image feature mining.
+   First, Kalman filter is applied to AE and EMR monitoring signals to
+   remove noise and retain key features. The Wasserstein Generative
+   Adversarial Network, then, resolves the imbalance between the sample
+   numbers of effective and various types of interference signals to ensure
+   generalization of the identification. The effective and interference
+   signal samples are further converted graphically by Symmetrized Dot
+   Pattern, and intuitive different distribution characteristics are
+   obtained. Finally, the EfficientNet model accurately identified typical
+   effective and six interference signals collected downhole. The practical
+   case of a coal mine in Liaoning Province shows that the proposed method
+   is feasible and effective, and can provide a basis for reliable early
+   warning of coal and rock dynamic disasters.
+ZS 0
+TC 0
+ZR 0
+Z8 0
+ZB 0
+ZA 0
+Z9 0
+C1 China Univ Min & Technol, Sch Safety Engn, Xuzhou 221116, Peoples R
+   China
+C1 China Univ Min & Technol, Key Lab Gas & Fire Control Coal Mines, Minist
+   Educ, Xuzhou 221116, Peoples R China
+C1 China Univ Min Technol, State Key Lab Coal Mine Disaster Prevent &
+   Control, Xuzhou 221116, Peoples R China
+C1 Natl Mine Safety Adm, Key Lab Theory & Technol Coal & Rock Dynam
+   Disaste, Xuzhou 221116, Peoples R China
+C3 Natl Mine Safety Adm
+SN 1070-6631
+EI 1089-7666
+DA 2024-11-20
+UT WOS:001354259400007
+ER
+
+PT B
+AU Chen, Huili
+Z2  
+TI Towards Holistic Secure and Trustworthy Deep Learning
+DT Dissertation/Thesis
+PD Jan 01 2022
+PY 2022
+ZA 0
+TC 0
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+Z9 0
+C1 University of California, San Diego, Electrical and Computer
+   Engineering, California, United States
+C3 University of California, San Diego
+BN 9798368423654
+UT PQDT:68197162
+ER
+
+EF

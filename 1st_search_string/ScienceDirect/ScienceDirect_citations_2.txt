@@ -1,0 +1,1275 @@
+Carl Preiksaitis, Nicholas Ashenburg, Gabrielle Bunney, Andrew Chu, Rana Kabeer, Fran Riley, Ryan Ribeira, Christian Rose,
+The Role of Large Language Models in Transforming Emergency Medicine: Scoping Review,
+JMIR Medical Informatics,
+Volume 12,
+2024,
+,
+ISSN 2291-9694,
+https://doi.org/10.2196/53787.
+(https://www.sciencedirect.com/science/article/pii/S2291969424000516)
+Abstract: Background
+Artificial intelligence (AI), more specifically large language models (LLMs), holds significant potential in revolutionizing emergency care delivery by optimizing clinical workflows and enhancing the quality of decision-making. Although enthusiasm for integrating LLMs into emergency medicine (EM) is growing, the existing literature is characterized by a disparate collection of individual studies, conceptual analyses, and preliminary implementations. Given these complexities and gaps in understanding, a cohesive framework is needed to comprehend the existing body of knowledge on the application of LLMs in EM.
+Objective
+Given the absence of a comprehensive framework for exploring the roles of LLMs in EM, this scoping review aims to systematically map the existing literature on LLMs’ potential applications within EM and identify directions for future research. Addressing this gap will allow for informed advancements in the field.
+Methods
+Using PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) criteria, we searched Ovid MEDLINE, Embase, Web of Science, and Google Scholar for papers published between January 2018 and August 2023 that discussed LLMs’ use in EM. We excluded other forms of AI. A total of 1994 unique titles and abstracts were screened, and each full-text paper was independently reviewed by 2 authors. Data were abstracted independently, and 5 authors performed a collaborative quantitative and qualitative synthesis of the data.
+Results
+A total of 43 papers were included. Studies were predominantly from 2022 to 2023 and conducted in the United States and China. We uncovered four major themes: (1) clinical decision-making and support was highlighted as a pivotal area, with LLMs playing a substantial role in enhancing patient care, notably through their application in real-time triage, allowing early recognition of patient urgency; (2) efficiency, workflow, and information management demonstrated the capacity of LLMs to significantly boost operational efficiency, particularly through the automation of patient record synthesis, which could reduce administrative burden and enhance patient-centric care; (3) risks, ethics, and transparency were identified as areas of concern, especially regarding the reliability of LLMs’ outputs, and specific studies highlighted the challenges of ensuring unbiased decision-making amidst potentially flawed training data sets, stressing the importance of thorough validation and ethical oversight; and (4) education and communication possibilities included LLMs’ capacity to enrich medical training, such as through using simulated patient interactions that enhance communication skills.
+Conclusions
+LLMs have the potential to fundamentally transform EM, enhancing clinical decision-making, optimizing workflows, and improving patient outcomes. This review sets the stage for future advancements by identifying key research areas: prospective validation of LLM applications, establishing standards for responsible use, understanding provider and patient perceptions, and improving physicians’ AI literacy. Effective integration of LLMs into EM will require collaborative efforts and thorough evaluation to ensure these technologies can be safely and effectively applied.
+Keywords: large language model; LLM; emergency medicine; clinical decision support; workflow efficiency; medical education; artificial intelligence; AI; natural language processing; NLP; AI literacy; ChatGPT; Bard; Pathways Language Model; Med-PaLM; Bidirectional Encoder Representations from Transformers; BERT; generative pretrained transformer; GPT; United States; US; China; scoping review; Preferred Reporting Items for Systematic Reviews and Meta-Analyses; PRISMA; decision support; workflow efficiency; risk; ethics; education; communication; medical training; physician; health literacy; emergency care
+
+Liang Wang, Munan Li,
+An exploration method for technology forecasting that combines link prediction with graph embedding: A case study on blockchain,
+Technological Forecasting and Social Change,
+Volume 208,
+2024,
+123736,
+ISSN 0040-1625,
+https://doi.org/10.1016/j.techfore.2024.123736.
+(https://www.sciencedirect.com/science/article/pii/S0040162524005341)
+Abstract: To keep pace with the latest technological changes and advancements, predicting future technological trends and topics has become a critical approach for high-tech companies and policy-making institutions. In this paper, we proposed an explorative method that integrates link prediction and Node2Vec graph embedding to predict future technology topics using co-occurrence data from patent keywords. Specifically, this method collects and preprocesses patent datasets, constructs network graphs that depict relationships among different technology topics, and builds a supervised link prediction model based on the time series of the graph to identify future technology graphs. Furthermore, node2vec graph embedding is conducted to obtain node vector representations, and then the clustering algorithms can be improved to identify the relevant topics, which could be interpreted as future technology. A case study on blockchain is conducted to validate the feasibility and practicality of the method to demonstrate the application of the method. Through the comparison of machine learning methods, we selected the Random Forest (RF) model, which presents the highest accuracy, for our experiments. The results show that the proposed method can be used to effectively visualize potential future topics related to a specific technology. Compared to traditional methods such as Latent Dirichlet Allocation (LDA), our method can identify more unique and differentiated technological topics, significantly reducing topic overlap. Additionally, the reported method can illustrate the internal relationships of topics through subgraphs, helping readers better understand the core concepts of each topic and vividly displaying the structure and composition of the topics. Furthermore, the proposed method can also depict potential relationships between different technology topics, which can facilitate the visualization of new directions of research and development.
+Keywords: Technology forecasting; Topic recognition; Link prediction; Graph representation learning; Emerging technology; Blockchain
+
+Mojtaba A. Farahani, Fadi El Kalach, Austin Harper, M.R. McCormick, Ramy Harik, Thorsten Wuest,
+Time-series forecasting in smart manufacturing systems: An experimental evaluation of the state-of-the-art algorithms,
+Robotics and Computer-Integrated Manufacturing,
+Volume 95,
+2025,
+103010,
+ISSN 0736-5845,
+https://doi.org/10.1016/j.rcim.2025.103010.
+(https://www.sciencedirect.com/science/article/pii/S073658452500064X)
+Abstract: Time-Series Forecasting (TSF) is a growing research area across various domains including manufacturing. Manufacturing can benefit from Artificial Intelligence (AI) and Machine Learning (ML) innovations for TSF tasks. Although numerous TSF algorithms have been developed and proposed over the past decades, the critical validation and experimental evaluation of the algorithms hold substantial value for researchers and practitioners and are missing to date. This study aims to fill this research gap by providing a rigorous experimental evaluation of the state-of-the-art TSF algorithms on thirteen manufacturing-related datasets with a focus on their applicability in smart manufacturing environments. Each algorithm was selected based on the defined TSF categories to ensure a representative set of state-of-the-art algorithms. The evaluation includes different scenarios to evaluate the models using combinations of two problem categories (univariate and multivariate) and two forecasting horizons (short- and long-term). To evaluate the performance of the algorithms, the weighted average percent error was calculated for each application, and additional post hoc statistical analyses were conducted to assess the significance of observed differences. Only algorithms with accessible codes from open-source libraries were utilized, and no hyperparameter tuning was conducted. This approach allowed us to evaluate the algorithms as "out-of-the-box" solutions that can be easily implemented, ensuring their usability within the manufacturing sector by practitioners with limited technical knowledge of ML algorithms. This aligns with the objective of facilitating the adoption of these techniques in Industry 4.0 and smart manufacturing systems. Based on the results, transformer- and MLP-based architectures demonstrated the best performance across different scenarios with MLP-based architecture winning the most scenarios. For univariate TSF, PatchTST emerged as the most robust algorithm, particularly for long-term horizons, while for multivariate problems, MLP-based architectures like N-HITS and TiDE showed superior results. The study revealed that simpler algorithms like XGBoost could outperform more complex transformer-based in certain tasks. These findings challenge the assumption that more sophisticated models inherently produce better results. Additionally, the research highlighted the importance of computational resource considerations, showing significant variations in runtime and memory usage across different algorithms.
+Keywords: Smart manufacturing; Artificial intelligence; Time-series; Forecasting; Machine learning; Datasets
+
+Matthew Gaber, Mohiuddin Ahmed, Helge Janicke,
+Zero day ransomware detection with Pulse: Function classification with Transformer models and assembly language,
+Computers & Security,
+Volume 148,
+2025,
+104167,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2024.104167.
+(https://www.sciencedirect.com/science/article/pii/S0167404824004723)
+Abstract: Finding automated AI techniques to proactively defend against malware has become increasingly critical. The ability of an AI model to correctly classify novel malware is dependent on the quality of the features it is trained with and the authenticity of the features is dependent on the analysis tool. Peekaboo, a Dynamic Binary Instrumentation tool defeats evasive malware to capture its genuine behaviour. The ransomware Assembly instructions captured by Peekaboo, follow Zipf’s law, a principle also observed in natural languages, indicating Transformer models are particularly well-suited to binary classification. We propose Pulse, a novel framework for zero day ransomware detection with Transformer models and Assembly language. Pulse, trained with the Peekaboo ransomware and benign software data, uniquely identify truly new samples with high accuracy. Pulse eliminates any familiar functionality across the test and training samples, forcing the Transformer model to detect malicious behaviour based solely on context and novel Assembly instruction combinations.
+Keywords: Dynamic binary instrumentation; Malware analysis; Feature extraction; Ransomware; Transformers; LLM; AI; Assembly
+
+Weiping Ding, Mohamed Abdel-Basset, Ahmed M. Ali, Nour Moustafa,
+A survey of intelligent multimedia forensics for internet of things communications: Approaches, strategies, perspectives, and challenges for a sustainable future,
+Engineering Applications of Artificial Intelligence,
+Volume 138, Part B,
+2024,
+109451,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2024.109451.
+(https://www.sciencedirect.com/science/article/pii/S0952197624016099)
+Abstract: Digital forensics is a proven method for collecting, preserving, reporting, analyzing, identifying, and presenting digital evidence from the original data, and it helps find evidence of cybercrimes. Intelligent multimedia forensics is a type of digital forensics and is essential because it is used to identify fake multimedia, including images, videos, audio, and text. This paper conducted a comprehensive survey for intelligent multimedia forensics, categorized into 3 classes: deep learning forensics, multimedia forensics, and network and Internet of Things forensics. In the first class, we provided a survey of the multiple attacks breaking the DL models, such as attacks in the training step, and the testing step, and crafted. In the craft attacks, we survey the three attacks: white box, gray box, and black box. We also provided some defense methods against DL attacks, training step attacks, and testing step attacks. In the second class, we offered a survey of multimedia forensics, including passive and active manipulation. In the third class, we provide a survey of network/IoT forensics, including the attacks in five layers: physical, data link, transport, application, and network. We also provided network/IoT attack detection in the third class using deep learning models. We applied AI models in various datasets and obtained higher accuracy and performance on the datasets from various used models. Finally, we offered the challenges and future direction for the researcher in this scope.
+Keywords: Multimedia forensics; Internet of things; Deep learning; Intrusion detection system application
+
+Ismael Castillo-Ortiz, Carmen Villar-Patiño, Elizabeth Guevara-Martínez,
+Computer vision solution for uniform adherence in gastronomy schools: An artificial intelligence case study,
+International Journal of Gastronomy and Food Science,
+Volume 37,
+2024,
+100997,
+ISSN 1878-450X,
+https://doi.org/10.1016/j.ijgfs.2024.100997.
+(https://www.sciencedirect.com/science/article/pii/S1878450X24001306)
+Abstract: This research study presents an innovative application of computer vision technology in culinary education to ensure consistent student uniform adherence, crucial to accomplishing hygiene, safety, and professionalism standards. The proposed approach utilizes the Cross-Industry Standard Process for Data Mining (CRISP-DM) methodology to generate a computer vision application prototype to identify specific culinary uniforms components, such as chef's jackets, aprons, hats, and pants. The development process using LandingLens, a code-free platform, involves several stages: business and data understanding, preparation, modeling, evaluation, and deployment. The final model was training with 77 images, and the application deployment was tested using 38 images. Results demonstrate the potential of artificial intelligence to enhance operational efficiency and uphold professional standards in culinary education. Integrating computer vision addresses the challenges associated with manual monitoring and opens opportunities for broader adoption of technology in culinary pedagogy and training.
+Keywords: Culinary education; Uniform standards detection; Deep learning; Gastronomy schools; Code-free
+
+Sanjay Jain, Habib A. Islam, Martin C. Goossen, Anil Nair,
+Social movements and institutional entrepreneurship as facilitators of technology transition: The case of free/open-source software,
+Research Policy,
+Volume 52, Issue 2,
+2023,
+104672,
+ISSN 0048-7333,
+https://doi.org/10.1016/j.respol.2022.104672.
+(https://www.sciencedirect.com/science/article/pii/S0048733322001937)
+Abstract: We integrate insights from the literature on social movements and institutional entrepreneurship into the strategic niche management (SNM) and multilevel perspective (MLP) frameworks to understand the emergence of Linux, a free/open-source operating system, in a regime dominated by proprietary operating systems such as Unix and Windows NT. Employing a “microhistories” methodology, we document how actors in the free/open-source movement took steps that enabled an alternate technological niche to form, gain momentum and eventually infiltrate the extant regime. Our account delineates the key role that actors play in shaping the identity of a niche, amplifying its presence, and finally mainstreaming it. We observe a heterogenous response by incumbents to the emergent niche and highlight the sustained coexistence of a niche and regime as a distinct form of technological transition. Finally, we demonstrate the significant impact that a niche can have, spanning beyond the targeted regime, and becoming part of the landscape. Our insights highlight how tracing the processes involved in the emergence and development of a niche can provide a prospective and generative understanding of technological transition, thereby contributing to and complementing the extant SNM and MLP literatures.
+Keywords: Technological regimes; Multi-level perspective; Strategic niche management; micro-histories; Social movements; Institutional entrepreneurship
+
+Lena L. Voigt, Felix Freiling, Christopher J. Hargreaves,
+Re-imagen: Generating coherent background activity in synthetic scenario-based forensic datasets using large language models,
+Forensic Science International: Digital Investigation,
+Volume 50, Supplement,
+2024,
+301805,
+ISSN 2666-2817,
+https://doi.org/10.1016/j.fsidi.2024.301805.
+(https://www.sciencedirect.com/science/article/pii/S266628172400129X)
+Abstract: Due to legal and privacy-related restrictions, the generation of synthetic data is recommended for creating datasets for digital forensic education and training. One challenge when synthesizing scenario-based forensic data is the creation of coherent background activity besides evidential actions. This work leverages the creative writing abilities of large language models (LLMs) to generate personas and actions that describe the background usage of a device consistent with the created persona. These actions are subsequently converted into a machine-readable format and executed on a virtualized device using VM control automation. We introduce Re-imagen, a framework that combines state-of-the-art LLMs and a recent unintrusive GUI automation tool to produce synthetic disk images that contain arguably coherent “wear-and-tear” artifacts that current synthesis platforms lack. While, for now, the focus is on the coherence of the generated background activity, we believe that the proposed approach is a step toward more realistic synthetic disk image generation.
+Keywords: Forensic datasets; User simulation; Large language models (LLM); Forensic disk image generation; Data synthesis; Digital forensic education; ChatGPT
+
+Kellie A. Charles, Arsalan Yousuf, Han Chow Chua, Slade Matthews, Joanna Harnett, Tina Hinton,
+AI in action: Changes to student perceptions when using generative artificial intelligence for the creation of a multimedia project-based assessment,
+European Journal of Pharmacology,
+Volume 998,
+2025,
+177508,
+ISSN 0014-2999,
+https://doi.org/10.1016/j.ejphar.2025.177508.
+(https://www.sciencedirect.com/science/article/pii/S0014299925002626)
+Abstract: Introduction
+New modes of assessments are needed to evaluate of the authenticity of student learning in an artificial intelligence (AI) world. In mid-2023, we piloted a new assessment type; a collaborative group multimedia assessment with AI allowance. The aim of the research study was to explore the experiences of students using AI in a multimedia assessment. We further aimed to determine whether these use cases changed student perceptions of the ways AI can be used in learning and assessment.
+Methods
+Students enrolled in a capstone Pharmacology interdisciplinary unit (n = 40) were included in an exploratory, qualitative case study methodology. Thematic analysis using an AI role-based conceptual framework was used to explore student perceptions of AI use prior to and during their projects from logbooks documenting the assessment process.
+Results
+AI was initially perceived by students as having a personal tutor-style role, which aligned with the taxonomy with AI acting as an Arbiter (49 %), Oracle (41 %) and Quant (10 %). In contrast to their earlier perceptions, AI was only used in a limited manner in the early stages of assessment in the idea generation in the role as an Oracle (86 %) or in data analytic purposes as a Quant (14 %), (n = 14 cases in 5 groups). No student group used AI to generate written text for the final assessment.
+Discussion
+Tension between perceived and actual use of AI is indicative of the uncertainty faced by students with the allowance of AI within assessments. Clear guidance for educators and students about how to assess the AI-supported learning process is needed to ensure the integrity of the assessment system.
+Keywords: Science education; Pharmacology education; Artificial intelligence; AI; ChatGPT
+
+Quoc-Phu Ma, Hoang-Sy Nguyen, Jiri Hajnys, Jakub Mesicek, Marek Pagac, Jana Petru,
+A bibliometric review on application of machine learning in additive manufacturing and practical justification,
+Applied Materials Today,
+Volume 40,
+2024,
+102371,
+ISSN 2352-9407,
+https://doi.org/10.1016/j.apmt.2024.102371.
+(https://www.sciencedirect.com/science/article/pii/S2352940724003160)
+Abstract: This paper delves into the cutting-edge applications of Machine Learning (ML) within modern Additive Manufacturing (AM), employing bibliometric analysis as its methodology. Formulated around three pivotal research questions, the study navigates through the current landscape of the research field. Utilizing data sourced from Web of Science, the paper conducts a comprehensive statistical and visual analysis to unveil underlying patterns within the existing literature. Each category of ML techniques is elucidated alongside its specific applications, providing researchers with a holistic overview of the research terrain and serving as a practical checklist for those seeking to address particular challenges. Culminating in a vision for the Smart Additive Manufacturing Factory (SAMF), the paper envisions seamless integration of reviewed ML techniques. Furthermore, it offers critical insights from a practical standpoint, thereby facilitating shaping future research directions in the field.
+Keywords: Additive manufacturing; Machine learning; Bibliometric analysis
+
+Ruben H.A.J. Ogink, Martin C. Goossen, A. Georges L. Romme, Henk Akkermans,
+Mechanisms in open innovation: A review and synthesis of the literature,
+Technovation,
+Volume 119,
+2023,
+102621,
+ISSN 0166-4972,
+https://doi.org/10.1016/j.technovation.2022.102621.
+(https://www.sciencedirect.com/science/article/pii/S0166497222001687)
+Abstract: A large body of literature explores the role of context, structure, actors, and outcomes of open innovation (OI), yet pays little attention to the mechanisms underlying these relationships. In this review paper, we synthesize the OI literature using a context-mechanism-outcome approach to identify and classify the various mechanisms observed in empirical OI studies. Our findings demonstrate that the OI literature draws on a wide variety of mechanisms originating from the fields of management, sociology, economics, and psychology. The fifteen mechanisms most frequently observed in the literature fall into four categories: governance and policies; environmental dynamics and interactions; knowledge, skills, and capabilities; and learning by doing. Moreover, by examining the levels of analysis of these mechanisms, we observe substantial differences in how these mechanisms operate at the individual, project, firm, network, and society level. Finally, we identify various avenues for future research arising from our synthesis of the literature.
+Keywords: Open innovation; Literature review; Generative mechanisms; Research synthesis; Mechanisms; Research agenda
+
+Zhimao Lai, Saad Arif, Cong Feng, Guangjun Liao, Chuntao Wang,
+Enhancing Deepfake Detection: Proactive Forensics Techniques Using Digital Watermarking,
+Computers, Materials and Continua,
+Volume 82, Issue 1,
+2025,
+Pages 73-102,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2024.059370.
+(https://www.sciencedirect.com/science/article/pii/S1546221825000311)
+Abstract: With the rapid advancement of visual generative models such as Generative Adversarial Networks (GANs) and stable Diffusion, the creation of highly realistic Deepfake through automated forgery has significantly progressed. This paper examines the advancements in Deepfake detection and defense technologies, emphasizing the shift from passive detection methods to proactive digital watermarking techniques. Passive detection methods, which involve extracting features from images or videos to identify forgeries, encounter challenges such as poor performance against unknown manipulation techniques and susceptibility to counter-forensic tactics. In contrast, proactive digital watermarking techniques embed specific markers into images or videos, facilitating real-time detection and traceability, thereby providing a preemptive defense against Deepfake content. We offer a comprehensive analysis of digital watermarking-based forensic techniques, discussing their advantages over passive methods and highlighting four key benefits: real-time detection, embedded defense, resistance to tampering, and provision of legal evidence. Additionally, the paper identifies gaps in the literature concerning proactive forensic techniques and suggests future research directions, including cross-domain watermarking and adaptive watermarking strategies. By systematically classifying and comparing existing techniques, this review aims to contribute valuable insights for the development of more effective proactive defense strategies in Deepfake forensics.
+Keywords: Deepfake; proactive forensics; digital watermarking; traceability; detection techniques
+
+Seoin Back, Alán Aspuru-Guzik, Michele Ceriotti, Ganna Gryn'ova, Bartosz Grzybowski, Geun Ho Gu, Jason Hein, Kedar Hippalgaonkar, Rodrigo Hormázabal, Yousung Jung, Seonah Kim, Woo Youn Kim, Seyed Mohamad Moosavi, Juhwan Noh, Changyoung Park, Joshua Schrier, Philippe Schwaller, Koji Tsuda, Tejs Vegge, O. Anatole von Lilienfeld, Aron Walsh,
+Accelerated chemical science with AI,
+Digital Discovery,
+Volume 3, Issue 1,
+2024,
+Pages 23-33,
+ISSN 2635-098X,
+https://doi.org/10.1039/d3dd00213f.
+(https://www.sciencedirect.com/science/article/pii/S2635098X24000858)
+Abstract: In light of the pressing need for practical materials and molecular solutions to renewable energy and health problems, to name just two examples, one wonders how to accelerate research and development in the chemical sciences, so as to address the time it takes to bring materials from initial discovery to commercialization. Artificial intelligence (AI)-based techniques, in particular, are having a transformative and accelerating impact on many if not most, technological domains. To shed light on these questions, the authors and participants gathered in person for the ASLLA Symposium on the theme of ‘Accelerated Chemical Science with AI’ at Gangneung, Republic of Korea. We present the findings, ideas, comments, and often contentious opinions expressed during four panel discussions related to the respective general topics: ‘Data’, ‘New applications’, ‘Machine learning algorithms’, and ‘Education’. All discussions were recorded, transcribed into text using Open AI's Whisper, and summarized using LG AI Research's EXAONE LLM, followed by revision by all authors. For the broader benefit of current researchers, educators in higher education, and academic bodies such as associations, publishers, librarians, and companies, we provide chemistry-specific recommendations and summarize the resulting conclusions.
+
+Xi Tian, Fei Peng, Guoen Wei, Chong Xiao, Qingyuan Ma, Zhikang Hu, Yaobin Liu,
+Agent-based modeling in solid waste management: Advantages, progress, challenges and prospects,
+Environmental Impact Assessment Review,
+Volume 110,
+2025,
+107723,
+ISSN 0195-9255,
+https://doi.org/10.1016/j.eiar.2024.107723.
+(https://www.sciencedirect.com/science/article/pii/S019592552400310X)
+Abstract: The growing issue of solid waste management (SWM) is recognized as a significant challenge to ecosystem preservation. Agent-based modeling (ABM) has received significant attention for its capability to address complex systems and simulate the outcomes of strategic implementation. This review compares ABM with other methods and provides a comprehensive overview of research on ABM in SWM from 2000 to 2023, emphasizing its advantages, progress, challenges, and future directions. Results indicate that: 1) ABM possesses 8 key advantages in simulating individual behavior, responses to environmental changes across time and spatial scales, and decision-making processes, namely interactivity, heterogeneity, dynamism, traceability, spatiality, scalability, complexity, and adaptability. 2) Current research primarily focuses on simulating behavioral and strategic effects of SWM (accounting for 45.5 %), while multi-model coupling is becoming a new trend. 3) ABM encounters challenges in its research, including a lack of standardized research steps, high data dependency, limited computing resources, and difficulties in algorithm explanation. Therefore, this study introduces a set of normative steps that provide clear guidance for research and help ensure the reproducibility and accuracy of studies. Future research should incorporate big data and emerging technologies to enhance computational efficiency and processing capabilities of models. To better utilize ABM for achieving environmental protection and sustainable development goals, prioritizing integration of multi-model coupling, interdisciplinary collaboration, visualization, and open-source code sharing as key strategies is essential.
+Keywords: Solid waste management; Agent-based modeling; Sustainable development; Complex systems simulation; Systematic review
+
+Agnia Sergeyuk, Yaroslav Golubev, Timofey Bryksin, Iftekhar Ahmed,
+Using AI-based coding assistants in practice: State of affairs, perceptions, and ways forward,
+Information and Software Technology,
+Volume 178,
+2025,
+107610,
+ISSN 0950-5849,
+https://doi.org/10.1016/j.infsof.2024.107610.
+(https://www.sciencedirect.com/science/article/pii/S0950584924002155)
+Abstract: Context:
+The last several years saw the emergence of AI assistants for code — multi-purpose AI-based helpers in software engineering. As they become omnipresent in all aspects of software development, it becomes critical to understand their usage patterns.
+Objective:
+We aim to better understand how specifically developers are using AI assistants, why they are not using them in certain parts of their development workflow, and what needs to be improved in the future.
+Methods:
+In this work, we carried out a large-scale survey aimed at how AI assistants are used, focusing on specific software development activities and stages. We collected opinions of 481 programmers on five broad activities: (a) implementing new features, (b) writing tests, (c) bug triaging, (d) refactoring, and (e) writing natural-language artifacts, as well as their individual stages.
+Results:
+Our results provide a novel comparison of different stages where AI assistants are used that is both comprehensive and detailed. It highlights specific activities that developers find less enjoyable and want to delegate to an AI assistant, e.g., writing tests and natural-language artifacts. We also determine more granular stages where AI assistants are used, such as generating tests and generating docstrings, as well as less studied parts of the workflow, such as generating test data. Among the reasons for not using assistants, there are general aspects like trust and company policies, as well as more concrete issues like the lack of project-size context, which can be the focus of the future research.
+Conclusion:
+The provided analysis highlights stages of software development that developers want to delegate and that are already popular for using AI assistants, which can be a good focus for features aimed to help developers right now. The main reasons for not using AI assistants can serve as a guideline for future work.
+Keywords: LLMs; AI assistants; Software development lifecycle
+
+
+DLA Piper EU update,
+Computer Law & Security Review,
+Volume 52,
+2024,
+105859,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2023.105859.
+(https://www.sciencedirect.com/science/article/pii/S0267364923000699)
+
+Jacob Wulff Wold, Florian Stadtmann, Adil Rasheed, Mandar Tabib, Omer San, Jan-Tore Horn,
+Enhancing wind field resolution in complex terrain through a knowledge-driven machine learning approach,
+Engineering Applications of Artificial Intelligence,
+Volume 137, Part A,
+2024,
+109167,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2024.109167.
+(https://www.sciencedirect.com/science/article/pii/S0952197624013253)
+Abstract: Wind energy, an essential component in the fight against climate change, relies heavily on precise, detailed wind field simulations to optimize wind farms, particularly in complex terrain with intricate wind patterns. However, conventional high-resolution simulations come with a hefty computational cost, limiting their applicability in real-time decision-making. This research addresses this challenge by proposing a machine learning-driven, computationally efficient approach utilizing a modified Generative Adversarial Network. The contribution of this work is threefold. Firstly, we provide access to a unique high-resolution dataset of wind fields in complex terrain. Secondly, we introduce a knowledge-based modification to the loss function, ensuring that the algorithm captures crucial characteristics of the flow within complex terrains. Finally, we demonstrate the potential of our approach to enhance wind flow resolution in real-life wind farms. Through this, our method delivers comparable accuracy to high-resolution simulations while substantially reducing computational demands. This advancement greatly enhances the accessibility and efficiency of high-resolution wind field simulations, facilitating real-time optimization of wind farms. Moreover, we illustrate that by designing an appropriate loss function informed by domain knowledge, we can mitigate the need for adversarial training.
+Keywords: Generative adversarial networks; Turbulence; Physics-based simulator; Super-resolution upscaling; Computational methods
+
+Himendra Balalle, Sachini Pannilage,
+Reassessing academic integrity in the age of AI: A systematic literature review on AI and academic integrity,
+Social Sciences & Humanities Open,
+Volume 11,
+2025,
+101299,
+ISSN 2590-2911,
+https://doi.org/10.1016/j.ssaho.2025.101299.
+(https://www.sciencedirect.com/science/article/pii/S2590291125000269)
+Abstract: Academic integrity is a key factor in the quality of education that represents honesty, trust, and ethical conduct. In today's rapidly changing educational landscape, artificial intelligence (AI) poses significant challenges to the educational ecosystem's ability to maintain academic integrity. It also affects the qualifications offered by institutes. Although AI supports students in completing academic tasks, it usually risks violating the basic rules of academic integrity. In addition, AI can be used to detect academic misconduct. This study aims to critically examine the impact of AI on academic integrity through a systematic literature review. The research question was developed using the PICO framework, and the articles considered in this study were collected from Scopus, PubMed, DOAJ, and Base. Of 1443 articles, 25 were selected based on the PRISMA framework. We used the Cochrane risk of bias tool (ROBINS-1) to analyse the risk of bias in the selected studies. The discussion section was developed based on PICO frameworks – population of the study, intervention with AI tools, comparison of modern and traditional methods, and outcome of AI use for academic activities – to answer the research question. This research contributes to the ongoing dialogue about AI and academic integrity by emphasising the importance of a balanced approach to using the benefits of AI in education while upholding ethical standards. This study concludes by emphasising the importance of creating a culture of academic integrity to ensure the ethical use of AI for educational purposes.
+Keywords: Academic integrity; Artificial intelligence; Academic misconduct; AI-Generated writing; Educational ethics
+
+Rana AlShaikh, Norah Al-Malki, Maida Almasre,
+The implementation of the cognitive theory of multimedia learning in the design and evaluation of an AI educational video assistant utilizing large language models,
+Heliyon,
+Volume 10, Issue 3,
+2024,
+e25361,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2024.e25361.
+(https://www.sciencedirect.com/science/article/pii/S2405844024013926)
+Abstract: The integration of Artificial Intelligence (AI) holds immense potential for revolutionizing education; especially, in contexts where multimodal learning experiences are designed. This paper investigated the potential benefits of Generative Artificial Intelligence (AI) in education, concentrating on the design and evaluation of an AI Educational Video Assistant tailored for multimodal learning experiences. The tool, utilizing the principles of the Cognitive Theory of Multimedia Learning (CTML), comprises three modules: Transcription, Engagement, and Reinforcement, each focusing on distinct aspects of the learning process. It Integraties Automatic Speech Recognition (ASR) using OpenAI's Whisper and Google's Large Language Model (LLM) Bard. Our twofold objective includes both the development of this AI assistant tool and the assessment of its effect on improving the learning experiences. For the evaluation, a mixed methods approach was adopted, combining human evaluation by nine educational experts with automatic metrics. Participants provided their perceptions on the tool's effectiveness in terms of engagement, content organization, clarity, and usability. Additionally, automatic metrics including Content Distinctiveness and Readability scores were computed. The results from the human evaluation suggest positive impacts across all assessed domains. The automatic metrics further proved the tool's ability in content generation and readability. Collectively, these preliminary results highlight the tool's potential to revolutionize educational design and provide personalized and engaging learning experiences.
+Keywords: Large language models; Cognitive theory of multimedia learning; Educational video; ASR; Google's bard
+
+Susan Gardner Archambault, Shalini Ramachandran, Elisa Acosta, Sheree Fu,
+Ethical dimensions of algorithmic literacy for college students: Case studies and cross-disciplinary connections,
+The Journal of Academic Librarianship,
+Volume 50, Issue 3,
+2024,
+102865,
+ISSN 0099-1333,
+https://doi.org/10.1016/j.acalib.2024.102865.
+(https://www.sciencedirect.com/science/article/pii/S0099133324000260)
+Abstract: This article addresses three key questions related to the ethical facets of algorithmic literacy. First, it synthesizes existing literature to identify six core ethical components, including bias, privacy, transparency, accountability, accuracy, and non-maleficence. Second, a crosswalk maps the intersections of these principles across the Association of College and Research Libraries' Framework for Information Literacy for Higher Education and the Association of Computing Machinery's Code of Ethics and Professional Conduct and Joint Statement on Principles for Responsible Algorithmic Systems. This analysis reveals significant overlap on issues like unfairness and transparency, helping prioritize topics for instruction. Finally, case studies showcase pedagogical strategies for teaching ethical considerations, informed by the crosswalk. Workshops for diverse undergraduates and computer science students employed reallife instances of algorithmic bias to prompt reflection on unintended harm, contestability, and responsible development. Pre-post surveys indicated expanded critical perspectives after the interventions. By systematically examining shared values and testing instructional approaches, this study provides practical tools to shape ethical thinking on algorithms. It also demonstrates promising practices for responsibly advancing algorithmic literacy across disciplines. Ultimately, fostering interdisciplinary awareness and multipronged educational initiatives can empower students to question algorithmic authority and biases.
+Keywords: Algorithmic literacy; Information literacy; Algorithmic bias; AI ethics; Algorithmic fairness; Computer science education
+
+Shirley Hsueh-Li Huang, Guo-Hsin Hu, Ming-Fu Hsu,
+Identifying contextual content-based risk drivers for advanced risk management strategies,
+Research in International Business and Finance,
+Volume 73, Part B,
+2025,
+102643,
+ISSN 0275-5319,
+https://doi.org/10.1016/j.ribaf.2024.102643.
+(https://www.sciencedirect.com/science/article/pii/S0275531924004367)
+Abstract: This research proposes a profound contextual topic identifier that incorporates topic modelling and a word embedding technique to discover and quantify corporate risks from its self-identified risk disclosures and examines the association between each risk type and operating performance via artificial intelligence (AI) technique. Via topic modelling adoption, we are able to discover the most essential risks confronted by corporates in the near future and evaluate how they respond to these risks. To gain deeper insight, the study performs a bidirectional encoder representation from transformers (BERT) (one type of word embedding approach) to extract and quantify the semantic features embedded into each risk disclosure. The results show that operating performance significantly and positively relates to corporate-specific risks. This study offers solid and direct support for authorities that set accounting principles to encourage firm managers to add a new section on risk factors in annual reports.
+Keywords: Artificial intelligence; Risk management; Decision making; Text mining; Word embedding
+
+Vladimir Makarov, Christophe Chabbert, Elina Koletou, Fotis Psomopoulos, Natalja Kurbatova, Samuel Ramirez, Chas Nelson, Prashant Natarajan, Bikalpa Neupane,
+Good machine learning practices: Learnings from the modern pharmaceutical discovery enterprise,
+Computers in Biology and Medicine,
+Volume 177,
+2024,
+108632,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2024.108632.
+(https://www.sciencedirect.com/science/article/pii/S0010482524007170)
+Abstract: Machine Learning (ML) and Artificial Intelligence (AI) have become an integral part of the drug discovery and development value chain. Many teams in the pharmaceutical industry nevertheless report the challenges associated with the timely, cost effective and meaningful delivery of ML and AI powered solutions for their scientists. We sought to better understand what these challenges were and how to overcome them by performing an industry wide assessment of the practices in AI and Machine Learning. Here we report results of the systematic business analysis of the personas in the modern pharmaceutical discovery enterprise in relation to their work with the AI and ML technologies. We identify 23 common business problems that individuals in these roles face when they encounter AI and ML technologies at work, and describe best practices (Good Machine Learning Practices) that address these issues.
+Keywords: Artificial intelligence; Machine learning; Pharmaceutical; Drug discovery; Best practice; Life sciences
+
+Rien Maertens, Maarten Van Neyghem, Maxiem Geldhof, Charlotte Van Petegem, Niko Strijbol, Peter Dawyndt, Bart Mesuere,
+Discovering and exploring cases of educational source code plagiarism with Dolos,
+SoftwareX,
+Volume 26,
+2024,
+101755,
+ISSN 2352-7110,
+https://doi.org/10.1016/j.softx.2024.101755.
+(https://www.sciencedirect.com/science/article/pii/S2352711024001262)
+Abstract: Source code plagiarism is a significant issue in educational practice, and educators need user-friendly tools to cope with such academic dishonesty. This article introduces the latest version of Dolos, a state-of-the-art ecosystem of tools for detecting and preventing plagiarism in educational source code. In this new version, the primary focus has been on enhancing the user experience. Educators can now run the entire plagiarism detection pipeline from a new web app in their browser, eliminating the need for any installation or configuration. Completely redesigned analytics dashboards provide an instant assessment of whether a collection of source files contains suspected cases of plagiarism and how widespread plagiarism is within the collection. The dashboards support hierarchically structured navigation to facilitate zooming in and out of suspect cases. Clusters are an essential new component of the dashboard design, reflecting the observation that plagiarism can occur among larger groups of students. To meet various user needs, the Dolos software stack for source code plagiarism detection now includes a self-hostable web app, a JSON application programming interface (API), a command line interface (CLI), a JavaScript library and a preconfigured Docker container. Clear documentation and a free-to-use instance of the web app can be found at https://dolos.ugent.be. The source code is also available on GitHub.
+Keywords: Web app; Plagiarism; Source code; Academic dishonesty; Cheating; Learning analytics; Educational data mining; Online learning; Programming language
+
+Chen Ma, Yue Zhang, Yina Guo, Xin Liu, Hong Shangguan, Juan Wang, Luqing Zhao,
+Fully end-to-end EEG to speech translation using multi-scale optimized dual generative adversarial network with cycle-consistency loss,
+Neurocomputing,
+Volume 616,
+2025,
+128916,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2024.128916.
+(https://www.sciencedirect.com/science/article/pii/S0925231224016874)
+Abstract: Decoding auditory evoked electroencephalographic (EEG) signals to correlate them with speech acoustic features and construct transitional signals between different domain signals is a challenging and fascinating research topic. Brain–computer interface (BCI) technologies that incorporate auditory evoked potentials (AEPs) can not only leverage encoder–decoder architectures for signal decoding, but also employ generative adversarial networks (GANs) to translate from human neural activity to speech (T-HNAS). However, in previous research, the cascading ratio of transitional signals leads to varying degrees of information loss in the two-domain signals, and the optimal ratio of transitional signals differs across datasets, impacting the translation effectiveness. To address these issues, an improved dual generative adversarial network based on multi-scale optimization and cycle-consistency loss (MSCC-DualGAN) is proposed. We leverage the feature of cycle consistency loss, which facilitates cross-modal signal conversion, to replace transitional signals and maintain the integrity of signals in both domains during the loss computation process. Multi-scale optimization is utilized to refine the details of signals downsampled by the network, improving the similarity between features, thus enabling efficient, fully end-to-end EEG to speech translation. Furthermore, to validate the efficacy of this network, we construct a new EEG dataset and conduct studies using metrics such as mel cepstral distortion (MCD), pearson correlation coefficient (PCC), and structural similarity index measure (SSIM). Experimental results demonstrate that this new network significantly outperforms previous methods on auditory stimulus datasets.
+Keywords: Brain–computer interface (BCI); Fully end-to-end; Dual–dual generative adversarial network (Dual-DualGAN); Dual generative adversarial network based on multi-scale optimization and cycle-consistency loss (MSCC-dualGAN); Cross-domain
+
+I Jurisica,
+Explainable biology for improved therapies in precision medicine: AI is not enough,
+Best Practice & Research Clinical Rheumatology,
+Volume 38, Issue 4,
+2024,
+102006,
+ISSN 1521-6942,
+https://doi.org/10.1016/j.berh.2024.102006.
+(https://www.sciencedirect.com/science/article/pii/S1521694224000779)
+Abstract: Technological advances and high-throughput bio-chemical assays are rapidly changing ways how we formulate and test biological hypotheses, and how we treat patients. Most complex diseases arise on a background of genetics, lifestyle and environment factors, and manifest themselves as a spectrum of symptoms. To fathom intricate biological processes and their changes from healthy to disease states, we need to systematically integrate and analyze multi-omics datasets, ontologies, and diverse annotations. Without proper management of such complex biological and clinical data, artificial intelligence (AI) algorithms alone cannot be effectively trained, validated, and successfully applied to provide trustworthy and patient-centric diagnosis, prognosis and treatment. Precision medicine requires to use multi-omics approaches effectively, and offers many opportunities for using AI, “big data” analytics, and integrative computational biology workflows. Advances in optical and biochemical assay technologies including sequencing, mass spectrometry and imaging modalities have transformed research by empowering us to simultaneously view all genes expressed, identify proteome-wide changes, and assess interacting partners of each individual protein within a dynamically changing biological system, at an individual cell level. While such views are already having an impact on our understanding of healthy and disease conditions, it remains challenging to extract useful information comprehensively and systematically from individual studies, ensure that signal is separated from noise, develop models, and provide hypotheses for further research. Data remain incomplete and are often poorly connected using fragmented biological networks. In addition, statistical and machine learning models are developed at a cohort level and often not validated at the individual patient level. Combining integrative computational biology and AI has the potential to improve understanding and treatment of diseases by identifying biomarkers and building explainable models characterizing individual patients. From systematic data analysis to more specific diagnostic, prognostic and predictive biomarkers, drug mechanism of action, and patient selection, such analyses influence multiple steps from prevention to disease characterization, and from prognosis to drug discovery. Data mining, machine learning, graph theory and advanced visualization may help identify diagnostic, prognostic and predictive biomarkers, and create causal models of disease. Intertwining computational prediction and modeling with biological experiments leads to faster, more biologically and clinically relevant discoveries. However, computational analysis results and models are going to be only as accurate and useful as correct and comprehensive are the networks, ontologies and datasets used to build them. High quality, curated data portals provide the necessary foundation for translational research. They help to identify better biomarkers, new drugs, precision treatments, and should lead to improved patient outcomes and their quality of life. Intertwining computational prediction and modeling with biological experiments, efficiently and effectively leads to more useful findings faster.
+Keywords: Precision medicine; Rheumatoid arthritis; Artificial intelligence; Integrative computational biology
+
+Yizhe Yang, Huashan Sun, Jiawei Li, Runheng Liu, Yinghao Li, Yuhang Liu, Yang Gao, Heyan Huang,
+MindLLM: Lightweight large language model pre-training, evaluation and domain application,
+AI Open,
+Volume 5,
+2024,
+Pages 155-180,
+ISSN 2666-6510,
+https://doi.org/10.1016/j.aiopen.2024.08.001.
+(https://www.sciencedirect.com/science/article/pii/S2666651024000111)
+Abstract: Large Language Models (LLMs) have demonstrated remarkable performance across various natural language tasks, marking significant strides towards general artificial intelligence. While general artificial intelligence is leveraged by developing increasingly large-scale models, there could be another branch to develop lightweight custom models that better serve certain domains, taking into account the high cost of training and deploying LLMs and the scarcity of resources. In this paper, we present MindLLM, a novel series of bilingual lightweight large language models, trained from scratch, alleviating such burdens by offering models with 1.3 billion and 3 billion parameters. A thorough account of experiences accrued during large model development is given, covering every step of the process, including data construction, model architecture, evaluation, and applications. Such insights are hopefully valuable for fellow academics and developers. MindLLM consistently matches or surpasses the performance of other open-source larger models on some public benchmarks. We also introduce an innovative instruction tuning framework tailored for smaller models to enhance their capabilities efficiently. Moreover, we explore the application of MindLLM in specific vertical domains such as law and finance, underscoring the agility and adaptability of our lightweight models.
+Keywords: Large language model; Light weight; Bilingual
+
+Carl Preiksaitis, Christian Rose,
+Opportunities, Challenges, and Future Directions of Generative Artificial Intelligence in Medical Education: Scoping Review,
+JMIR Medical Education,
+Volume 9,
+2023,
+,
+ISSN 2369-3762,
+https://doi.org/10.2196/48785.
+(https://www.sciencedirect.com/science/article/pii/S2369376223000697)
+Abstract: Background
+Generative artificial intelligence (AI) technologies are increasingly being utilized across various fields, with considerable interest and concern regarding their potential application in medical education. These technologies, such as Chat GPT and Bard, can generate new content and have a wide range of possible applications.
+Objective
+This study aimed to synthesize the potential opportunities and limitations of generative AI in medical education. It sought to identify prevalent themes within recent literature regarding potential applications and challenges of generative AI in medical education and use these to guide future areas for exploration.
+Methods
+We conducted a scoping review, following the framework by Arksey and O'Malley, of English language articles published from 2022 onward that discussed generative AI in the context of medical education. A literature search was performed using PubMed, Web of Science, and Google Scholar databases. We screened articles for inclusion, extracted data from relevant studies, and completed a quantitative and qualitative synthesis of the data.
+Results
+Thematic analysis revealed diverse potential applications for generative AI in medical education, including self-directed learning, simulation scenarios, and writing assistance. However, the literature also highlighted significant challenges, such as issues with academic integrity, data accuracy, and potential detriments to learning. Based on these themes and the current state of the literature, we propose the following 3 key areas for investigation: developing learners’ skills to evaluate AI critically, rethinking assessment methodology, and studying human-AI interactions.
+Conclusions
+The integration of generative AI in medical education presents exciting opportunities, alongside considerable challenges. There is a need to develop new skills and competencies related to AI as well as thoughtful, nuanced approaches to examine the growing use of generative AI in medical education.
+Keywords: medical education; artificial intelligence; ChatGPT; Bard; AI; educator; scoping; review; learner; generative
+
+Gustavo Hernández-Peñaloza, Silvia Uribe, Francisco Moreno García, Norbert Graf, Federico Álvarez,
+General context and relevant public datasets available for improving pathways in Paediatric Cancer applying Artificial Intelligence. A review,
+EJC Paediatric Oncology,
+Volume 4,
+2024,
+100196,
+ISSN 2772-610X,
+https://doi.org/10.1016/j.ejcped.2024.100196.
+(https://www.sciencedirect.com/science/article/pii/S2772610X24000564)
+Abstract: Due to the promise of transforming healthcare and medicine that Artificial Intelligence (AI) has posed, the number of applications has increased exponentially. These applications range from screening and disease diagnosis to prognosis, treatment planning, and follow-up. In complex topics such as childhood cancer, these techniques are being expanded with the ambition of improving the quality of care by allowing healthcare professionals to make more informed decisions. However, the adequate application of such techniques heavily depends on the data, which creates a set of challenges including collection, bias, and scarcity among others. Furthermore, ethical, legal, and regulatory frameworks increase even more the difficulties to develop AI-powered solutions. In this paper, we present an exhaustive literature review to identify and analyse public datasets targeting two common childhood cancer types, such as neuroblastoma and nephroblastoma. Moreover, the complex context for the development of AI- based software solutions is outlined. It includes the description of the most relevant techniques to address problems associated with data sharing and training. Finally, a set of code snippets is provided to perform exploratory analysis for the available data.
+Keywords: Childhood cancer; Paediatric oncology; Childhood cancer patient; Artificial Intelligence; Data; Use of data; Machine Learning; Federated Learning
+
+Dr. Laurie Waller, Dr. David Moats, Dr. Emily Cox, Dr. Rob Bellamy,
+Questionable devices: Applying a large language model to deliberate carbon removal,
+Environmental Science & Policy,
+Volume 162,
+2024,
+103940,
+ISSN 1462-9011,
+https://doi.org/10.1016/j.envsci.2024.103940.
+(https://www.sciencedirect.com/science/article/pii/S1462901124002740)
+Abstract: This paper presents a device-centred approach to deliberation, developed in deliberative workshops appraising methods for removing carbon dioxide from the air. Our approach involved deploying the Large Language Model application ChatGPT (sometimes termed “generative AI”) to elicit questions and generate texts about carbon removal. We develop the notion of the “questionable” device to foreground the informational unruliness ChatGPT introduced into the deliberations. The analysis highlights occasions where the deliberative apparatus became a focus of collective critique, including over: issue definitions, expert-curated resources, lay identities and social classifications. However, in this set-up ChatGPT was all too often engaged unquestioningly as an instrument for informing discussion; its instrumental lure disguising the unruliness it introduced into the workshops. In concluding, we elaborate the notion of questionable devices and reflect on the way carbon removal has been “devised” as a field in want of informed deliberation.
+Keywords: Carbon removal; Deliberation; Devices; Publics; Experiments in participation; Large language models; Generative AI
+
+Luca Longo, Mario Brcic, Federico Cabitza, Jaesik Choi, Roberto Confalonieri, Javier Del Ser, Riccardo Guidotti, Yoichi Hayashi, Francisco Herrera, Andreas Holzinger, Richard Jiang, Hassan Khosravi, Freddy Lecue, Gianclaudio Malgieri, Andrés Páez, Wojciech Samek, Johannes Schneider, Timo Speith, Simone Stumpf,
+Explainable Artificial Intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions,
+Information Fusion,
+Volume 106,
+2024,
+102301,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2024.102301.
+(https://www.sciencedirect.com/science/article/pii/S1566253524000794)
+Abstract: Understanding black box models has become paramount as systems based on opaque Artificial Intelligence (AI) continue to flourish in diverse real-world applications. In response, Explainable AI (XAI) has emerged as a field of research with practical and ethical benefits across various domains. This paper highlights the advancements in XAI and its application in real-world scenarios and addresses the ongoing challenges within XAI, emphasizing the need for broader perspectives and collaborative efforts. We bring together experts from diverse fields to identify open problems, striving to synchronize research agendas and accelerate XAI in practical applications. By fostering collaborative discussion and interdisciplinary cooperation, we aim to propel XAI forward, contributing to its continued success. We aim to develop a comprehensive proposal for advancing XAI. To achieve this goal, we present a manifesto of 28 open problems categorized into nine categories. These challenges encapsulate the complexities and nuances of XAI and offer a road map for future research. For each problem, we provide promising research directions in the hope of harnessing the collective intelligence of interested stakeholders.
+Keywords: Explainable artificial intelligence; XAI; Interpretability; Manifesto; Open challenges; Interdisciplinarity; Ethical AI; Large language models; Trustworthy AI; Responsible AI; Generative AI; Multi-faceted explanations; Concept-based explanations; Causality; Actionable XAI; Falsifiability
+
+Julija Kalpokiene, Ignas Kalpokas,
+Creative encounters of a posthuman kind – anthropocentric law, artificial intelligence, and art,
+Technology in Society,
+Volume 72,
+2023,
+102197,
+ISSN 0160-791X,
+https://doi.org/10.1016/j.techsoc.2023.102197.
+(https://www.sciencedirect.com/science/article/pii/S0160791X23000027)
+Abstract: Artificial Intelligence (AI) is becoming an increasingly transformative force in human life. Crucially, its impact is already extending beyond automation of routine tasks and encroaching on creativity – a domain once seen as exclusively human. Hence, this article first surveys the discriminatory and exploitative underpinnings of the anthropocentric thinking that lies beyond attempts at sidelining the creative capacities of AI. Next, four different approaches to creativity and art are analyzed, ultimately conceptualizing art-ness as externally ascribed. Ultimately, the article moves to one way of such ascription – copyrightability – demonstrating the anthropocentric thinking behind attempts to both deny and award copyright protection to AI-generated content. Moreover, it transpires that human authors are under threat whichever of such strategies ends up dominant.
+Keywords: Anthropocentrism; Artificial intelligence; Creativity; Copyright
+
+Long Dai, Jiarong Mao, Liaoran Xu, Xuefeng Fan, Xiaoyi Zhou,
+SecNLP: An NLP classification model watermarking framework based on multi-task learning,
+Computer Speech & Language,
+Volume 86,
+2024,
+101606,
+ISSN 0885-2308,
+https://doi.org/10.1016/j.csl.2023.101606.
+(https://www.sciencedirect.com/science/article/pii/S0885230823001250)
+Abstract: The popularity of ChatGPT demonstrates the immense commercial value of natural language processing (NLP) technology. However, NLP models like ChatGPT are vulnerable to piracy and redistribution, which can harm the economic interests of model owners. Existing NLP model watermarking schemes struggle to balance robustness and covertness. Typically, robust watermarks require embedding more information, which compromises their covertness; conversely, covert watermarks are challenging to embed more information, which affects their robustness. This paper is proposed to use multi-task learning (MTL) to address the conflict between robustness and covertness. Specifically, a covert trigger set is established to implement remote verification of the watermark model, and a covert auxiliary network is designed to enhance the watermark model’s robustness. The proposed watermarking framework is evaluated on two benchmark datasets and three mainstream NLP models. Compared with existing schemes, the framework not only has excellent covertness and robustness but also has a lower false positive rate and can effectively resist fraudulent ownership claims by adversaries.
+Keywords: Natural language processing; NLP model security; Black-box watermarking; White-box watermarking
+
+Ismail Mese, Burak Kocak,
+Large language models in methodological quality evaluation of radiomics research based on METRICS: ChatGPT vs NotebookLM vs radiologist,
+European Journal of Radiology,
+Volume 184,
+2025,
+111960,
+ISSN 0720-048X,
+https://doi.org/10.1016/j.ejrad.2025.111960.
+(https://www.sciencedirect.com/science/article/pii/S0720048X25000464)
+Abstract: Objectives
+This study aimed to evaluate the effectiveness of large language models (LLM) in assessing the methodological quality of radiomics research, using METhodological RadiomICs Score (METRICS) tool.
+Methods
+This study included open access radiomic research articles published in 2024 across various journals and a preprint repository, all under the Creative Commons Attribution License. Each study was independently evaluated using METRICS by two LLMs, ChatGPT-4 and NotebookLM, and a consensus assessment performed by two radiologists with expertise in radiomics research.
+Results
+A total of 48 open access articles were included in this study. ChatGPT-4, NotebookLM, and human readers achieved median scores of 79.5 %, 61.6 %, and 69.0 %, respectively, with a statistically significant difference across these evaluations (p < 0.05). Pairwise comparisons indicated no statistically significant difference for NotebookLM vs human experts (p > 0.05), in contrast to other pairs (p < 0.05). Intraclass correlation coefficient (ICC) for ChatGPT-4 and human experts was 0.563 (95 % CI: 0.050–––0.795), corresponding to poor to good agreement. The ICC for ChatGPT-4 and NotebookLM and for human experts and NotebookLM were 0.391 (95 % CI: −0.031–––0.665) and 0.555 (95 % CI: 0.326–––0.723), respectively, indicating poor to moderate agreement. LLMs completed the tasks in a significantly shorter time (p < 0.05). In item-wise reliability analysis, ChatGPT-4 generally demonstrated higher consistency than NotebookLM.
+Conclusion
+LLMs hold promise for automatically evaluating the quality of radiomics research using METRICS, a new tool that is relatively more complex yet comprehensive compared to its counterparts. However, substantial improvements are needed for full alignment with human experts.
+Keywords: Artificial intelligence; Large language models; Machine learning; Radiomics; Texture analysis
+
+Firdaus Parveen, Anna G. Slater,
+Digitalisation of catalytic processes for sustainable production of biobased chemicals and exploration of wider chemical space,
+Catalysis Science & Technology,
+Volume 15, Issue 6,
+2025,
+Pages 1689-1701,
+ISSN 2044-4753,
+https://doi.org/10.1039/d4cy01525h.
+(https://www.sciencedirect.com/science/article/pii/S2044475325000759)
+Abstract: Global warming and the depletion of petroleum resources require immediate and focused attention, and there is a pressing need to accelerate progress. Digital approaches can be leveraged in these efforts, for example in exploring effective replacements for petrochemicals or effectively identifying molecules with better performance. One such potential replacement is lignocellulosic biomass: a sustainable feedstock for producing chemicals and fuels that does not compete with essential food supply. However, the inherent complexity of lignocellulosic biomass and the technical challenges in its transformation pose significant obstacles that require data-driven approaches to solve. Here, we use the catalytic transformation of lignocellulose to value added chemicals as a case study highlighting the critical role of digital technologies, including improved data integration, process optimization, and system-level decision-making in catalyst design, synthesis, and characterization. Data-driven approaches work hand-in-hand with technology: the integration of machine learning (ML) and artificial intelligence (AI) allows for efficient molecule design and optimization; coupling ML/AI with the use of flow chemistry and high-throughput synthesis techniques enhances scalability and sustainability. Together, these innovations can facilitate a more resilient and sustainable chemical industry, reducing dependency on fossil fuels and mitigating environmental impact.
+
+John Michael Maxel Okoche, Marcia Mkansi, Godfrey Mugurusi, Wellington Chakuzira,
+AI adoption in crowdsourcing,
+Procedia Computer Science,
+Volume 253,
+2025,
+Pages 2508-2521,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.01.311.
+(https://www.sciencedirect.com/science/article/pii/S1877050925003199)
+Abstract: Despite significant technology advances especially in artificial intelligence (AI), crowdsourcing platforms still struggle with issues such as data overload and data quality problems, which hinder their full potential. This study addresses a critical gap in the literature how the integration of AI technologies in crowdsourcing could help overcome some these challenges. Using a systematic literature review of 77 journal papers, we identify the key limitations of current crowdsourcing platforms that included issues of quality control, scalability, bias, and privacy. Our research highlights how different forms of AI including from machine learning (ML), deep learning (DL), natural language processing (NLP), automatic speech recognition (ASR), and natural language generation techniques (NLG) can address the challenges most crowdsourcing platforms face. This paper offers knowledge to support the integration of AI first by identifying types of crowdsourcing applications, their challenges and the solutions AI offers for improvement of crowdsourcing.
+Keywords: Artificial Intelligence; Crowdsourcing; Crowdsourcing platforms; Systematic literature reviews
+
+Xueying Yang, Fabao Xu, Han Yu, Zhongwen Li, Xuechen Yu, Zhiwen Li, Li Zhang, Jie Liu, Shaopeng Wang, Shaopeng Liu, Jiaming Hong, Jianqiao Li,
+Prediction of OCT contours of short-term response to anti-VEGF treatment for diabetic macular edema using generative adversarial networks,
+Photodiagnosis and Photodynamic Therapy,
+Volume 52,
+2025,
+104482,
+ISSN 1572-1000,
+https://doi.org/10.1016/j.pdpdt.2025.104482.
+(https://www.sciencedirect.com/science/article/pii/S1572100025000122)
+Abstract: Diabetic macular edema (DME) stands as a leading cause for vision loss among the working-age population. Anti-vascular endothelial growth factor (VEGF) agents are currently recognized as the first-line treatment. However, a significant portion of patients remain insensitive to anti-VEGF, resulting in sustained visual impairment. Therefore, it's imperative to predict prognosis and formulate personalized therapeutic regimens. Generative adversarial networks (GANs) have demonstrated remarkably in forecasting prognosis of diseases, yet their performance is still constrained by the limited availability of real-world data and suboptimal image quality, which subsequently impacts the model's outputs. We endeavor to employ preoperative images along with postoperative OCT contours annotated and extracted via LabelMe and OpenCV to train the model in generating postoperative contours of critical OCT structures instead of previous whole retinal morphology, considerably alleviating the difficulty of output phase and diminishing the requisite quantity of training datasets. Our study reveals that the GAN could serve as an auxiliary instrument for ophthalmologists in determining the prognosis of individuals and screening patients with poor responses to anti-VEGF therapy.
+Keywords: Diabetic macular edema; Generative adversarial networks; Deep neural networks; Anti-vascular endothelial growth factor; Optical coherence tomography
+
+Yuqin Lu, Jiangzhong Cao, Shengfeng He, Jiangtao Guo, Qiliang Zhou, Qingyun Dai,
+Learning invariant and uniformly distributed feature space for multi-view generation,
+Information Fusion,
+Volume 93,
+2023,
+Pages 383-395,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2023.01.011.
+(https://www.sciencedirect.com/science/article/pii/S1566253523000192)
+Abstract: Multi-view generation from a given single view is a significant, yet challenging problem with broad applications in the field of virtual reality and robotics. Existing methods mainly utilize the basic GAN-based structure to help directly learn a mapping between two different views. Although they can produce plausible results, they still struggle to recover faithful details and fail to generalize to unseen data. In this paper, we propose to learn invariant and uniformly distributed representations for multi-view generation with an “Alignment” and a “Uniformity” constraint (AU-GAN). Our method is inspired by the idea of contrastive learning to learn a well-regulated feature space for multi-view generation. Specifically, our feature extractor is supposed to extract view-invariant representation that captures intrinsic and essential knowledge of the input, and distribute all representations evenly throughout the space to enable the network to “explore” the entire feature space, thus avoiding poor generative ability on unseen data. Extensive experiments on multi-view generation for both faces and objects demonstrate the generative capability of our proposed method on generating realistic and high-quality views, especially for unseen data in wild conditions.
+Keywords: Multi-view generation; Generative adversarial networks; Contrastive learning
+
+Edina Harbinja, Lilian Edwards, Marisa McVey,
+Governing ghostbots,
+Computer Law & Security Review,
+Volume 48,
+2023,
+105791,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2023.105791.
+(https://www.sciencedirect.com/science/article/pii/S026736492300002X)
+Abstract: This article discusses the legal implications of a novel phenomenon, namely, digital reincarnations of deceased persons, sometimes known as post-mortem avatars, deepfakes, replicas, holographs, or chatbots. To elide these multiple names, we use the term 'ghostbots'. The piece is an early attempt to discuss the potential social and individual harms, roughly grouped around notions of privacy (including post-mortem privacy), property, personal data and reputation, arising from ghostbots, how they are regulated and whether they need to be adequately regulated further. For reasons of space and focus, the article does not deal with copyright implications, fraud, consumer protection, tort, product liability, and pornography laws, including the non-consensual use of intimate images (‘revenge porn’). This paper focuses on law, although we fully acknowledge and refer to the role of philosophy and ethics in this domain. We canvas two interesting legal developments with implications for ghostbots, namely, the proposed EU Artificial Intelligence (AI) Act and the 2021 New York law amending publicity rights to protect the rights of celebrities whose personality is used in post-mortem ‘replicas’. The latter especially evidences a remarkable shift from the norm we have chronicled in previous articles of no respect for post-mortem privacy to a growing recognition that personality rights do need protection post-mortem in a world where pop stars and actors are routinely re-created using AI. While the legislative motivation here may still be primarily to protect economic interests, we argue it also shows a concern for dignitary and privacy interests. Given the apparent concern for the appropriation of personality post-mortem, possibly in defiance or ignorance of what the deceased would have wished, we propose an early solution to regulate the rise of ghostbots, namely an enforceable ‘do not bot me’ clause in analogue or digital wills.
+Keywords: Ghostbots; Deepfakes; Post-mortem privacy; Digital legacy; Digital remains
+
+Munan Li, Liang Wang,
+Leveraging patent classification based on deep learning: The case study on smart cities and industrial Internet of Things,
+Journal of Informetrics,
+Volume 19, Issue 1,
+2025,
+101616,
+ISSN 1751-1577,
+https://doi.org/10.1016/j.joi.2024.101616.
+(https://www.sciencedirect.com/science/article/pii/S1751157724001287)
+Abstract: With the trends of technology convergence and technology interdisciplinarity, technology-field (TF) resolution and classification of patents have gradually been challenged. Whether for patent applicants or for patent examiners, more precisely labeling the TF for a certain patent is important for technological searches. However, determining the TF of a patent may be difficult and may even involve the strategic behavior of patenting, which can cause noise in patent classification systems (PCSs). In addition, some specific patents could contain more TFs than claimed or be assigned questionable IPC codes; subsequently, in a regular search for technology/patents, information could be missed. Considering the advantages of deep learning compared with traditional machine learning algorithms in areas such as natural language processing (NLP), text classification and text sentiment analysis, this paper investigates several popular deep learning models and proposes a large-scale multilabel regression (MLR) model to handle specific patent analyses under situations of small sample learning. To verify the proposed MLR model for patent classification, the case study on smart cities and industrial Internet of Things (IIoT) is conducted. The MLR experiments on the TF resolution of smart cities and IIoT have yielded moderate results compared with those of the latest patent classification studies, which also rely on deep learning and the large language models (LLMs), which include RCNN, Bi-LSTM, BERT and GPT-4 etc. Therefore, the proposed MLR model with a customized loss function could be moderately effective for patent classification within a specific technology theme, could have implications for patent classification and the TF resolution of patents, and could further enrich methodologies for patent mining and informetrics based on artificial intelligence (AI).
+Keywords: Technology-field resolution; Patent classification; Deep learning; Semantic analysis; Loss function; Smart cities; Industrial Internet of Things; GPT-4
+
+Ana Rosic,
+Legal implications of artificial intelligence in health care,
+Clinics in Dermatology,
+Volume 42, Issue 5,
+2024,
+Pages 451-459,
+ISSN 0738-081X,
+https://doi.org/10.1016/j.clindermatol.2024.06.014.
+(https://www.sciencedirect.com/science/article/pii/S0738081X24000981)
+Abstract: The last few years have seen a boom in the popularity of artificial intelligence (AI) around the world, and the health care sector has not been immune from what has been perceived by some as a revolutionary technology. Although AI has been around for many years, including in the field of health care, the recent introduction of consumer-facing generative AI tools has put a spotlight on the technology that has drawn attention from governments, corporations, consumers and more. Health care systems, physician groups, health insurance companies, and others in the space have shown an eagerness to explore AI's potential to improve various aspects of health care, but new legal risks and challenges are unfolding every day. This contribution looks at the latest health care-related measures in the United States and international legal and regulatory landscapes, as well as data privacy implications and discrimination concerns coming out of AI-enabled solutions. It also discusses concerns that health care systems and physicians alike are monitoring, including the potential for medical errors resulting from AI, liability considerations, and malpractice insurance trends.
+
+Eman Abdullah AlOmar,
+An empirical study on the impact of code duplication-aware refactoring practices on quality metrics,
+Information and Software Technology,
+Volume 182,
+2025,
+107687,
+ISSN 0950-5849,
+https://doi.org/10.1016/j.infsof.2025.107687.
+(https://www.sciencedirect.com/science/article/pii/S0950584925000266)
+Abstract: Context:
+Code refactoring is widely recognized as an essential software engineering practice that improves the understandability and maintainability of source code. Several studies attempted to detect refactoring activities through mining software repositories, allowing one to collect, analyze, and get actionable data-driven insights about refactoring practices within software projects.
+Objective:
+Our goal is to identify, among the various quality models presented in the literature, the ones that align with the developer’s vision of eliminating duplicates of code, when they explicitly mention that they refactor the code to improve them.
+Method:
+We extract a corpus of 332 refactoring commits applied and documented by developers during their daily changes from 128 open-source Java projects. In particular, we extract 32 structural metrics from which we identify code duplicate removal commits with their corresponding refactoring operations, as perceived by software engineers. Thereafter, we empirically analyze the impact of these refactoring operations on a set of common state-of-the-art design quality metrics.
+Results:
+The statistical analysis of the results obtained shows that (i) some state-of-the-art metrics are capable of capturing the developer’s intention of removing code duplication; and (ii) some metrics are being more emphasized than others. We confirm that various structural metrics can effectively represent code duplication, leading to different impacts on software quality. Some metrics contribute to improvements, while others may lead to degradation.
+Conclusion:
+Most of the mapped metrics associated with the main quality attributes successfully capture developers’ intentions for removing code duplicates, as is evident from the commit messages. However, certain metrics do not fully capture these intentions.
+Keywords: Refactoring; Quality; Code duplicates; Metrics
+
+Jasmine Chiat Ling Ong, Benjamin Jun Jie Seng, Jeren Zheng Feng Law, Lian Leng Low, Andrea Lay Hoon Kwa, Kathleen M. Giacomini, Daniel Shu Wei Ting,
+Artificial intelligence, ChatGPT, and other large language models for social determinants of health: Current state and future directions,
+Cell Reports Medicine,
+Volume 5, Issue 1,
+2024,
+101356,
+ISSN 2666-3791,
+https://doi.org/10.1016/j.xcrm.2023.101356.
+(https://www.sciencedirect.com/science/article/pii/S2666379123005736)
+Abstract: Summary
+This perspective highlights the importance of addressing social determinants of health (SDOH) in patient health outcomes and health inequity, a global problem exacerbated by the COVID-19 pandemic. We provide a broad discussion on current developments in digital health and artificial intelligence (AI), including large language models (LLMs), as transformative tools in addressing SDOH factors, offering new capabilities for disease surveillance and patient care. Simultaneously, we bring attention to challenges, such as data standardization, infrastructure limitations, digital literacy, and algorithmic bias, that could hinder equitable access to AI benefits. For LLMs, we highlight potential unique challenges and risks including environmental impact, unfair labor practices, inadvertent disinformation or “hallucinations,” proliferation of bias, and infringement of copyrights. We propose the need for a multitiered approach to digital inclusion as an SDOH and the development of ethical and responsible AI practice frameworks globally and provide suggestions on bridging the gap from development to implementation of equitable AI technologies.
+
+Jiaxuan Geng, Junfeng Wang, Zhiyang Fang, Yingjie Zhou, Di Wu, Wenhan Ge,
+A survey of strategy-driven evasion methods for PE malware: Transformation, concealment, and attack,
+Computers & Security,
+Volume 137,
+2024,
+103595,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2023.103595.
+(https://www.sciencedirect.com/science/article/pii/S0167404823005059)
+Abstract: The continuous proliferation of malware poses a formidable threat to the cyberspace landscape. Researchers have proffered a multitude of sophisticated defense mechanisms aimed at its detection and mitigation. Nevertheless, malware writers persistently pursue pioneering and innovative methods to evade detection by security software, thereby presenting an ever-evolving and dynamic threat to computer systems. Malware evasion refers to the use of certain strategies by malware to evade the detection of security software. Despite numerous surveys on malware evasion techniques, the existing surveys were fragmented and focused on specific types of evasion methods, leading to a lack of systematic and comprehensive research on malware evasion approaches. To fill this gap, this paper proposed a strategy-driven framework from the perspective of malware writers. Based on this framework, we categorize existing evasion detection techniques into transformation (alter the structural and behavioral pattern of the malware), concealment (conceal the behavior of the malware), and attack-based (engage in an attack on the detector to render it inoperable) methods and conduct a comprehensive survey of the relevant research works. In addition, we demonstrate how to integrate existing evasion strategies in the process of generating malware from the perspective of malware writers to subvert the multiple defenses of defenders. Our investigation indicates that: 1) evasion techniques such as packer and code obfuscation remain the foremost selection for attackers, no fewer than 10 off-the-shelf tools provide great assistance to them, 2) environment analysis is the primary concealment-based strategy used by the attacker (48% of the reviewed concealment-based strategy), defenders need greater efforts to counter them, 3) only 3 works discussed techniques for evasion attacks by leveraging fragilities in antivirus engines, meaning that direct attack on the detector is no longer as effective, 4) reinforcement learning algorithm serves as the most popular adversarial attack-based methods and 50% of works based on reinforcement learning are effective against real-world antivirus engines. Furthermore, this paper delves into the development trends in evasive malware and open issues for defenders. The primary objective of this survey is to furnish researchers and practitioners with a thorough comprehension of malware evasion strategies and techniques, thereby fostering the advancement of more potent and efficient approaches to detect and thwart malware.
+Keywords: Windows portable executable; Malware detection; Malware evasion; Packer; Code obfuscation; Metamorphism; Behavioral obfuscation; Anti-sandbox; Adversarial attack
+
+Benjamin Luke Moorhouse, Yuwei Wan, Chenze Wu, Lucas Kohnke, Tsz Ying Ho, Theresa Kwong,
+Developing language teachers’ professional generative AI competence: An intervention study in an initial language teacher education course,
+System,
+Volume 125,
+2024,
+103399,
+ISSN 0346-251X,
+https://doi.org/10.1016/j.system.2024.103399.
+(https://www.sciencedirect.com/science/article/pii/S0346251X24001817)
+Abstract: Generative Artificial Intelligence (GenAI) tools have been argued to have transformative potential in education; yet existing literature suggests that language teachers generally lack the abilities to leverage these tools effectively and critically. Conducted in an initial language teacher education programme at a Hong Kong university, this mixed-method intervention study aims to explore the effects of explicit training for using GenAI tools for language teaching in rising pre-service language teachers’ professional GenAI competence (P-GenAI-C). 54 M.Ed students took part in an 11-week course intervention aiming to enhance the five aspects in the P-GenAI-C framework. Analysis of pre- and post-intervention questionnaires, which encompassed a mix of open and closed items to gather participants’ knowledge and perceptions of utilising GenAI tools, as well as the follow-up interviews, revealed that the intervention was effective in stretching all aspects of pre-service teachers’ P-GenAI-C. While there was greater evidence of improvement in participants’ pedagogical competence and critical awareness of GenAI tools deployment, there was less evidence of development in other aspects, such as teachers’ capacity to guide their students to use GenAI tools effectively and responsibly. This discrepancy might be attributed to the lack of such content in the course intervention. Implications for incorporating elements of P-GenAI-C into teacher preparation courses and programmes are discussed.
+
+Kun Hu, Mingpei Wang, Xiaohui Ma, Jia Chen, Xiaochao Wang, Xingjun Wang,
+Learning-based image steganography and watermarking: A survey,
+Expert Systems with Applications,
+Volume 249, Part C,
+2024,
+123715,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2024.123715.
+(https://www.sciencedirect.com/science/article/pii/S0957417424005815)
+Abstract: Extensive research has been conducted on image steganography and watermarking algorithms, owing to their crucial rules in secret data transmission, copyright protection, and traceability. Despite promising results and numerous surveys proposed in the literature, there is still a lack of comprehensive analysis dedicated to deep learning-based image steganography and watermarking algorithms. In this paper, we focus on investigating three important aspects: neural networks, structure models, and training strategies. Our review covers the vast literature in this field. Furthermore, we provide a comprehensive statistical analysis from diverse perspectives, including models, loss functions, platforms, datasets, and attacks. Moreover, we conduct in a thorough comparative analysis and evaluation of existing representative algorithms, assessing their effectiveness within the context of deep learning. Finally, the challenges and potential research directions in the domain of deep-learning image steganography and watermarking algorithms are discussed to facilitate future research.
+Keywords: Image steganography; Deep learning; Image watermarking
+
+Evgenios Agathokleous, Costas J. Saitanis, Chao Fang, Zhen Yu,
+Use of ChatGPT: What does it mean for biology and environmental science?,
+Science of The Total Environment,
+Volume 888,
+2023,
+164154,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2023.164154.
+(https://www.sciencedirect.com/science/article/pii/S0048969723027754)
+Abstract: Artificial intelligence (AI) large language models (LLMs) have emerged as important technologies. Recently, ChatGPT (Generative Pre-trained Transformer) has been released and attracted massive interest from the public, owing to its unique capabilities to simplify many daily tasks of people from diverse backgrounds and social statuses. Here, we discuss how ChatGPT (and similar AI technologies) can impact biology and environmental science, providing examples obtained through interactive sessions with ChatGPT. The benefits that ChatGPT offers are ample and can impact many aspects of biology and environmental science, including education, research, scientific publishing, outreach, and societal translation. Among others, ChatGPT can simplify and expedite highly complex and challenging tasks. As an example to illustrate this, we provide 100 important questions for biology and 100 important questions for environmental science. Although ChatGPT offers a plethora of benefits, there are several risks and potential harms associated with its use, which we analyze herein. Awareness of risks and potential harms should be raised. However, understanding and overcoming the current limitations could lead these recent technological advances to push biology and environmental science to their limits.
+Keywords: Artificial intelligence; ChatGPT; Biology; Environmental science; Generative Pre-trained Transformer; Large language model
+
+Taki Eddine Seghier, Chavanont Khosakitchalert, Ziwen Liu, Chukwuka Christian Ohueri, Yaik-Wah Lim, Ahmad Fahmi Bin Zainazlan,
+From BIM to computational BIM: A systematic review of visual programming application in building research,
+Ain Shams Engineering Journal,
+Volume 16, Issue 1,
+2025,
+103173,
+ISSN 2090-4479,
+https://doi.org/10.1016/j.asej.2024.103173.
+(https://www.sciencedirect.com/science/article/pii/S2090447924005549)
+Abstract: The architecture, engineering, construction, and operation (AECO) industry has embraced the combination of building information modelling (BIM) and computational algorithms to advance digital transformations. Computational BIM has enabled the development and testing of various BIM-based solutions for the building industry. This study conducted a systematic review of the application of computational BIM through visual programming (VP) in building research. The study employed a hybrid approach of bibliometrics and content analyses using seventy-nine publications filtered from Scopus and Web of Science databases. The bibliometric analysis identified publication frequency trends, journal distributions, country distributions, eminent authors, co-authorship networks, and keyword co-occurrence networks. The content analysis identified six key research themes and four major methodological roles of computational BIM in building research. A research framework is proposed to summarize and articulate the state of the art of computational BIM application in building research, research gaps, and future research directions.
+Keywords: Computational design; Building information modelling; Algorithm; Generative design; Automation; Parametric
+
+Gabriela Kennedy, Joanna Wong, Justin Lai, James North, Philip Catania, Michael do Rozario, Jack Matthews, Arun Babu, Gayathri Poti, Ishita Vats, Kiyoko Nakaoka, Lam Chung Nian, Emma Choe,
+Asia-Pacific Developments,
+Computer Law & Security Review,
+Volume 56,
+2025,
+106116,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2025.106116.
+(https://www.sciencedirect.com/science/article/pii/S0267364925000111)
+Abstract: This column provides a country by country analysis of the latest legal developments, cases and issues relevant to the IT, media and telecommunications' industries in key jurisdictions across the Asia Pacific region. The articles appearing in this column are intended to serve as ‘alerts’ and are not submitted as detailed analyses of cases or legal developments.
+
+Marica Muffoletto, Hao Xu, Karl P. Kunze, Radhouene Neji, René Botnar, Claudia Prieto, Daniel Rückert, Alistair A. Young,
+Combining generative modelling and semi-supervised domain adaptation for whole heart cardiovascular magnetic resonance angiography segmentation,
+Journal of Cardiovascular Magnetic Resonance,
+Volume 25, Issue 1,
+2023,
+80,
+ISSN 1097-6647,
+https://doi.org/10.1186/s12968-023-00981-6.
+(https://www.sciencedirect.com/science/article/pii/S1097664724010548)
+Abstract: Background
+Quantification of three-dimensional (3D) cardiac anatomy is important for the evaluation of cardiovascular diseases. Changes in anatomy are indicative of remodeling processes as the heart tissue adapts to disease. Although robust segmentation methods exist for computed tomography angiography (CTA), few methods exist for whole-heart cardiovascular magnetic resonance angiograms (CMRA) which are more challenging due to variable contrast, lower signal to noise ratio and a limited amount of labeled data.
+Methods
+Two state-of-the-art unsupervised generative deep learning domain adaptation architectures, generative adversarial networks and variational auto-encoders, were applied to 3D whole heart segmentation of both conventional (n = 20) and high-resolution (n = 45) CMRA (target) images, given segmented CTA (source) images for training. An additional supervised loss function was implemented to improve performance given 10%, 20% and 30% segmented CMRA cases. A fully supervised nn-UNet trained on the given CMRA segmentations was used as the benchmark.
+Results
+The addition of a small number of segmented CMRA training cases substantially improved performance in both generative architectures in both standard and high-resolution datasets. Compared with the nn-UNet benchmark, the generative methods showed substantially better performance in the case of limited labelled cases. On the standard CMRA dataset, an average 12% (adversarial method) and 10% (variational method) improvement in Dice score was obtained.
+Conclusions
+Unsupervised domain-adaptation methods for CMRA segmentation can be boosted by the addition of a small number of supervised target training cases. When only few labelled cases are available, semi-supervised generative modelling is superior to supervised methods.
+Keywords: Deep learning; Whole-heart segmentation; Domain adaptation; Generative adversarial networks; Variational auto-encoders
+
+
+Editor(s): David Baker, Lucy Ellis,
+Encyclopedia of Libraries, Librarianship, and Information Science (First Edition),
+Academic Press,
+2024,
+Pages 552-598,
+ISBN 9780323956901,
+https://doi.org/10.1016/B978-0-323-95689-5.09001-5.
+(https://www.sciencedirect.com/science/article/pii/B9780323956895090015)
+
+Jie Zhang, Shengbin Liao, Haofeng Zhang, Yang Long, Zheng Zhang, Li Liu,
+Data driven recurrent generative adversarial network for generalized zero shot image classification,
+Information Sciences,
+Volume 625,
+2023,
+Pages 536-552,
+ISSN 0020-0255,
+https://doi.org/10.1016/j.ins.2023.01.039.
+(https://www.sciencedirect.com/science/article/pii/S0020025523000403)
+Abstract: Traditional Generative Adversarial Network (GAN) based Generalized Zero Shot Learning (GZSL) methods usually suffer from a problem that these methods ignore the differences between classes when using the standard normal distribution to fit the true distribution of each category, and the incompleteness of a single adversarial training makes the model unable to capture all the characteristics of the samples. To address this problem, a data-driven recurrent adversarial generative network is proposed in this paper. We first synthesize visual prototypes for unseen classes using the transformation from semantic attributes to visual prototypes learned on seen classes. Then, some noise is generated from these prototypes to synthesize the unseen samples according to the corresponding semantic attributes. During the sample generation process, a recurrent generative adversarial network is designed to facilitate the generated visual features to be more representative. Extensive experiments on five popular datasets as well as detailed ablation studies demonstrate the effectiveness and superiority of the proposed method.
+Keywords: Generalized zero-shot learning; Data-driven sampling; Prototype synthesis; Recurrent adversarial network
+
+Ali Asghar, Amna Shifa, Mamoona Naveed Asghar,
+Survey on Video Security: Examining Threats, Challenges, and Future Trends,
+Computers, Materials and Continua,
+Volume 80, Issue 3,
+2024,
+Pages 3591-3635,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2024.054654.
+(https://www.sciencedirect.com/science/article/pii/S1546221824006143)
+Abstract: Videos represent the most prevailing form of digital media for communication, information dissemination, and monitoring. However, their widespread use has increased the risks of unauthorised access and manipulation, posing significant challenges. In response, various protection approaches have been developed to secure, authenticate, and ensure the integrity of digital videos. This study provides a comprehensive survey of the challenges associated with maintaining the confidentiality, integrity, and availability of video content, and examining how it can be manipulated. It then investigates current developments in the field of video security by exploring two critical research questions. First, it examine the techniques used by adversaries to compromise video data and evaluate their impact. Understanding these attack methodologies is crucial for developing effective defense mechanisms. Second, it explores the various security approaches that can be employed to protect video data, enhancing its transparency, integrity, and trustworthiness. It compares the effectiveness of these approaches across different use cases, including surveillance, video on demand (VoD), and medical videos related to disease diagnostics. Finally, it identifies potential research opportunities to enhance video data protection in response to the evolving threat landscape. Through this investigation, this study aims to contribute to the ongoing efforts in securing video data, providing insights that are vital for researchers, practitioners, and policymakers dedicated to enhancing the safety and reliability of video content in our digital world.
+Keywords: Attacks; threats; security services; video manipulation; video security
+
+Parsa Rajabi, Parnian Taghipour, Diana Cukierman, Tenzin Doleck,
+Unleashing ChatGPT's impact in higher education: Student and faculty perspectives,
+Computers in Human Behavior: Artificial Humans,
+Volume 2, Issue 2,
+2024,
+100090,
+ISSN 2949-8821,
+https://doi.org/10.1016/j.chbah.2024.100090.
+(https://www.sciencedirect.com/science/article/pii/S2949882124000501)
+Abstract: As Chat Generative Pre-trained Transformer (ChatGPT) gains traction, its impact on post-secondary education is increasingly being debated. This qualitative study explores the perception of students and faculty members at a research university in Canada regarding ChatGPT's use in a post-secondary setting, focusing on how it could be incorporated and what ways instructors can respond to this technology. We present the summary of a discussion that took place in a 2-hour focus group session with 40 participants from the computer science and engineering departments, and highlight issues surrounding plagiarism, assessment methods, and the appropriate use of ChatGPT. Findings suggest that students are likely to use ChatGPT, but there is a need for specific guidelines, more classroom assessments, and mandatory reporting of ChatGPT use. The study contributes to the emergent research on ChatGPT in higher education and emphasizes the importance of proactively addressing challenges and opportunities associated with ChatGPT adoption and use. The novelty of the study involves capturing the perspectives of students and faculty members. This paper aims to provide a more refined understanding of the complex interplay between AI chatbots and higher education that will help educators navigate the rapidly evolving landscape of AI-driven education.
+Keywords: ChatGPT; Conversational AI; Artificial intelligence in education; Post-secondary; Higher education; Assessment
+
+Florence X. Doo, Tessa S. Cook, Eliot L. Siegel, Anupam Joshi, Vishwa Parekh, Ameena Elahi, Paul H. Yi,
+Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health,
+Journal of the American College of Radiology,
+Volume 20, Issue 9,
+2023,
+Pages 877-885,
+ISSN 1546-1440,
+https://doi.org/10.1016/j.jacr.2023.07.007.
+(https://www.sciencedirect.com/science/article/pii/S1546144023005161)
+Abstract: Generative artificial intelligence (AI) tools such as GPT-4, and the chatbot interface ChatGPT, show promise for a variety of applications in radiology and health care. However, like other AI tools, ChatGPT has limitations and potential pitfalls that must be considered before adopting it for teaching, clinical practice, and beyond. We summarize five major emerging use cases for ChatGPT and generative AI in radiology across the levels of increasing data complexity, along with pitfalls associated with each. As the use of AI in health care continues to grow, it is crucial for radiologists (and all physicians) to stay informed and ensure the safe translation of these new technologies.
+Keywords: generative artificial intelligence; radiology; limitations; large language models; ChatGPT
+
+Zuopeng Yang, Pengyu Chen, Tao Li, Kangjun Liu, Yuan Huang, Xin Lin,
+Defending against similarity shift attack for EaaS via adaptive multi-target watermarking,
+Information Sciences,
+Volume 678,
+2024,
+120893,
+ISSN 0020-0255,
+https://doi.org/10.1016/j.ins.2024.120893.
+(https://www.sciencedirect.com/science/article/pii/S0020025524008077)
+Abstract: Large language models have revolutionized natural language processing, leading to the emergence of Embedding as a Service (EaaS). While EaaS facilitates access to advanced embedding models, it also presents challenges in copyright protection. Current research primarily relies on single-target watermarking frameworks, where a predefined vector is integrated as a watermark into text embeddings. However, these approaches are vulnerable to watermark information leakage. To investigate this issue, we introduce the Embedding Similarity Shift Attack (ESSA), an innovative attack algorithm designed to detect trigger instances in single-target watermarking systems by analyzing similarity shifts among constructed reference sentence pairs. Additionally, to defend against such an attack, we propose Adaptive Multi-Target Watermarking (AMT-WM). AMT-WM stands as the pioneering multi-target watermarking method aimed at safeguarding the copyright of EaaS. Specifically, AMT-WM constructs multiple watermarks through the utilization of orthogonal vectors to mitigate selection bias towards a particular vector. Furthermore, it incorporates a randomly selected sentence embedding as the base embedding to enhance the confidentiality of backdoored embeddings. For multi-target watermarking, we implement adaptive watermark injection and validation based on similarity. Comprehensive experiments conducted on various datasets validate the effectiveness of ESSA in trigger detection performance and the efficacy of AMT-WM in copyright protection. Our code will be available soon.
+Keywords: EaaS; Similarity shift; Embedding watermarking; Adaptive multi-target watermarking; Copyright protection
+
+Mustafa Pala, Emre Sefer,
+NFT price and sales characteristics prediction by transfer learning of visual attributes,
+The Journal of Finance and Data Science,
+Volume 10,
+2024,
+100148,
+ISSN 2405-9188,
+https://doi.org/10.1016/j.jfds.2024.100148.
+(https://www.sciencedirect.com/science/article/pii/S2405918824000333)
+Abstract: Non-fungible tokens (NFTs) are unique digital assets whose possession is defined over a blockchain. NFTs can represent multiple distinct objects such as art, images, videos, etc. There was a recent surge of interest in trading them which makes them another type of alternative investment. The inherent volatility of NFT prices, attributed to factors such as over-speculation, liquidity constraints, rarity, and market volatility, presents challenges for accurate price predictions. For such analysis and forecasting, machine learning methods offer a robust solution framework. Here, we focus on three related prediction problems over NFTs: Predicting NFTs sale price, inferring whether a given NFT will participate in a secondary sale, and predicting NFT's sale price change over time. We analyze and learn the visual characteristics of NFTs by deep pre-trained models and combine such visual knowledge with additional important non-visual attributes such as the sale history, seller's and buyer's centralities in the trading network, and collection's resale probability. We categorize input NFTs into six categories based on their characteristics. Across detailed experiments, we found visual attributes obtained from deep pre-trained models to increase the prediction performance in all cases, and EfficientNet seems to perform the best. In general, CNN and XGBoost consistently outperformed the rest of them across all categories. We also publish our novel NFT dataset with temporal price knowledge, which is the first dataset to have NFT prices over time rather than at a single time point. Our code and NFT datasets are publicly available at https://github.com/seferlab/deep_nft.
+Keywords: NFTs; Blockchain; Deep learning; Transfer learning; Temporal price prediction
+
+Ricardo D. González, Susana Simões, Lino Ferreira, Alexandra T. P. Carvalho,
+Designing Cell Delivery Peptides and SARS-CoV-2-Targeting Small Interfering RNAs: A Comprehensive Bioinformatics Study with Generative Adversarial Network-Based Peptide Design and In Vitro Assays,
+Molecular Pharmaceutics,
+Volume 20, Issue 12,
+2023,
+Pages 6079-6089,
+ISSN 1543-8392,
+https://doi.org/10.1021/acs.molpharmaceut.3c00444.
+(https://www.sciencedirect.com/science/article/pii/S1543839223001800)
+Abstract: Nucleic acid technologies with designed intracellular delivery systems are some of the most promising therapies of the future. Small interfering (si)­RNAs inhibit gene expression and protein synthesis and may complement current vaccines with faster design and production. Although successful delivery remains an issue, delivery peptides may help to fill this gap. Here, we address this issue by applying bioinformatic approaches to design new putative cell delivery peptides and siRNAs for COVID-19 variants and other related viral diseases. Of the 29,880 RNA sequences analyzed, 62 were identified in silico as able to target the virus mRNA sequence, and from the 9,984 peptide sequences analyzed, 10 were selected as delivery peptides. From the latter, we further performed in vitro studies of the two best-ranked peptides and compared them with the broadly used TAT delivery peptide. One of them, seq5, displayed better internalization results with about double intensity signal compared to TAT after a 1 h incubation time in GFP-HeLa cells. This peptide has, thus, the features of a delivery peptide and could be used for cargo intracellular delivery.
+
+Keywords: SARS-CoV-2; siRNAs; databases; delivery peptides; data analysis; deep learning
+
+Ashwini K. Nangia,
+Molecular tweaking by generative cheminformatics and ligand–protein structures for rational drug discovery,
+Bioorganic Chemistry,
+Volume 153,
+2024,
+107920,
+ISSN 0045-2068,
+https://doi.org/10.1016/j.bioorg.2024.107920.
+(https://www.sciencedirect.com/science/article/pii/S0045206824008253)
+Abstract: The purpose of this review is two-fold: (1) to summarize artificial intelligence and machine learning approaches and document the role of ligand–protein structures in directing drug discovery; (2) to present examples of drugs from the recent literature (past decade) of case studies where such strategies have been applied to accelerate the discovery pipeline. Compared to 50 years ago when drug discovery was largely a synthetic chemist driven research exercise, today a holistic approach needs to be adopted with seamless integration between synthetic and medicinal chemistry, supramolecular complexes, computations, artificial intelligence, machine learning, structural biology, chemical biology, diffraction analytical tools, drugs databases, and pharmacology. The urgency for an integrated and collaborative platform to accelerate drug discovery in an academic setting is emphasized.
+Keywords: Drug discovery; Ligand–protein; Artificial intelligence; Crystal structure; Natural product; Chemical synthesis
+
+Gaoqing Yu, Jing An, Jiuyang Lyu, Wei Huang, Wenqing Fan, Yixuan Cheng, Aina Sui,
+CrossCode2Vec: A unified representation across source and binary functions for code similarity detection,
+Neurocomputing,
+Volume 620,
+2025,
+129238,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2024.129238.
+(https://www.sciencedirect.com/science/article/pii/S0925231224020095)
+Abstract: Code similarity detection identifies code by analyzing similarities in syntax, semantics, and structure, which includes types of tasks: source-to-source, binary-to-binary, and source-to-binary. Due to encoding and representation disparities between source and binary code, existing methods have mainly focused on individual tasks, without providing a universal solution. Additionally, current source-to-binary tasks only achieve one-to-one matching between source code and binary functions, neglecting the one-to-many relationship inherent between source code and its cross-compiled binaries. In this paper, we propose CrossCode2Vec, a unified framework for representing code in both source and binary functions, which aims to bridge the gap in original coding features and provide a standardized similarity measurement across three code similarity detection tasks. For source code and its corresponding compiled binary, we first design an enhanced Abstract Path Context data preprocessing method, construct an abstract syntax tree (AST) from both source code functions and decompiled binary functions, and implement the function embedding followed by the pre-trained Word2vec model. Then we propose a task-specific data sampling strategy. We establish a one-to-one correspondence between source and binary functions through symbol tables and create a one-to-many relationship between source functions and their cross-compiled binaries based on sampling rules. Finally, we employ a hierarchical LSTM-attention network to facilitate the representation and similarity measurement of functions. We conduct both extrinsic and intrinsic evaluations to confirm the effectiveness of CrossCode2Vec in code representation and code similarity tasks, validating its superiority in model architecture and data processing methods. CrossCode2Vec demonstrates stable and exceptional performance across multiple experiments, reinforcing its ability to bridge the gap between source and binary code representations while effectively measuring their similarities.
+Keywords: Code Similarity Detection; Representation learning; Cross-modal code matching
+
+Margherita Bernabei, Silvia Colabianchi, Andrea Falegnami, Francesco Costantino,
+Students’ use of large language models in engineering education: A case study on technology acceptance, perceptions, efficacy, and detection chances,
+Computers and Education: Artificial Intelligence,
+Volume 5,
+2023,
+100172,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2023.100172.
+(https://www.sciencedirect.com/science/article/pii/S2666920X23000516)
+Abstract: The accessibility of advanced Artificial Intelligence-based tools, like ChatGPT, has made Large Language Models (LLMs) readily available to students. These LLMs can generate original written content to assist students in their academic assessments. With the rapid adoption of LLMs, exemplified by the popularity of OpenAI's ChatGPT, there is a growing need to explore their application in education. Few studies examine students' use of LLMs as learning tools. This paper focuses on the application of ChatGPT in engineering higher education through an in-depth case study. It investigates whether engineering students can generate high-quality university essays with LLMs assistance, whether existing LLMs identification systems can detect essays produced with LLMs, and how students perceive the usefulness and acceptance of LLMs in learning. The research adopts a deductive/inductive approach, combining conceptualization and empirical evidence analysis. The study involves mechanical and management engineering students, who compose essays using LLMs. The essay assessment showed good results, but some recommendations emerged for teachers and students. Thirteen LLMs detectors were tested without achieving satisfactory results, suggesting to avoid LLMs ban. In addition, students were administered a questionnaire based on constructs and items that follow the technology acceptance models available in the literature. The results contribute to qualitative evidence by highlighting possible future research and educational practices.
+Keywords: LLM; ChatGPT; Higher education; Essay generation
+
+Yuanjing Luo, Xichen Tan, Zhiping Cai,
+Robust Deep Image Watermarking: A Survey,
+Computers, Materials and Continua,
+Volume 81, Issue 1,
+2024,
+Pages 133-160,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2024.055150.
+(https://www.sciencedirect.com/science/article/pii/S1546221824007458)
+Abstract: In the era of internet proliferation, safeguarding digital media copyright and integrity, especially for images, is imperative. Digital watermarking stands out as a pivotal solution for image security. With the advent of deep learning, watermarking has seen significant advancements. Our review focuses on the innovative deep watermarking approaches that employ neural networks to identify robust embedding spaces, resilient to various attacks. These methods, characterized by a streamlined encoder-decoder architecture, have shown enhanced performance through the incorporation of novel training modules. This article offers an in-depth analysis of deep watermarking’s core technologies, current status, and prospective trajectories, evaluating recent scholarly contributions across diverse frameworks. It concludes with an overview of the technical hurdles and prospects, providing essential insights for ongoing and future research endeavors in digital image watermarking.
+Keywords: Deep image watermarking; multimedia security; data protection deep neural network
+
+Radha Nagarajan, Midori Kondo, Franz Salas, Emre Sezgin, Yuan Yao, Vanessa Klotzman, Sandip A Godambe, Naqi Khan, Alfonso Limon, Graham Stephenson, Sharief Taraman, Nephi Walton, Louis Ehwerhemuepha, Jay Pandit, Deepti Pandita, Michael Weiss, Charles Golden, Adam Gold, John Henderson, Angela Shippy, Leo Anthony Celi, William R Hogan, Eric K Oermann, Terence Sanger, Steven Martel,
+Economics and Equity of Large Language Models: Health Care Perspective,
+Journal of Medical Internet Research,
+Volume 26,
+2024,
+,
+ISSN 1438-8871,
+https://doi.org/10.2196/64226.
+(https://www.sciencedirect.com/science/article/pii/S1438887124007866)
+Abstract: Large language models (LLMs) continue to exhibit noteworthy capabilities across a spectrum of areas, including emerging proficiencies across the health care continuum. Successful LLM implementation and adoption depend on digital readiness, modern infrastructure, a trained workforce, privacy, and an ethical regulatory landscape. These factors can vary significantly across health care ecosystems, dictating the choice of a particular LLM implementation pathway. This perspective discusses 3 LLM implementation pathways—training from scratch pathway (TSP), fine-tuned pathway (FTP), and out-of-the-box pathway (OBP)—as potential onboarding points for health systems while facilitating equitable adoption. The choice of a particular pathway is governed by needs as well as affordability. Therefore, the risks, benefits, and economics of these pathways across 4 major cloud service providers (Amazon, Microsoft, Google, and Oracle) are presented. While cost comparisons, such as on-demand and spot pricing across the cloud service providers for the 3 pathways, are presented for completeness, the usefulness of managed services and cloud enterprise tools is elucidated. Managed services can complement the traditional workforce and expertise, while enterprise tools, such as federated learning, can overcome sample size challenges when implementing LLMs using health care data. Of the 3 pathways, TSP is expected to be the most resource-intensive regarding infrastructure and workforce while providing maximum customization, enhanced transparency, and performance. Because TSP trains the LLM using enterprise health care data, it is expected to harness the digital signatures of the population served by the health care system with the potential to impact outcomes. The use of pretrained models in FTP is a limitation. It may impact its performance because the training data used in the pretrained model may have hidden bias and may not necessarily be health care–related. However, FTP provides a balance between customization, cost, and performance. While OBP can be rapidly deployed, it provides minimal customization and transparency without guaranteeing long-term availability. OBP may also present challenges in interfacing seamlessly with downstream applications in health care settings with variations in pricing and use over time. Lack of customization in OBP can significantly limit its ability to impact outcomes. Finally, potential applications of LLMs in health care, including conversational artificial intelligence, chatbots, summarization, and machine translation, are highlighted. While the 3 implementation pathways discussed in this perspective have the potential to facilitate equitable adoption and democratization of LLMs, transitions between them may be necessary as the needs of health systems evolve. Understanding the economics and trade-offs of these onboarding pathways can guide their strategic adoption and demonstrate value while impacting health care outcomes favorably.
+Keywords: large language model; LLM; health care; economics; equity; cloud service providers; cloud; health outcome; implementation; democratization
+
+Ziyu Jiang, Hongxia Wang, Zhenhao Shi, Run Jiao,
+Reversible source-aware natural language watermarking via customized lexical substitution,
+Information Processing & Management,
+Volume 62, Issue 2,
+2025,
+103977,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2024.103977.
+(https://www.sciencedirect.com/science/article/pii/S0306457324003364)
+Abstract: Current natural language watermarking (NLW) methods generate suitable watermark words based on local context using pre-trained models (PLMs), minimizing semantic loss in watermarked text. However, these methods still exhibit some limitations. Specifically, there is room for improvement on substitutes quality and watermark imperceptibility since they integrate off-the-shelf lexical substitution (LS) models, which are not specifically tailored for watermarking algorithms. They make strict synchronization constraints to generate identical substitutes list from the original and the watermarked text, and therefore precludes consideration of some high-quality substitutes, which curtails the watermark capacity. Additionally, the local context changes via watermarking embedding, and these methods cannot losslessly recover the original text, limiting the application of NLW to high-precision scenarios such as government documents, military, and medical applications. To address these issues, we propose a reversible source-aware NLW approach, which performs proactive mining to identify potential reversible watermark positions by virtue of a PLM and subsequently embeds the watermark into the text via source-aware LS. Also, we have designed a novel LS algorithm tailored for NLW to enhance the imperceptibility and textual fidelity of watermarked content. Experiments validate the efficiency of our LS method in generating the most suitable substitutes and verifies that our NLW approach achieves complete reversibility while enhancing watermark capacity and textual fidelity compared to prior arts.
+Keywords: Natural language watermarking; Reversible text watermarking; Lexical substitution; Prompt learning
+
+Partha Pratim Ray,
+ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope,
+Internet of Things and Cyber-Physical Systems,
+Volume 3,
+2023,
+Pages 121-154,
+ISSN 2667-3452,
+https://doi.org/10.1016/j.iotcps.2023.04.003.
+(https://www.sciencedirect.com/science/article/pii/S266734522300024X)
+Abstract: In recent years, artificial intelligence (AI) and machine learning have been transforming the landscape of scientific research. Out of which, the chatbot technology has experienced tremendous advancements in recent years, especially with ChatGPT emerging as a notable AI language model. This comprehensive review delves into the background, applications, key challenges, and future directions of ChatGPT. We begin by exploring its origins, development, and underlying technology, before examining its wide-ranging applications across industries such as customer service, healthcare, and education. We also highlight the critical challenges that ChatGPT faces, including ethical concerns, data biases, and safety issues, while discussing potential mitigation strategies. Finally, we envision the future of ChatGPT by exploring areas of further research and development, focusing on its integration with other technologies, improved human-AI interaction, and addressing the digital divide. This review offers valuable insights for researchers, developers, and stakeholders interested in the ever-evolving landscape of AI-driven conversational agents. This study explores the various ways ChatGPT has been revolutionizing scientific research, spanning from data processing and hypothesis generation to collaboration and public outreach. Furthermore, the paper examines the potential challenges and ethical concerns surrounding the use of ChatGPT in research, while highlighting the importance of striking a balance between AI-assisted innovation and human expertise. The paper presents several ethical issues in existing computing domain and how ChatGPT can invoke challenges to such notion. This work also includes some biases and limitations of ChatGPT. It is worth to note that despite of several controversies and ethical concerns, ChatGPT has attracted remarkable attentions from academia, research, and industries in a very short span of time.
+Keywords: ChatGPT; Language model; GPT-3.5; Generative AI; Conversational AI; Context understanding; Natural language processing
+
+Xiyao Liu, Qingyu Dang, Huiyi Wang, Xiaoheng Deng, Xunli Fan, Cundian Yang, Zhihong Chen, Hui Fang,
+An adversarial contrastive learning based cross-modality zero-watermarking scheme for DIBR 3D video copyright protection,
+Neurocomputing,
+2025,
+130068,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2025.130068.
+(https://www.sciencedirect.com/science/article/pii/S0925231225007404)
+Abstract: Copyright protection of depth image-based rendering (DIBR) videos has raised significant concerns due to their increasing popularity. Zero-watermarking, emerging as a powerful tool to protect the copyright of DIBR 3D videos, mainly relies on traditional feature extraction methods, thus necessitating improvements in robustness against complex geometric attacks and its ability to strike a balance between robustness and distinguishability. This paper presents a novel zero-watermarking scheme based on cross-modality feature fusion within a contrastive learning framework. Our approach integrates complementary information from 2D frames and depth maps using a cross-modality attention feature fusion mechanism to obtain discriminative features. Moreover, our features achieve a better trade-off between robustness and distinguishability by leveraging a designed contrastive learning strategy with an adversarial distortion simulator. Experimental results demonstrate our remarkable performance by reducing the false negative rates to around 0.2% when the false positive rate is equal to 0.5%, which is superior to the state-of-the-art zero-watermarking methods.
+Keywords: Zero-watermarking; DIBR 3D videos; Contrastive learning; Adversarial distortion simulator; Cross-modality feature fusion
+
+Vito Giordano, Irene Spada, Filippo Chiarello, Gualtiero Fantoni,
+The impact of ChatGPT on human skills: A quantitative study on twitter data,
+Technological Forecasting and Social Change,
+Volume 203,
+2024,
+123389,
+ISSN 0040-1625,
+https://doi.org/10.1016/j.techfore.2024.123389.
+(https://www.sciencedirect.com/science/article/pii/S0040162524001859)
+Abstract: The novel generative Artificial Intelligence (AI) developed by OpenAI, i.e., ChatGPT, rised a great interest in both scientific and business contexts. This new wave of technological advancement typically produces deep transformation in the workplace, requiring new skills. However, none of the studies in literature provide quantitative analysis and measures on the impact of ChatGPT on human skills. To address this gap, we collected a database of 616,073 tweets about ChatGPT, and used Natural Language Processing techniques to identify the tasks users requested ChatGPT to perform, and the sentiment related to these tasks. Then, we compared these tasks with a standard taxonomy of skills (i.e., ESCO) using BERT. The results of the study underline that ChatGPT impacts 185 different skills. Moreover, we proposed a model to represent the interaction of the user and ChatGPT, useful to define four skills which are emerging for using this new technology.
+Keywords: ChatGPT; Generative Artificial Intelligence; Natural Language Processing; Skills; ESCO
+
+Zhengyang Xiao, Himadri B. Pakrasi, Yixin Chen, Yinjie J. Tang,
+Network for knowledge Organization (NEKO): An AI knowledge mining workflow for synthetic biology research,
+Metabolic Engineering,
+Volume 87,
+2025,
+Pages 60-67,
+ISSN 1096-7176,
+https://doi.org/10.1016/j.ymben.2024.11.006.
+(https://www.sciencedirect.com/science/article/pii/S1096717624001484)
+Abstract: Large language models (LLMs) can complete general scientific question-and-answer, yet they are constrained by their pretraining cut-off dates and lack the ability to provide specific, cited scientific knowledge. Here, we introduce Network for Knowledge Organization (NEKO), a workflow that uses LLM Qwen to extract knowledge through scientific literature text mining. When user inputs a keyword of interest, NEKO can generate knowledge graphs to link bioinformation entities and produce comprehensive summaries from PubMed search. NEKO significantly enhance LLM ability and has immediate applications in daily academic tasks such as education of young scientists, literature review, paper writing, experiment planning/troubleshooting, and new ideas/hypothesis generation. We exemplified this workflow's applicability through several case studies on yeast fermentation and cyanobacterial biorefinery. NEKO's output is more informative, specific, and actionable than GPT-4's zero-shot Q&A. NEKO offers flexible, lightweight local deployment options. NEKO democratizes artificial intelligence (AI) tools, making scientific foundation model more accessible to researchers without excessive computational power.
+Keywords: Foundation model; Large language model; Qwen; Retrieval augmented generation; Knowledge graph
+
+Ruonan Sun, Shirley Gregor, Erwin Fielt,
+Generativity and the paradox of stability and flexibility in a platform architecture: A case of the Oracle Cloud Platform,
+Information & Management,
+Volume 58, Issue 8,
+2021,
+103548,
+ISSN 0378-7206,
+https://doi.org/10.1016/j.im.2021.103548.
+(https://www.sciencedirect.com/science/article/pii/S0378720621001221)
+Abstract: Generativity is a technology’s capability of producing new outputs without input from the originator. Platforms are important technologies that embrace generativity. While the literature generally assumes that generativity arises from platform governance and high-level platform design, we propose that generativity also arises from a platform’s three architectural components: the base, the interface, and the add-ons. Drawing on a case study of the Oracle Cloud Platform, we reveal how generativity emerges through the paradox of stability and flexibility in a platform’s architectural components. Further, standardization navigates this paradox by coordinating the dependencies between stability and flexibility across heterogeneous stakeholders.
+Keywords: Platform; Generativity; Architecture; Paradox; Stability; Flexibility; Oracle Cloud
+
+Gizem Korkmaz, J. Bayoán Santiago Calderón, Brandon L. Kramer, Ledia Guci, Carol A. Robbins,
+From GitHub to GDP: A framework for measuring open source software innovation,
+Research Policy,
+Volume 53, Issue 3,
+2024,
+104954,
+ISSN 0048-7333,
+https://doi.org/10.1016/j.respol.2024.104954.
+(https://www.sciencedirect.com/science/article/pii/S0048733324000039)
+Abstract: Open source software (OSS) is software that anyone can review, modify, and distribute freely, usually with only minor restrictions such as giving credit to the creator of the work. The use of OSS is growing rapidly, due to its value in increasing firm and economy-wide productivity. Despite its widespread use, there is no standardized methodology for measuring the scope and impact of this fundamental intangible asset. This study presents a framework to measure the value of OSS using data collected from GitHub, the largest platform in the world with over 100 million developers. The data include over 7.6 million repositories where software is developed, stored, and managed. We collect information about contributors and development activity such as code changes and license detail. By adopting a cost estimation model from software engineering, we develop a methodology to generate estimates of investment in OSS that are consistent with the U.S. national accounting methods used for measuring software investment. We generate annual estimates of current and inflation-adjusted investment as well as the net stock of OSS for the 2009–2019 period. Our estimates show that the U.S. investment in 2019 was $37.8 billion with a current-cost net stock of $74.3 billion.
+Keywords: Open source software; Cost measurement; GitHub; Innovation; Gross domestic product; Software investment; National accounts
+
+Jinyin Chen, Mingjun Li, Yao Cheng, Haibin Zheng,
+FedRight: An effective model copyright protection for federated learning,
+Computers & Security,
+Volume 135,
+2023,
+103504,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2023.103504.
+(https://www.sciencedirect.com/science/article/pii/S0167404823004145)
+Abstract: Federated learning (FL), an effective distributed machine learning framework, implements model training and meanwhile protects local data privacy. It has been applied to a broad variety of practical areas due to their great performance and appreciable profits. Who really owns the model, and how to protect the copyright has become a real problem. Intuitively, the existing property rights protection methods in centralized scenarios (e.g., watermark embedding and model fingerprints) are possible solutions for FL. But they are still challenged by the distributed nature of FL in aspects of the no data sharing, parameter aggregation, and federated training settings. For the first time we formalize the problem of copyright protection for FL, and propose FedRight to protect model copyright based on model fingerprints, i.e., extracting model features by generating adversarial examples as model fingerprints. FedRight outperforms previous works in four key aspects: (i) Validity - it extracts model features to generate transferable fingerprints to train a detector to verify the copyright of the model. (ii) Fidelity - it is with imperceptible impact on the federated training, thus promises good main task performance. (iii) Robustness - it is empirically robust against malicious attack on copyright protection, i.e., fine-tuning, model pruning and adaptive attacks. (iv) Black-box - it is valid in black-box forensic scenario where only application programming interface calls to the model are available. Extensive evaluations across 3 datasets and 9 model structures demonstrate FedRight's superior fidelity, validity and robustness.
+Keywords: Copyright protection; Federated learning; Model fingerprints; Robustness; Black-box fingerprints
+
+S. Markkandeyan, A. Dennis Ananth, M. Rajakumaran, R.G. Gokila, R. Venkatesan, B. Lakshmi,
+Novel hybrid deep learning based cyber security threat detection model with optimization algorithm,
+Cyber Security and Applications,
+Volume 3,
+2025,
+100075,
+ISSN 2772-9184,
+https://doi.org/10.1016/j.csa.2024.100075.
+(https://www.sciencedirect.com/science/article/pii/S2772918424000419)
+Abstract: In order to continuously provide services to the company, the Internet of Things (IoT) connects the hardware, software, storing data, and applications that could be utilized as a new port of entry for cyber-attacks. The privacy of IoT is presently very vulnerable to virus threats and software piracy. Threats like this have the potential to capture critical data, harming businesses' finances and reputations. We have suggested a hybrid Deep Learning (DL) strategy in this study to identify malware-infected programs and files that have been illegally distributed over the IoT environment. To detect illegal content utilizing Source code (SC) duplication, the Adaptive TensorFlow deep neural network with Improved Particle Swarm Optimization (IPSO) is suggested. This novel hybrid strategy improves cyber security by fusing cutting-edge DL with optimization methods, providing more effective and accurate detection. With a strong solution for real-time threat identification, the model handles the complexity of contemporary cyberthreats. To highlight the significance of the proxy regarding the SC duplication, the noisy data is filtered using the tokenization and weighting feature approaches. After that, duplication in SC is found using a DL method. To look into software piracy, the dataset was gathered via Google Code Jam (GCJ). Additionally, using the visual representation of color images, the Enhanced Long Short-Term Memory (E-LSTM) was employed to identify suspicious actions in the IoT environment. The Maling dataset is used to gather the malware samples required for testing. The experimental findings show that, in terms of categorization, the suggested method for evaluating cybersecurity threats in IoT surpasses conventional approaches.
+Keywords: Internet of things (IoT); Cyber-attacks; Security; Adaptive tensor flow deep neural network; Improved particle swarm optimization (IPSO); Enhanced long short term memory (E-LSTM)
+
+Marcos Faundez-Zanuy,
+Comprehensive analysis of least significant bit and difference expansion watermarking algorithms for online signature signals,
+Expert Systems with Applications,
+Volume 267,
+2025,
+126214,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2024.126214.
+(https://www.sciencedirect.com/science/article/pii/S0957417424030811)
+Abstract: This paper investigates the efficacy of non-reversible and reversible watermarking techniques applied to online signature signals through an analysis of Least Significant Bit and difference expansion algorithms. The impact of watermark insertion is assessed using dynamic time warping recognition accuracies on a large database. Our experimental section comprises identification rates and verification errors for both random and skilled forgeries, involving 330 users and 25 skilled forgeries per user. Notably, our findings reveal that online signature signals can withstand up to 7 bits per sample insertion in the least significant bit algorithm, with minimal reduction in recognition accuracies. Similar robustness is observed with the difference expansion algorithm. This resilience is noted when employing z-score normalization and an expanded feature set, encompassing delta and delta-delta parameters. The presented results underscore the robustness of the proposed watermarking methods in preserving the integrity of online signature recognition capabilities. Watermarking is currently proposed to differentiate between human-produced signals and those generated by artificial intelligence, with applications including replay attack detection. This study explores the potential application of this technique to online handwriting signals without compromising biometric recognition accuracy. The proposed watermarking techniques not only preserve biometric recognition integrity but also provide a promising solution to distinguish human-generated signals from AI-generated counterparts, a growing challenge in the age of synthetic media.
+Keywords: Watermarking; Biometrics; Online signature; Dynamic time warping; Artificial Intelligence generated signal detection
+
+Qinqin Wu, Qinqin Zhuang, Yitong Liu, Longyan Han,
+Technology shock of ChatGPT, social attention and firm value: Evidence from China,
+Technology in Society,
+Volume 79,
+2024,
+102756,
+ISSN 0160-791X,
+https://doi.org/10.1016/j.techsoc.2024.102756.
+(https://www.sciencedirect.com/science/article/pii/S0160791X2400304X)
+Abstract: The release of ChatGPT has attracted widespread attention and triggered fluctuations in the capital market. This study employs difference-in-differences (DID) and event study (ES) to investigate the effects of ChatGPT's release on the cumulative abnormal return (CAR) of listed companies in China. The results reveal that a series of ChatGPT launch events, including GPT-3.5 and GPT-4, have a significantly positive impact on the firm value of the companies focused on ChatGPT, with dynamic effects. In the initial two months after the release of ChatGPT, the Chinese stock market exhibited an undervaluation of GPT-focused companies, indicating information asymmetry and competitive substitution effect. With the widespread promotion of generative AI, social recognition of ChatGPT's potential value increased. This study verifies the moderation effect of social attention in strengthening ChatGPT's impact, demonstrating that a higher search index for ChatGPT enhances stock returns for GPT-focused companies. Heterogeneity tests reveal that the impact of ChatGPT is significantly positive for large or non-state-owned companies, while small or state-owned companies show no significant effect. From the perspective of labor structure, companies dominated by technical and production personnel experience positive effects, whereas those dominated by sales personnel do not. In the eastern regions with more favorable digital economic innovation environments, companies experience a notably positive impact. This paper provides a theoretical explanation and empirical evidence for the microeconomic impact of generative AI in the Chinese context, offering valuable insights for both government and firms.
+Keywords: ChatGPT; Artificial intelligence; Event study; Difference-in-differences; Stock return; Social attention
+
+Alexander Boll, Pooja Rani, Alexander Schultheiß, Timo Kehrer,
+Beyond code: Is there a difference between comments in visual and textual languages?,
+Journal of Systems and Software,
+Volume 215,
+2024,
+112087,
+ISSN 0164-1212,
+https://doi.org/10.1016/j.jss.2024.112087.
+(https://www.sciencedirect.com/science/article/pii/S0164121224001328)
+Abstract: Code comments are crucial for program comprehension and maintenance. To better understand the nature and content of comments, previous work proposed taxonomies of comment information for textual languages, notably classical programming languages. However, paradigms such as model-driven or model-based engineering often promote the use of visual languages, to which existing taxonomies are not directly applicable. Taking MATLAB/Simulink as a representative of a sophisticated and widely used modeling environment, we extend a multi-language comment taxonomy onto new (visual) comment types and two new languages: Simulink and MATLAB. Furthermore, we outline Simulink commenting practices and compare them to textual languages. We analyze 259,267 comments from 9095 Simulink models and 17,792 MATLAB scripts. We identify the comment types, their usage frequency, classify comment information, and analyze their correlations with model metrics. We manually analyze 757 comments to extend the taxonomy. We also analyze commenting guidelines and developer adherence to them. Our extended taxonomy, SCoT (Simulink Comment Taxonomy), contains 25 categories. We find that Simulink comments, although often duplicated, are used at all model hierarchy levels. Of all comment types, Annotations are used most often; Notes scarcely. Our results indicate that Simulink developers, instead of extending comments, add new ones, and rarely follow commenting guidelines. Overall, we find Simulink comment information comparable to textual languages, which highlights commenting practice similarity across languages.
+Keywords: Documentation; Graphical; Diagram; Knowledge-transfer; Simulink; Model-driven engineering; Comment clones; Taxonomy
+
+Linda T. Li, Lauren C. Haley, Alexandra K. Boyd, Elmer V. Bernstam,
+Technical/Algorithm, Stakeholder, and Society (TASS) barriers to the application of artificial intelligence in medicine: A systematic review,
+Journal of Biomedical Informatics,
+Volume 147,
+2023,
+104531,
+ISSN 1532-0464,
+https://doi.org/10.1016/j.jbi.2023.104531.
+(https://www.sciencedirect.com/science/article/pii/S1532046423002526)
+Abstract: Introduction
+The use of artificial intelligence (AI), particularly machine learning and predictive analytics, has shown great promise in health care. Despite its strong potential, there has been limited use in health care settings. In this systematic review, we aim to determine the main barriers to successful implementation of AI in healthcare and discuss potential ways to overcome these challenges.
+Methods
+We conducted a literature search in PubMed (1/1/2001–1/1/2023). The search was restricted to publications in the English language, and human study subjects. We excluded articles that did not discuss AI, machine learning, predictive analytics, and barriers to the use of these techniques in health care. Using grounded theory methodology, we abstracted concepts to identify major barriers to AI use in medicine.
+Results
+We identified a total of 2,382 articles. After reviewing the 306 included papers, we developed 19 major themes, which we categorized into three levels: the Technical/Algorithm, Stakeholder, and Social levels (TASS). These themes included: Lack of Explainability, Need for Validation Protocols, Need for Standards for Interoperability, Need for Reporting Guidelines, Need for Standardization of Performance Metrics, Lack of Plan for Updating Algorithm, Job Loss, Skills Loss, Workflow Challenges, Loss of Patient Autonomy and Consent, Disturbing the Patient-Clinician Relationship, Lack of Trust in AI, Logistical Challenges, Lack of strategic plan, Lack of Cost-effectiveness Analysis and Proof of Efficacy, Privacy, Liability, Bias and Social Justice, and Education.
+Conclusion
+We identified 19 major barriers to the use of AI in healthcare and categorized them into three levels: the Technical/Algorithm, Stakeholder, and Social levels (TASS). Future studies should expand on barriers in pediatric care and focus on developing clearly defined protocols to overcome these barriers.
+Keywords: Artificial intelligence; Augmented intelligence; Machine learning; Predictive analytics; Barriers; Implementation
+
+Ahmed Shafee, S.R. Hasan, Tasneem A. Awaad,
+Privacy and security vulnerabilities in edge intelligence: An analysis and countermeasures,
+Computers and Electrical Engineering,
+Volume 123, Part B,
+2025,
+110146,
+ISSN 0045-7906,
+https://doi.org/10.1016/j.compeleceng.2025.110146.
+(https://www.sciencedirect.com/science/article/pii/S0045790625000898)
+Abstract: Recent advancements in deep learning have significantly accelerated the growth of artificial intelligence (AI) technologies, powering applications like the Metaverse, augmented reality (AR), virtual reality (VR), and tactile communications on emerging 6G networks. The proliferation of Internet of Things (IoT) devices and mobile computing has connected vast numbers of devices to the internet, generating enormous amounts of data at the network edge. To harness the potential of this big data, extending AI capabilities to the network edge has become increasingly vital. Edge AI, or edge intelligence (EI), enables computing tasks to be performed closer to data sources, reducing latency and enhancing efficiency. However, this shift has amplified privacy concerns due to increased data sharing, compounded by the growing prevalence of data breaches. Research also reveals that sharing AI models instead of raw data does not fully safeguard privacy, as certain attacks can still compromise sensitive training information. This paper reviews Edge Intelligence with a focus on privacy and security issues, identifying critical challenges and vulnerabilities in edge and cloud computing environments. It provides a comprehensive analysis of state-of-the-art solutions to address these concerns, offering valuable insights into enhancing privacy and security in distributed computing systems.
+Keywords: Artificial intelligence; Cloud computing; Deep learning; Edge computing; Edge intelligence; Machine learning; Privacy-preserving; Security
+
+Phuong T. Nguyen, Juri Di Rocco, Claudio Di Sipio, Riccardo Rubei, Davide Di Ruscio, Massimiliano Di Penta,
+GPTSniffer: A CodeBERT-based classifier to detect source code written by ChatGPT,
+Journal of Systems and Software,
+Volume 214,
+2024,
+112059,
+ISSN 0164-1212,
+https://doi.org/10.1016/j.jss.2024.112059.
+(https://www.sciencedirect.com/science/article/pii/S0164121224001043)
+Abstract: Since its launch in November 2022, ChatGPT has gained popularity among users, especially programmers who use it to solve development issues. However, while offering a practical solution to programming problems, ChatGPT should be used primarily as a supporting tool (e.g., in software education) rather than as a replacement for humans. Thus, detecting automatically generated source code by ChatGPT is necessary, and tools for identifying AI-generated content need to be adapted to work effectively with code. This paper presents GPTSniffer– a novel approach to the detection of source code written by AI – built on top of CodeBERT. We conducted an empirical study to investigate the feasibility of automated identification of AI-generated code, and the factors that influence this ability. The results show that GPTSniffer can accurately classify whether code is human-written or AI-generated, outperforming two baselines, GPTZero and OpenAI Text Classifier. Also, the study shows how similar training data or a classification context with paired snippets helps boost the prediction. We conclude that GPTSniffer can be leveraged in different contexts, e.g., in software engineering education, where teachers use the tool to detect cheating and plagiarism, or in development, where AI-generated code may require peculiar quality assurance activities.
+Keywords: ChatGPT; Code classification; CodeBERT; Pre-trained Models
+
+Manal Kleib, Elizabeth Mirekuwaa Darko, Oluwadamilare Akingbade, Megan Kennedy, Precious Majekodunmi, Emma Nickel, Laura Vogelsang,
+Current trends and future implications in the utilization of ChatGPT in nursing: A rapid review,
+International Journal of Nursing Studies Advances,
+Volume 7,
+2024,
+100252,
+ISSN 2666-142X,
+https://doi.org/10.1016/j.ijnsa.2024.100252.
+(https://www.sciencedirect.com/science/article/pii/S2666142X24000791)
+Abstract: Background
+The past decade has witnessed a surge in the development of artificial intelligence (AI)-based technology systems for healthcare. Launched in November 2022, ChatGPT (Generative Pre-trained Transformer), an AI-based Chatbot, is being utilized in nursing education, research and practice. However, little is known about its pattern of usage, which prompted this study.
+Objective
+To provide a concise overview of the existing literature on the application of ChatGPT in nursing education, practice and research.
+Methods
+A rapid review based on the Cochrane methodology was applied to synthesize existing literature. We conducted systematic searches in several databases, including CINAHL, Ovid Medline, Embase, Web of Science, Scopus, Education Search Complete, ERIC, and Cochrane CENTRAL, to ensure no publications were missed. All types of primary and secondary research studies, including qualitative, quantitative, mixed methods, and literature reviews published in the English language focused on the use of ChatGPT in nursing education, research, and practice, were included. Dissertations or theses, conference proceedings, government and other organizational reports, white papers, discussion papers, opinion pieces, editorials, commentaries, and published review protocols were excluded. Studies involving other healthcare professionals and/or students without including nursing participants were excluded. Studies exploring other language models without comparison to ChatGPT and those examining the technical specifications of ChatGPT were excluded. Data screening was completed in two stages: titles and abstract and full-text review, followed by data extraction and quality appraisal. Descriptive analysis and narrative synthesis were applied to summarize and categorize the findings.
+Results
+Seventeen studies were included: 15 (88.2 %) focused on nursing education and one each on nursing practice and research. Of the 17 included studies, 5 (29.4 %) were evaluation studies, 3 (17.6 %) were narrative reviews, 3 (17.6 %) were cross-sectional studies, 2 (11.8 %) were descriptive studies, and 1 (5.9 %) was a randomized controlled trial, quasi-experimental study, case study, and qualitative study, respectively.
+Conclusion
+This study has provided a snapshot of ChatGPT usage in nursing education, research, and practice. Although evidence is inconclusive, integration of ChatGPT should consider addressing ethical concerns and ongoing education on ChatGPT usage. Further research, specifically interventional studies, is recommended to ascertain and track the impact of ChatGPT in different contexts.
+Keywords: ChatGPT; Generative artificial intelligence (Gen AI); Nursing education; Nursing practice; Nursing research; Rapid review
+
+Yinghua Li, Xueqi Dang, Haoye Tian, Tiezhu Sun, Zhijie Wang, Lei Ma, Jacques Klein, Tegawendé F. Bissyandé,
+An empirical study of AI techniques in mobile applications,
+Journal of Systems and Software,
+Volume 219,
+2025,
+112233,
+ISSN 0164-1212,
+https://doi.org/10.1016/j.jss.2024.112233.
+(https://www.sciencedirect.com/science/article/pii/S0164121224002772)
+Abstract: The integration of artificial intelligence (AI) into mobile applications has significantly transformed various domains, enhancing user experiences and providing personalized services through advanced machine learning (ML) and deep learning (DL) technologies. AI-driven mobile apps typically refer to applications that leverage ML/DL technologies to perform key tasks such as image recognition and natural language processing. Despite existing research exploring how mobile apps exploit AI techniques, they have the following main limitations: (1) Most existing studies focus on DL-based apps, with limited research on ML-based apps. (2) Existing research typically focuses on investigating the apps and the technologies utilized in the apps, lacking user-level analysis. (3) The number of apps studied is limited, with only 1,000 to 2,000 ML/DL apps identified after filtering. To fill the gap, in this paper, we conducted the most extensive empirical study on AI applications, exploring on-device ML apps, on-device DL apps, and AI service-supported (cloud-based) apps. Our study encompasses 56,682 real-world AI applications, focusing on three crucial perspectives: (1) Application analysis, where we analyze the popularity of AI apps and investigate the update states of AI apps; (2) Framework and model analysis, where we analyze AI framework usage and AI model protection; (3) User analysis, where we examine user privacy protection and user review attitudes. Our study has strong implications for AI app developers, users, and AI R&D. On one hand, our findings highlight the growing trend of AI integration in mobile applications, demonstrating the widespread adoption of various AI frameworks and models. On the other hand, our findings emphasize the need for robust model protection to enhance app security. Additionally, our study highlights the importance of user privacy and presents user attitudes towards the AI technologies utilized in current AI apps. We provide our AI app dataset (currently the most extensive AI app dataset) as an open-source resource for future research on AI technologies utilized in mobile applications.
+Keywords: AI apps; AI technologies; Analysis; Empirical study
+
+Nicholas Walker, Sanghoon Lee, John Dagdelen, Kevin Cruse, Samuel Gleason, Alexander Dunn, Gerbrand Ceder, A. Paul Alivisatos, Kristin A. Persson, Anubhav Jain,
+Extracting structured seed-mediated gold nanorod growth procedures from scientific text with LLMs††Electronic supplementary information (ESI) available. See DOI: https://doi.org/10.1039/d3dd00019b,
+Digital Discovery,
+Volume 2, Issue 6,
+2023,
+Pages 1768-1782,
+ISSN 2635-098X,
+https://doi.org/10.1039/d3dd00019b.
+(https://www.sciencedirect.com/science/article/pii/S2635098X23001249)
+Abstract: ABSTRACT
+Although gold nanorods have been the subject of much research, the pathways for controlling their shape and thereby their optical properties remain largely heuristically understood. Although it is apparent that the simultaneous presence of and interaction between various reagents during synthesis control these properties, computational and experimental approaches for exploring the synthesis space can be either intractable or too time-consuming in practice. This motivates an alternative approach leveraging the wealth of synthesis information already embedded in the body of scientific literature by developing tools to extract relevant structured data in an automated, high-throughput manner. To that end, we present an approach using the powerful GPT-3 language model to extract structured multi-step seed-mediated growth procedures and outcomes for gold nanorods from unstructured scientific text. GPT-3 prompt completions are fine-tuned to predict synthesis templates in the form of JSON documents from unstructured text input with an overall accuracy of 86% aggregated by entities and 76% aggregated by papers. The performance is notable, considering the model is performing simultaneous entity recognition and relation extraction. We present a dataset of 11 644 entities extracted from 1137 papers, resulting in 268 papers with at least one complete seed-mediated gold nanorod growth procedure and outcome for a total of 332 complete procedures.
+
+Syed Meesam Raza Naqvi, Mohammad Ghufran, Christophe Varnier, Jean-Marc Nicod, Noureddine Zerhouni,
+Enhancing semantic search using ontologies: A hybrid information retrieval approach for industrial text,
+Journal of Industrial Information Integration,
+Volume 45,
+2025,
+100835,
+ISSN 2452-414X,
+https://doi.org/10.1016/j.jii.2025.100835.
+(https://www.sciencedirect.com/science/article/pii/S2452414X25000597)
+Abstract: Despite the increased focus on data in Industry 4.0, textual data has received little attention in the production and engineering management literature. Data sources such as maintenance records and machine documentation usually are not used to help maintenance decision-making. Available studies mainly focus on categorizing maintenance records or extracting meta-data, such as time of failure, maintenance cost, etc. One of the main reasons behind this underutilization is the complexity and unstructured nature of the industrial text. In this study, we propose a novel hybrid information retrieval approach for industrial text using multi-modal learning. Maintenance operators can use the proposed system to query maintenance records and find similar solutions to a given problem. The proposed system utilizes heterogeneous (multi-modal) data, a combination of maintenance records, and machine ontology to enhance semantic search results. We used the state-of-the-art Large Language Models (LLMs); BERT (Bidirectional Encoder Representations from Transformers) for textual similarity. For similarity among ontology labels, we used a modified version of Wu-Palmer’s similarity. A hybrid weighted similarity is proposed, incorporating text and ontology similarities to enhance semantic search results. The proposed approach was validated using an open-source dataset of real maintenance records from excavators collected over ten years from different mining sites. A retrieval comparison using only text and multi-modal data is performed to estimate the proposed system’s effectiveness. Quantitative and qualitative analysis of results indicates a performance improvement of 8% using the proposed hybrid similarity approach compared to only text-based retrieval. To the best of our knowledge, this is the first study to combine LLMs and machine ontology for semantic search in maintenance records.
+Keywords: Industry 4.0; Industrial information integration; Machine documentation; Multi-modal learning; Semantic search; Large Language Models (LLMs)
+
+Vincenzo De Martino, Fabio Palomba,
+Classification and challenges of non-functional requirements in ML-enabled systems: A systematic literature review,
+Information and Software Technology,
+Volume 181,
+2025,
+107678,
+ISSN 0950-5849,
+https://doi.org/10.1016/j.infsof.2025.107678.
+(https://www.sciencedirect.com/science/article/pii/S0950584925000175)
+Abstract: Context:
+Machine learning (ML) is nowadays so pervasive and diffused that virtually no application can avoid its use. Nonetheless, its enormous potential is often tempered by the need to manage non-functional requirements (NFRs) and navigate pressing, contrasting trade-offs.
+Objective:
+In this respect, we notice a lack of systematic synthesis of challenges explicitly tied to achieving and managing NFRs in ML-enabled systems. Such a synthesis may not only provide a comprehensive summary of the state of the art but also drive further research on the analysis, management, and optimization of NFRS of ML-enabled systems.
+Method:
+In this paper, we propose a systematic literature review targeting two key aspects such as (1) the classification of the NFRs investigated so far, and (2) the challenges associated with achieving and managing NFRs in ML-enabled systems during model development Through the combination of well-established guidelines for conducting systematic literature reviews and additional search criteria, we survey a total amount of 130 research articles.
+Results:
+Our findings report that current research identified 31 different NFRs, which can be grouped into six main classes. We also compiled a catalog of 26 software engineering challenges, emphasizing the need for further research to systematically address, prioritize, and balance NFRs in ML-enabled systems.
+Conclusion:
+We conclude our work by distilling implications and a future outlook on the topic.
+Keywords: Software engineering for artificial intelligence; Non-functional requirements; Systematic literature reviews
+
+Stefan Harrer,
+Attention is not all you need: the complicated case of ethically using large language models in healthcare and medicine,
+eBioMedicine,
+Volume 90,
+2023,
+104512,
+ISSN 2352-3964,
+https://doi.org/10.1016/j.ebiom.2023.104512.
+(https://www.sciencedirect.com/science/article/pii/S2352396423000774)
+Abstract: Summary
+Large Language Models (LLMs) are a key component of generative artificial intelligence (AI) applications for creating new content including text, imagery, audio, code, and videos in response to textual instructions. Without human oversight, guidance and responsible design and operation, such generative AI applications will remain a party trick with substantial potential for creating and spreading misinformation or harmful and inaccurate content at unprecedented scale. However, if positioned and developed responsibly as companions to humans augmenting but not replacing their role in decision making, knowledge retrieval and other cognitive processes, they could evolve into highly efficient, trustworthy, assistive tools for information management. This perspective describes how such tools could transform data management workflows in healthcare and medicine, explains how the underlying technology works, provides an assessment of risks and limitations, and proposes an ethical, technical, and cultural framework for responsible design, development, and deployment. It seeks to incentivise users, developers, providers, and regulators of generative AI that utilises LLMs to collectively prepare for the transformational role this technology could play in evidence-based sectors.
+Keywords: Generative artificial intelligence; Large language models; Foundation models; AI ethics; Augmented human intelligence; Information management; AI trustworthiness
+
+Danhuai Guo, Huixuan Chen, Ruoling Wu, Yangang Wang,
+AIGC challenges and opportunities related to public safety: A case study of ChatGPT,
+Journal of Safety Science and Resilience,
+Volume 4, Issue 4,
+2023,
+Pages 329-339,
+ISSN 2666-4496,
+https://doi.org/10.1016/j.jnlssr.2023.08.001.
+(https://www.sciencedirect.com/science/article/pii/S2666449623000397)
+Abstract: Artificial intelligence generated content (AIGC) is a production method based on artificial intelligence (AI) technology that finds rules through data and automatically generates content. In contrast to computational intelligence, generative AI, as exemplified by ChatGPT, exhibits characteristics that increasingly resemble human-level comprehension and creation processes. This paper provides a detailed technical framework and history of ChatGPT, followed by an examination of the challenges posed to political security, military security, economic security, cultural security, social security, ethical security, legal security, machine escape problems, and information leakage. Finally, this paper discusses the potential opportunities that AIGC presents in the realms of politics, military, cybersecurity, society, and public safety education.
+Keywords: Generative artificial intelligence， Artificial intelligence generated content; ChatGPT; Public safety; Strong artificial intelligence
+
+Aubrey M. Madler, Shamin Renwick,
+Referencing and Citation Styles,
+Editor(s): David Baker, Lucy Ellis,
+Encyclopedia of Libraries, Librarianship, and Information Science (First Edition),
+Academic Press,
+2025,
+Pages 108-120,
+ISBN 9780323956901,
+https://doi.org/10.1016/B978-0-323-95689-5.00213-3.
+(https://www.sciencedirect.com/science/article/pii/B9780323956895002133)
+Abstract: Referencing is the act of naming a person or organization responsible for creative or intellectual work. And it provides information that allows others to locate the original source. Referencing original sources helps to avoid plagiarizing academic, creative, and other works – either in written or in multi-media formats. Various citation styles dictate how to display identifying details about the source in a reference. Original styles were developed in the late 1880s, then as technology and information formats evolved, so did citation styles. The ever-evolving technological advances and changes in fields of study lead to releasing new style editions to address new information formats and professional standards of practice.
+Keywords: Attribution; Bibliography; Citation history; Citation style; Citing; Footnotes; In-text citation; Narrative citation; Parenthetical citation; Plagiarism; Reference list; References; Referencing; Works cited; Works consulted.
+
+Kaya Kuru, Kaan Kuru,
+UMetaBE-DPPML: Urban Metaverse & Blockchain-Enabled Decentralised Privacy-Preserving Machine Learning Verification And Authentication With Metaverse Immersive Devices,
+Internet of Things and Cyber-Physical Systems,
+2025,
+,
+ISSN 2667-3452,
+https://doi.org/10.1016/j.iotcps.2025.02.001.
+(https://www.sciencedirect.com/science/article/pii/S2667345225000094)
+Abstract: It is anticipated that cybercrime activities will be widespread in the urban metaverse ecosystem due to its high economic value with new types of assets and its immersive nature with a variety of experiences. Ensuring reliable urban metaverse cyberspaces requires addressing two critical challenges, namely, cybersecurity and privacy protection. This study, by analysing potential cyberthreats in the urban metaverse cyberspaces, proposes a blockchain-based Decentralised Privacy-Preserving Machine Learning (DPPML) authentication and verification methodology, which uses the metaverse immersive devices and can be instrumented effectively against identity impersonation and theft of credentials, identity, or avatars. Blockchain technology and Federated Learning (FL) are merged in the developed DPPML approach not only to eliminate the requirement of a trusted third party for the verification of the authenticity of transactions and immersive actions, but also, to avoid Single Point of Failure (SPoF) and Generative Adversarial Networks (GAN) attacks by detecting malicious nodes. The developed methodology has been tested using Motion Capture Suits (MoCaps) in a co-simulation environment with the Proof-of-Work (PoW) consensus mechanism. The preliminary results suggest that the built techniques in the DPPML approach can prevent unreal transactions, impersonation, identity theft, and theft of credentials or avatars promptly before any transactions have been executed or immersive experiences have been shared with others. The proposed system will be tested with a larger number of nodes involving the Proof-of-Stake (PoS) consensus mechanism using several other metaverse immersive devices as a future job.
+Keywords: Metaverse; cybercommunity; urban twins; cybersecurity; collaborative deep learning; federated learning; blockchain
+
+Zhaoxia Deng, Yahong Li,
+Players’ rights to game mods: Towards a more balanced copyright regime,
+Computer Law & Security Review,
+Volume 43,
+2021,
+105634,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2021.105634.
+(https://www.sciencedirect.com/science/article/pii/S0267364921001072)
+Abstract: In the context of video game, there is a notable convergence between the users and producers of content. There is also a tension between control over created content and innovative uses of that content, which arises from the gap existed between copyright law and the emerging practices of online communities. This paper examines a distinct form of player-contributed content, namely game Mods, through the perspective of social welfare rather than that of content creators. It argues that law is not the only factor affecting copyright owners’ decision-making behavior; social and economic factors also play an essential role. These factors explain why game developers may tolerate or even encourage minor alterations to their works but prohibit total conversion of the Mods. Given that the existing law and terms of service cannot serve as “effective cure” for regulating game Mods, this paper explores the social and economic factors that impact how game corporations address modding, framing these factors in a four-quadrant model according to the relative benefits and harm of Mods to game developers and users/modders. The inconsistency between the letter of the law and its practical application in the modding context suggests a need for law reform. Based on the findings of the above examinations, this paper proposes a two-pronged solution to the modding problem. The first prong concerns the social benefit of game Mods, aiming at changing the copyright regime from being exclusive to non-exclusive, which confers on gamers the legal right to modify video games without permission but obliges them to remunerate the original developers for commercial use of those Mods. The second prong concerns the potential social harm of game Mods and proposes a community-based approach, under which game operators are imposed a common law duty to monitor infringement and to ensure the fair implementation of game developers’ terms of service.
+Keywords: Player contributed content; Game mods; Terms of service; Social benefits/harm; Right of modding; Community-based approach
+
+B. Puladi, C. Gsaxner, J. Kleesiek, F. Hölzle, R. Röhrig, J. Egger,
+The impact and opportunities of large language models like ChatGPT in oral and maxillofacial surgery: a narrative review,
+International Journal of Oral and Maxillofacial Surgery,
+Volume 53, Issue 1,
+2024,
+Pages 78-88,
+ISSN 0901-5027,
+https://doi.org/10.1016/j.ijom.2023.09.005.
+(https://www.sciencedirect.com/science/article/pii/S0901502723002163)
+Abstract: Since its release at the end of 2022, the social response to ChatGPT, a large language model (LLM), has been huge, as it has revolutionized the way we communicate with computers. This review was performed to describe the technical background of LLMs and to provide a review of the current literature on LLMs in the field of oral and maxillofacial surgery (OMS). The PubMed, Scopus, and Web of Science databases were searched for LLMs and OMS. Adjacent surgical disciplines were included to cover the entire literature, and records from Google Scholar and medRxiv were added. Out of the 57 records identified, 37 were included; 31 (84%) were related to GPT-3.5, four (11%) to GPT-4, and two (5%) to both. Current research on LLMs is mainly limited to research and scientific writing, patient information/communication, and medical education. Classic OMS diseases are underrepresented. The current literature related to LLMs in OMS has a limited evidence level. There is a need to investigate the use of LLMs scientifically and systematically in the core areas of OMS. Although LLMs are likely to add value outside the operating room, the use of LLMs raises ethical and medical regulatory issues that must first be addressed.
+Keywords: ChatGPT; Artificial intelligence; Oral and Maxillofacial Surgery; Review
+
+Ahmed Bensaoud, Jugal Kalita,
+Advancing software security: DCodeBERT for automatic vulnerability detection and repair,
+Journal of Industrial Information Integration,
+Volume 45,
+2025,
+100834,
+ISSN 2452-414X,
+https://doi.org/10.1016/j.jii.2025.100834.
+(https://www.sciencedirect.com/science/article/pii/S2452414X25000585)
+Abstract: The exponential growth of software complexity has led to a corresponding increase in software vulnerabilities, necessitating robust methods for automatic vulnerability detection and repair. This paper proposes DCodeBERT, a large language model (LLM) fine-tuned for vulnerability detection and repair in software code. Leveraging the pre-trained CodeBERT model, DCodeBERT is designed to understand both natural language and programming language context, enabling it to effectively identify vulnerabilities and suggest repairs. We conduct experiments to evaluate DCodeBERT’s performance, comparing it against several baseline models. The results demonstrate that DCodeBERT outperforms the baselines in both vulnerability detection and repair tasks across multiple programming languages, showcasing its effectiveness in enhancing software security.
+Keywords: Large Language Models; Adversarial attacks; Vulnerability detection; Data privacy; Natural language processing
+
+Keno Moenck, Duc Trung Thieu, Julian Koch, Thorsten Schüppstuhl,
+Industrial Language-Image Dataset (ILID): Adapting Vision Foundation Models for Industrial Settings,
+Procedia CIRP,
+Volume 130,
+2024,
+Pages 250-263,
+ISSN 2212-8271,
+https://doi.org/10.1016/j.procir.2024.10.084.
+(https://www.sciencedirect.com/science/article/pii/S2212827124012411)
+Abstract: In recent years, the upstream of Large Language Models (LLM) has also encouraged the computer vision community to work on substantial multimodal datasets and train models on a scale in a self-/semi-supervised manner, resulting in Vision Foundation Models (VFM), as, e.g., Contrastive Language–Image Pre-training (CLIP). The models generalize well and perform outstandingly on everyday objects or scenes, even on downstream tasks, tasks the model has not been trained on, while the application in specialized domains, as in an industrial context, is still an open research question. Here, fine-tuning the models or transfer learning on domain-specific data is unavoidable when objecting to adequate performance. In this work, we, on the one hand, introduce a pipeline to generate the Industrial Language-Image Dataset (ILID) based on web-crawled data; on the other hand, we demonstrate effective self-supervised transfer learning and discussing downstream tasks after training on the cheaply acquired ILID, which does not necessitate human labeling or intervention. With the proposed approach, we contribute by transferring approaches from state-of-the-art research around foundation models, transfer learning strategies, and applications to the industrial domain.
+Keywords: industrial dataset; self-supervised; CLIP; vision foundation model
+
+Julian Just,
+Natural language processing for innovation search – Reviewing an emerging non-human innovation intermediary,
+Technovation,
+Volume 129,
+2024,
+102883,
+ISSN 0166-4972,
+https://doi.org/10.1016/j.technovation.2023.102883.
+(https://www.sciencedirect.com/science/article/pii/S0166497223001943)
+Abstract: Applying artificial intelligence (AI), especially natural language processing (NLP), to harness large amounts of information from patent databases, online communities, social media, or crowdsourcing platforms is becoming increasingly popular to help organizations find promising solutions. In the era of non-human innovation intermediaries, we should begin to view NLP not only as a useful technology applied in different innovation practices but also as an intermediary orchestrating valuable information. Previous research has not taken this perspective, and knowledge about its intermediation activities and functions is limited. This study reviews 167 academic articles to better understand how NLP approaches can enrich intermediation in early-stage innovation search. It identifies 18 distinctive innovation practices taking over activities like forecasting trends, illustrating technology and idea landscapes, filtering out distinctive contributions, recombining domain-specific and analogous knowledge, or matching problems with solutions. While certain NLP capabilities complement each other, the analysis shows that the choice of the most appropriate approach depends on the characteristics of the innovation practice. Innovation researchers and practitioners should rethink current roles and responsibilities in AI-based innovation processes. As seen in the recent emergence of large language models (LLMs), the rapidly evolving field offers many future research opportunities and practical benefits.
+Keywords: Natural language processing; Innovation search; Innovation intermediation; Front-end of innovation; AI-based innovation management; Systematic literature review
+
+Andreas Karapatakis,
+Metaverse crimes in virtual (Un)reality: Fraud and sexual offences under English law,
+Journal of Economic Criminology,
+Volume 7,
+2025,
+100118,
+ISSN 2949-7914,
+https://doi.org/10.1016/j.jeconc.2024.100118.
+(https://www.sciencedirect.com/science/article/pii/S2949791424000708)
+Abstract: The technological evolution has not only opened new frontiers but has also become an indispensable part of our daily lives. However, the technology that enhances our lives presents a dual reality—it offers opportunities for criminals while creating challenges for law enforcement. Fraud, particularly, has become a pervasive issue. In response, virtual asset service providers must take measures to tackle cryptocurrency-related fraud. Nevertheless, this becomes challenging if the perpetrator exists solely within the virtual world. In 1992, Neal Stephenson used the term ‘Metaverse’ to describe a virtual world where people interact with each other using avatars. Over time, the Metaverse has transformed into a complex concept akin to 'cyberspace'. The Metaverse is a virtual environment that uses technologies to mimic the real world. As this virtual space became intertwined with financial transactions, especially through cryptocurrencies, the Metaverse evolved into a medium for perpetrating scams. Within this context, the article addresses the challenges associated with criminal activity in the Metaverse. Considering the potential applications of AI, cryptocurrencies and Non-Fungible Tokens, three main challenges can be identified: 1) decentralisation, 2) anonymity of the user, and 3) lack of regulation. This article examines the applicability of existing legislation to regulate criminal activity in the Metaverse through doctrinal research. Using a comparative approach, it analyses the challenges of addressing virtual crimes by contrasting fraud (Fraud Act 2006) with sexual assault (Sexual Offences Act 2003), highlighting the complexity of addressing crimes involving physical contact in virtual spaces compared to financial crimes.
+Keywords: Metaverse; Crypto assets; Artificial Intelligence (AI); Fraud; Financial crime
+
+Can Yavuz,
+Adverse human rights impacts of dissemination of nonconsensual sexual deepfakes in the framework of European Convention on Human Rights: A victim-centered perspective,
+Computer Law & Security Review,
+Volume 56,
+2025,
+106108,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2025.106108.
+(https://www.sciencedirect.com/science/article/pii/S0267364925000032)
+Abstract: Generative artificial intelligence systems have advanced significantly over the past decade and can now generate synthetic but highly realistic audio, photo, and video, commonly referred to as deepfake. Image-based sexual abuse was the first widespread (mis)use of deepfake technology and continues to be the most common form of its misuse. However, further (empirical) research is needed to examine this phenomenon's adverse human rights implications. This paper analyses the potential adverse human rights impacts of the dissemination of nonconsensual sexual deepfakes in the framework of the European Convention on Human Rights and argues that the dissemination of such deepfakes can hinder the rights protected by the Convention. These include the right to respect for private and family life, as nonconsensual sexual deepfakes can undermine data protection, harm one's image and reputation, and compromise psychological integrity and personal autonomy. Additionally, such deepfakes can threaten freedom of expression by creating a silencing effect on public watchdogs, politicians, and private individuals. Finally, nonconsensual sexual deepfakes can impair the economic and moral rights of pornography performers by abusing their work and bodies to abuse others without authorization and compensation. These findings highlight that the Council of Europe member states must fulfil their obligations to provide effective protection against this technology-facilitated, gender-based, and sexual violence.
+Keywords: Deepfake; Generative artificial intelligence; Image-based sexual abuse; Deepfake pornography; Technology-facilitated violence; Gender-based violence; Sexual violence; European Convention on Human Rights; Right to respect for private and family life; Freedom of expression; Protection of property
+
+Ionela Bara, Richard Ramsey, Emily S. Cross,
+AI contextual information shapes moral and aesthetic judgments of AI-generated visual art,
+Cognition,
+Volume 257,
+2025,
+106063,
+ISSN 0010-0277,
+https://doi.org/10.1016/j.cognition.2025.106063.
+(https://www.sciencedirect.com/science/article/pii/S0010027725000034)
+Abstract: Throughout history, art creation has been regarded as a uniquely human means to express original ideas, emotions, and experiences. However, as Generative Artificial Intelligence reshapes visual, aesthetic, legal, and economic culture, critical questions arise about the moral and aesthetic implications of AI-generated art. Despite the growing use of AI tools in art, the moral impact of AI involvement in the art creation process remains underexplored. Understanding moral judgments of AI-generated art is essential for assessing AI's impact on art and its alignment with ethical norms. Across three pre-registered experiments combining explicit and implicit paradigms with Bayesian modelling, we examined how information about AI systems influences moral and aesthetic judgments and whether human art is implicitly associated with positive attributes compared to AI-generated art. Experiment 1 revealed that factual information about AI backend processes reduced moral acceptability and aesthetic appeal in certain contexts, such as gaining financial incentives and art status. Experiment 2 showed that additional information about AI art's success had no clear impact on moral judgments. Experiment 3 demonstrated that an implicit association task did not reliably link human art with positive attributes and AI art with negative ones. These findings show that factual information about AI systems shapes judgments, while different information doses about AI art's success have limited moral impact. Additionally, implicit associations between human-made and AI-generated art are similar. This work enhances understanding of moral and aesthetic perceptions of AI-generated art, emphasizing the importance of examining human—AI interactions in an arts context, and their current and evolving societal implications.
+Keywords: AI-generated art; Moral judgments; Aesthetic judgments; Contextual information; Implicit moral associations
+
+Zhongqi Lin, Jingdun Jia, Wanlin Gao, Feng Huang,
+A novel quadruple generative adversarial network for semi-supervised categorization of low-resolution images,
+Neurocomputing,
+Volume 415,
+2020,
+Pages 266-285,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2020.05.050.
+(https://www.sciencedirect.com/science/article/pii/S0925231220308857)
+Abstract: In order to make utilization of unlabeled low-resolution (LR) images to shape discriminative models, we present quadruple generative adversarial network (Q-GAN), a game-theoretical framework for implementing semi-supervised categorization of LR images. It can realize photo-realistic image super-resolution (SR) and semi-supervised pattern recognition simultaneously. We consider our pipeline as a four-player optimization-based formulation, which consists of four vital components, i.e., a refiner for image SR and generation, a discriminator for identifying high-resolution (HR) samples and another for identifying true (original) samples, a classifier for label prediction. The refiner and two discriminators characterize the conditional distributions between images and labels, whilst the classifier solely focuses on predicting real image-label pairs. We select those high-quality super-solved images with ground-truth labels for data supplement. We customize the global optimization objective function as well as the training procedure to ensure model approximates the posterior distribution of latent variables given true data in a semi-supervised manner. Experimental results demonstrate that Q-GAN can simultaneously (1) deliver the promising categorization performance among state-of-the-arts, i.e., validation accuracy achieves 92.18% and testing accuracy achieves 90.63%, and (2) recover fine-grained textures with high peak signal-to-noise ratios (PNSRs) and structural similarities (SSIMs) from heavily downsampled testing images of hand-crafted dataset and public benchmarks.
+Keywords: Generative adversarial networks; Image super-resolution; Image categorization; Semi-supervised learning; Deep learning
+
+Juzheng Mao, Honghan Li, Jinyang Yu, Haijun Wu, Miguel Bordallo López, Yongkun Zhao,
+SyniEMG: An open-source platform for synthesizing intramuscular electromyography signals from kinematic inputs,
+Biomedical Signal Processing and Control,
+Volume 102,
+2025,
+107191,
+ISSN 1746-8094,
+https://doi.org/10.1016/j.bspc.2024.107191.
+(https://www.sciencedirect.com/science/article/pii/S1746809424012497)
+Abstract: Intramuscular Electromyography (iEMG) is a critical tool for neuromuscular diagnostics but is limited by its invasive nature, which causes patient discomfort and incurs significant costs. To address these challenges, we propose SyniEMG, an innovative, open-source platform that synthesizes iEMG signals from kinematic data using a hybrid generative model, providing a non-invasive and cost-effective alternative. SyniEMG integrates Convolutional Neural Networks (CNNs), Long Short-Term Memory (LSTM) networks, attention mechanisms, and Generative Adversarial Networks (GANs) to effectively capture the spatial and temporal patterns necessary for accurate iEMG signal synthesis. The platform tackles the largely unexplored challenge of reverse neuromechanical modeling by converting kinematic data into continuous muscle activity signals, marking a significant advancement over traditional forward modeling techniques. We validated the platform using datasets, demonstrating its capability to accurately capture muscle activity dynamics. Moreover, SyniEMG requires only a brief training session to collect both iEMG and kinematic signals, enabling efficient synthesis of extended iEMG sequences. This approach reduces the risks associated with prolonged electrode use and provides a practical solution for continuous clinical monitoring and research. Quantitative evaluations in both time and frequency domains confirm the effectiveness of the platform, particularly in exoskeleton applications for motion enhancement and rehabilitation. By enabling indirect monitoring of muscle activity without the need for EMG sensors, SyniEMG has the potential to minimize injury risks, such as overstretching, during movement.
+Keywords: Intramuscular electromyography; Neuromechanics; Reverse synthesis; Machine learning; Generative model
+
+Bin Yang,
+Perceptual similarity measurement based on generative adversarial neural networks in graphics design,
+Applied Soft Computing,
+Volume 110,
+2021,
+107548,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2021.107548.
+(https://www.sciencedirect.com/science/article/pii/S1568494621004695)
+Abstract: Measuring the similarity between images is of paramount importance in computer vision. However, the commonly used pixelwise similarity metrics do not match well with perceptual similarity. The purpose of this paper is to propose a visual similarity measurement method, which can be effectively used for plagiarism detection in graphic design. Plagiarism detection of designs refers to the identification and determination of major similarities. It is difficult to carry out the similarity learning process in traditional deep neural network due to the insufficient of training samples. To overcome this problem, a novel scheme is proposed for measuring perceptual similarity of graphics by using a constraint Generative Adversarial Network (GAN) model. The generator of GAN is used to create similar graphics following the common plagiarism features of logo design. Unlike the traditional discriminator which judges the authenticity of the generated image and the original image, the modified discriminator is used to calculate the perceptual similarity of the graphics pair. In graphics design, plagiarism mainly focuses on the changes of shape, color and style, which has certain cognitive subjectivity. Therefore, design experts were invited to participate in a group of cognitive analysis experiments. A perceptual constraint model is established to limit the generation of plagiarized graphics according to “design and visual rationality”. Promising results demonstrate that the proposed method can be used for plagiarism detection of logo design. Given its effectiveness and conceptual simplicity, I hope it can serve as a baseline and contribute to the future research on plagiarism detection of artworks.
+Keywords: Perceptual similarity; Plagiarism detection; Generative adversarial network; Logo design; Graphics design
+
+Anna Strasser,
+Chapter 10 - Pitfalls (and advantages) of sophisticated large language models,
+Editor(s): Santi Caballé, Joan Casas-Roma, Jordi Conesa,
+In Intelligent Data-Centric Systems,
+Ethics in Online AI-based Systems,
+Academic Press,
+2024,
+Pages 195-210,
+ISBN 9780443188510,
+https://doi.org/10.1016/B978-0-443-18851-0.00007-X.
+(https://www.sciencedirect.com/science/article/pii/B978044318851000007X)
+Abstract: Natural language processing (NLP) based on large language models (LLMs) is a booming field of AI research. After neural networks have proven to outperform humans in games and practical domains based on pattern recognition, we might now stand at a road junction where artificial entities might eventually enter the realm of human communication. However, this comes with serious risks. Due to the inherent limitations regarding the reliability of neural networks, overreliance on LLMs can have disruptive consequences. And since it will be increasingly difficult to distinguish between human-written and machine-generated text, one is confronted with new ethical challenges. This begins with the no longer undoubtedly verifiable human authorship and continues with various types of fraud, such as a new form of plagiarism. This also concerns the violation of privacy rights, the possibility of circulating counterfeits of humans, and, last but not least, it makes a massive spread of misinformation possible.
+Keywords: Large language models; human-machine discrimination abilities; ethical consequences; privacy rights; human counterfeits; overreliance; misinformation
+
+Ronghao Pan, José Antonio García-Díaz, Rafael Valencia-García,
+Comparing Fine-Tuning, Zero and Few-Shot Strategies with Large Language Models in Hate Speech Detection in English,
+CMES - Computer Modeling in Engineering and Sciences,
+Volume 140, Issue 3,
+2024,
+Pages 2849-2868,
+ISSN 1526-1492,
+https://doi.org/10.32604/cmes.2024.049631.
+(https://www.sciencedirect.com/science/article/pii/S1526149224000493)
+Abstract: Large Language Models (LLMs) are increasingly demonstrating their ability to understand natural language and solve complex tasks, especially through text generation. One of the relevant capabilities is contextual learning, which involves the ability to receive instructions in natural language or task demonstrations to generate expected outputs for test instances without the need for additional training or gradient updates. In recent years, the popularity of social networking has provided a medium through which some users can engage in offensive and harmful online behavior. In this study, we investigate the ability of different LLMs, ranging from zero-shot and few-shot learning to fine-tuning. Our experiments show that LLMs can identify sexist and hateful online texts using zero-shot and few-shot approaches through information retrieval. Furthermore, it is found that the encoder-decoder model called Zephyr achieves the best results with the fine-tuning approach, scoring 86.811% on the Explainable Detection of Online Sexism (EDOS) test-set and 57.453% on the Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (HatEval) test-set. Finally, it is confirmed that the evaluated models perform well in hate text detection, as they beat the best result in the HatEval task leaderboard. The error analysis shows that contextual learning had difficulty distinguishing between types of hate speech and figurative language. However, the fine-tuned approach tends to produce many false positives.
+Keywords: Hate speech detection; zero-shot; few-shot; fine-tuning; natural language processing
+
+Usharani Hareesh Govindarajan, Gagan Narang, Dhiraj Kumar Singh, Vinay Surendra Yadav,
+Blockchain technologies adoption in healthcare: Overcoming barriers amid the hype cycle to enhance patient care,
+Technological Forecasting and Social Change,
+Volume 213,
+2025,
+124031,
+ISSN 0040-1625,
+https://doi.org/10.1016/j.techfore.2025.124031.
+(https://www.sciencedirect.com/science/article/pii/S0040162525000629)
+Abstract: Blockchain technologies are increasingly recognized as a transformative force across industries, offering potential solutions for information management, data security, and operational efficiency improvement. However, integration into the healthcare sector faces significant barriers, ranging from technical challenges to organizational resistance. In this study, a methodology is proposed that examines these critical barriers through a comprehensive analysis of 3265 academic papers and derives actionable solutions from 1566 patents published between 2016 and 2023. This approach bridges the gap between identifying challenges and implementing solutions. Using the “Stepwise Weight Assessment Ratio Analysis (SWARA)”, twelve critical adoption challenges are analyzed, while Top2Vec-based topic modeling identifies innovations that best address the ranked barriers. In addition to this, the proposed ‘healthcare ecosphere’ knowledge map serves as a comprehensive tool to analyze key stakeholders, their interactions, and the alignment of adoption barriers in solution spaces. The findings show that innovations in blockchain technologies are heavily concentrated in areas such as data security and application functionalities, whereas other critical domains—such as consensus mechanisms, governance, and regulatory frameworks—remain underexplored, pointing to opportunities for growth and development. The mapping of barriers to solutions provides practical guidance for healthcare providers, policymakers, and technologists seeking to implement the blockchain technologies effectively.
+Keywords: Adoption barriers; Blockchain technologies; Healthcare ecosphere; Patent analysis; SWARA; Top2Vec

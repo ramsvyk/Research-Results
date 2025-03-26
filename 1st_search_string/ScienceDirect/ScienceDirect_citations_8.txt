@@ -1,0 +1,1239 @@
+Chuanda Cai, Changgen Peng, Hanlin Tang, Bin Xiao, Weijie Tan,
+DWTAT-DASIS: Fusion of discrete wavelet transform and access tree for distributed authentication in secret image sharing,
+Computer Standards & Interfaces,
+Volume 93,
+2025,
+103969,
+ISSN 0920-5489,
+https://doi.org/10.1016/j.csi.2024.103969.
+(https://www.sciencedirect.com/science/article/pii/S0920548924001387)
+Abstract: Secret sharing of distributed data in cloud environments prevents unauthorized and wanton access and misuse by malicious participants. However, when applying secret sharing to image formats, the fixed range of pixel values in images presents unique challenges for share recovery, often resulting in recovery algorithms that reconstruct images in a lossy manner. Moreover, one-way authentication methods for participants in cloud environments are insufficient to address the heightened security demands of high-trust scenarios. This paper presents a secret image-sharing scheme with distributed authentication (DWTAT-DASIS) designed for cloud storage environments. By leveraging Discrete Wavelet Transform and an Access Tree structure, the scheme addresses the limitations of existing approaches (such as compression-based secret sharing and visual cryptography), which fail to provide lossless image recovery and efficient performance. Additionally, DWTAT-DASIS enhances security through fine-grained access control and two-way authentication. Finally, security analysis and experiments were conducted on the proposed protocol, demonstrating its ability to resist common attack methods as well as some deeper-level attack methods, meeting the security requirements for image storage in cloud systems. Experimental analysis shows that compared with similar protocols, this protocol can ensure the integrity of image restoration and greatly reduce the probability of image transmission being attacked.
+Keywords: Distributed storage; Discrete wavelet transform; Secret image sharing; Signature certification
+
+
+Guide for Authors,
+Intelligent Medicine,
+Volume 4, Issue 1,
+2024,
+Pages 58-64,
+ISSN 2667-1026,
+https://doi.org/10.1016/S2667-1026(24)00017-2.
+(https://www.sciencedirect.com/science/article/pii/S2667102624000172)
+
+Shubham Kakran, Parminder Kaur Bajaj, Dharen Kumar Pandey, Ashish Kumar,
+Interconnectedness and return spillover among APEC currency exchange rates: A time-frequency analysis,
+Research in International Business and Finance,
+Volume 73, Part A,
+2025,
+102572,
+ISSN 0275-5319,
+https://doi.org/10.1016/j.ribaf.2024.102572.
+(https://www.sciencedirect.com/science/article/pii/S0275531924003659)
+Abstract: By combining TVP-VAR Model (time domain connectedness) and TVP-VAR based Baruník and Křehlík model (frequency domain connectedness), this study analyzes the impact of the COVID-19 pandemic, the Russia-Ukraine war, and the Silicon Valley Bank (SVB) collapse on the Asia Pacific Economic Cooperation (APEC) forum currency exchange rates. The results reveal that APEC currencies have time-varying effects (tend to cluster in appreciation and depreciation patterns in both the short and long term) and have generated higher total return spillover during COVID-19 (in the time domain) than the Russia-Ukraine war and SVB collapse. During COVID-19 (87.18 %) (total return spillover), impacts were more severe than the Russia-Ukraine crisis (79.49 %) and the Silicon Valley Bank collapse (75.55 %). Moreover, the South Korean won, Thai Bhat and Australian Dollar are identified as consistent shock transmitters, and Malaysian Ringgit, Philippine peso, Indonesian Rupiah, and Chinese Yuan as consistent shock receivers in the time domain. The findings have substantial repercussions for financial regulators and investors.
+Keywords: Asia Pacific Economic Cooperation; COVID-19; Russia–Ukraine war; Silicon valley bank collapse; Spillover; Currency exchange rate
+
+Karl Friston, Lancelot Da Costa, Dalton A.R. Sakthivadivel, Conor Heins, Grigorios A. Pavliotis, Maxwell Ramstead, Thomas Parr,
+Path integrals, particular kinds, and strange things,
+Physics of Life Reviews,
+Volume 47,
+2023,
+Pages 35-62,
+ISSN 1571-0645,
+https://doi.org/10.1016/j.plrev.2023.08.016.
+(https://www.sciencedirect.com/science/article/pii/S1571064523001094)
+Abstract: This paper describes a path integral formulation of the free energy principle. The ensuing account expresses the paths or trajectories that a particle takes as it evolves over time. The main results are a method or principle of least action that can be used to emulate the behaviour of particles in open exchange with their external milieu. Particles are defined by a particular partition, in which internal states are individuated from external states by active and sensory blanket states. The variational principle at hand allows one to interpret internal dynamics—of certain kinds of particles—as inferring external states that are hidden behind blanket states. We consider different kinds of particles, and to what extent they can be imbued with an elementary form of inference or sentience. Specifically, we consider the distinction between dissipative and conservative particles, inert and active particles and, finally, ordinary and strange particles. Strange particles can be described as inferring their own actions, endowing them with apparent autonomy or agency. In short—of the kinds of particles afforded by a particular partition—strange kinds may be apt for describing sentient behaviour.
+Keywords: Self-organisation; Variational inference; Bayesian; Markov blanket; Active matter; Path integral
+
+Alison P. Appling, Samantha K. Oliver, Jordan S. Read, Jeffrey M. Sadler, Jacob A. Zwart,
+Machine Learning for Understanding Inland Water Quantity, Quality, and Ecology,
+Editor(s): Thomas Mehner, Klement Tockner,
+Encyclopedia of Inland Waters (Second Edition),
+Elsevier,
+2022,
+Pages 585-606,
+ISBN 9780128220412,
+https://doi.org/10.1016/B978-0-12-819166-8.00121-3.
+(https://www.sciencedirect.com/science/article/pii/B9780128191668001213)
+Abstract: This chapter provides an overview of machine learning models and their applications to the science of inland waters. Such models serve a wide range of purposes for science and management: predicting water quality, quantity, or ecological dynamics across space, time, or hypothetical scenarios; vetting and distilling raw data for further modeling or analysis; generating and exploring hypotheses; estimating physically or biologically meaningful parameters for use in further modeling; and revealing patterns in complex, multidimensional data or model outputs. An important research frontier is the injection of limnological knowledge into machine-learning models, which has shown great promise for increasing such models’ accuracy, trustworthiness, and interpretability. Here we describe a few of the most powerful machine learning tools, describe best practices for employing these tools and injecting knowledge guidance, and give examples of their applications to advance understanding of inland waters.
+Keywords: Artificial intelligence; Classification and regression trees; Clustering; Data mining; Deep learning; Dimensionality reduction; Machine learning; Neural networks
+
+Weilong Peng, Keke Tang, Weixuan Tang, Yong Su, Meie Fang, Ping Li,
+MeshPAD: Payload-aware mesh distortion for 3D steganography based on geometric deep learning,
+Expert Systems with Applications,
+Volume 272,
+2025,
+126684,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2025.126684.
+(https://www.sciencedirect.com/science/article/pii/S0957417425003069)
+Abstract: Minimizing distortion while embedding specific payloads is a critical challenge in 3D steganography task. The traditional methods usually involve two steps: first, calculating embedding change probabilities for each vertex using a heuristic distortion formula, and then embedding the secret data according to these probabilities. This paper introduces a novel approach called Payload-Aware Mesh Distortion (MeshPAD), which utilizes a geometric deep learning framework tailored for 3D steganography. MeshPAD directly learns embedding change probabilities while maintaining the minimal distribution distance. The framework is built on three main components: (1) a graph auto-encoder that captures edgewise sensitivity based on topological data; (2) a mechanism that using the edge sensitivity and different payload rates to predict embedding change probabilities, creating a payload-aware distortion process; and (3) a combination consisting of a trainable data embedding mechanism and a discriminator, which work in an adversarial manner to refine the distortion process and enhance security. Experimental results show that MeshPAD achieves superior undetectability compared to heuristic methods. For instance, MeshPAD improves undetectability by about 3% at a payload rate of 0.5 over heuristic methods on the Manifold40 dataset. Across various payload settings, it consistently matches or surpasses existing methods in mesh steganography scenarios, demonstrating its effectiveness and improved security. This development not only enhances the robustness of data protection in 3D environments but also suggests potential applications in areas such as virtual reality security and digital asset management within the information security field.
+Keywords: Mesh steganography; Mesh distortion; Graph neural networks
+
+Eduardo Vyhmeister, Gabriel G. Castane, Johan Buchholz, Per-Olov Östberg,
+Lessons learn on responsible AI implementation: the ASSISTANT use case,
+IFAC-PapersOnLine,
+Volume 55, Issue 10,
+2022,
+Pages 377-382,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2022.09.422.
+(https://www.sciencedirect.com/science/article/pii/S2405896322017086)
+Abstract: Currently, pioneer companies are working hard to construct applied ethical frameworks in different sectors for using AI components that generate trust in their clients and workforce. However, independent of these few companies, there is still a considerable gap between understanding the impact of using responsible AI components, the implications of the lack of use, and what is currently applied in the industrial sector. Given that industry has shown an increased commitment to incorporating AI components, works focus on broadening the understanding of manufacturing sector stakeholders of what approaches could be considered within AI life-cycle, reducing the gap between principles and actionable requirements, and defining fundamental considerations based on risk management for incorporating, and managing, AI-based on responsible AI are required. In this work, we present a summary of the most suitable approaches that can be used for implementation and the lessons learned from a European Funded project (ASSISTANT).
+Keywords: AI; standardisation; responsible AI; AI ethics; Human centered automation; design methodology for HMS; AI en manufacturing
+
+Liangliang Wang, Junjie Ding, Li Pan, Dongsheng Cao, Hui Jiang, Xiaoqin Ding,
+Artificial intelligence facilitates drug design in the big data era,
+Chemometrics and Intelligent Laboratory Systems,
+Volume 194,
+2019,
+103850,
+ISSN 0169-7439,
+https://doi.org/10.1016/j.chemolab.2019.103850.
+(https://www.sciencedirect.com/science/article/pii/S0169743919304605)
+Abstract: With the dramatic development of high-performance computing, the emergence of better algorithms and the accumulation of large amounts of chemical and biological data, computer-aided drug design technology is playing an increasingly prominent role in drug discovery and development with its advantages of fast speed, low cost and high efficiency. In recent years, due to the constant development of machine learning (ML) theory, artificial intelligence (AI), a powerful data mining technology has been widely used in various stages of drug design. More recently, drug design has entered the era of big data, ML methods have gradually evolved into a deep learning (DL) method with stronger generalization ability and more effective big data processing, which further promotes the combination of AI technology and computer-aided drug design technology, thus facilitating the discovery and design of new drugs. This paper mainly summarizes the application progress of AI technology in drug design process, analyses and compares its advantages over traditional methods. Finally, the challenges faced by AI technology and its application prospects in the field of drug design are also discussed.
+Keywords: Artificial intelligence; Drug design; Big data; Machine learning; Deep learning
+
+Lucas Kreiss, Kevin C. Zhou, Clare B. Cook, Shiqi Xu, Amey Chaware, Roarke Horstmeyer,
+11 - Innovations in signal/image processing and data analysis in optical microscopy,
+Editor(s): Andrea Armani, Tatevik Chalyan, David D. Sampson,
+In Photonic Materials and Applications Series,
+Biophotonics and Biosensing,
+Elsevier,
+2024,
+Pages 349-389,
+ISBN 9780443188404,
+https://doi.org/10.1016/B978-0-44-318840-4.00019-X.
+(https://www.sciencedirect.com/science/article/pii/B978044318840400019X)
+Abstract: Modern optical imaging relies on several computational techniques to address different challenges and fundamental limitations, such as noise, limited space-bandwidth product, unwanted color variability and quantification of relevant image features. A wide range of tools spans from classical image processing all the way to advanced deep learning models are now used to enhance the information content in images and the extraction of meaningful and quantifiable parameters. In many cases, machine learning has become the main method of choice for task-specific applications; however, classical image processing techniques still enjoy wide use as general-purpose tools, especially in low-data instances. Due to well-known challenges and limitations to conventional deep learning, researchers now work on emerging techniques, such as explainable AI, physics-informed or physics-supervised learning, known-operator learning, and others that aim to open the black-box of previous models and promise increased interpretability, incorporation of expert knowledge, and faster convergence for smaller datasets.
+Keywords: signal processing; image processing; data analysis; machine learning; deep learning; image registration; super resolution; explainable AI
+
+Mansi Gupta, Mohit Kumar, Renu Dhir,
+Unleashing the prospective of blockchain-federated learning fusion for IoT security: A comprehensive review,
+Computer Science Review,
+Volume 54,
+2024,
+100685,
+ISSN 1574-0137,
+https://doi.org/10.1016/j.cosrev.2024.100685.
+(https://www.sciencedirect.com/science/article/pii/S1574013724000698)
+Abstract: Internet-of-things (IoT) is a revolutionary paragon that brings automation and easiness to human lives and improves their experience. Smart Homes, Healthcare, and Agriculture are some of their amazing use cases. These IoT applications often employ Machine Learning (ML) techniques to strengthen their functionality. ML can be used to analyze sensor data for various, including optimizing energy usage in smart homes, predicting maintenance needs in industrial equipment, personalized user experiences in wearable devices, and detecting anomalies for security monitoring. However, implementing centralized ML techniques is not viable because of the high cost of computing power and privacy issues since so much data is stored over a cloud server. To safeguard data privacy, Federated Learning (FL) has become a new paragon for centralized ML methods where FL,an ML variation sends a model to the user devices without the need to give private data to the third-party or central server, it is one of the promising solutions to address data leakage concerns. By saving raw data to the client itself and transferring only model updates or parameters to the central server, FL helps to reduce privacy leakage. However, it is still not attack-resistant. Blockchain offers a solution to protect FL-enabled IoT networks using smart contracts and consensus mechanisms. This manuscript reviews IoT applications and challenges, discusses FL techniques that can be used to train IoT networks while ensuring privacy, and analyzes existing work. To ensure the security and privacy of IoT applications, an integrated Blockchain-powered FL-based framework was introduced and studies existing research were done using these three powerful paradigms. Finally, the research challenges faced by the integrated platform are explored for future scope, along with the potential applications of IoT in conjunction with other cutting-edge technologies.
+Keywords: Blockchain; Internet-of-Things; Security; Federated learning; Decentralization
+
+Diana Estevez, Faxiang Qin,
+High-performance carbonaceous absorbers: From heterogeneous absorbents to data-driven metamaterials,
+Carbon,
+Volume 233,
+2025,
+119850,
+ISSN 0008-6223,
+https://doi.org/10.1016/j.carbon.2024.119850.
+(https://www.sciencedirect.com/science/article/pii/S0008622324010698)
+Abstract: Carbon-based materials are a key focus in the advancement of “on-demand” microwave absorbers due to their adjustable electrical conductivity and structure, as well as the presence of surface functional groups and defects that promote various loss mechanisms. Bottom-up strategies to optimize the carbon absorbent phase rely primarily on component hybridization, atomic doping, interface engineering, and the construction of hierarchical structures. However, while these strategies constitute important advancements, they do not extend beyond laboratory settings and remain restricted in scope. Compared to a composite absorber incorporating carbon inclusions within a matrix, greater flexibility in design and property control is achieved, as its adoption has triggered effective medium and homogenization theories for assessing structure-property relations. Metamaterial absorbers are rationally designed composites, resulting from meticulous adjustments in microarchitecture that have recently been accelerated by artificial intelligence (AI)-based algorithms replacing conventional trial-and-error and experimental-based strategies for optimization. These emerging technological routes could also be exploited to add multifunctionality to carbon composite absorbers in actual service environments and to develop the next generation of smart absorbers. This article presents an overview of the achievements, trends, and challenges in these areas from the perspective of composite structures rather than focusing on the individual absorbent phase, a subject that is currently underrepresented in existing literature.
+Keywords: Microwave absorption; Carbon composites absorber; Metamaterials absorber; Effective medium theory
+
+Sara Roth, Kasmira Claire Wilson, Robert George Ramsay, Catherine Mitchell, Shienny Sampurno, Toan Duc Pham, Joseph Cherng Huei Kong, Stephen Q. Wong, Alexander Graham Heriot, Sanjeev Deva, Matthew Burge, Cecilie Sverdrup, Anne-Sophie Moller, Lukasz Kuryk, Jon Amund Eriksen, Magnus Jaderberg, John Raymond Zalcberg, Michael Michael,
+A non-randomised open-label exploratory ‘window of opportunity’ study of TG02 treatment in patients with locally advanced primary and recurrent RAS mutant colorectal cancer,
+Heliyon,
+Volume 11, Issue 1,
+2025,
+e41364,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2024.e41364.
+(https://www.sciencedirect.com/science/article/pii/S2405844024173951)
+Abstract: Background
+TG02 is a peptide-based cancer vaccine eliciting immune responses to oncogenic codon 12/13 RAS mutations. This phase 1 clinical trial (NCT02933944) assessed the safety and immunological efficacy of TG02 adjuvanted by GM-CSF in patients with KRAS-mutant colorectal cancer.
+Methods
+In the interval between completing CRT and pelvic exenteration, patients with resectable KRAS mutation-positive, locally advanced primary or current colorectal cancer, received 5–6 doses of TG02/GM-CSF. Immune response was defined as a positive delayed-type hypersensitivity or positive T cell proliferation assay response. Tumour biopsies were analysed for tumour-infiltrating lymphocytes (TILs) and blood for CEA and ctDNA. TILs and tumouroids were cultured, characterised and tested for their killing efficacy.
+Results
+Six patients with rectal cancer were recruited to evaluate TG02. Three patients experienced a total of 16 treatment-related adverse events; all grade 1. Four of the 6 patients (66.7 %) had at least one vaccine-induced TG02 immune response. Flow cytometry analysis showed high proportion of PD-1-expressing TILs in 2 of 3 patient specimens’ post-treatment. A partial to near complete pathological response was reported in 4 of 6 patients.
+Conclusions
+This study demonstrated that TG02/GM-CSF was well tolerated and induced a vaccine specific systemic immune response in the majority of patients. Low numbers limit conclusive clinical outcome reporting. High PD-1 expression on post-treatment TILs encourages the addition of an immune checkpoint inhibitor to TG02 and potentially other studies of peptide vaccines in future studies.
+Keywords: Colorectal cancer; Cancer vaccine; KRAS; TG02; GM-CSF
+
+Sebastian Bello-Lepe, Sabrina Mahmood, Rosemary Varley, Vitor Zimmerer,
+Speech pauses in speakers with and without aphasia: A usage-based approach,
+Cortex,
+Volume 178,
+2024,
+Pages 287-298,
+ISSN 0010-9452,
+https://doi.org/10.1016/j.cortex.2024.06.012.
+(https://www.sciencedirect.com/science/article/pii/S0010945224001850)
+Abstract: Pauses in speech are indicators of cognitive effort during language production and have been examined to inform theories of lexical, grammatical and discourse processing in healthy speakers and individuals with aphasia (IWA). Studies of pauses have commonly focused on their location and duration in relation to grammatical properties such as word class or phrase complexity. However, recent studies of speech output in aphasia have revealed that utterances of IWA are characterised by stronger collocations, i.e., combinations of words that are often used together. We investigated the effects of collocation strength and lexical frequency on pause duration in comic strip narrations of IWA and non-brain-damaged (NBD) individuals with part of speech (PoS; content and function words) as covariate. Both groups showed a decrease in pause duration within more strongly collocated bigrams and before more frequent content words, with stronger effects in IWA. These results are consistent with frameworks which propose that strong collocations are more likely to be processed as holistic, perhaps even word-like, units. Usage-based approaches prove valuable in explaining patterns of preservation and impairment in aphasic language production.
+Keywords: Pauses; Aphasia; Connected speech; Collocation strength; Usage-based approaches
+
+A. Arora, M. Barrett, E. Lee, E. Oborn, K. Prince,
+Risk and the future of AI: Algorithmic bias, data colonialism, and marginalization,
+Information and Organization,
+Volume 33, Issue 3,
+2023,
+100478,
+ISSN 1471-7727,
+https://doi.org/10.1016/j.infoandorg.2023.100478.
+(https://www.sciencedirect.com/science/article/pii/S1471772723000325)
+
+Huiya Zhang, Tao Liu, Xuelian Zou, Yunpeng Zhu, Mingchao Chi, Di Wu, Keyang Jiang, Sijia Zhu, Wenxia Zhai, Shuangfei Wang, Shuangxi Nie, Zhiwei Wang,
+Real-time data visual monitoring of triboelectric nanogenerators enabled by Deep learning,
+Nano Energy,
+Volume 130,
+2024,
+110186,
+ISSN 2211-2855,
+https://doi.org/10.1016/j.nanoen.2024.110186.
+(https://www.sciencedirect.com/science/article/pii/S2211285524009376)
+Abstract: The rapid advancement of smart sensors and logic algorithms has propelled the widespread adoption of the Internet of Things (IoT) and expedited the advent of the intelligent era. The integration of triboelectric nanogenerator (TENG) sensors with Deep learning (DL) leverages unique advantages of TENG such as self-powered sensing, high sensitivity, and broad applicability, along with DL's robust data processing capabilities to effectively, efficiently, and visually monitor various relevant signals. This amalgamation exhibits significantly superior sensing performance and immense developmental potential, finding extensive utility in domains like smart homes, healthcare system, environmental monitoring, among others. Currently, the synergistic working principle of integrating these two technologies remains insufficiently elucidated. This review presents a comprehensive overview of cutting-edge DL techniques and related research aimed at enhancing real-time visual monitoring of TENG. Specifically, it focuses on DL algorithms such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Long Short-Term Memory (LSTM) for processing intricate TENG-generated datasets. Furthermore, this review outlines the advantages and synergistic mechanisms resulting from the integration of DL with TENG sensors, providing a comprehensive summary of their latest applications in various fields requiring real-time data visual monitoring. Finally, it analyzes the prospects, challenges, and countermeasures associated with the integrated development of TENG and DL while offering a comprehensive theoretical foundation and practical guidance for future advancements in this field.
+Keywords: Triboelectric nanogenerator; Deep learning; Self-powered sensing; Real-time monitoring
+
+Chunhua Li, Luqian Bao, Yixin Ji, Zhehang Tian, Mengyao Cui, Yubo Shi, Zhilei Zhao, Xianyou Wang,
+Combining machine learning and metal–organic frameworks research: Novel modeling, performance prediction, and materials discovery,
+Coordination Chemistry Reviews,
+Volume 514,
+2024,
+215888,
+ISSN 0010-8545,
+https://doi.org/10.1016/j.ccr.2024.215888.
+(https://www.sciencedirect.com/science/article/pii/S0010854524002340)
+Abstract: Machine learning (ML) is the science of making computers learn and behave like humans, autonomously improving their learning by providing them with data and information through observations and real-world interactions. ML methods have significantly accelerated the progress of materials science research. Researchers can use ML frameworks to construct materials research models and design platforms to analyze and predict enormous data resources on materials. Metal-organic frameworks (MOFs), a rapidly developing coordination polymer in the last two decades, have become the most competitive candidate among thousands of porous materials with the application of numerous ML methods and models that have been successfully developed. This review offers an overview of how ML methods may be well-integrated with studying MOFs. It starts with a brief background on the concept and application of ML, points out the importance of various types of descriptors for ML modeling, and introduces several novel algorithms and models using ML in recent years. Then, we elaborate on the current research status of ML methods in MOFs performance prediction and materials discovery. At last, potential challenges are pointed out, and an outlook is given regarding the basic situation of ML-based MOF research. As various functionalized MOFs continue to be developed and applied in specific directions, ML will bring its advantages to the forefront in designing and discovering novel MOFs. Therefore, this review intends to provide readers with fundamental perspectives on the broad range of applications where ML is combined with MOFs research and expects to help enhance their study.
+Keywords: Metal-organic frameworks; Machine learning; Novel modeling; Performance prediction; Materials discovery
+
+Zeyuan Ye, Ralf Wessel, Tom P. Franken,
+Brain-like border ownership signals support prediction of natural videos,
+iScience,
+2025,
+112199,
+ISSN 2589-0042,
+https://doi.org/10.1016/j.isci.2025.112199.
+(https://www.sciencedirect.com/science/article/pii/S2589004225004602)
+Abstract: SUMMARY
+To make sense of visual scenes, the brain must segment foreground from background. This is thought to be facilitated by neurons that signal border ownership (BOS), which indicate which side of a border in their receptive field is owned by an object. How these signals emerge without a teaching signal of what is foreground remains unclear. Here we find that many units in PredNet, a self-supervised deep neural network trained to predict future frames in natural videos, are selective for BOS. They share key properties with BOS neurons in the brain, including robustness to object transformations and hysteresis. Ablation revealed that BOS units contribute more to prediction than other units for videos with moving objects. Our findings suggest that BOS neurons might emerge due to an evolutionary or developmental pressure to predict future input in natural, complex dynamic environments, even without an explicit requirement to segment foreground from background.
+
+Jingyuan Zhao, Wenyi Zhao, Bo Deng, Zhenghong Wang, Feng Zhang, Wenxiang Zheng, Wanke Cao, Jinrui Nan, Yubo Lian, Andrew F. Burke,
+Autonomous driving system: A comprehensive survey,
+Expert Systems with Applications,
+Volume 242,
+2024,
+122836,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2023.122836.
+(https://www.sciencedirect.com/science/article/pii/S0957417423033389)
+Abstract: Automation is increasingly at the forefront of transportation research, with the potential to bring fully autonomous vehicles to our roads in the coming years. This comprehensive survey provides a holistic look at the essential components and cutting-edge technologies that are driving the development and implementation of autonomous driving. It starts by evaluating two critical system architectures that are fundamental to the operation of autonomous vehicles: the layered and end-to-end structures. It then examines the critical areas of scene perception and localization, emphasizing the importance of sensor technologies. These technologies are vital for tasks such as object detection and semantic segmentation, which allow vehicles to understand and navigate their environment. A special focus is given to the complex topic of object detection, along with suggestions for how it can be enhanced. The survey then proceeds to provide detailed discussions on path planning, trajectory prediction, and decision-making processes. These elements are crucial for the smooth navigation of autonomous vehicles, and the survey highlights the role of artificial intelligence (AI) and machine learning in these processes. Overall, the survey presents the rapid progress in the field of autonomous driving, offering a comprehensive assessment of the technologies and innovations that are essential for moving toward a safe and efficient autonomous future.
+Keywords: Autonomous driving; Deep learning; Scene perception; Localization; Motion planning; Decision-making
+
+Yudhvir Seetharam, Kingstone Nyakurukwa,
+Headlines or Hashtags? The battle in social media for investor sentiment in the stock market,
+International Journal of Information Management Data Insights,
+Volume 4, Issue 2,
+2024,
+100273,
+ISSN 2667-0968,
+https://doi.org/10.1016/j.jjimei.2024.100273.
+(https://www.sciencedirect.com/science/article/pii/S2667096824000624)
+Abstract: This study tackles the complex task of measuring investor sentiment, a latent variable often measured through various proxies. The focus here is on textual sentiment extracted from online sources, specifically news media and social media sentiment. The central inquiry is whether these proxies are equivalent indicators of investor sentiment. Employing firm-level daily sentiment scores for DJIA stocks and leveraging Granger causality and transfer entropy, the research investigates the dynamics of information flow between these proxies. The findings show a prevailing pattern: information predominantly flows from social media to news for the majority of stocks while a reverse relationship is established for some stocks. The variations across stocks suggest that these proxies do not uniformly capture the same underlying phenomena. The study shows the significant role of social media in shaping news media sentiment and prompts considerations about regulating social media platforms in the context of their impact on financial markets.
+Keywords: Behavioural finance; Transfer entropy; Online investor sentiment
+
+Andrew Bowers, Daniel Hudock,
+Reduced resting-state periodic beta power in adults who stutter is related to sensorimotor control of speech execution,
+Cortex,
+Volume 181,
+2024,
+Pages 74-92,
+ISSN 0010-9452,
+https://doi.org/10.1016/j.cortex.2024.09.016.
+(https://www.sciencedirect.com/science/article/pii/S0010945224002703)
+Abstract: Objective
+The primary aim of the current study was to determine whether adults who stutter (AWS) present with anomalous periodic beta (β) rhythms when compared to typically fluent adults in the eyes-open resting state. A second aim was to determine whether lower β power in the RS is related to a measure of β event-related desynchronization (ERD) during syllable sequence execution.
+Methods
+EEG data was collected from 128 channels in a 5 min, eyes-open resting state condition and from a syllable sequence repetition task. Temporal independent component analysis (ICA) was used to separate volume conducted EEG sources and to find a set of component weights common to the RS and syllable repetition task. Both traditional measures of power spectral density (PSD) and parameterized spectra were computed for components showing peaks in the β band (13–30 Hz). Parameterization was used to evaluate separable components adjusted for the 1/f part of the spectrum.
+Results
+ICA revealed frontal-parietal midline and lateral sensorimotor (μ) components common to the RS and a syllable repetition task with peaks in the β band. The entire spectrum for each component was modeled using the FOOOF algorithm. Independent samples t-tests revealed significantly lower periodic β in midline central-parietal and lateral sensorimotor components in AWS. Regression analysis suggested a significant relationship between left periodic sensorimotor β power in the RS and ERD during syllable sequence execution.
+Conclusions
+Findings suggest that periodic β peaks in the spectrum are related to hypothesized underlying pathophysiological differences in stuttering, including midline rhythms associated the default mode network (DMN) and lateral sensorimotor rhythms associated with the control of movement.
+Keywords: Independent component analysis; Event-related desynchronization; Parameterization; Resting-state
+
+Lei Huang, Qiannan Duan, Yuxin Liu, Yangyang Wu, Zenghui Li, Zhao Guo, Mingliang Liu, Xiaowei Lu, Peng Wang, Fan Liu, Futian Ren, Chen Li, Jiaming Wang, Yujia Huang, Beizhan Yan, Marianthi-Anna Kioumourtzoglou, Patrick L. Kinney,
+Artificial intelligence: A key fulcrum for addressing complex environmental health issues,
+Environment International,
+Volume 198,
+2025,
+109389,
+ISSN 0160-4120,
+https://doi.org/10.1016/j.envint.2025.109389.
+(https://www.sciencedirect.com/science/article/pii/S0160412025001400)
+Abstract: Environmental health (EH) is a complex and interdisciplinary field dedicated to the examination of environmental behaviours, toxicological effects, health risks, and strategies for mitigating harmful environmental factors. Traditional EH research investigates correlations between risk factors and health outcomes through control variables, but this route is difficult to address complex EH issue. Artificial intelligence (AI) technology not only has accelerated the innovation of the scientific research paradigm but also has become an important tool for solving complex EH problems. However, the in-depth and comprehensive implementation of AI in the field of EH still faces many barriers, such as model generalizability, data privacy protection, algorithm transparency, and regulatory and ethical issues. This review focuses on the compound exposures of EH and explores the potential, challenges, and development directions of AI in four key phases of EH research: (1) data collection, fusion, and management, (2) hazard identification and screening, (3) risk modeling and assessment and (4) EH management. It is not difficult to see that in the future, artificial intelligence technology will inevitably carry out multidimensional simulation of complex exposure factors through multi-mode data fusion, so as to achieve accurate identification of environmental health risks, and eventually become an efficient tool for global environmental health management. This review will help researchers re-examine this strategy and provide a reference for AI to solve complex exposure problems.
+Keywords: Artificial intelligence; Environmental health; Combined pollution; Complex exposures; Machine learning
+
+Flora Xuhua He, Mahnaz Fanaian, Nancy Ming Zhang, Xanthe Lea, Sara Katherine Geale, Lisa Gielis, Kazem Razaghi, Alicia Evans,
+Academic dishonesty in university nursing students: A scoping review,
+International Journal of Nursing Studies,
+Volume 154,
+2024,
+104752,
+ISSN 0020-7489,
+https://doi.org/10.1016/j.ijnurstu.2024.104752.
+(https://www.sciencedirect.com/science/article/pii/S0020748924000646)
+Abstract: Objective
+This review seeks to deepen our understanding of the factors contributing to nursing students' academic dishonesty and the repercussions of such behaviours on their learning in both classroom and clinical settings, and on the integrity of the nursing profession.
+Design and methods
+It was a scoping review in which a five-stage methodological framework informed its process. Six databases were searched for relevant original studies. Other search methods were also conducted using Google Scholar, Trove, and ProQuest Dissertations for theses pertinent to the topic. An inductive descriptive approach was used to analyse and synthesise data.
+Results
+Twenty-seven studies and nine doctoral theses were selected and included in the scoping review. Of these, 25 studies used a quantitative approach, nine studies a qualitative one, and two studies used mixed methods. Three categorical factors, intrapersonal, interpersonal, and external, contributed to nursing students' academic dishonesty.
+Conclusion
+Academic dishonesty in nursing students is concerning. Noted factors contributing to academic dishonesty include stress and pressure experienced by students, the prevalence of peer cheating, and lack of knowledge. Most alarming is the significant correlation between academic dishonesty and clinical dishonesty. The evidence suggests that students who engage in dishonest behaviour in academic settings may be more likely to engage in dishonest behaviour in clinical settings. This raises serious concerns about integrity, ethics, patient safety and the reputation of nursing students, universities, healthcare providers and health professionals.
+Keywords: Academic integrity; Academic dishonesty; Academic misconduct; Clinical dishonesty; Nursing students; Nurses
+
+Jin Zhang, Jingyue Li,
+Testing and verification of neural-network-based safety-critical control software: A systematic literature review,
+Information and Software Technology,
+Volume 123,
+2020,
+106296,
+ISSN 0950-5849,
+https://doi.org/10.1016/j.infsof.2020.106296.
+(https://www.sciencedirect.com/science/article/pii/S0950584920300471)
+Abstract: Context: Neural Network (NN) algorithms have been successfully adopted in a number of Safety-Critical Cyber-Physical Systems (SCCPSs). Testing and Verification (T&V) of NN-based control software in safety-critical domains are gaining interest and attention from both software engineering and safety engineering researchers and practitioners. Objective: With the increase in studies on the T&V of NN-based control software in safety-critical domains, it is important to systematically review the state-of-the-art T&V methodologies, to classify approaches and tools that are invented, and to identify challenges and gaps for future studies. Method: By searching the six most relevant digital libraries, we retrieved 950 papers on the T&V of NN-based Safety-Critical Control Software (SCCS). Then we filtered the papers based on the predefined inclusion and exclusion criteria and applied snowballing to identify new relevant papers. Results: To reach our result, we selected 83 primary papers published between 2011 and 2018, applied the thematic analysis approach for analyzing the data extracted from the selected papers, presented the classification of approaches, and identified challenges. Conclusion: The approaches were categorized into five high-order themes, namely, assuring robustness of NNs, improving the failure resilience of NNs, measuring and ensuring test completeness, assuring safety properties of NN-based control software, and improving the interpretability of NNs. From the industry perspective, improving the interpretability of NNs is a crucial need in safety-critical applications. We also investigated nine safety integrity properties within four major safety lifecycle phases to investigate the achievement level of T&V goals in IEC 61508-3. Results show that correctness, completeness, freedom from intrinsic faults, and fault tolerance have drawn most attention from the research community. However, little effort has been invested in achieving repeatability, and no reviewed study focused on precisely defined testing configuration or defense against common cause failure.
+Keywords: Software testing and verification; Neural network; Safety-critical control software; Systematic literature review
+
+Yunchao Xie, Kianoosh Sattari, Chi Zhang, Jian Lin,
+Toward autonomous laboratories: Convergence of artificial intelligence and experimental automation,
+Progress in Materials Science,
+Volume 132,
+2023,
+101043,
+ISSN 0079-6425,
+https://doi.org/10.1016/j.pmatsci.2022.101043.
+(https://www.sciencedirect.com/science/article/pii/S0079642522001244)
+Abstract: The ever-increasing demand for novel materials with superior properties inspires retrofitting traditional research paradigms in the era of artificial intelligence and automation. An autonomous experimental platform (AEP) has emerged as an exciting research frontier that achieves full autonomy via integrating data-driven algorithms such as machine learning (ML) with experimental automation in the material development loop from synthesis, characterization, and analysis, to decision making. In this review, we started with a primer to describe how to develop data-driven algorithms for solving material problems. Then, we systematically summarized recent progress on automated material synthesis, ML-enabled data analysis, and decision-making. Finally, we discussed the challenges and opportunities in an endeavor to develop the next-generation AEP for ultimately realizing an autonomous or self-driving laboratory. This review will provide insights for researchers aiming to learn the frontier of ML in materials science and deploy AEP in their labs for accelerating material development.
+Keywords: Artificial intelligence; Autonomous experimentation platform; Machine learning; Materials science
+
+Akbar Hasanzadeh, Michael R. Hamblin, Jafar Kiani, Hamid Noori, Joseph M. Hardie, Mahdi Karimi, Hadi Shafiee,
+Could artificial intelligence revolutionize the development of nanovectors for gene therapy and mRNA vaccines?,
+Nano Today,
+Volume 47,
+2022,
+101665,
+ISSN 1748-0132,
+https://doi.org/10.1016/j.nantod.2022.101665.
+(https://www.sciencedirect.com/science/article/pii/S1748013222002936)
+Abstract: Gene therapy enables the introduction of nucleic acids like DNA and RNA into host cells, and is expected to revolutionize the treatment of a wide range of diseases. This growth has been further accelerated by the discovery of CRISPR/Cas technology, which allows accurate genomic editing in a broad range of cells and organisms in vitro and in vivo . Despite many advances in gene delivery and the development of various viral and non-viral gene delivery vectors, the lack of highly efficient non-viral systems with low cellular toxicity remains a challenge. The application of cutting-edge technologies such as artificial intelligence (AI) has great potential to find new paradigms to solve this issue. Herein, we review AI and its major subfields including machine learning (ML), neural networks (NNs), expert systems, deep learning (DL), computer vision and robotics. We discuss the potential of AI-based models and algorithms in the design of targeted gene delivery vehicles capable of crossing extracellular and intracellular barriers by viral mimicry strategies. We finally discuss the role of AI in improving the function of CRISPR/Cas systems, developing novel nanobots, and mRNA vaccine carriers.
+Keywords: Gene therapy; AI; Gene delivery vehicles; CRISPR/Cas; Nanobots; MRNA vaccine carriers
+
+Syed Jamal Safdar Gardezi, Ahmed Elazab, Baiying Lei, Tianfu Wang,
+Breast Cancer Detection and Diagnosis Using Mammographic Data: Systematic Review,
+Journal of Medical Internet Research,
+Volume 21, Issue 7,
+2019,
+,
+ISSN 1438-8871,
+https://doi.org/10.2196/14464.
+(https://www.sciencedirect.com/science/article/pii/S1438887119003819)
+Abstract: Background
+Machine learning (ML) has become a vital part of medical imaging research. ML methods have evolved over the years from manual seeded inputs to automatic initializations. The advancements in the field of ML have led to more intelligent and self-reliant computer-aided diagnosis (CAD) systems, as the learning ability of ML methods has been constantly improving. More and more automated methods are emerging with deep feature learning and representations. Recent advancements of ML with deeper and extensive representation approaches, commonly known as deep learning (DL) approaches, have made a very significant impact on improving the diagnostics capabilities of the CAD systems.
+Objective
+This review aimed to survey both traditional ML and DL literature with particular application for breast cancer diagnosis. The review also provided a brief insight into some well-known DL networks.
+Methods
+In this paper, we present an overview of ML and DL techniques with particular application for breast cancer. Specifically, we search the PubMed, Google Scholar, MEDLINE, ScienceDirect, Springer, and Web of Science databases and retrieve the studies in DL for the past 5 years that have used multiview mammogram datasets.
+Results
+The analysis of traditional ML reveals the limited usage of the methods, whereas the DL methods have great potential for implementation in clinical analysis and improve the diagnostic capability of existing CAD systems.
+Conclusions
+From the literature, it can be found that heterogeneous breast densities make masses more challenging to detect and classify compared with calcifications. The traditional ML methods present confined approaches limited to either particular density type or datasets. Although the DL methods show promising improvements in breast cancer diagnosis, there are still issues of data scarcity and computational cost, which have been overcome to a significant extent by applying data augmentation and improved computational power of DL algorithms.
+Keywords: breast cancer; lesion classification; malignant tumor; machine learning; convolutional neural networks; deep learning
+
+
+Index,
+Editor(s): Robert J Tierney, Fazal Rizvi, Kadriye Ercikan,
+International Encyclopedia of Education (Fourth Edition),
+Elsevier,
+2023,
+Pages 861-952,
+ISBN 9780128186299,
+https://doi.org/10.1016/B978-0-12-818630-5.18001-7.
+(https://www.sciencedirect.com/science/article/pii/B9780128186305180017)
+
+Jun Zhang, Wei Kong, Ming Ma, Xi Yang, Weifeng Li, Aiguo Song,
+A review of eye-tracking technology and its application in stroke diagnosis and assessment,
+Measurement,
+2025,
+117325,
+ISSN 0263-2241,
+https://doi.org/10.1016/j.measurement.2025.117325.
+(https://www.sciencedirect.com/science/article/pii/S0263224125006840)
+Abstract: The eyes are the windows of the soul, providing essential information through eye movement. With the rapid development of eye-tracking technology (ETT), its application in health assessment, including diagnosing and treating neurological diseases, has expanded significantly. Stroke is a leading cause of adult death and disability worldwide, and studies have shown that eye movement information can serve as a quantitative indicator for stroke diagnosis and assessment. Despite significant research on ETT-based stroke diagnosis, a comprehensive review is still lacking. This paper reviews 238 papers from the past twenty years, focusing on recent advancements in ETT and its application in stroke diagnosis. The studies were selected through a systematic review process following PRISMA-ScR guidelines. This paper provides a systematic overview of ETT principles, methods, and systems, detailing the entire application process in stroke diagnosis and assessment, from data acquisition to symptom evaluation. It also compares various methods and discusses the latest advancements. Statistical analysis methods remain the majority in ETT-based stroke research, while machine learning methods are increasingly attracting attention as alternative approaches. Appearance-based deep learning methods show potential for future stroke diagnosis but require accuracy improvements. Future directions in stroke diagnosis and clinical applications mainly include synthetic data generation, VR integration, wearable ETT devices, multimodal data fusion, and expanding application scenarios. Finally, we propose an active perception strategy and a stroke medical system framework for ETT application. This paper aims to provide researchers with a rapid understanding of core technologies and comprehensive knowledge.
+Keywords: Eye tracking; Stroke assessment; Neurological disorder diagnosis; Eye-tracking devices; Video-oculography; Active perception; Human-computer interaction
+
+Osvaldo A. Broesicke, Valerie M. Thomas, Emily Grubert, John C. Crittenden,
+Water consumption in absorption chillers is not negligible: Water-for-cooling consumption of chiller systems for commercial buildings in the United States,
+Sustainable Energy Technologies and Assessments,
+Volume 67,
+2024,
+103827,
+ISSN 2213-1388,
+https://doi.org/10.1016/j.seta.2024.103827.
+(https://www.sciencedirect.com/science/article/pii/S2213138824002236)
+Abstract: We compare peak electricity demand and water-for-cooling consumption of two electric chillers –air-cooled and water-cooled– to that of a natural gas-fired heat-driven chiller – an absorption chiller – in the United States. We develop a mass-and-energy-balance model in which each chiller supplies the cooling demands of 16 commercial building types in 15 climate zones of the contiguous US. We quantify the water-for-cooling of each chiller within two categories: (1) ‘cooling and power’ (C&P) – the sum of water consumed directly by each chiller and water consumed at the point of power generation; and (2) ‘total’ – the sum of C&P water consumption and water consumption upstream from the power generation. The air-cooled, water-cooled and absorption chillers consume an average of 2.43, 3.73 ± 0.25, and 3.78 ± 0.35 m3 of C&P water per MWh of cooling, respectively. They consume an average of 9.26, 8.32 ± 0.25, and 3.89 ± 0.34 m3 of total water per MWh of cooling, respectively. That is, life cycle water consumption for natural gas-based absorption chilling is not negligible, though it is lower than for the electricity-based chillers under current grid conditions. Lower power grid life cycle water consumption, e.g., under decarbonization, could change this relationship.
+Keywords: Water consumption; Chiller; Cooling; Distributed energy generation
+
+
+Guide for Authors,
+Intelligent Medicine,
+Volume 3, Issue 4,
+2023,
+Pages 293-298,
+ISSN 2667-1026,
+https://doi.org/10.1016/S2667-1026(23)00073-6.
+(https://www.sciencedirect.com/science/article/pii/S2667102623000736)
+
+Xiaorui Zhang, Rui Jiang, Wei Sun, Sunil Kr. Jha,
+A novel noiselayer-decoder driven blind watermarking network,
+Displays,
+Volume 85,
+2024,
+102823,
+ISSN 0141-9382,
+https://doi.org/10.1016/j.displa.2024.102823.
+(https://www.sciencedirect.com/science/article/pii/S0141938224001872)
+Abstract: Most blind watermarking methods adopt the Encode-Noiselayer-Decoder network architecture, called END. However, there are issues that impact the imperceptibility and robustness of the watermarking, such as the encoder blindly embedding redundant features, adversarial training failing to simulate unknown noise effectively, and the limited capability of single-scale feature extraction. To address these challenges, we propose a new Noiselayer-Decoder-driven blind watermarking network, called ND-END, which leverages prior knowledge of the noise layer and features extracted by the decoder to guide the encoder for generating images with fewer redundant modifications, enhancing the imperceptibility. To effectively simulate the unknown noise caused during adversarial training, we introduce an unknown noise layer based on the guided denoising diffusion probabilistic model, which gradually modifies the mean value of the predicted noise during the image generation process. It produces unknown noise images that closely resemble the encoded images but can mislead the decoder. Moreover, we propose a multi-scale spatial-channel feature extraction method for extracting multi-scale message features from the noised image, which aids in message extraction. Experimental results demonstrate the effectiveness of our model, ND-END achieves a lower bit error rate while improving the peak signal-to-noise ratio by approximately 6 dB (from about 33.5 dB to 39.5 dB).
+Keywords: Blind watermarking; Deep learning; Neural networks; Denoising diffusion probabilistic models
+
+Anargyros Chrysanthou, Yorgos Pantis, Constantinos Patsakis,
+The anatomy of deception: Measuring technical and human factors of a large-scale phishing campaign,
+Computers & Security,
+Volume 140,
+2024,
+103780,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2024.103780.
+(https://www.sciencedirect.com/science/article/pii/S0167404824000816)
+Abstract: In an era dominated by digital interactions, phishing campaigns have evolved to exploit not just technological vulnerabilities but also human traits. This study takes an unprecedented deep dive into large-scale phishing campaigns aimed at Meta's users, offering a dual perspective on the technical mechanics and human elements involved. Analysing data from over 25,000 victims worldwide, we highlight the nuances of these campaigns, from the intricate techniques deployed by the attackers to the sentiments and behaviours of those targeted. Unlike prior research conducted in controlled environments, this investigation capitalises on the vast, diverse, and genuine data extracted directly from active phishing campaigns, allowing for a more holistic understanding of the drivers, facilitators, and human factors. Through applying advanced computational techniques, including natural language processing and machine learning, this work unveils critical insights into the psyche of victims and the evolving tactics of modern phishers. Our analysis illustrates very poor password selection choices from the victims, with 30.27% of them picking low-complexity passwords and 58.23% reusing leaked passwords. Additionally, more than 10% exhibit strong persistence in re-victimisation by posting again to the phishing platforms of the same phishers. Finally, we reveal many correlations regarding demographics and the time periods when victims are more vulnerable during the day, as well as analyse the sentiment, emotion, and tone of text responses that they submitted, illustrating how convinced they were of the scam.
+Keywords: Phishing; Digital forensics; Sentiment analysis; Human factors in cybersecurity
+
+Jiahao Zheng, Tim Cole, Yuxin Zhang, Jeeson Kim, Shi-Yang Tang,
+Exploiting machine learning for bestowing intelligence to microfluidics,
+Biosensors and Bioelectronics,
+Volume 194,
+2021,
+113666,
+ISSN 0956-5663,
+https://doi.org/10.1016/j.bios.2021.113666.
+(https://www.sciencedirect.com/science/article/pii/S095656632100703X)
+Abstract: Intelligent microfluidics is an emerging cross-discipline research area formed by combining microfluidics with machine learning. It uses the advantages of microfluidics, such as high throughput and controllability, and the powerful data processing capabilities of machine learning, resulting in improved systems in biotechnology and chemistry. Compared to traditional microfluidics using manual analysis methods, intelligent microfluidics needs less human intervention, and results in a more user-friendly experience with faster processing. There is a paucity of literature reviewing this burgeoning and highly promising cross-discipline. Therefore, we herein comprehensively and systematically summarize several aspects of microfluidic applications enabled by machine learning. We list the types of microfluidics used in intelligent microfluidic applications over the last five years, as well as the machine learning algorithms and the hardware used for training. We also present the most recent advances in key technologies, developments, challenges, and the emerging opportunities created by intelligent microfluidics.
+Keywords: Machine learning; Microfluidics; Intelligent systems; Deep learning
+
+Md Naeem Hossain, Md Mustafizur Rahman, Devarajan Ramasamy,
+Artificial Intelligence-Driven Vehicle Fault Diagnosis to Revolutionize Automotive Maintenance: A Review,
+CMES - Computer Modeling in Engineering and Sciences,
+Volume 141, Issue 2,
+2024,
+Pages 951-996,
+ISSN 1526-1492,
+https://doi.org/10.32604/cmes.2024.056022.
+(https://www.sciencedirect.com/science/article/pii/S152614922400290X)
+Abstract: Conventional fault diagnosis systems have constrained the automotive industry to damage vehicle maintenance and component longevity critically. Hence, there is a growing demand for advanced fault diagnosis technologies to mitigate the impact of these limitations on unplanned vehicular downtime caused by unanticipated vehicle breakdowns. Due to vehicles’ increasingly complex and autonomous nature, there is a growing urgency to investigate novel diagnosis methodologies for improving safety, reliability, and maintainability. While Artificial Intelligence (AI) has provided a great opportunity in this area, a systematic review of the feasibility and application of AI for Vehicle Fault Diagnosis (VFD) systems is unavailable. Therefore, this review brings new insights into the potential of AI in VFD methodologies and offers a broad analysis using multiple techniques. We focus on reviewing relevant literature in the field of machine learning as well as deep learning algorithms for fault diagnosis in engines, lifting systems (suspensions and tires), gearboxes, and brakes, among other vehicular subsystems. We then delve into some examples of the use of AI in fault diagnosis and maintenance for electric vehicles and autonomous cars. The review elucidates the transformation of VFD systems that consequently increase accuracy, economization, and prediction in most vehicular sub-systems due to AI applications. Indeed, the limited performance of systems based on only one of these AI techniques is likely to be addressed by combinations: The integration shows that a single technique or method fails its expectations, which can lead to more reliable and versatile diagnostic support. By synthesizing current information and distinguishing forthcoming patterns, this work aims to accelerate advancement in smart automotive innovations, conforming with the requests of Industry 4.0 and adding to the progression of more secure, more dependable vehicles. The findings underscored the necessity for cross-disciplinary cooperation and examined the total potential of AI in vehicle default analysis.
+Keywords: Artificial intelligence; machine learning; deep learning; vehicle fault diagnosis; predictive maintenance
+
+
+Guide for Authors,
+Journal of the American Society of Echocardiography,
+Volume 36, Issue 7,
+2023,
+Pages A5-A13,
+ISSN 0894-7317,
+https://doi.org/10.1016/S0894-7317(23)00276-6.
+(https://www.sciencedirect.com/science/article/pii/S0894731723002766)
+
+Man-Fai Ng, Yongming Sun, Zhi Wei Seh,
+Machine learning-inspired battery material innovation,
+Energy Advances,
+Volume 2, Issue 4,
+2023,
+Pages 449-464,
+ISSN 2753-1457,
+https://doi.org/10.1039/d3ya00040k.
+(https://www.sciencedirect.com/science/article/pii/S2753145723000629)
+Abstract: ABSTRACT
+Machine learning (ML) techniques have been a powerful tool responsible for many new discoveries in materials science in recent years. In the field of energy storage materials, particularly battery materials, ML techniques have been widely utilized to predict and discover materials’ properties. In this review, we first discuss the key properties of the most common electrode and electrolyte materials. We then summarize recent progress in battery material advancement using ML techniques, through the three main strategies of direct property predictions, machine learning potentials, and inverse design. The major challenges, advantages and limitations of these techniques are also discussed. Finally, we conclude this review with a perspective on sustainable battery development using ML.
+
+Lorenzo Lastilla, Serena Ammirati, Donatella Firmani, Nikos Komodakis, Paolo Merialdo, Simone Scardapane,
+Self-supervised learning for medieval handwriting identification: A case study from the Vatican Apostolic Library,
+Information Processing & Management,
+Volume 59, Issue 3,
+2022,
+102875,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2022.102875.
+(https://www.sciencedirect.com/science/article/pii/S0306457322000097)
+Abstract: In this paper, we consider the task of automatically identifying whether different parts of medieval and modern manuscripts can be traced back to the same copyist/scribe, a problem of significant interest in paleography. Currently, the application of deep learning techniques in the context of scribe recognition has been hindered by the lack of a sufficiently large, labeled dataset, since the labeling process is incredibly complex and time-consuming. Here, we propose the first successful application of the recent framework of self-supervised learning to the field of digital paleography, wherein we pretrain a convolutional neural network by leveraging large amounts of unlabeled manuscripts. To this end, we build a novel dataset consisting of both labeled and unlabeled manuscripts for copyist identification extracted from the Vatican Apostolic Library. We show that fine-tuning this model to the task of interest significantly outperforms other baselines, including the common setup of initializing the network from general-domain features, or training the model from scratch, also in terms of generalization power. Overall, our results reveal the strong potential of self-supervised techniques in the field of digital paleography, where unlabeled data (i.e., digitized manuscripts) is nowadays available, while labeled data is scarcer.
+Keywords: Self-supervised learning; Manuscripts; Handwriting identification
+
+Francisco Ambrosio Garcia, Hendrik Devriendt, Hüseyin Metin, Merih Özer, Frank Naets,
+Physics-informed digital twin design for supporting the selection of process settings in continuous manufacturing, with a focus in fiberboard production,
+Computers in Industry,
+Volume 168,
+2025,
+104267,
+ISSN 0166-3615,
+https://doi.org/10.1016/j.compind.2025.104267.
+(https://www.sciencedirect.com/science/article/pii/S0166361525000326)
+Abstract: In process industry, plant operators often rely on their experience to choose suitable process settings that meet the productivity and quality goals. When these goals are not met, multiple changes to the settings might be necessary, which is time-consuming because each adjustment requires waiting for the new steady-state condition. A digital twin that quickly provides key performance indicators in steady-state as a function of these settings can speed up this task. The settings can be manually simulated before being adopted, or the digital twin can be integrated into an optimizer to automatically suggest optimal values to the operator, who ultimately makes the final decision. Despite advances in approaches to design such digital twins, most studies lack strategies to update the models when the plant behavior changes, and often overlook constraints and human-centric aspects of the plant operation. To address these gaps, we present a framework for training, tuning, and updating models for supporting the selection of process settings in continuous manufacturing. By directly mapping the steady-state conditions as a function of process settings, our approach enables informed decision-making and paves the way towards process optimization without requiring modifications to the plant control software, a crucial factor in established plants to ensure safety. We propose an interpretable model architecture, and a training process that incorporates both data and prior physical knowledge. Triggers detect deviations between the models’ predictions and the plant condition, in order to start model updates. The procedure for updating the models is tuned to perform consistently well in a variety of conditions, based on substantial simulations in historical data. To select the triggers, we balance technical and human aspects, by considering the trade-off between frequent model updates, increasing operator workload with frequent settings changes, versus how closely the models track the plant conditions. The framework is applied to five different stages of the fiberboard production process in a 1.4-year dataset, to predict key energy and quality-related variables as a function of process settings. The results show that the models, when connected to the data stream, are effectively updated when needed, show high sensitivity to the process settings and consistency with the available physical knowledge, making them well-suited to support the selection of process settings.
+Keywords: Digital twin; Machine learning; Smart manufacturing; Human-centric; Settings selection support
+
+Zhengkai Tu, Thijs Stuyver, Connor W. Coley,
+Predictive chemistry: machine learning for reaction deployment, reaction development, and reaction discovery,
+Chemical Science,
+Volume 14, Issue 2,
+2023,
+Pages 226-244,
+ISSN 2041-6520,
+https://doi.org/10.1039/d2sc05089g.
+(https://www.sciencedirect.com/science/article/pii/S2041652023061746)
+Abstract: The field of predictive chemistry relates to the development of models able to describe how molecules interact and react. It encompasses the long-standing task of computer-aided retrosynthesis, but is far more reaching and ambitious in its goals. In this review, we summarize several areas where predictive chemistry models hold the potential to accelerate the deployment, development, and discovery of organic reactions and advance synthetic chemistry.
+
+Julia T. Wilson, Hilary E. Miller-Goldwater, Blaire M. Porter, Patricia J. Bauer,
+Learning neuroscience: Investigating influences of notetaking materials and individual differences,
+Learning and Individual Differences,
+Volume 101,
+2023,
+102243,
+ISSN 1041-6080,
+https://doi.org/10.1016/j.lindif.2022.102243.
+(https://www.sciencedirect.com/science/article/pii/S1041608022001303)
+Abstract: How can we support classroom learning? Individual differences between students (e.g., cognitive skills and notetaking styles) is one factor that may relate to learning and interact with notetaking materials (e.g., diagram handouts and notetaking medium) to influence learning. However, the interaction between these factors is not well-understood. Accordingly, in this study, we presented short neuroscience lectures to 18–23-year-old undergraduates and investigated the interactions between notetaking materials and individual differences (cognitive skills: spatial/verbal reasoning; and notetaking style: verbatim copying/key terms) on learning. We found minimal overall effects of notetaking materials on learning. However, spatial and verbal reasoning related to learning. Additionally, in a handwritten condition, verbatim copying in notes was associated with lower learning whereas more key terms in notes was associated with higher learning. These results demonstrate that, to best support neuroscience learning in the classroom, we must consider individual differences and how they interact with notetaking materials.
+Keywords: Classroom learning; Individual differences; Diagrams; Notetaking; Spatial cognition
+
+
+PDF of the Full Issue,
+Annals of Emergency Medicine,
+Volume 84, Issue 4, Supplement 1,
+2024,
+Pages e1-e251,
+ISSN 0196-0644,
+https://doi.org/10.1016/S0196-0644(24)01011-4.
+(https://www.sciencedirect.com/science/article/pii/S0196064424010114)
+
+Xun Lin, Wenzhong Tang, Haoran Wang, Yizhong Liu, Yakun Ju, Shuai Wang, Zitong Yu,
+Exposing image splicing traces in scientific publications via uncertainty-guided refinement,
+Patterns,
+Volume 5, Issue 9,
+2024,
+101038,
+ISSN 2666-3899,
+https://doi.org/10.1016/j.patter.2024.101038.
+(https://www.sciencedirect.com/science/article/pii/S2666389924001806)
+Abstract: Summary
+Recently, a surge in image manipulations in scientific publications has led to numerous retractions, highlighting the importance of image integrity. Although forensic detectors for image duplication and synthesis have been researched, the detection of image splicing in scientific publications remains largely unexplored. Splicing detection is more challenging than duplication detection due to the lack of reference images and more difficult than synthesis detection because of the presence of smaller tampered-with areas. Moreover, disruptive factors in scientific images, such as artifacts, abnormal patterns, and noise, present misleading features like splicing traces, rendering this task difficult. In addition, the scarcity of high-quality datasets of spliced scientific images has limited advancements. Therefore, we propose the uncertainty-guided refinement network (URN) to mitigate these disruptive factors. We also construct a dataset for image splicing detection (SciSp) with 1,290 spliced images by collecting and manually splicing. Comprehensive experiments demonstrate the URN’s superior splicing detection performance.
+Keywords: scientific integrity; image splicing detection; convolution neural network; and uncertainty
+
+Yijun Bao, Yiyang Gong,
+Chapter 14 - Machine learning data processing as a bridge between microscopy and the brain,
+Editor(s): Yuebing Zheng, Zilong Wu,
+In Materials Today,
+Intelligent Nanotechnology,
+Elsevier,
+2023,
+Pages 399-420,
+ISBN 9780323857963,
+https://doi.org/10.1016/B978-0-323-85796-3.00014-7.
+(https://www.sciencedirect.com/science/article/pii/B9780323857963000147)
+Abstract: Neuroscientists use genetically encoded indicators and advanced microscopy to optically record the activities of numerous neurons in animal brains at high speed. The extraction of neural activity from individual neurons in imaging movies requires a multistep video processing pipeline, including correcting motion artifacts, segmenting spatial footprints of neurons, extracting temporal traces, and inferring activity spikes. Many neuron segmentation and spike inference algorithms have been developed using various machine learning techniques, including unsupervised learning, supervised learning, and a combination of both. The neuron segmentation algorithms work for different input data types, including 2D summary images, 3D videos as a whole or in blocks, or 3D videos frame-by-frame. These methods can replace tedious human labeling and automate the analysis of neural activity. Fast online processing methods potentially enable real-time closed-loop neuroscience experiments.
+Keywords: Computing methodology; Machine learning; Genetically encoded indicators; Video processing; Fluorescent microscopy
+
+Iman Salahshoori, Shahla Mahdavi, Zahra Moradi, Maryam Otadi, Fatemeh Zare Kazemabadi, Marcos A.L. Nobre, Hossein Ali Khonakdar, Alireza Baghban, Qilin Wang, Amir H. Mohammadi,
+Advancements in molecular simulation for understanding pharmaceutical pollutant Adsorption: A State-of-the-Art review,
+Journal of Molecular Liquids,
+Volume 410,
+2024,
+125513,
+ISSN 0167-7322,
+https://doi.org/10.1016/j.molliq.2024.125513.
+(https://www.sciencedirect.com/science/article/pii/S0167732224015708)
+Abstract: The contamination of natural water resources by pharmaceutical pollutants has become a significant environmental concern. Traditional experimental approaches for understanding the adsorption behavior of these contaminants on different surfaces are often time-consuming and resource-intensive. In response, this review article explores the powerful combination of in silico techniques, including molecular dynamics (MD), Monte Carlo simulations (MC), and quantum mechanics (QM), as a comprehensive toolset to obtain broad perspectives into the adsorption of pharmaceutical pollutants. By bridging multiple scales, from molecular-level interactions to macroscopic environmental impact, these computational methods offer a holistic understanding of the processes involved. We provide an overview of pharmaceutical pollutants and their ecological effects, emphasizing the need for efficient and sustainable adsorption solutions. Subsequently, we delve into the theoretical foundations of MD, MC, and QM, highlighting their respective strengths in simulating pharmaceutical pollutant adsorption. Moreover, the synergistic potential of combining these methodologies is also discussed for a more comprehensive characterization of adsorption processes. Recent case studies illustrate the successful application of in silico techniques in predicting adsorption behaviors on various surfaces and environmental conditions. Finally, the environmental implications of pharmaceutical pollutant adsorption are discussed, along with how in silico modelling can guide sustainable solutions for mitigating their impact.
+Keywords: In Silico study; Molecular dynamics; Monte Carlo simulations; Pharmaceutical pollutants; Quantum mechanics
+
+Calvin Lam, Sajeev Saluja, George Courcoubetis, Dottie Yu, Christian Chung, Josquin Courte, Leonardo Morsut,
+Parameterized Computational Framework for the Description and Design of Genetic Circuits of Morphogenesis Based on Contact-Dependent Signaling and Changes in Cell–Cell Adhesion,
+ACS Synthetic Biology,
+Volume 11, Issue 4,
+2022,
+Pages 1417-1439,
+ISSN 2161-5063,
+https://doi.org/10.1021/acssynbio.0c00369.
+(https://www.sciencedirect.com/science/article/pii/S2161506322000821)
+Abstract: Synthetic development is a nascent field of research that uses the tools of synthetic biology to design genetic programs directing cellular patterning and morphogenesis in higher eukaryotic cells, such as mammalian cells. One specific example of such synthetic genetic programs was based on cell–cell contact-dependent signaling using synthetic Notch pathways and was shown to drive the formation of multilayered spheroids by modulating cell–cell adhesion via differential expression of cadherin family proteins in a mouse fibroblast cell line (L929). The design method for these genetic programs relied on trial and error, which limited the number of possible circuits and parameter ranges that could be explored. Here, we build a parameterized computational framework that, given a cell–cell communication network driving changes in cell adhesion and initial conditions as inputs, predicts developmental trajectories. We first built a general computational framework where contact-dependent cell–cell signaling networks and changes in cell–cell adhesion could be designed in a modular fashion. We then used a set of available in vitro results (that we call the “training set” in analogy to similar pipelines in the machine learning field) to parameterize the computational model with values for adhesion and signaling. We then show that this parameterized model can qualitatively predict experimental results from a “testing set” of available in vitro data that varied the genetic network in terms of adhesion combinations, initial number of cells, and even changes to the network architecture. Finally, this parameterized model is used to recommend novel network implementation for the formation of a four-layered structure that has not been reported previously. The framework that we develop here could function as a testing ground to identify the reachable space of morphologies that can be obtained by controlling contact-dependent cell–cell communications and adhesion with these molecular tools and in this cellular system. Additionally, we discuss how the model could be expanded to include other forms of communication or effectors for the computational design of the next generation of synthetic developmental trajectories.
+
+Keywords: synthetic biology; self-organization; tissue engineering; computational modeling; cellular Potts; juxtacrine signaling; synNotch; patterning; morphogenesis
+
+Haifeng Wang, Jiwei Li, Hua Wu, Eduard Hovy, Yu Sun,
+Pre-Trained Language Models and Their Applications,
+Engineering,
+Volume 25,
+2023,
+Pages 51-65,
+ISSN 2095-8099,
+https://doi.org/10.1016/j.eng.2022.04.024.
+(https://www.sciencedirect.com/science/article/pii/S2095809922006324)
+Abstract: Pre-trained language models have achieved striking success in natural language processing (NLP), leading to a paradigm shift from supervised learning to pre-training followed by fine-tuning. The NLP community has witnessed a surge of research interest in improving pre-trained models. This article presents a comprehensive review of representative work and recent progress in the NLP field and introduces the taxonomy of pre-trained models. We first give a brief introduction of pre-trained models, followed by characteristic methods and frameworks. We then introduce and analyze the impact and challenges of pre-trained models and their downstream applications. Finally, we briefly conclude and address future research directions in this field.
+Keywords: Pre-trained models; Natural language processing
+
+Smita Vinit Bhoir, Sunita R. Patil, Ibtisam Yakub Mogul,
+Chapter 9 - Person-based automation with artificial intelligence Chatbots: A driving force of Industry 4.0,
+Editor(s): Aboul Ella Hassanien, Jyotir Moy Chatterjee, Vishal Jain,
+In Intelligent Data-Centric Systems,
+Artificial Intelligence and Industry 4.0,
+Academic Press,
+2022,
+Pages 215-244,
+ISBN 9780323884686,
+https://doi.org/10.1016/B978-0-323-88468-6.00003-6.
+(https://www.sciencedirect.com/science/article/pii/B9780323884686000036)
+Abstract: New technologies called chatbots or virtual assistants have emerged to simplify the interaction between human beings and computer systems. For example, chatbots and virtual assistants are some of the newest technologies designed to simplify human–computer interaction in banking. As per Industry 4.0 standards, person-based automation is required, which can be provided with the help of chatbots. In this chapter, we introduce chatbots, examine their role in Industry 4.0, and demonstrate their real-life importance using case studies. We also analyze the role of recent technologies for automation. The chapter presents the background for developing chatbots, request-response model for user intention analysis, classification, and generating appropriate responses. The major challenge in chatbot development is understanding user intentions and sentiments behind the chats. The proposed Hybrid Intention Multiclass Classification Model (HI-MCM) shows how accurately user intentions can be classified for automating and speeding a Web-based search task through chatbots. This chapter will help chatbot researchers to explore the development of person-based automation based on Industry 4.0 standards, using artificial intelligence (AI), machine learning (ML), and natural language processing (NLP) technologies.
+Keywords: Chatbots; Industry 4.0; Artificial intelligence (AI); Machine learning (ML); Hybrid Intention Multiclass Classification Model (HI-MCM)
+
+Abdullah Alenizi, Mohammad Sajid Mohammadi, Ahmad A. Al-Hajji, Arshiya Sajid Ansari,
+A Review of Image Steganography Based on Multiple Hashing Algorithm,
+Computers, Materials and Continua,
+Volume 80, Issue 2,
+2024,
+Pages 2463-2494,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2024.051826.
+(https://www.sciencedirect.com/science/article/pii/S1546221824005848)
+Abstract: Steganography is a technique for hiding secret messages while sending and receiving communications through a cover item. From ancient times to the present, the security of secret or vital information has always been a significant problem. The development of secure communication methods that keep recipient-only data transmissions secret has always been an area of interest. Therefore, several approaches, including steganography, have been developed by researchers over time to enable safe data transit. In this review, we have discussed image steganography based on Discrete Cosine Transform (DCT) algorithm, etc. We have also discussed image steganography based on multiple hashing algorithms like the Rivest–Shamir–Adleman (RSA) method, the Blowfish technique, and the hash-least significant bit (LSB) approach. In this review, a novel method of hiding information in images has been developed with minimal variance in image bits, making our method secure and effective. A cryptography mechanism was also used in this strategy. Before encoding the data and embedding it into a carry image, this review verifies that it has been encrypted. Usually, embedded text in photos conveys crucial signals about the content. This review employs hash table encryption on the message before hiding it within the picture to provide a more secure method of data transport. If the message is ever intercepted by a third party, there are several ways to stop this operation. A second level of security process implementation involves encrypting and decrypting steganography images using different hashing algorithms.
+Keywords: Image steganography; multiple hashing algorithms; Hash-LSB approach; RSA algorithm; discrete cosine transform (DCT) algorithm; blowfish algorithm
+
+Xiang Zhao, Sharul Azim Sharudin, Han-Lu Lv,
+A novel product shape design method integrating Kansei engineering and whale optimization algorithm,
+Advanced Engineering Informatics,
+Volume 62, Part C,
+2024,
+102847,
+ISSN 1474-0346,
+https://doi.org/10.1016/j.aei.2024.102847.
+(https://www.sciencedirect.com/science/article/pii/S1474034624004956)
+Abstract: The focus of consumer desire transitions from product functionality to emotional resonance in experience economy era, wherein emotional needs of users increasingly become a critical factor in product design. However, traditional approaches to product shape design often rely heavily on the designer’s intuition and experience, sometimes neglecting to incorporate emotional and humanistic elements into the product’s shape, thus resulting in inconsistencies in design results and quality. To address this challenge, this study introduces a novel method for emotionally driven product shape design that integrates Kansei engineering and the Whale Optimization Algorithm (WOA). This approach aims to fulfill consumer emotional demands related to product form and enhance overall user satisfaction. Firstly, the process utilized Python web crawlers to collect online product review texts and product images from e-commerce platforms. Next, Latent Dirichlet Allocation (LDA) and Analytic Hierarchy Process (AHP) were employed to extract representative emotional vocabularies, while representative samples were defined and deconstructed through clustering and morphological analysis. Then, semantic Differential (SD) questionnaires were distributed to collect consumer evaluations of product shape imagery, leading to the development of a user emotional prediction model for product shape. Then, WOA was introduced to optimize the performance of Back Propagation Neural Network (BPNN) and Support Vector Regression (SVR) models. Finally, Particle Swarm Optimization (PSO) and Seagull Optimization Algorithm (SOA) were employed to improve the prediction model, and the effect of these models was compared by the error method. This analysis explored the accuracy of these non-linear models in order to identify the optimal model for application in product form design cases. The scientific validity and effectiveness of this method were demonstrated utilizing whiskey bottle shape design as a case study. The results exhibit that under the WOA-BPNN model, the average error rates for four sets of perceptual words were 3.08%, 2.60%, 6.53%, and 5.70%, respectively. The WOA-based BPNN model outperformed other models in predictive ability, suggesting its utility as a valuable tool for designers during the front-end development stage of emotionally driven product form design.
+Keywords: Product Shape Design; Kansei Engineering; Latent Dirichlet Allocation; Whale Optimization Algorithm; Whiskey Bottle Shape
+
+Ido Azuri, Irit Rosenhek-Goldian, Neta Regev-Rudzki, Georg Fantner, Sidney R Cohen,
+The role of convolutional neural networks in scanning probe microscopy: a review,
+Beilstein Journal of Nanotechnology,
+Volume 12,
+2021,
+Pages 878-901,
+ISSN 2190-4286,
+https://doi.org/10.3762/bjnano.12.66.
+(https://www.sciencedirect.com/science/article/pii/S2190428621000897)
+Abstract: Progress in computing capabilities has enhanced science in many ways. In recent years, various branches of machine learning have been the key facilitators in forging new paths, ranging from categorizing big data to instrumental control, from materials design through image analysis. Deep learning has the ability to identify abstract characteristics embedded within a data set, subsequently using that association to categorize, identify, and isolate subsets of the data. Scanning probe microscopy measures multimodal surface properties, combining morphology with electronic, mechanical, and other characteristics. In this review, we focus on a subset of deep learning algorithms, that is, convolutional neural networks, and how it is transforming the acquisition and analysis of scanning probe data.
+Keywords: atomic force microscopy (AFM); deep learning; machine learning; neural networks; scanning probe microscopy (SPM)
+
+
+Instructions for authors,
+Gastrointestinal Endoscopy,
+Volume 98, Issue 1,
+2023,
+Pages A14-A20,
+ISSN 0016-5107,
+https://doi.org/10.1016/j.gie.2023.06.001.
+(https://www.sciencedirect.com/science/article/pii/S0016510723026196)
+
+Xing Quan Wang, Pengguang Chen, Cheuk Lun Chow, Denvid Lau,
+Artificial-intelligence-led revolution of construction materials: From molecules to Industry 4.0,
+Matter,
+Volume 6, Issue 6,
+2023,
+Pages 1831-1859,
+ISSN 2590-2385,
+https://doi.org/10.1016/j.matt.2023.04.016.
+(https://www.sciencedirect.com/science/article/pii/S2590238523002023)
+Abstract: Summary
+Industry 4.0 promotes the transformation of manufacturing industry to intelligence, which demands advances in materials, devices, and systems of the construction industry. Researchers of construction materials have incorporated artificial intelligence technology to accelerate these advances. From this perspective, we evaluate the latest advances in applying machine learning to the development of concrete, fiber-reinforced composites, and metals in improving their durability, sustainability, safety, and recyclability. We highlight how artificial intelligence addresses the challenges of material research, emphasizing the peculiarities of the construction industry under the Industry 4.0 framework. Based on the advances in artificial intelligence, we envision integration with Industry 4.0, starting with digitization of construction materials, progressing to advanced manufacturing, and eventually aiming to the level of intelligent application and operation of buildings. A revolutionary future can be envisaged in which design, manufacturing, and application of construction materials involve the meticulous integration of artificial intelligence, big data with all theory, experiments, and computations.
+Keywords: construction materials; artificial intelligence; machine learning; Industry 4.0
+
+Alicja Mikolajczyk, Uladzislau Zhdan, Sylvain Antoniotti, Adam Smolinski, Karolina Jagiello, Piotr Skurski, Moussab Harb, Tomasz Puzyn, Jaroslaw Polanski,
+Retrosynthesis from transforms to predictive sustainable chemistry and nanotechnology: a brief tutorial review,
+Green Chemistry,
+Volume 25, Issue 8,
+2023,
+Pages 2971-2991,
+ISSN 1463-9262,
+https://doi.org/10.1039/d2gc04750k.
+(https://www.sciencedirect.com/science/article/pii/S1463926223000122)
+Abstract: Retrosynthesis is a tool initially developed to simplify the planning of the synthesis of organic molecules using a symbolic strategy involving disconnections to synthons. It can perform better when the initial strategy is supported by computer-assisted methods both in its strategy and tactic parts. With the progress of chemical knowledge management assisted by computer technologies, retrosynthesis got an opportunity to involve database mining, reaction prediction, machine learning (ML), and other data science tools, which allows for covering inorganic compounds and nanoparticles, for which strategy, e.g., the design of reaction conditions, is a critical issue. Bimetallic catalysts can be a surprising target. Retrosynthesis is also essential for green and sustainable chemistry. On the one hand, synthon representation makes it possible to select green type processes and reactants among many possible options; on the other hand, recent computer technologies involving ML-based methods give a chance to more precise control of the green and sustainable metrics at the early stage of its design (before synthesis). A variety of such metrics are described in the literature. Many of them are intuitive heuristics, especially for sustainability evaluation. Green methods are among natural retrosynthesis goals since chemists searching for simplifications always preferred safer and cleaner methods than hazardous ones. Chemical intuition is more important than rigorous quantification in traditional approaches. With the growing availability of novel retrosynthetic tools controlled by green and sustainable metrics, we can hope to observe the significant development of predictive green and sustainable methods. As predictive greenness and sustainability engage broad chemical areas and contemporary software tends to be a black-box-like architecture, we designed this tutorial to provide an easily understandable background for the chemical and materials science audience involved in drug and material design and discovery.
+
+
+Guide for Authors,
+Intelligent Medicine,
+Volume 3, Issue 3,
+2023,
+Pages 228-234,
+ISSN 2667-1026,
+https://doi.org/10.1016/S2667-1026(23)00055-4.
+(https://www.sciencedirect.com/science/article/pii/S2667102623000554)
+
+Nada Alnaji, Bree Akesson, Alma Gottlieb,
+The cultural significance of Syrian refugees' traditional childbirth and postpartum practices,
+Midwifery,
+Volume 139,
+2024,
+104180,
+ISSN 0266-6138,
+https://doi.org/10.1016/j.midw.2024.104180.
+(https://www.sciencedirect.com/science/article/pii/S0266613824002638)
+Abstract: Problem
+Childbirth and the postpartum period are critical times for both mothers and babies. Traditional cultural practices often play a significant role in providing support during this time. However, in exceptional circumstances, such as those faced by refugees giving birth in disrupted social environments, these practices may be inaccessible, leading to emotional distress and delayed physical recovery.
+Aim
+To explore the cultural significance of traditional motherhood practices in Syria that are still observed by some Syrian refugees in Lebanon.
+Methods
+The study used a phenomenological approach and included in-depth interviews with eight Syrian mothers residing in informal settlements in Lebanon.
+Findings
+Findings were organized around three themes: (1) Familial Support during the Postpartum Period, (2) Specific Cultural Practices during the Postpartum Period, and (3) Emotional Experiences during the Postpartum Period
+Discussion
+Understanding these cultural practices is essential for developing culturally sensitive interventions that can improve wellbeing of refugee mothers.
+Keywords: Cultural practices; Postpartum practices; Refugees' health
+
+Navneet Kaur,
+Hybrid image splicing detection: Integrating CLAHE, improved CNN, and SVM for digital image forensics,
+Expert Systems with Applications,
+Volume 273,
+2025,
+126756,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2025.126756.
+(https://www.sciencedirect.com/science/article/pii/S0957417425003781)
+Abstract: This article introduces a novel hybrid method for the detection of image splicing forgery (ISF) that integrates an improved convolutional neural network (CNN), support vector machine (SVM) classifier, and contrast-limited adaptive histogram equalization (CLAHE). The imperceptibility of counterfeit images has made detection a challenge, as the increasing accessibility of image editing applications has resulted in a surge in amateur image manipulation. The proposed methodology employs CLAHE to enhance the extraction of hidden features that forgery has obscured. The improved CNN employs sophisticated feature extraction techniques to achieve superior classification accuracy without the necessity of custom algorithms. Furthermore, SVM is incorporated due to its exceptional processing speed and efficiency. The objective of this hybrid framework is to address the constraints of current deep learning models in terms of computational efficiency and accuracy, thereby demonstrating substantial enhancements in performance metrics for image splicing forgery detection (ISFD). The findings suggest that the proposed system effectively differentiates between authentic and manipulated images, offering an effective solution to the challenges of image splicing forgery.
+Keywords: Image splicing forgery; CLAHE; Accuracy; Improved CNN
+
+Ummugul Bezirhan, Matthias von Davier,
+Automated reading passage generation with OpenAI's large language model,
+Computers and Education: Artificial Intelligence,
+Volume 5,
+2023,
+100161,
+ISSN 2666-920X,
+https://doi.org/10.1016/j.caeai.2023.100161.
+(https://www.sciencedirect.com/science/article/pii/S2666920X23000401)
+Abstract: The widespread usage of computer-based assessments and individualized learning platforms has increased demand for the rapid production of high-quality items. Automated item generation (AIG), the process of using item models to generate new items with the help of computer technology, was proposed to reduce reliance on human subject experts. While AIG has been used in test development, recent advances in machine learning algorithms offer the potential to enhance its efficiency further. This paper presents an innovative approach utilizing OpenAI's latest transformer-based language model, GPT-3, to generate reading passages. Existing reading passages were used in carefully engineered prompts to ensure the AI-generated text has similar content and structure to a fourth-grade reading passage. Multiple passages were generated for each prompt, and the final passage was selected based on Lexile score agreement with the original passage. To ensure accuracy, a human editor conducted a simple revision of the chosen passage, correcting any grammatical and factual errors. To evaluate the effectiveness of the AI-generated passages, human judges assessed their coherence and appropriateness for fourth-grade readers. The results indicated that GPT-3-produced passages closely resembled human-authored passages regarding coherence, appropriateness, and readability for the target audience. By combining GPT-3's capabilities with carefully designed prompts and human editing, this study demonstrates an efficient and effective method for generating reading passages. The findings highlight the potential of incorporating large language models into automated item generation, contributing to improved scalability and quality in educational assessment development.
+Keywords: Automated item generation; Natural language processing; Large language models; Reading assessment; AI-Generated reading passages
+
+Andy Northcott, Paula Boddington, Katie Featherstone,
+The arrhythmia of bodily urgency: Using rhythmanalysis to understand the organisation of care people living with dementia experience within acute hospital wards,
+SSM - Qualitative Research in Health,
+Volume 7,
+2025,
+100535,
+ISSN 2667-3215,
+https://doi.org/10.1016/j.ssmqr.2025.100535.
+(https://www.sciencedirect.com/science/article/pii/S2667321525000137)
+Abstract: This article posits Henri Lefebvre's concept of Rhythmanalysis as a novel methodology for observing and understanding the everyday life of the hospital ward and its consequences. To do so we draw on observational data taken across three multi-site studies of acute NHS hospital wards in England and Wales (22 wards across 12 hospitals) between 2015 and 2023. Our analysis of the rhythms of the ward, and of the arrhythmias patients can produce, allow us to develop a detailed and embodied perspective of how the ward is experienced by the many different actors within it. In this paper, we focus on one particular group, people living with dementia, considering how they fit both within and outside the rhythms of the ward, and the dressage used by staff to maintain those rhythms. We conclude by discussing rhythmanalysis as a means to observe and record otherwise underseen aspects of hospital care which can provide a means for researchers to better understand relationships of power, personhood and dignity, and their consequences, within clinical environments.
+
+Voydie Dorian, Goupil Louis, Chanthery Elodie, Travé-Massuyès Louise, Delautier Sébastien,
+Machine Learning Based Fault Anticipation for 3D Printing*,
+IFAC-PapersOnLine,
+Volume 56, Issue 2,
+2023,
+Pages 2927-2932,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2023.10.1414.
+(https://www.sciencedirect.com/science/article/pii/S2405896323018220)
+Abstract: In recent years, 3D printing has seen a stellar rise despite its inability to deliver constant quality goods. This article presents a machine learning experiment that results in a model performing fault prediction, in the sense of forecasting the fault, on the printed parts so that printer parameters can be corrected before the faults appear. This model is able to predict faults in real-time during printing, even in the case of multiple faults. It relies on multiple sensors gathering time-series data during printing, a pre-processing of these data to extract the most relevant features and several machine learning algorithms, each suited and tuned to predict at best each fault. A benchmark for testing and tuning the different algorithms is presented. The resulting model has been implemented on a plastic delta 3D printer and tested for the prediction of eight different faults. The best performing model is a random forest, but decision trees are almost as good while explaining what causes the fault.
+Keywords: Machine Learning; Time Series Modeling; Additive Manufacturing; Fault Prediction; Fault Anticipation; Fault Detection
+
+Muhammad Rama Almafie, Ahmad Fudholi, Rahma Dani, Meutia Kamilatun Nuha AP Idjan, Idha Royani, Ida Sriyanti,
+Effects of electrospinning parameters on polycaprolactone membrane diameter: An investigation utilizing central composite design and characterization,
+Results in Engineering,
+Volume 25,
+2025,
+104002,
+ISSN 2590-1230,
+https://doi.org/10.1016/j.rineng.2025.104002.
+(https://www.sciencedirect.com/science/article/pii/S2590123025000908)
+Abstract: The synergistic effect of electrospinning parameters, specifically concentration Polycaprolactone solution, voltage, and distance needle to collector, is a critical factor in the production of high-quality micro-nano fibres membranes. This study aimed to investigate the effects of these three parameters on the micro-nano fibres diameter and determine the optimal conditions for achieving the desired characteristics. Electrospinning was used to produce micro-nano fibres with diameters controlled by varying the process parameters. A Central Composite Design was used as an optimization method to evaluate the effects of these parameters on micro-nano fibres diameter. The results showed that all parameters had a significant effect, with the quadratic polynomial model providing the coefficient of determination (R² = 0.9854). The CCD model with desirability function successfully optimized the electrospinning parameters, resulting in a PCL concentration of 11.85 wt%, a voltage of 13.05 kV, and a distance of 82.17 cm. These conditions produced micro-nano fibres with diameters ranging from 1185.17 to 1338.69 nm and the highest desirability of 1.000 for further research. SEM analysis showed that the micro-nano fibres morphology was influenced by the solution concentration, where bead morphology micro-nano fibres were formed at a concentration of 8.30 wt%, while concentrations above 12.50 wt% produced bead-free micro-nano fibres. FTIR analysis revealed the presence of alkane, ester, and ether functional groups in the micro-nano fibres structure, which are important for the molecular integrity. In addition, XRD analysis showed the crystallite size of the micro-nano fibres ranged from 9.77 nm to 85.20 nm, with percentage crystallinity ranging from 19.23 % to 34.74 %. These findings suggest that the optimized PCL micro-nano fibres membranes possess desirable characteristics for potential applications in medical scaffolding, providing a structurally suitable environment for cell growth and tissue regeneration.
+Keywords: Contour; Equation; Membrane; Morphological; Optimization
+
+Grégoire Montavon, Wojciech Samek, Klaus-Robert Müller,
+Methods for interpreting and understanding deep neural networks,
+Digital Signal Processing,
+Volume 73,
+2018,
+Pages 1-15,
+ISSN 1051-2004,
+https://doi.org/10.1016/j.dsp.2017.10.011.
+(https://www.sciencedirect.com/science/article/pii/S1051200417302385)
+Abstract: This paper provides an entry point to the problem of interpreting a deep neural network model and explaining its predictions. It is based on a tutorial given at ICASSP 2017. As a tutorial paper, the set of methods covered here is not exhaustive, but sufficiently representative to discuss a number of questions in interpretability, technical challenges, and possible applications. The second part of the tutorial focuses on the recently proposed layer-wise relevance propagation (LRP) technique, for which we provide theory, recommendations, and tricks, to make most efficient use of it on real data.
+Keywords: Deep neural networks; Activation maximization; Sensitivity analysis; Taylor decomposition; Layer-wise relevance propagation
+
+Xiaodong Liu, Rafal Rzepka, Kenji Araki,
+DG Embeddings: The unsupervised definition embeddings learned from dictionary and glossary to gloss context words of Cloze task,
+Knowledge-Based Systems,
+Volume 296,
+2024,
+111883,
+ISSN 0950-7051,
+https://doi.org/10.1016/j.knosys.2024.111883.
+(https://www.sciencedirect.com/science/article/pii/S0950705124005173)
+Abstract: For both humans and machines to acquire vocabulary, it is effective to learn words from context while using dictionaries as an auxiliary tool. It has been shown in previous linguistic studies that for humans, glossing either target words to be learned or words comprising context is an effective approach. For machines, however, previous NLP studies are mainly focused on the former. In this paper, we investigate the potentiality of context words-glossed setting. During pre-training BERT, to infuse context words with semantic features of glosses, we propose DG embeddings — the unsupervised definition embeddings learned from dictionaries and glossaries. To employ unsupervised learning is inspired by a real-world scenario of dictionary use called headword search. This can also prevent a technical duplicate from happening, as learning words from context is already based on auto-encoding models with self-supervised learning. BERT-base is used for evaluation, and we refer to BERT-base with DG embeddings as DG-BERT. According to our experimental results, compared to the vanilla BERT, DG-BERT shows the following strengths: faster pre-training convergence, noticeable improvements on various downstream tasks, a better grasp of figurative semantics, more accurate self-attention for collocation of phrases, and higher sensitivity to context words for target-word predictions in psycholinguistic diagnostics.
+Keywords: Unsupervised definition embeddings; Semantic features of glosses; Context words; Auto-encoding models; Natural language processing
+
+Samuel Cain, Charlotte Merzbacher, Diego A. Oyarzún,
+Low-dimensional representations of genome-scale metabolism,
+IFAC-PapersOnLine,
+Volume 58, Issue 23,
+2024,
+Pages 61-66,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2024.10.011.
+(https://www.sciencedirect.com/science/article/pii/S2405896324017579)
+Abstract: Cellular metabolism is a highly interconnected network with thousands of reactions that convert nutrients into the molecular building blocks of life. Metabolic connectivity varies greatly with cellular context and environmental conditions, and it remains a challenge to compare genome-scale metabolism across cell types because of the high dimensionality of the reaction flux space. Here, we employ self-supervised learning and genome-scale metabolic models to compress the flux space into low-dimensional representations that preserve structure across cell types. We trained variational autoencoders (VAEs) on large fluxomic data (N = 800, 000) sampled from patient-derived models for various cancer cell types. The VAE embeddings have an improved ability to distinguish cell types than the uncompressed fluxomic data, and sufficient predictive power to classify cell types with high accuracy. We tested the ability of these classifiers to assign cell type identities to unlabelled patient-derived metabolic models not employed during VAE training. We further employed the pre-trained VAE to embed another 38 cell types and trained multilabel classifiers that display promising generalization performance. Our approach distils the metabolic space into a semantically rich vector that can be used as a foundation for predictive modelling, clustering or comparing metabolic capabilities across organisms.
+Keywords: Variational autoencoders; deep learning; genome-scale metabolic models
+
+Nikolaos Lykousas, Constantinos Patsakis,
+Large-scale analysis of grooming in modern social networks,
+Expert Systems with Applications,
+Volume 176,
+2021,
+114808,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2021.114808.
+(https://www.sciencedirect.com/science/article/pii/S0957417421002499)
+Abstract: Social networks are evolving to engage their users more by providing them with more functionalities. One of the most attracting ones is streaming. Users may broadcast part of their daily lives to thousands of others world-wide and interact with them in real-time. Unfortunately, this feature is reportedly exploited for grooming. In this work, we provide the first in-depth analysis of this problem for social live streaming services. More precisely, using a dataset that we collected, we identify predatory behaviours and grooming on chats that bypassed the moderation mechanisms of the LiveMe, the service under investigation. Beyond the traditional text approaches, we also investigate the relevance of emojis in this context, as well as the user interactions through the gift mechanisms of LiveMe. Finally, our analysis indicates the possibility of grooming towards minors, showing the extent of the problem in such platforms.
+Keywords: Online grooming; Social networks; LDA; Text analysis; Emoji
+
+Giulio Puzella, Antonio Sterlicchio, Cristina Baldissarri, Anna Manfredi, Tobias Greitemeyer, Alessandro Gabbiadini,
+A virtual reality environment to study work-related objectification,
+Acta Psychologica,
+Volume 255,
+2025,
+104902,
+ISSN 0001-6918,
+https://doi.org/10.1016/j.actpsy.2025.104902.
+(https://www.sciencedirect.com/science/article/pii/S000169182500215X)
+Abstract: The present work introduces the ACME VR paradigm, a novel virtual reality-based approach for investigating work-related objectification. Traditional laboratory methods often lack ecological validity. Therefore, VR has been used for creating a realistic paradigm maintaining high experimental control. Two scenarios were designed: an assembly line task, characterized by repetitiveness, external control, and fragmentation, and a woodworking task, adopted as a control scenario, emphasizing autonomy and holistic engagement. The effectiveness of the VR paradigm was assessed by examining a specific manifestation of objectification: self-objectification. A preliminary study assessed usability levels and interaction quality and explored the paradigm's ability to elicit self-objectification. Results demonstrated that the designed scenarios did not present interaction issues, and both user experience and overall usability were satisfactory. Moreover, the objectifying scenario induced significantly higher self-objectification and perceptions of objectifying activity than the non-objectifying scenario. These findings were further validated in the main study, where the objectifying scenario elicited higher self-objectification in terms of self-perception as instruments-like and reduced self-attribution of human mental states, confirming the impact of task characteristics on these outcomes. The paradigm's design ensures high ecological validity while maintaining rigorous experimental control. VR-specific measures, such as sense of presence and embodiment, were consistent across scenarios, validating the reliability of the simulations. This research highlights VR's potential to replicate complex workplace dynamics and manipulate key variables. It also provides researchers with an innovative, reliable, and validated tool for experimental studies to deepen the understanding of psychological mechanisms related to objectification in the workplace.
+
+Yao Gu, Zhe Zheng, Yingna Wu, Guangping Xie, Na Ni,
+Progressive self-supervised learning: A pre-training method for crowd counting,
+Pattern Recognition Letters,
+Volume 188,
+2025,
+Pages 148-154,
+ISSN 0167-8655,
+https://doi.org/10.1016/j.patrec.2024.12.007.
+(https://www.sciencedirect.com/science/article/pii/S0167865524003623)
+Abstract: Crowd counting technologies possess substantial social significance, and deep learning methods are increasingly seen as potent tools for advancing this field. Traditionally, many approaches have sought to enhance model performance by transferring knowledge from ImageNet, utilizing its classification weights to initialize models. However, the application of these pre-training weights is suboptimal for crowd counting, which involves dense prediction significantly different from image classification. To address these limitations, we introduce a progressive self-supervised learning approach, designed to generate more suitable pre-training weights from a large collection of density-related images. We gathered 173k images using custom-designed prompts and implemented a two-stage learning process to refine the feature representations of image patches with similar densities. In the first stage, mutual information between overlapping patches within the same image is maximized. Subsequently, a combination of global and local losses is evaluated to enhance feature similarity, with the latter assessing patches from different images of comparable densities. Our innovative pre-training approach demonstrated substantial improvements, reducing the Mean Absolute Error (MAE) by 7.5%, 17.6%, and 28.7% on the ShanghaiTech Part A & Part B and UCF_QNRF datasets respectively. Furthermore, when these pre-training weights were used to initialize existing models, such as CSRNet for density map regression and DM-Count for point supervision, a significant enhancement in performance was observed.
+Keywords: Crowd counting; Self-supervised learning; Dataset construction
+
+Liping Xie, Lindong Wang, Dongze Mo, Zelin Zhang, Ming Liang,
+Intelligent algorithms powered smart devices for atrial fibrillation discrimination,
+Biomedical Signal Processing and Control,
+Volume 103,
+2025,
+107480,
+ISSN 1746-8094,
+https://doi.org/10.1016/j.bspc.2024.107480.
+(https://www.sciencedirect.com/science/article/pii/S1746809424015386)
+Abstract: Atrial fibrillation (AF) is one of the frequent and potentially dangerous arrhythmias that can participate in cardioembolic stroke and heart failure. Early AF identification is possible by the combination of algorithms with wearable technology, which makes it easier to transform from hospital-based to at-home care for AF detection. This review presents an overview of the combination of intelligent algorithms with smart devices for AF discrimination. The smart devices are summarized in detail. Then, an extensive discussion of AF detection algorithms in three key aspects including database, feature extraction, and classification algorithms, is elaborated. Furthermore, the integration of intelligent algorithms with wearable technology for effective AF monitoring is systematically interpreted. Lastly, the challenges and outlook of smart devices enabled by AF screening algorithms are also discussed. This review aims to provide a comprehensive understanding of AF screening utilizing wearable devices enabled by algorithms.
+Keywords: Wearable technology; Algorithms; Atrial fibrillation diagnosis; Smart devices
+
+Nicole E. Cieri-Hutcherson, Timothy C. Hutcherson, Elizabeth M. Bradley, John Rizk, Nicholas D. Steele,
+Mixed-methods systematic review of pharmacist-administered injectable contraception: Insights from patients, pharmacists, and other health care professionals,
+Journal of the American Pharmacists Association,
+2025,
+102360,
+ISSN 1544-3191,
+https://doi.org/10.1016/j.japh.2025.102360.
+(https://www.sciencedirect.com/science/article/pii/S1544319125000391)
+Abstract: Background
+The role of the pharmacist in reproductive health and contraception management continues to expand. Examination of the perspectives of patients, pharmacists, and other health care professionals can highlight both the benefits and challenges associated with pharmacist administration of injectable contraception.
+Objectives
+The objective of this systematic review was to assess the feasibility, applicability, and satisfaction of patients, pharmacists, and other health care professionals regarding pharmacist-administered injectable contraception.
+Methods
+Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, a search of Medline and Embase databases, from inception through June 3, 2024, was conducted using a predefined search strategy to capture relevant records. Initial records were screened based on the prespecified inclusion criteria focusing on patient, pharmacist, and other health care professional outcomes related to the pharmacist administration of injectable contraceptives. After deduplication and screening, 3 independent reviewers (E.M.B., J.R., N.D.S.) extracted data, with any disagreements resolved through discussion by a fourth reviewer (T.C.H.). Risk of bias (RoB) was assessed using the revised Cochrane RoB tool for randomized studies and the Appraisal Tool for Cross-Sectional Studies. A convergent, integrated, mixed-methods approach was utilized to analyze both qualitative and quantitative data.
+Results
+Five cross-sectional studies and 1 randomized controlled trial were included. Pharmacists were interested in administering injectable contraceptives and reported that implementation would positively impact patient access and convenience. Quantitative analysis demonstrated that pharmacists felt confident and capable in this role and expressed the need for further training and resources. Qualitative analysis highlighted patient satisfaction for the convenience and accessibility, specifically in rural areas. Barriers included insufficient training, lack of infrastructure, mixed acceptance among other health care professionals, reimbursement, and regulatory frameworks.
+Conclusion
+Pharmacist-administered injectable contraception appears to be beneficial, accessible, and convenient for patients while aligning with pharmacists' capabilities and professional roles. Barriers should be addressed when considering implementation. Future research should aim to broaden the evidence-based research across different regions and explore long-term outcomes.
+
+
+Instructions for authors,
+Gastrointestinal Endoscopy,
+Volume 99, Issue 1,
+2024,
+Pages A15-A21,
+ISSN 0016-5107,
+https://doi.org/10.1016/j.gie.2023.11.046.
+(https://www.sciencedirect.com/science/article/pii/S001651072303122X)
+
+Trivikram Muralidharan, Aviad Cohen, Assaf Cohen, Nir Nissim,
+The infinite race between steganography and steganalysis in images,
+Signal Processing,
+Volume 201,
+2022,
+108711,
+ISSN 0165-1684,
+https://doi.org/10.1016/j.sigpro.2022.108711.
+(https://www.sciencedirect.com/science/article/pii/S016516842200250X)
+Abstract: Steganography is the primary method by which individuals can communicate covertly; cryptography, on the other hand, fails at this, as it is possible to detect (the presence of) encrypted-communication. Steganalysis has been used to detect the presence of steganography and acts as a countermeasure to it. The ongoing race between image-steganography and steganalysis methods has resulted in the need for this paper which surveys and compares developments in these two intertwined-fields. This work covers over 150 papers that demonstrate the significant improvements made in steganography and steganalysis over the last three-decades. We mention the novelty of the method proposed in each paper, as well as the evaluation results and the paper's contribution to the field. We provide several taxonomies for steganography and steganalysis methods, based on the approach and techniques underlying the methods, which allows us to perform the first comprehensive comparison of steganography and steganalysis methods. This comparison sheds light on the existing-gaps between the two connected domains and can be used to identify and prioritize the steganography methods that require immediate remediation using steganalysis methods. Lastly, we follow the chronological-evolution of steganography and steganalysis methods over the years, an overview which highlights the infinite-nature of this race.
+Keywords: Steganography; Steganalysis; Images; Machine learning; Deep learning
+
+
+Full Issue PDF,
+JACC: Basic to Translational Science,
+Volume 9, Issue 9,
+2024,
+Pages I-CIX,
+ISSN 2452-302X,
+https://doi.org/10.1016/S2452-302X(24)00319-X.
+(https://www.sciencedirect.com/science/article/pii/S2452302X2400319X)
+
+Tan Arda Gedik,
+Print exposure leads to individual differences in the Turkish aorist,
+Language Sciences,
+Volume 104,
+2024,
+101632,
+ISSN 0388-0001,
+https://doi.org/10.1016/j.langsci.2024.101632.
+(https://www.sciencedirect.com/science/article/pii/S0388000124000214)
+Abstract: Several studies have established that not all native speakers extract the same generalization for a given construction due to speaker internal or external reasons, challenging a widely held assumption in linguistics. While there is a considerable number of studies investigating individual differences in grammatical knowledge in other languages, very little is known about how L1 Turkish speakers might manifest such differences in their linguistic knowledge. This is the first study to examine individual differences in the constructional representation of the Turkish aorist in adult L1 Turkish speakers. The aorist is known to be irregular and pose acquisition problems, especially when combined with monosyllabic sonorant ending verbs. The variants of the Turkish aorist have different corpus frequencies across spoken and written modalities. The study investigates to what extent differences in print exposure would lead to differences in how L1 Turkish speakers would apply the construction to monosyllabic-sonorant ending nonce-verbs. Based on the results, people with more written language experience extracted a more sensitive rule that applies to monosyllabic-sonorant ending nonce-verbs, such that they produced more -Ir than -Ar. Contrastingly, people who read less used more -Ar (r = –0.35), and print exposure accounted for roughly 12% of the variance. Our findings are compatible with usage-based approaches and suggest that print exposure-borne differences are pervasive in linguistic knowledge, adding to the growing body of evidence that challenges the convergence hypothesis.
+Keywords: Individual differences; Print exposure; Morphological productivity; The Turkish aorist; Nonce-verb conjugation
+
+Babak Hemmatian, Lav R. Varshney, Frederick Pi, Aron K. Barbey,
+The utilitarian brain: Moving beyond the Free Energy Principle,
+Cortex,
+Volume 170,
+2024,
+Pages 69-79,
+ISSN 0010-9452,
+https://doi.org/10.1016/j.cortex.2023.11.013.
+(https://www.sciencedirect.com/science/article/pii/S0010945223003076)
+Abstract: The Free Energy Principle (FEP) is a normative computational framework for iterative reduction of prediction error and uncertainty through perception–intervention cycles that has been presented as a potential unifying theory of all brain functions (Friston, 2006). Any theory hoping to unify the brain sciences must be able to explain the mechanisms of decision-making, an important cognitive faculty, without the addition of independent, irreducible notions. This challenge has been accepted by several proponents of the FEP (Friston, 2010; Gershman, 2019). We evaluate attempts to reduce decision-making to the FEP, using Lucas' (2005) meta-theory of the brain's contextual constraints as a guidepost. We find reductive variants of the FEP for decision-making unable to explain behavior in certain types of diagnostic, predictive, and multi-armed bandit tasks. We trace the shortcomings to the core theory's lack of an adequate notion of subjective preference or “utility”, a concept central to decision-making and grounded in the brain's biological reality. We argue that any attempts to fully reduce utility to the FEP would require unrealistic assumptions, making the principle an unlikely candidate for unifying brain science. We suggest that researchers instead attempt to identify contexts in which either informational or independent reward constraints predominate, delimiting the FEP's area of applicability. To encourage this type of research, we propose a two-factor formal framework that can subsume any FEP model and allows experimenters to compare the contributions of informational versus reward constraints to behavior.
+Keywords: Free Energy Principle; Subjective utility; Extended cognition; Decision-making; Cognitive neuroscience; Bayesian Brain Hypothesis
+
+Timothy D. Griffiths, Meher Lad, Sukhbinder Kumar, Emma Holmes, Bob McMurray, Eleanor A. Maguire, Alexander J. Billig, William Sedley,
+How Can Hearing Loss Cause Dementia?,
+Neuron,
+Volume 108, Issue 3,
+2020,
+Pages 401-412,
+ISSN 0896-6273,
+https://doi.org/10.1016/j.neuron.2020.08.003.
+(https://www.sciencedirect.com/science/article/pii/S0896627320306103)
+Abstract: Summary
+Epidemiological studies identify midlife hearing loss as an independent risk factor for dementia, estimated to account for 9% of cases. We evaluate candidate brain bases for this relationship. These bases include a common pathology affecting the ascending auditory pathway and multimodal cortex, depletion of cognitive reserve due to an impoverished listening environment, and the occupation of cognitive resources when listening in difficult conditions. We also put forward an alternate mechanism, drawing on new insights into the role of the medial temporal lobe in auditory cognition. In particular, we consider how aberrant activity in the service of auditory pattern analysis, working memory, and object processing may interact with dementia pathology in people with hearing loss. We highlight how the effect of hearing interventions on dementia depends on the specific mechanism and suggest avenues for work at the molecular, neuronal, and systems levels to pin this down.
+Keywords: dementia; hearing loss; medial temporal lobe; Alzheimer disease; auditory cognition
+
+Tengteng Wang, Yiming Ju, Yao Cheng, Haiyang Wang, Dejin Zang,
+Recent advances in polyoxometalates based strategies for green synthesis of drugs,
+Chinese Chemical Letters,
+Volume 36, Issue 5,
+2025,
+109871,
+ISSN 1001-8417,
+https://doi.org/10.1016/j.cclet.2024.109871.
+(https://www.sciencedirect.com/science/article/pii/S1001841724003905)
+Abstract: ABSTRACT
+Green synthesis of drugs is of paramount importance for current public health and a prerequisite to new drugs exploiting. Nowadays, novel strategies of disease diagnosis and therapies are in blooming development as remarkable advances have been achieved which are all highly depended on drug development. Under the current requirements to high production capacity and novel synthesis methods of drugs, green synthesis based on strategies with different ways of empowering, advanced catalysts and unique reaction equipment are attracting huge attention and of great challenging. Higher quality products and environmentally friendly synthesis conditions are becoming more and more important for manufacturing process which has new requirements for catalyst materials and synthesis processes. Polyoxometalates (POMs) are class of transition metals-oxygen clusters with precise molecular structures and superior physicochemical properties which have made longstanding and important applications upon research community of functional materials, catalysis and medicine. In this review, the recent advances of polyoxometalates based strategies for green synthesis of drugs are summarized including POMs based catalysts, alternative reaction equipment based novel synthesis protocols. The significance of POMs to pharmaceutical and industrial field is highlighted and the related perspective for future development are well discussed.
+Keywords: Polyoxometalates; Drug synthesis; Green catalysis; Healthcare; Medicine manufacture
+
+Andrzej Grzybowski, Katarzyna Pawlikowska–Łagód, W. Clark Lambert,
+A History of Artificial Intelligence,
+Clinics in Dermatology,
+Volume 42, Issue 3,
+2024,
+Pages 221-229,
+ISSN 0738-081X,
+https://doi.org/10.1016/j.clindermatol.2023.12.016.
+(https://www.sciencedirect.com/science/article/pii/S0738081X23002687)
+Abstract: The development of the computer and what is now known as artificial intelligence (AI) has evolved over more than two centuries in a long series of steps. The date of the invention of the first computer is estimated at 1822, when Charles Babbage (1791-1871) developed his first design of a working computer on paper, based mainly on a Jacquard loom. He worked on his project together with Augusta Ada King, Countess Lovelace (née Byron) (Ada Lovelace) (1815-1852), whom he called the “Sorceress of Numbers.” This work will present the profile and achievements of Charles Babbage, Augusta Ada King, Countess Lovelace, and Alan Mathison Turing (1912 - 1954), who is considered the father of computer science and artificial intelligence, and then provide an outline of the tumultuous events affecting AI up to the present.
+
+Malik Hassanaly, Venkat Raman,
+Classification and computation of extreme events in turbulent combustion,
+Progress in Energy and Combustion Science,
+Volume 87,
+2021,
+100955,
+ISSN 0360-1285,
+https://doi.org/10.1016/j.pecs.2021.100955.
+(https://www.sciencedirect.com/science/article/pii/S0360128521000538)
+Abstract: In the design of practical combustion systems, ensuring safety and reliability is an important requirement. For instance, reliably avoiding lean blowout, flame flashback or inlet unstart is critical for ensuring safe operation. Currently, the science of predicting such events is based on prior experience, limited modeling or diagnostic tools and purely statistical approaches. Even though computational and experimental tools for studying combustion devices have vastly advanced in the last three decades, the analysis of such failure events has not been pursued widely. While the use of data for model development and calibration is being widely accepted, the extension to failure events introduces numerous challenges. In particular, the focus here is on so-called data-poor problems, where the cost of generating data is extremely high and is not easily amenable to existing computational and experimental approaches. Data-poor problems are particularly relevant when related to extreme events (also called anomalous events) that can lead to catastrophic failure of the system. It is argued that transient events that describe such failure can have different causal mechanisms. To develop the scientific inference process, a classification of such problems is used to determine specific modeling paths as well as computational tools needed. Research opportunities in the emerging field of extreme event prediction are highlighted in order to identify critical and immediate needs.
+Keywords: Data-poor problems; Extreme events; Rare events
+
+Andrew Wang, Athanasios A. Tountas, Alán Aspuru-Guzik, Geoffrey A. Ozin,
+Bringing down the heat in methanol synthesis,
+Matter,
+Volume 6, Issue 7,
+2023,
+Pages 2106-2135,
+ISSN 2590-2385,
+https://doi.org/10.1016/j.matt.2023.05.022.
+(https://www.sciencedirect.com/science/article/pii/S2590238523002400)
+Abstract: Summary
+The methanol economy envisioned by Nobel laureate George Olah is growing by leaps and bounds. This growth is spurred by its burgeoning use not only as a major feedstock for a vast range of commodity chemicals and fuels but as a high-capacity and secure hydrogen (H2) storage, transportation, and delivery medium to power the hydrogen economy these days. Methanol is currently produced industrially at more than 100 million metric ton scales from fossil-sourced syngas, CO-H2, and by conventional fossil-powered heterogeneous catalysis, operated under high temperature and pressure conditions. The synthesis process is enabled by a ternary copper-zinc oxide-alumina composite (CZA), the performance metrics of which have remained pre-eminent for the past two decades. There are, however, incentives to lower the energy, economic, and environmental impact of the commercial methanol process, which functions at 250°C and 8 MPa, and to reduce its carbon footprint by switching to a CO2-H2 feedstock rather than continuing the use of CO-H2. Herein, to go beyond CZA, a surface coordination materials chemistry perspective is presented for the thermally enabled adsorption, activation, reaction, and desorption steps of CO2-H2 that ensue on metal oxide catalysts as a function of temperature and pressure. The objective is to identify periodic trends in the chemical and physical properties of the metal oxide that determine its activity and selectivity toward methanol synthesis versus the competitive reverse water gas shift carbon monoxide product. Armed with this materials chemistry perspective of methanol synthesis enabled by CZA, an enquiry is launched into how to rationally envision and design, by human-to-artificial intelligence, low-temperature metal oxide catalysts able to enhance methanol yield and reduce the energy requirement of the reaction. This chimie douce investigation culminates with an exploration of what it will take to power the methanol synthesis reaction directly with light rather than heat to ultimately reduce the dream of solar methanol refineries to practice and realize the solar advantage.
+
+Cemre Gül Mutlu, Funda Dağ,
+A digital narrative study concerning global crisis period: The pandemic's impact on the domestic responsibilities of women health workers in Türkiye,
+Women's Studies International Forum,
+Volume 107,
+2024,
+102994,
+ISSN 0277-5395,
+https://doi.org/10.1016/j.wsif.2024.102994.
+(https://www.sciencedirect.com/science/article/pii/S0277539524001328)
+Abstract: The COVID-19 pandemic has exerted a profound influence on female healthcare workers, resulting in a notable escalation in the time allocated to domestic duties and unpaid household labor. This study delves into the professional and personal experiences of these women through the medium of digital narratives. Employing interpretive analysis within a phenomenological framework, the research scrutinized six female healthcare workers, all of whom were mothers of children under the age of 18. The investigation revealed that the pandemic has exacerbated existing gender disparities, manifesting in an increased burden of unpaid domestic responsibilities coupled with a concomitant reduction in personal time. Moreover, the utilization of digital narratives emerged as a multifaceted tool, not only facilitating socialization among healthcare workers but also nurturing their well-being and fostering the development of digital literacy skills.
+Keywords: COVID-19; Female health worker; Unpaid domestic work; Digital storytelling; Digital narrative; Interpretative phenomenological analysis
+
+Reshmi T. Parayil, Santosh K. Gupta, M. Mohapatra,
+A review on defect engineered NIR persistent luminescence through transition metal ion (Cr, Mn, Fe and Ni) doping: Wider perspective covering synthesis, characterization, fundamentals and applications,
+Coordination Chemistry Reviews,
+Volume 522,
+2025,
+216200,
+ISSN 0010-8545,
+https://doi.org/10.1016/j.ccr.2024.216200.
+(https://www.sciencedirect.com/science/article/pii/S0010854524005460)
+Abstract: Persistent luminescence is an optical phenomenon where materials continue to emit light after the cessation of the excitation source which leads to different applications in areas like bioimaging, information storage, anticounterfeiting, etc. This review focuses on the latest advancements in near-infrared (NIR) persistent luminescence (PersL) materials doped with Cr3+, Mn4+, Mn2+, Fe3+ and Ni2+along with recent advances in the synthesis and mechanisms associated with the afterglow. A comprehensive discussion on the various types of defects and their importance in NIR PersL materials is also included, along with a section dedicated to the techniques used to characterize these defects and application of NIR PersL materials in different areas. The review also examines the different strategies to improve the NIR PersL. It starts with a brief description of the history of the PersL and then discusses the reported NIR PersL phosphors activated by manganese, chromium, iron and nickel ions. Understanding the mechanism associated with PersL is very important to develop a novel PersL phosphor, so the review discussed the role of defects and traps in PersL along with different models which include the conduction band model, oxygen vacancy model, and quantum tunneling model which is followed by few main applications of PersL materials and culminated by concluding and associated challenges and future directions in this ever-growing field.
+Keywords: NIR persistent luminescence, defect engineering; Cr/Mn/Fe/Ni doping; Luminescence; Phosphors
+
+Bertrand Audrin, Catherine Audrin, Xavier Salamin,
+Digital skills at work – Conceptual development and empirical validation of a measurement scale,
+Technological Forecasting and Social Change,
+Volume 202,
+2024,
+123279,
+ISSN 0040-1625,
+https://doi.org/10.1016/j.techfore.2024.123279.
+(https://www.sciencedirect.com/science/article/pii/S0040162524000751)
+Abstract: In today's increasingly digitalized work environments, the need for digital skills is on the rise. Surprisingly, current frameworks of digital skills fail to specifically address the identification and measurement of digital skills in the workplace. The objective of this research is thus to develop a framework and a validated scale for digital skills at work. To do so, we employ a multi-step process that includes a thorough literature review, cognitive interviews with five experts, two pilot surveys (respectively n = 22 and n = 106), and a full validation survey (n = 923) among professionals. The findings consist of a comprehensive framework and a validated scale for digital skills at work. The framework entails 8 dimensions: Technology use, Cybersecurity, Content management, Communication and collaboration, Critical inquiry, Responsibility, Well-being, and Identity and development. The final scale consists of 52 items. This work enables to better understand individuals' skillsets and organizational requirements in terms of digital skills for the future of work. Both practical and research implications are discussed.
+Keywords: Digital skills; Future of work; Digital competence; Employability
+
+Jihoon Ko, Sujin Hyung, Sunghun Cheong, Yoojin Chung, Noo Li Jeon,
+Revealing the clinical potential of high-resolution organoids,
+Advanced Drug Delivery Reviews,
+Volume 207,
+2024,
+115202,
+ISSN 0169-409X,
+https://doi.org/10.1016/j.addr.2024.115202.
+(https://www.sciencedirect.com/science/article/pii/S0169409X24000243)
+Abstract: The symbiotic interplay of organoid technology and advanced imaging strategies yields innovative breakthroughs in research and clinical applications. Organoids, intricate three-dimensional cell cultures derived from pluripotent or adult stem/progenitor cells, have emerged as potent tools for in vitro modeling, reflecting in vivo organs and advancing our grasp of tissue physiology and disease. Concurrently, advanced imaging technologies such as confocal, light-sheet, and two-photon microscopy ignite fresh explorations, uncovering rich organoid information. Combined with advanced imaging technologies and the power of artificial intelligence, organoids provide new insights that bridge experimental models and real-world clinical scenarios. This review explores exemplary research that embodies this technological synergy and how organoids reshape personalized medicine and therapeutics.
+
+Eleanor S. Smith, Christopher Fleet, Stuart King, William Mackaness, Hannah Walker, Catherine E. Scott,
+Estimating the density of urban trees in 1890s Leeds and Edinburgh using object detection on historical maps,
+Computers, Environment and Urban Systems,
+Volume 115,
+2025,
+102219,
+ISSN 0198-9715,
+https://doi.org/10.1016/j.compenvurbsys.2024.102219.
+(https://www.sciencedirect.com/science/article/pii/S0198971524001480)
+Abstract: We present a new end-to-end methodology for extracting symbols from historical maps and demonstrate an application of the method to extract details of the urban forests of Leeds and Edinburgh in the UK using Ordnance Survey maps from the 1890s. The methods presented allow tree symbols on 1:500 scale maps to be efficiently extracted, with our object detection model achieving an F1-score of 0.945. The results for each city are presented on the National Library of Scotland website and have been used to generate an estimate of 37 ± 1 tree symbols per hectare for Leeds in 1888–90 and 40 ± 1 tree symbols per hectare for Edinburgh in 1893–94. This is the first time that quantitative data has been obtained for historical urban tree counts in these two cities. The method presented can be expanded to other UK towns and cities and is a valuable tool for learning about the past, and changes to both the natural and built environment over time, aiding decisions on future tree planting. We discuss the process used to automate the generation of training data and to train a machine learning model to extract the symbols, comparing it with other possible models. This discussion provides context on how best to tackle similar problems of symbol extraction from historical maps and the issues that may arise in such automated analysis, alongside factors that must be considered when using historical maps as a data source.
+Keywords: Historical maps; Urban forests; Object detection; Machine learning; Template matching
+
+Madison Brents, Meghan Sprabary, Abby Stovall, Kristin Wolski,
+Community Engagement, Building, and Outreach,
+Editor(s): David Baker, Lucy Ellis,
+Encyclopedia of Libraries, Librarianship, and Information Science (First Edition),
+Academic Press,
+2025,
+Pages 441-450,
+ISBN 9780323956901,
+https://doi.org/10.1016/B978-0-323-95689-5.00170-X.
+(https://www.sciencedirect.com/science/article/pii/B978032395689500170X)
+Abstract: Library employees spread awareness of library resources and services to its community through engagement, building, and outreach activities. In some libraries, specific positions exist for this role and in others, these tasks are part of an all-encompassing job. Library employees aim to reach infrequent or non-users of libraries but also maintain positive relationships with recurring library patrons. Library employees in this role encounter more social interaction compared to other library jobs. This entry outlines the definitions and concept of community, engagement, and outreach, as well as the historical context, current state, and future trends in different types of libraries.
+Keywords: Academic libraries; Artificial intelligence; Assessment; Censorship; Community building; Corporate libraries; Engagement; Library history; Marketing; Outreach; Programming; Public libraries; Rural libraries; School libraries; Social media; Virtual spaces
+
+Wenda Xie, Yahui Liu, Hongxia Zhao, Chao Guo, Xingyuan Dai, Yisheng Lv,
+Highly Interactive Self-Supervised Learning for Multi-Modal Trajectory Prediction⁎⁎This work was supported by the National Key R&D Program of China under Grant 2022ZD0162200, the National Natural Science Foundation of China under Grant 62271485, and the Fundamental Research Funds for the Central Universities, CHD, under Grant 300102343513,
+IFAC-PapersOnLine,
+Volume 58, Issue 10,
+2024,
+Pages 231-236,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2024.07.345.
+(https://www.sciencedirect.com/science/article/pii/S2405896324004294)
+Abstract: To ensure the safety of autonomous vehicles, trajectory prediction is critical as it enables vehicles to anticipate the movements of surrounding agents, thereby facilitating the planning of secure and strategic driving routes. However, striking a trade-of between predictive accuracy and training costs has always been an intricate challenge. This paper introduces a groundbreaking framework for trajectory prediction known as Highly Interactive Self-Supervised Learning (HI-SSL), a methodology based on self-supervised learning (SSL) that has yet to be thoroughly investigated in the realm of trajectory prediction. The cornerstone of the aforementioned framework is Interactive Masking, which leverages a novel trajectory masking strategy facilitating self-supervised learning tasks that not only enhance prediction accuracy but also eliminate the need for manual annotations. Experiments conducted on the Argoverse motion forecasting dataset demonstrate that our approach achieves competitive performance to prior methods that depend on supervised learning without additional annotation costs.
+Keywords: Automatic driving; Self-supervised learning; Trajectory prediction; Deep learning; Intelligent Transportation
+
+Baha Ihnaini, Belal Abuhaija, Ebenezer Atta Mills, Massudi Mahmuddin,
+Semantic similarity on multimodal data: A comprehensive survey with applications,
+Journal of King Saud University - Computer and Information Sciences,
+Volume 36, Issue 10,
+2024,
+102263,
+ISSN 1319-1578,
+https://doi.org/10.1016/j.jksuci.2024.102263.
+(https://www.sciencedirect.com/science/article/pii/S1319157824003525)
+Abstract: Recently, the revival of the semantic similarity concept has been featured by the rapidly growing artificial intelligence research fueled by advanced deep learning architectures enabling machine intelligence using multimodal data. Thus, semantic similarity in multimodal data has gained substantial attention among researchers. However, the existing surveys on semantic similarity measures are restricted to a single modality, mainly text, which significantly limits the capability to understand the intelligence of real-world application scenarios. This study critically reviews semantic similarity approaches by shortlisting 223 vital articles from the leading databases and digital libraries to offer a comprehensive and systematic literature survey. The notable contribution is to illuminate the evolving landscape of semantic similarity and its crucial role in understanding, interpreting, and extracting meaningful information from multimodal data. Primarily, it highlights the challenges and opportunities inherent in different modalities, emphasizing the significance of advancements in cross-modal and multimodal semantic similarity approaches with potential application scenarios. Finally, the survey concludes by summarizing valuable future research directions. The insights provided in this survey improve the understanding and pave the way for further innovation by guiding researchers in leveraging the strength of semantic similarity for an extensive range of real-world applications.
+Keywords: Semantic Similarity; Similarity Measures; Multimodal Semantic Similarity; Semantic Similarity Applications; Machine Learning; And Deep Learning
+
+Vinicius Daguano Gastaldi, Martin Hindermann, Justus B.H. Wilke, Anja Ronnenberg, Sahab Arinrad, Sabine Kraus, Anne-Fleur Wildenburg, Antonios Ntolkeras, Micah J. Provost, Liu Ye, Yasmina Curto, Jonathan-Alexis Cortés-Silva, Umer Javed Butt, Klaus-Armin Nave, Kamilla Woznica Miskowiak, Hannelore Ehrenreich,
+A comprehensive and standardized pipeline for automated profiling of higher cognition in mice,
+Cell Reports Methods,
+Volume 5, Issue 3,
+2025,
+101011,
+ISSN 2667-2375,
+https://doi.org/10.1016/j.crmeth.2025.101011.
+(https://www.sciencedirect.com/science/article/pii/S2667237525000475)
+Abstract: Summary
+In rodent behavior research, observer-independent methods, such as the IntelliCage, enhance data collection in a social, and thus stress-reduced, environment. The IntelliCage system allows experimenters to create cognitive challenges for mice motivated by rewards. Given the extensive and diverse data from IntelliCage, there is a high demand for automated analysis. Here, we introduce IntelliR, a free and standardized pipeline for analyzing IntelliCage data, including a cognition index for performance comparison across challenges. IntelliR supports the automatic analysis of three challenges that cover spatial, episodic-like, and working memory with their reversal tests and can also be adapted for other designs. Results from three cohorts of adult female C57B6 mice showed improved task proficiency over time. To validate cognitive impairment detection, we used adult female NexCreERT2xRosa26-eGFP-DTA mice after neuron ablation in cortex and hippocampus, in which we observed reduced learning capabilities. IntelliR integrates easily into research, improving time management and reproducibility.
+Keywords: IntelliCage; behavior; automated phenotyping; cognitive domains; spatial memory; episodic-like memory; working memory; reversal learning; cognitive flexibility
+
+Muhammad Raees, Inge Meijerink, Ioanna Lykourentzou, Vassilis-Javed Khan, Konstantinos Papangelis,
+From explainable to interactive AI: A literature review on current trends in human-AI interaction,
+International Journal of Human-Computer Studies,
+Volume 189,
+2024,
+103301,
+ISSN 1071-5819,
+https://doi.org/10.1016/j.ijhcs.2024.103301.
+(https://www.sciencedirect.com/science/article/pii/S1071581924000855)
+Abstract: AI systems are increasingly being adopted across various domains and application areas. With this surge, there is a growing research focus and societal concern for actively involving humans in developing, operating, and adopting these systems. Despite this concern, most existing literature on AI and Human–Computer Interaction (HCI) primarily focuses on explaining how AI systems operate and, at times, allowing users to contest AI decisions. Existing studies often overlook more impactful forms of user interaction with AI systems, such as giving users agency beyond contestability and enabling them to adapt and even co-design the AI’s internal mechanics. In this survey, we aim to bridge this gap by reviewing the state-of-the-art in Human-Centered AI literature, the domain where AI and HCI studies converge, extending past Explainable and Contestable AI, delving into the Interactive AI and beyond. Our analysis contributes to shaping the trajectory of future Interactive AI design and advocates for a more user-centric approach that provides users with greater agency, fostering not only their understanding of AI’s workings but also their active engagement in its development and evolution.
+Keywords: Human-centered AI; Interactivity; Collaboration; Explainability
+
+Massimo Martini, Emily Kaul, Reid Miller, Jason Gibbs, Kyle Bobiwash,
+Non-native plants in road verges attract pollinators despite associated declines in native flowers,
+Global Ecology and Conservation,
+Volume 58,
+2025,
+e03489,
+ISSN 2351-9894,
+https://doi.org/10.1016/j.gecco.2025.e03489.
+(https://www.sciencedirect.com/science/article/pii/S2351989425000903)
+Abstract: Marginal habitats are increasingly recognized for their potential value in pollinator conservation. Road verges, which cover extensive areas, provide abundant floral resources and contribute to habitat heterogeneity and connectivity in homogeneous landscapes. However, road verges are also hotspots for the establishment and dispersal of non-native plants, raising doubts on their suitability to support diverse pollinator populations. We sampled flowering plants and visiting insects in roadsides of southeastern Manitoba, Canada, and leveraged datasets of bee communities from surrounding areas and Wildlife Management Areas (WMAs) to compare pollinator communities across habitats. Plant communities in road verges were dominated by a subset of abundant non-native species and were disproportionately visited by generalist pollinators. Non-native plant abundance was negatively correlated with native plant richness and abundance in the verges but positively associated with bee richness and abundance. Landscape context and scale also influenced pollinators. We found strong differences in pollinator richness, abundance, and community composition at larger (ecozone) scales, with local landscape composition and configuration also contributing significantly, albeit to a lesser extent. Road verge bee communities were distinct and less even than those in surrounding areas and WMAs, and exhibited a markedly higher proportion of polylectic to oligolectic individuals. These findings suggest that road verges can support generalist pollinators but are less suitable for specialists, highlighting their potential to maintain pollination services in heavily disturbed or densely-forested landscapes while also revealing limitations in harboring representatively diverse and even communities.
+Keywords: Pollinator conservation; Marginal habitats; Roadsides; Invasive plants; Bee diversity
+
+Jiheng Fang, Ming Xie, Xingqun He, Jiming Zhang, Jieqiong Hu, Yongtai Chen, Youcai Yang, Qinglin Jin,
+Machine learning accelerates the materials discovery,
+Materials Today Communications,
+Volume 33,
+2022,
+104900,
+ISSN 2352-4928,
+https://doi.org/10.1016/j.mtcomm.2022.104900.
+(https://www.sciencedirect.com/science/article/pii/S235249282201741X)
+Abstract: As the big data generated by the development of modern experiments and computing technology becomes more and more accessible, the material design method based on machine learning (ML) has opened a new paradigm for materials science research. With its ability to automatically solve complex tasks, machine learning is being used as a new method to help discover the relevance of materials, understand materials' properties, and accelerate the discovery of materials. This paper first introduces the general process of machine learning in materials science. Secondly, the applications of machine learning in material properties prediction, classification and identification, auxiliary micro-scale characterization, phase transformation research and phase diagram construction, process optimization, service behavior evaluation, accelerating the development of computational simulation technology, multi-objective optimization and inverse design of materials are reviewed. Finally, we discuss the main challenges and possible solutions in machine learning, and predict the potential research directions.
+Keywords: Machine learning; Big data; Data mining; Materials design
+
+Haoyan Shi, Haochen Wang, Minghao Yu, Jianbang Su, Ze Zhao, Tianqi Gao, Qian Zhang, Yingliang Wei,
+Serum trace elements and osteoarthritis: A meta-analysis and Mendelian randomization study,
+Journal of Trace Elements in Medicine and Biology,
+Volume 86,
+2024,
+127520,
+ISSN 0946-672X,
+https://doi.org/10.1016/j.jtemb.2024.127520.
+(https://www.sciencedirect.com/science/article/pii/S0946672X24001408)
+Abstract: Objective
+This study aims to establish the correlation between shifts in serum trace element (TE) levels and the progression of osteoarthritis (OA), while also exploring the underlying causal relationship between these variables.
+Methods
+An investigation was conducted, which included a systematic review, a meta-analysis of observational studies, and a two-sample Mendelian randomization (MR) study.
+Results
+This meta-analysis revealed significant differences in serum levels of copper, manganese, cadmium, and selenium between OA patients and healthy controls, after adjusting for heterogeneity. Specifically, significant disparities were observed for copper (SMD 0.118 [95 % CI: 0.061 ∼ 0.175], P < 0.001), manganese (SMD −0.180 [95 % CI: −0.326 ∼ −0.034], P = 0.016), cadmium (SMD 0.227 [95 % CI: 0.131 ∼ 0.322], P < 0.001), and selenium (SMD −0.138 [95 % CI: −0.209 ∼ −0.068], P < 0.001), while zinc levels did not show a significant difference (SMD −0.02 [95 % CI: −0.077 ∼ 0.038], P = 0.503). Further, MR analysis suggested a causal link between genetically predicted serum copper level changes and OA development, but not for other TEs.
+Conclusion
+The study suggests that there is an association between the occurrence of OA and variations in serum levels of copper, manganese, cadmium, and selenium. Elevated serum copper may play a pivotal role. Further research is needed to explore the therapeutic potential of TE level modulation in OA management.
+Keywords: Osteoarthritis; Trace elements; Copper; Meta-analysis; Mendelian Randomization
+
+Milay Cabarroi-Hernández, Alma Rosa Villalobos-Arámbula,  Mabel Gisela Torres-Torres, Cony Decock, Laura Guzmán-Dávalos,
+The Ganoderma weberianum-resinaceum lineage: multilocus phylogenetic analysis and morphology confirm G. mexicanum and G. parvulum in the Neotropics,
+Mycokeys,
+Volume 59,
+2019,
+Pages 95-131,
+ISSN 1314-4057,
+https://doi.org/10.3897/mycokeys.59.33182.
+(https://www.sciencedirect.com/science/article/pii/S1314405719000831)
+Abstract: Many species of Ganoderma exhibit a high phenotypic plasticity. Hence, particularly among them, the morphological species concept remains difficult to apply, resulting in a currently confused taxonomy; as a consequence, the geographical distribution range of many species also remains very uncertain. One of the areas with a strong uncertainty, as far as morphological species concept is concerned, is the Neotropics. It is common that names of species described from other regions, mainly from northern temperate areas, have been applied to Neotropical species. The aim of the present study was to determine which species might lay behind the G. weberianum complex in the Neotropics, using morphological studies and phylogenetic inferences based on both single (ITS) and multilocus (ITS, rpb2, and tef1-α) sequences. The results indicated that G. weberianumsensu Steyaert, which is the usually accepted concept for this taxon, was absent from the Neotropics. In this area, G. weberianumsensu Steyaert encompassed at least two phylogenetic species, which are tentatively, for the time being, identified as belonging to G. mexicanum and G. parvulum. These two species could be distinguished morphologically, notably by the ornamentation or its absence on their chlamydospores. The results also showed that additional species from the Neotropics might still exist, including, e.g., G. perzonatum, but their circumscription remains uncertain until now because of the paucity of material available. Furthermore, it was found that the current concept of G. resinaceum embraced a complex of species.
+Keywords: Caribbean; Chlamydospores;   Fomes weberianus  ;   Ganodermataceae  ; Paleotropics; South America
+
+Muhammad Ameer, Mohammed Dahane,
+From automation toward integration of process planning: a state-of-the-art review,
+IFAC-PapersOnLine,
+Volume 55, Issue 10,
+2022,
+Pages 3220-3225,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2022.10.145.
+(https://www.sciencedirect.com/science/article/pii/S2405896322021590)
+Abstract: The two main objective functions for designing the manufacturing system are, improving the manufacturing system's productivity and production quality. Process planning is an integral part of manufacturing system design. In this work, the study of process plan evolution over the period has been reviewed, keeping in mind the design objectives. Based on the technological advancements, the process plan evolution has been classified into two periods. The first evolution relates to automation, in which efforts are made to automate the manual activities of conventional process plans, which leads to the development of Computer-Aided Process Planning (CAPP). As long as the systems are deterministic with fixed structures and capabilities, CAPP is a good solution. Due to the uncertainty in the market for product demand, the new manufacturing systems are becoming more and more dynamic to handle the product variety demand. In that case, just automation is not enough to achieve the objective functions of system design. Designers have to consider the integration of the manufacturing system life cycle. So the second evolution of the process plan relates to, the consideration of performance indicators defined due to the system integration. For the second evolution, the literature review of the reconfigurable process plan (RPP) is performed considering both automation and integration of the system.
+Keywords: Computer-aided process plan (CAPP); Reconfigurable process planning (RPP); Manufacturing system design; performance indicators
+
+Faizah Alanazi, Markus Mueller, Stuart Townley,
+Pattern recognition tools for output-based classification of synchronised Kuramoto states,
+IFAC-PapersOnLine,
+Volume 58, Issue 17,
+2024,
+Pages 7-12,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2024.10.105.
+(https://www.sciencedirect.com/science/article/pii/S2405896324018603)
+Abstract: Kuramoto oscillators are known to exhibit multiple synchrony where the states of individual oscillators synchronise in groups. We present a method for output-based classification of synchronised states in networks of Kuramoto oscillators using an artificial neural network for pattern recognition. Outputs of synchronised states are represented by spectrograms, in other words “fingerprint”, on which an artificial neural network of stacked autoencoders is then trained to classify these fingerprints and thus the different types of synchrony. We illustrate the approach for a Kuramoto model with N = 4 oscillators which exhibits synchrony of five types. We provide performance metrics for learning and training data which demonstrat that the approach reaches high levels of reliability.
+Keywords: Kuramoto Networks; Synchrony; Observability; Artificial Neural Networks; Pattern recognition
+
+Hao Lu, Huazhe Wang, Qinglian Wu, Haichao Luo, Qi Zhao, Banghai Liu, Qishi Si, Shanshan Zheng, Wanqian Guo, Nanqi Ren,
+Automatic control and optimal operation for greenhouse gas mitigation in sustainable wastewater treatment plants: A review,
+Science of The Total Environment,
+Volume 855,
+2023,
+158849,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2022.158849.
+(https://www.sciencedirect.com/science/article/pii/S0048969722059484)
+Abstract: In order to promote low-carbon sustainable operational management of the wastewater treatment plants (WWTPs), automatic control and optimal operation technologies, which devote to improving effluent quality, operational costs and greenhouse gas (GHG) emissions, have flourished in recent years. There is no consensus on the design procedure for optimal control/operation of sustainable WWTPs. In this review, we summarize recent researches on developing control and optimization strategies for GHG mitigation in WWTPs. Faced with the fact that direct carbon dioxide (CO2) emissions (considered biological origin) are generally not included in the carbon footprint of WWTPs, direct emissions (nitrous oxide (N2O), methane (CH4)) and indirect emissions are paid much attention. Firstly, the plant-wide models with GHG dynamic simulation, which are employed to design and evaluate the automatic control schemes as well as representative studies on identifying key factors affecting GHG emissions or comprehensive performance are outlined. Then, both traditional and advanced control methods commonly used in GHG mitigation are reviewed in detail, followed by the multi-objective optimization practices of control/operational parameters. Based on the mentioned control and (or) optimization strategies, a novel design framework for the optimal control/operation of sustainable WWTPs is proposed. The findings and design framework proposed in the paper will provide guidance for GHG mitigation and sustainable operation in WWTPs. It is foreseeable that more accurate and appropriate plant-wide models together with flexible control methods and intelligent optimization strategies will be developed to satisfy the upgrading requirements of WWTPs in the future.
+Keywords: WWTPs; GHG emissions; Plant-wide models; Control methods; Multi-objective optimization
+
+Mengze Xu, Zhiyi Chen, Junxiao Zheng, Qi Zhao, Zhen Yuan,
+Artificial intelligence-aided optical imaging for cancer theranostics,
+Seminars in Cancer Biology,
+Volume 94,
+2023,
+Pages 62-80,
+ISSN 1044-579X,
+https://doi.org/10.1016/j.semcancer.2023.06.003.
+(https://www.sciencedirect.com/science/article/pii/S1044579X23000949)
+Abstract: The use of artificial intelligence (AI) to assist biomedical imaging have demonstrated its high accuracy and high efficiency in medical decision-making for individualized cancer medicine. In particular, optical imaging methods are able to visualize both the structural and functional information of tumors tissues with high contrast, low cost, and noninvasive property. However, no systematic work has been performed to inspect the recent advances on AI-aided optical imaging for cancer theranostics. In this review, we demonstrated how AI can guide optical imaging methods to improve the accuracy on tumor detection, automated analysis and prediction of its histopathological section, its monitoring during treatment, and its prognosis by using computer vision, deep learning and natural language processing. By contrast, the optical imaging techniques involved mainly consisted of various tomography and microscopy imaging methods such as optical endoscopy imaging, optical coherence tomography, photoacoustic imaging, diffuse optical tomography, optical microscopy imaging, Raman imaging, and fluorescent imaging. Meanwhile, existing problems, possible challenges and future prospects for AI-aided optical imaging protocol for cancer theranostics were also discussed. It is expected that the present work can open a new avenue for precision oncology by using AI and optical imaging tools.
+Keywords: Optical imaging; Artificial intelligence; Cancer theranostics; Precision oncology
+
+Thanh Tung Khuat, Robert Bassett, Ellen Otte, Alistair Grevis-James, Bogdan Gabrys,
+Applications of machine learning in antibody discovery, process development, manufacturing and formulation: Current trends, challenges, and opportunities,
+Computers & Chemical Engineering,
+Volume 182,
+2024,
+108585,
+ISSN 0098-1354,
+https://doi.org/10.1016/j.compchemeng.2024.108585.
+(https://www.sciencedirect.com/science/article/pii/S0098135424000036)
+Abstract: While machine learning (ML) has made significant contributions to the biopharmaceutical field, its applications are still in the early stages in terms of providing direct support for quality-by-design based development and manufacturing of biologics, hindering the enormous potential for bioprocesses automation from their development to manufacturing. However, the adoption of ML-based models instead of conventional multivariate data analysis methods is significantly increasing due to the accumulation of large-scale production data. This trend is primarily driven by the real-time monitoring of process variables and quality attributes of biopharmaceutical products through the implementation of advanced process analytical technologies. Given the complexity and multidimensionality of a bioproduct design, bioprocess development, and product manufacturing data, ML-based approaches are increasingly being employed to achieve accurate, flexible, and high-performing predictive models to address the problems of analytics, monitoring, and control within the biopharma field. This paper aims to provide a comprehensive review of the current applications of ML solutions in the design, monitoring, control, and optimisation of upstream, downstream, and product formulation processes of monoclonal antibodies. Finally, this paper thoroughly discusses the main challenges related to the bioprocesses themselves, process data, and the use of machine learning models in monoclonal antibody process development and manufacturing. Moreover, it offers further insights into the adoption of innovative machine learning methods and novel trends in the development of new digital biopharma solutions.
+Keywords: Biopharmaceuticals; Machine learning; Upstream; Downstream; Bioprocesses; Digital twin; Soft sensors
+
+Han Jiang, Wenjia Sun, Hanfei Guo, Jiayuan Zeng, Xin Xue, Shuai Li,
+Review of intelligent diagnosis methods for imaging gland cancer based on machine learning,
+Virtual Reality & Intelligent Hardware,
+Volume 5, Issue 4,
+2023,
+Pages 293-316,
+ISSN 2096-5796,
+https://doi.org/10.1016/j.vrih.2022.09.002.
+(https://www.sciencedirect.com/science/article/pii/S2096579622000985)
+Abstract: Gland cancer is a high-incidence disease that endangers human health, and its early detection and treatment require efficient, accurate, and objective intelligent diagnosis methods. In recent years, the advent of machine learning techniques has yielded satisfactory results in intelligent gland cancer diagnosis based on clinical images, significantly improving the accuracy and efficiency of medical image interpretation while reducing the workload of doctors. The focus of this study is to review, classify, and analyze intelligent diagnosis methods for imaging gland cancer based on machine learning and deep learning. This paper briefly introduces some basic imaging principles of multimodal medical images, such as the commonly used computed tomography (CT), magnetic resonance imaging (MRI), ultrasound (US), positron emission tomography (PET), and pathology. In addition, the intelligent diagnosis methods for imaging gland cancer were further classified into supervised learning and weakly supervised learning. Supervised learning consists of traditional machine learning methods, such as Knearest neighbor algorithm (KNN), support vector machine (SVM), and multilayer perceptron, and deep learning methods evolving from convolutional neural network (CNN). By contrast, weakly supervised learning can be further categorized into active learning, semisupervised learning, and transfer learning. State-of-the-art methods are illustrated with implementation details, including image segmentation, feature extraction, and optimization of classifiers. Their performances are evaluated through indicators, such as accuracy, precision, and sensitivity. In conclusion, the challenges and development trends of intelligent diagnosis methods for imaging gland cancer were addressed and discussed.
+Keywords: Gland cancer; Intelligent diagnosis; Machine learning; Deep learning; Multimodal medical images
+
+Bart van der Sloot, Yvette Wagensveld,
+Deepfakes: regulatory challenges for the synthetic society,
+Computer Law & Security Review,
+Volume 46,
+2022,
+105716,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2022.105716.
+(https://www.sciencedirect.com/science/article/pii/S0267364922000632)
+Abstract: With the rise of deepfakes and synthetic media, the question as to what is real and what is not will become increasingly important and politized. Deepfakes can be used to spread fake news, influence elections, introduce highly realistic fake evidence in courts and make fake porno movies. Each of these applications potentially has a big impact on society, social relationships, democracy and the rule of law. The question this article shall assess is whether the current regulatory regime suffices to address these potential harms and if not, which additional rules and principles should be adopted. It will discuss several potential amendments to the privacy and data protection regime, limitations to the freedom of expression and ex ante rules on the distribution of use of deepfake-technologies.
+Keywords: Deepfake; synethetic media; post-truth era; Privacy; freedom of expression; rule of law; democracy; social equality; fake news; non-consensual fake porn
+
+Ryunosuke Oka, Akira Utsumi, Takashi Kusumi,
+Evaluating relational reasoning ability with the Semantic Similarities Test: The impact of fluid intelligence and vocabulary indices,
+Thinking Skills and Creativity,
+Volume 53,
+2024,
+101606,
+ISSN 1871-1871,
+https://doi.org/10.1016/j.tsc.2024.101606.
+(https://www.sciencedirect.com/science/article/pii/S1871187124001445)
+Abstract: This study investigated the roles of fluid intelligence, semantic knowledge, and personality using the semantic similarity test (SST), which assesses participants’ relational reasoning abilities. Based on the original SST (Stamenković et al., Journal of Memory and Language, 105: 108–118, 2019), in Study 1, we developed the Japanese version of the SST with 20-word pairs (e.g., “time-river”) and rubrics (e.g., “it flows” corresponds to 2 pts) to classify participants’ brief explanations into three levels (2 pts, perfectly captures the relationship of two words; 1 pt, partially captures the relationship of two words; 0 pt, bad response) for each. In Studies 2 and 4, we confirmed that the SST scores showed a weak to moderate positive correlation with both vocabulary indices (the Japanese Vocabulary Size Estimation Test and vocabulary test derived from the WAIS-IV Vocabulary subscale) and the fluid intelligence index (Raven Progressive Matrices Short); however, it did not show a positive correlation with openness. In Study 3, we confirmed that the SST had reasonable test–retest reliability. These results showed that the Japanese version of the SST is related to both semantic knowledge and fluid intelligence, but has a limited relationship with the Big Five personality traits, especially openness.
+Keywords: Fluid intelligence; Semantic knowledge; Big Five personality; Similarity reasoning skills; Semantic Similarities Test

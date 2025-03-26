@@ -1,0 +1,1224 @@
+Daniel Gibert, Jordi Planes, Carles Mateu, Quan Le,
+Fusing feature engineering and deep learning: A case study for malware classification,
+Expert Systems with Applications,
+Volume 207,
+2022,
+117957,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2022.117957.
+(https://www.sciencedirect.com/science/article/pii/S0957417422011927)
+Abstract: Machine learning has become an appealing signature-less approach to detect and classify malware because of its ability to generalize to never-before-seen samples and to handle large volumes of data. While traditional feature-based approaches rely on the manual design of hand-crafted features based on experts’ knowledge of the domain, deep learning approaches replace the manual feature engineering process by an underlying system, typically consisting of a neural network with multiple layers, that perform both feature learning and classification altogether. However, the combination of both approaches could substantially enhance detection systems. In this paper we present an hybrid approach to address the task of malware classification by fusing multiple types of features defined by experts and features learned through deep learning from raw data. In particular, our approach relies on deep learning to extract N-gram like features from the assembly language instructions and the bytes of malware, and texture patterns and shapelet-based features from malware’s grayscale image representation and structural entropy, respectively. These deep features are later passed as input to a gradient boosting model that combines the deep features and the hand-crafted features using an early-fusion mechanism. The suitability of our approach has been evaluated on the Microsoft Malware Classification Challenge benchmark and results show that the proposed solution achieves state-of-the-art performance and outperforms gradient boosting and deep learning methods in the literature.
+Keywords: Malware classification; Machine learning; Deep learning; Feature extraction; Feature fusion
+
+Xiangyan Meng, Tonghui Zou,
+Clinical applications of graph neural networks in computational histopathology: A review,
+Computers in Biology and Medicine,
+Volume 164,
+2023,
+107201,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2023.107201.
+(https://www.sciencedirect.com/science/article/pii/S0010482523006662)
+Abstract: Pathological examination is the optimal approach for diagnosing cancer, and with the advancement of digital imaging technologies, it has spurred the emergence of computational histopathology. The objective of computational histopathology is to assist in clinical tasks through image processing and analysis techniques. In the early stages, the technique involved analyzing histopathology images by extracting mathematical features, but the performance of these models was unsatisfactory. With the development of artificial intelligence (AI) technologies, traditional machine learning methods were applied in this field. Although the performance of the models improved, there were issues such as poor model generalization and tedious manual feature extraction. Subsequently, the introduction of deep learning techniques effectively addressed these problems. However, models based on traditional convolutional architectures could not adequately capture the contextual information and deep biological features in histopathology images. Due to the special structure of graphs, they are highly suitable for feature extraction in tissue histopathology images and have achieved promising performance in numerous studies. In this article, we review existing graph-based methods in computational histopathology and propose a novel and more comprehensive graph construction approach. Additionally, we categorize the methods and techniques in computational histopathology according to different learning paradigms. We summarize the common clinical applications of graph-based methods in computational histopathology. Furthermore, we discuss the core concepts in this field and highlight the current challenges and future research directions.
+Keywords: Deep learning; Graph neural network; Computational histopathology; Histopathological images
+
+Staf Emil, McKelvey Tomas,
+Introducing Compressed Mixture Models for Predicting Long-Lasting Brake Events⁎⁎This work has been jointly funded by Volvo Cars and by the research program Fordonsstrategisk Forskning och Innovation (FFI), which is gratefully acknowledged.,
+IFAC-PapersOnLine,
+Volume 51, Issue 31,
+2018,
+Pages 840-845,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2018.10.115.
+(https://www.sciencedirect.com/science/article/pii/S2405896318325795)
+Abstract: With tougher restrictions on emissions the automotive industry is in dire need of additional functionality to reduce emissions. We conduct a case study trying to predict long-lasting brake events, to support the decision-making process when the engine can beneficially be put to idle or shut down to achieve emission reduction. We introduce Compressed Mixture Models, a multivariate and mixed variate kernel density model featuring online training and complexity reduction, and use it for prediction purposes. The results show that the proposed method produces comparable prediction results as a Random Forest Classifier and outperform a Support Vector Classifier. On an urban road a prediction accuracy of 87.4 % is obtained, while a prediction accuracy of 76.4 % on a highway segment using the proposed method. Furthermore, it is possible to use a trained Compressed Mixture Model as a tool for statistical inference to study the properties of the observed realization of the underlying random variables.
+Keywords: Machine learning; recursive algorithms; model complexity reduction; prediction methods; probabilistic models; information theory
+
+
+Full Issue PDF,
+JACC: Advances,
+Volume 1, Issue 5,
+2022,
+100189,
+ISSN 2772-963X,
+https://doi.org/10.1016/S2772-963X(22)00287-3.
+(https://www.sciencedirect.com/science/article/pii/S2772963X22002873)
+
+Filipp Schmidt, Flip Phillips, Roland W. Fleming,
+Visual perception of shape-transforming processes: ‘Shape Scission’,
+Cognition,
+Volume 189,
+2019,
+Pages 167-180,
+ISSN 0010-0277,
+https://doi.org/10.1016/j.cognition.2019.04.006.
+(https://www.sciencedirect.com/science/article/pii/S0010027719300903)
+Abstract: Shape-deforming processes (e.g., squashing, bending, twisting) can radically alter objects’ shapes. After such a transformation, some features are due to the object’s original form, while others are due to the transformation, yet it is challenging to separate the two. We tested whether observers can distinguish the causal origin of different features, teasing apart the characteristics of the original shape from those imposed by transformations, a process we call ‘shape scission’. Using computer graphics, we created 8 unfamiliar objects and subjected each to 8 transformations (e.g., “twisted”, “inflated”, “melted”). One group of participants named transformations consistently. A second group arranged cards depicting the objects into classes according to either (i) the original shape or (ii) the type of transformation. They could do this almost perfectly, suggesting that they readily distinguish the causal origin of shape features. Another group used a digital painting interface to indicate which locations on the objects appeared transformed, with responses suggesting they can localise features caused by transformations. Finally, we parametrically varied the magnitude of the transformations, and asked another group to rate the degree of transformation. Ratings correlated strongly with transformation magnitude with a tendency to overestimate small magnitudes. Responses were predicted by both the magnitude and area affected by the transformation. Together, the findings suggest that observers can scission object shapes into original shape and transformation features and access the resulting representational layers at will.
+Keywords: Vision; Objects; Recognition; Categorization; Perceptual organization; Gestalt
+
+Jianji Dong, Hailong Zhou, Dexiu Huang,
+10 - Photonic matrix computing accelerators,
+Editor(s): Min Gu, Elena Goi, Yangyundou Wang, Zhengfen Wan, Yibo Dong, Yuchao Zhang, Haoyi Yu,
+In Photonic Materials and Applications Series,
+Neuromorphic Photonic Devices and Applications,
+Elsevier,
+2024,
+Pages 257-293,
+ISBN 9780323988292,
+https://doi.org/10.1016/B978-0-323-98829-2.00011-6.
+(https://www.sciencedirect.com/science/article/pii/B9780323988292000116)
+Abstract: With the growing demand for electronic computing, data centers, and emerging artificial intelligence applications, low latency and high energy efficiency are hard to ensure by traditional electrical methods. Photonic methods can perform high-speed parallel information processing with ultralow energy consumption benefiting from its superior performance. Photonic accelerators are designed to accelerate specific categories of computing in the optical domain, especially matrix computation, to address the growing demand for computing resources and capacity. In this chapter, methods for photonic matrix multiplication are first introduced and compared. Then, the expansions for applications in optical signal processing, optical neural networks, and combinatorial optimization problems with photonic matrix computing accelerators are presented. Finally, general-purpose spatial mode processors, optical neural networks, and Ising machines with photonic accelerators are analyzed in detail.
+Keywords: Photonic computing; photonic matrix–vector multiplications; photonic accelerators; photonic artificial intelligence; optical neural networks; mode-division multiplexing; Ising machines
+
+Dhyey Patel, Houssem Zouaghi, Sudhir Mudur, Eric Paquette, Serge Laforest, Martin Rouillard, Tiberiu Popa,
+Visual dubbing pipeline with localized lip-sync and two-pass identity transfer,
+Computers & Graphics,
+Volume 110,
+2023,
+Pages 19-27,
+ISSN 0097-8493,
+https://doi.org/10.1016/j.cag.2022.11.005.
+(https://www.sciencedirect.com/science/article/pii/S0097849322001984)
+Abstract: Visual dubbing uses visual computing and deep learning to alter the lip and mouth articulations of the actor to sync with the dubbed speech. It has the potential to greatly improve the content generated from the dubbing industry. Quality of the dubbed result is primary for the industry. An important requirement is that visual lip sync changes be localized to the mouth region and not affect the rest of the actor’s face or the rest of the video frame. Current methods can create realistic looking fake faces with expressions. However, many fail to localize lip sync and have quality problems such as identity loss, low-res, blurs, face skin feature or color loss, and temporal jitter. These problems mainly arise because end-to-end training of networks to correctly disentangle these different visual dubbing parameters (pose, skin color, identity, lip movements, etc.) is very difficult to achieve. Our main contribution is a new visual dubbing pipeline, in which, instead of end-to-end training we apply incrementally different disentangling techniques for each parameter. Our pipeline is composed of three main steps: pose alignment, identity transfer and video reassembly. Expert models in each step are fine-tuned for the actor. We propose an identity transfer network with an added style block, which with pre-training is able to decouple face components, specifically identity and expression, and also works with short video clips like TV ads. Our pipeline also includes novel stages related to temporal smoothing of the reenacted face, actor specific super resolution to retain fine facial details, and a second pass through the identity transfer network for preserving actor identity. Localization of lip-sync is achieved by restricting changes in the original video frame to just the actor’s mouth region. The results are convincing, and a user survey also confirms their quality. Relevant quantitative metrics are included.
+Keywords: Visual dubbing; Reenactment; Style transfer
+
+Zhuo Xu, Seyed Mohammad Javad Razavi, Majid R. Ayatollahi,
+Functionally Graded Lattice Structures: Fabrication Methods, Mechanical Properties, Failure Mechanisms and Applications,
+Editor(s): M H Ferri Aliabadi, Winston O. Soboyejo,
+Comprehensive Structural Integrity (Second Edition),
+Elsevier,
+2022,
+Pages 433-466,
+ISBN 9780323919456,
+https://doi.org/10.1016/B978-0-12-822944-6.00019-0.
+(https://www.sciencedirect.com/science/article/pii/B9780128229446000190)
+Abstract: Lattice structures have become a universal three-dimensional design model that can be treated as an excellent candidate for energy absorption and light-weighting purposes. Development of recent fabrication techniques such as Additive Manufacturing (AM) has given further flexibility in design and fabrication of these porous structures. Although the topic of design and optimizing uniform lattice structures (ULS) have attracted considerable attention during the past decade, there is still a knowledge gap in the design of functionally graded lattice structures (FGLS). Due to the unique method of customizing the structural distributions and performances, FGLSs can have a multifunctional nature that requires further studies. This chapter reviews the fabrication methods, mechanical properties, and industrial applications of FGLSs fabricated via various AM technologies, as well as a comparison between the mechanical properties of ULS and FGLS.
+Keywords: Additive manufacturing; Architected cellular materials; Cellular structures; Energy absorption; Functionally graded lattice structures; Graded lattice structures; Lattice structures; Lightweight design; Metamaterials; Porous materials
+
+Rocky Termanini,
+Chapter 3 - The miraculous anatomy of the digital immunity ecosystem,
+Editor(s): Rocky Termanini,
+Storing Digital Binary Data in Cellular DNA,
+Academic Press,
+2020,
+Pages 39-77,
+ISBN 9780323852227,
+https://doi.org/10.1016/B978-0-12-823295-8.00003-3.
+(https://www.sciencedirect.com/science/article/pii/B9780128232958000033)
+Abstract: In this chapter, we are going to discuss three major points: (1) the structure of one of the digital immunity ecosystem (DIE); (2) scenarios from the battlefield; (3) how to predict an incoming attack. One of the great services to humanity was the discovery of the vaccine. Without adaptive immunity, one-fourth of the human race would have been terminally ill. Dr. Edward Jenner and Louis Pasteur Share this honorable credit. The DIE is the exact replication of the human immune system for the digital world.
+Keywords: Antivirus technology (AVT); Autonomic self-regulating; Causality; Deep battle strategy; Ontology; The Smart Vaccine
+
+Theresa Rahel Demmer, Corinna Kühnapfel, Joerg Fingerhut, Matthew Pelowski,
+Does an emotional connection to art really require a human artist? Emotion and intentionality responses to AI- versus human-created art and impact on aesthetic experience,
+Computers in Human Behavior,
+Volume 148,
+2023,
+107875,
+ISSN 0747-5632,
+https://doi.org/10.1016/j.chb.2023.107875.
+(https://www.sciencedirect.com/science/article/pii/S0747563223002261)
+Abstract: AI has captured the artworld, and, and, progressively, is reshaping the way humans interact with various forms of media. Computer-generated art sells for millions at auctions; artists routinely use algorithms to generate aesthetic materials. However, to capture the impact of such works and our relationships with them, we need to better understand the kinds of responses we make to AI/computer-generated images. Here, we consider whether and, if so, to what extent humans report feeling emotions when engaging computer-generated art, or even ascribe intentionality behind those feelings. These are emerging—and also long-standing—points of controversy, with critical arguments that this should not occur, thus marking potential distinctions between artificial and ‘real’ human productions. We tested this by employing visually similar abstract, black-and-white artworks, made by a computer (RNG) or by human artists intentionally aiming at transmitting emotions. In a 2 × 2 design, participants (N = 48) viewed the art, preceded by primes about human/computer provenance (true, 50% of cases). Contrary to critical suggestions, participants almost always not only reported emotions but also ascribed intentionality, independent of the prime given. Interestingly, they did report stronger emotions when the work actually was made by a human. We discuss implications for our understanding of art engagements and future developments regarding computer-generated digital interactions.
+Keywords: Computer-art; Computer-human-interaction; Emotion-transmission; Empirical aesthetics; Intentionality; Anthropomorphizing
+
+Abdelhakim Hannousse, Salima Yahiouche,
+Towards benchmark datasets for machine learning based website phishing detection: An experimental study,
+Engineering Applications of Artificial Intelligence,
+Volume 104,
+2021,
+104347,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2021.104347.
+(https://www.sciencedirect.com/science/article/pii/S0952197621001950)
+Abstract: The increasing popularity of the Internet led to a substantial growth of e-commerce. However, such activities have main security challenges primary caused by cyberfraud and identity theft. Therefore, checking the legitimacy of visited web pages is a crucial task to secure costumers’ identities and prevent phishing attacks. The use of machine learning is widely recognized as a promising solution. The literature is rich with studies that use machine learning techniques for website phishing detection. However, their findings are dataset dependent and are far away from generalization. Two main reasons for this unfortunate state are the impracticable replication and absence of appropriate benchmark datasets for fair evaluation of systems. Moreover, phishing tactics are continuously evolving and proposed systems are not following those rapid changes. In this paper, we present a general scheme for building reproducible and extensible datasets for website phishing detection. The aim is to (1) enable comparison of systems adopting different features, (2) overtake the short-lived nature of phishing websites, and (3) keep track of the evolution of phishing tactics. For experimenting the proposed scheme, we start by adopting a refined categorization of website phishing features and we systematically select a total of 87 commonly recognized ones, we categorize them, and we made them subjects for relevance and runtime analysis. We use the collected set of features to build a dataset in light of the proposed scheme. Thereafter, we use a conceptual replication approach to check the genericity of former findings for the built dataset. Specifically, we evaluate the performance of classifiers on individual and combined categories of features, we investigate different combinations of models, and we explore the effects of filter and wrapper methods on the selection of discriminative features. The results show that Random Forest is the most predictive classifier. Features gathered from external services are the most discriminative where features extracted from web page contents are less distinguishing. Besides external service based features, some web page content features are found not suitable for runtime detection. The use of hybrid features provided the best accuracy score of 96.61%. By investigating different feature selection methods, filter-based ranking with incremental removal of less important features improved the performance up to 96.83% better than wrapper methods.
+Keywords: Website phishing attacks; Machine learning; Dataset benchmarking; Information security
+
+Kentaro Shibata, Eita Nakamura, Kazuyoshi Yoshii,
+Non-local musical statistics as guides for audio-to-score piano transcription,
+Information Sciences,
+Volume 566,
+2021,
+Pages 262-280,
+ISSN 0020-0255,
+https://doi.org/10.1016/j.ins.2021.03.014.
+(https://www.sciencedirect.com/science/article/pii/S0020025521002516)
+Abstract: We present an automatic piano transcription system that converts polyphonic audio recordings into musical scores. This has been a long-standing problem of music information processing, and recent studies have made remarkable progress in the two main component techniques: multipitch detection and rhythm quantization. Given this situation, we study a method integrating deep-neural-network-based multipitch detection and statistical-model-based rhythm quantization. In the first part, we conducted systematic evaluations and found that while the present method achieved high transcription accuracies at the note level, some global characteristics of music, such as tempo scale, metre (time signature), and bar line positions, were often incorrectly estimated. In the second part, we formulated non-local statistics of pitch and rhythmic contents that are derived from musical knowledge and studied their effects in inferring those global characteristics. We found that these statistics are markedly effective for improving the transcription results and that their optimal combination includes statistics obtained from separated hand parts. The integrated method had an overall transcription error rate of 7.1% and a downbeat F-measure of 85.6% on a dataset of popular piano music, and the generated transcriptions can be partially used for music performance and assisting human transcribers, thus demonstrating the potential for practical applications.
+Keywords: Music transcription; Multipitch detection; Rhythm quantization; Deep neural network; Statistical modelling
+
+Briana M. Nosal, Staci N. Thornton, Manije Darooghegi Mofrad, Junichi R. Sakaki, Kyle J. Mahoney, Zachary Macdonald, Lauren Daddi, Thi Dong Binh Tran, George Weinstock, Yanjiao Zhou, Elaine Choung-Hee Lee, Ock K. Chun,
+Blackcurrants shape gut microbiota profile and reduce risk of postmenopausal osteoporosis via the gut-bone axis: Evidence from a pilot randomized controlled trial,
+The Journal of Nutritional Biochemistry,
+Volume 133,
+2024,
+109701,
+ISSN 0955-2863,
+https://doi.org/10.1016/j.jnutbio.2024.109701.
+(https://www.sciencedirect.com/science/article/pii/S0955286324001347)
+Abstract: This study aimed to investigate the effects of blackcurrant (BC) on gut microbiota abundance and composition, inflammatory and immune responses, and their relationship with bone mass changes. The effects of BC on bone mineral density (BMD), gut microbiota, and blood inflammatory and immune biomarkers were evaluated using DXA, stool and fasting blood collected from a pilot three-arm, randomized, double-blind, placebo-controlled clinical trial. Fifty-one peri- and early postmenopausal women aged 45–60 years were randomly assigned into one of three treatment groups for 6 months: control, low BC (392 mg/day) and high BC (784 mg/day); and 40 women completed the trial. BC supplementation for 6 months effectively mitigated the loss of whole-body BMD (P<.05). Six-month changes (%) in peripheral IL-1β (P=.056) and RANKL (P=.052) for the high BC group were marginally significantly lower than the control group. Six-month changes in whole-body BMD were inversely correlated with changes in RANKL (P<.01). In proteome analysis, four plasma proteins showed increased expression in the high BC group: IGFBP4, tetranectin, fetuin-B, and vitamin K-dependent protein S. BC dose-dependently increased the relative abundance of Ruminococcus 2 (P<.05), one of six bacteria correlated with BMD changes in the high BC group (P<.05), suggesting it might be the key bacteria that drove bone protective effects. Daily BC consumption for 6 months mitigated bone loss in this population potentially through modulating the gut microbiota composition and suppressing osteoclastogenic cytokines. Larger-scale clinical trials on the potential benefits of BC and connection of Ruminococcus 2 with BMD maintenance in postmenopausal women are warranted. Trial Registration: NCT04431960, https://classic.clinicaltrials.gov/ct2/show/NCT04431960.
+Keywords: Blackcurrant; Bone; Women; Menopause; Gut microbiota; Osteoporosis
+
+Wenhao Shao, Praboda Rajapaksha, Yanyan Wei, Dun Li, Noel Crespi, Zhigang Luo,
+COVAD: Content-oriented video anomaly detection using a self attention-based deep learning model,
+Virtual Reality & Intelligent Hardware,
+Volume 5, Issue 1,
+2023,
+Pages 24-41,
+ISSN 2096-5796,
+https://doi.org/10.1016/j.vrih.2022.06.001.
+(https://www.sciencedirect.com/science/article/pii/S2096579622000481)
+Abstract: Background
+Video anomaly detection has always been a hot topic and has attracted increasing attention. Many of the existing methods for video anomaly detection depend on processing the entire video rather than considering only the significant context.
+Method
+This paper proposes a novel video anomaly detection method called COVAD that mainly focuses on the region of interest in the video instead of the entire video. Our proposed COVAD method is based on an autoencoded convolutional neural network and a coordinated attention mechanism, which can effectively capture meaningful objects in the video and dependencies among different objects. Relying on the existing memory-guided video frame prediction network, our algorithm can significantly predict the future motion and appearance of objects in a video more effectively.
+Result
+The proposed algorithm obtained better experimental results on multiple datasets and outperformed the baseline models considered in our analysis. Simultaneously, we provide an improved visual test that can provide pixel-level anomaly explanations.
+Keywords: Video surveillance; Video anomaly detection; Machine learning; Deep learning; Neural network; Coordinate attention
+
+K. Ezzameli, H. Mahersia,
+Emotion recognition from unimodal to multimodal analysis: A review,
+Information Fusion,
+Volume 99,
+2023,
+101847,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2023.101847.
+(https://www.sciencedirect.com/science/article/pii/S156625352300163X)
+Abstract: The omnipresence of numerous information sources in our daily life brings up new alternatives for emotion recognition in several domains including e-health, e-learning, robotics, and e-commerce. Due to the variety of data, the research area of multimodal machine learning poses special problems for computer scientists; how did the field of emotion recognition progress in each modality and what are the most common strategies for recognizing emotions? What part does deep learning play in this? What is multimodality? How did it progress? What are the methods of information fusion? What are the most used datasets in each modality and in multimodal recognition? We can understand and compare the various methods by answering these questions.
+Keywords: Affective computing; Deep learning; Emotion recognition; Fusion; Modality; Multimodality
+
+Yujiang He, Janosch Henze, Bernhard Sick,
+Continuous Learning of Deep Neural Networks to Improve Forecasts for Regional Energy Markets,
+IFAC-PapersOnLine,
+Volume 53, Issue 2,
+2020,
+Pages 12175-12182,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2020.12.1017.
+(https://www.sciencedirect.com/science/article/pii/S2405896320313823)
+Abstract: Germany generated 54.5% of electricity from renewable energy in March 2019, according to the data collected by the Fraunhofer Institute for Solar Energy Systems. Forecasting power generation and consumption play an essential role in establishing a regional smart energy market. Numerous researches contributed to the field of power forecasting using machine learning and deep learning technologies. However, developing and perfecting energy markets lead to an unavoidable problem of adjusting the architectures of neural networks to adapt to new situations, e.g., new consumers or producers in the power grid. Another critical challenge is to learn new knowledge from the sequentially collected measurements efficiently and how to integrate the new information into the current neural network model. When retrained for a new task with a regular training process, neural network models could perform poorly on the previously learned tasks, which is referred to as the catastrophic forgetting problem. In this article, we design two real-world continuous learning scenarios for those challenges. The scenarios are based on the historical power data, which are obtained from a regional power grid in Germany. The results show that well-known continuous learning algorithms can be used to improve power forecasts with a sequential data stream in such scenarios. We believe that the work is the first step towards establishing an adaptively updating forecast system to assist the highly dynamic intelligent energy markets.
+Keywords: Smart grids; Intelligent control of power systems; Modeling; simulation of power systems
+
+Francesca Brighenti, Valeria Francesca Caspani, Giancarlo Costa, Pier Francesco Giordano, Maria Pina Limongelli, Daniele Zonta,
+Bridge management systems: A review on current practice in a digitizing world,
+Engineering Structures,
+Volume 321,
+2024,
+118971,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2024.118971.
+(https://www.sciencedirect.com/science/article/pii/S0141029624015335)
+Abstract: Bridges are subject to a plethora of deterioration phenomena, such as corrosion, fatigue, and damaging events (e.g., truck impacts and earthquakes) that can affect their performance and compromise functionality and safety. These challenges, along with the expansion of physical infrastructures and limited economic resources, underscore the need for effective management systems to enhance the efficiency of maintenance activities. To address this need, bridge operators have developed Bridge Management Systems (BMSs), which assist in ensuring safe operations while optimizing budget allocation and intervention strategies. Existing state-of-the-art studies on BMSs, dating back several years, primarily focus on specific aspects of BMSs and do not provide exhaustive insight into the implemented processes. Consequently, a comprehensive analysis of the entire process is currently lacking. This review organizes and discusses the key features of existing BMSs and introduces a novel definition of BMS modules—data management, diagnosis, prognosis, and decision-making—where consensus is currently lacking. The paper covers the historical and current practices of the most common BMSs, outlining the main principles of each phase along with their critical aspects and future trends.
+Keywords: Bridge management system; Digitalization; Automation; Inspection; Structural health monitoring; Digital twin; Decision making; Life-cycle analysis
+
+Kelly Widdicks, Christian Remy, Oliver Bates, Adrian Friday, Mike Hazas,
+Escaping unsustainable digital interactions: Toward “more meaningful” and “moderate” online experiences,
+International Journal of Human-Computer Studies,
+Volume 165,
+2022,
+102853,
+ISSN 1071-5819,
+https://doi.org/10.1016/j.ijhcs.2022.102853.
+(https://www.sciencedirect.com/science/article/pii/S1071581922000799)
+Abstract: Growing and even excessive use of digital technology has unquestionably fuelled demand for digital devices and online services leading to a wide range of societal and environmental impacts. In sustainability terms, ICT as a whole is estimated to produce up to nearly 4% of global greenhouse gas emissions. As presumed responsible innovators, the HCI community should now consider design strategies that will reduce use and demand for digital technology for the good of both its users and the planet—strategies perhaps even seen as retrogressive in an era where digital technology is constantly implicated in innovation and economic growth. Prior work has noted the potential to design “more moderate” interactions for sustainability, simultaneously addressing negative societal impacts on users’ wellbeing, relationships, productivity at work, and privacy. In this paper, we explore how we may design intentionally moderate digital interactions that retain our participants’ “more meaningful” experiences. We report on the outcomes of two design workshops to uncover experiences of meaningful device and service use, to inform practical designs for ‘moderate and meaningful’ interaction. From this, we offer design recommendations that aim to address the multiple negative impacts that digital technology can create, and discuss the possible barriers to these designs.
+Keywords: Sustainability; Moderate; Meaningful; Interactions; Digital devices; Online services; Digital wellbeing; Work productivity; Social relationships; Online privacy
+
+Zachary Hawes, Joan Moss, Beverly Caswell, Jisoo Seo, Daniel Ansari,
+Relations between numerical, spatial, and executive function skills and mathematics achievement: A latent-variable approach,
+Cognitive Psychology,
+Volume 109,
+2019,
+Pages 68-90,
+ISSN 0010-0285,
+https://doi.org/10.1016/j.cogpsych.2018.12.002.
+(https://www.sciencedirect.com/science/article/pii/S0010028518302548)
+Abstract: Current evidence suggests that numerical, spatial, and executive function (EF) skills each play critical and independent roles in the learning and performance of mathematics. However, these conclusions are largely based on isolated bodies of research and without measurement at the latent variable level. Thus, questions remain regarding the latent structure and potentially shared and unique relations between numerical, spatial, EF, and mathematics abilities. The purpose of the current study was to (i) confirm the latent structure of the hypothesized constructs of numerical, spatial, and EF skills and mathematics achievement, (ii) measure their unique and shared relations with one another, and (iii) test a set of novel hypotheses aimed to more closely reveal the underlying nature of the oft reported space-math association. Our analytical approach involved latent-variable analyses (structural equation modeling) with a sample of 4- to 11-year-old children (N = 316, Mage = 6.68 years). Results of a confirmatory factor analysis demonstrated that numerical, spatial, EF, and mathematics skills are highly related, yet separable, constructs. Follow-up structural analyses revealed that numerical, spatial, and EF latent variables explained 84% of children’s mathematics achievement scores, controlling for age. However, only numerical and spatial performance were unique predictors of mathematics achievement. The observed patterns of relations and developmental trajectories remained stable across age and grade (preschool – 4th grade). Follow-up mediation analyses revealed that numerical skills, but not EF skills, partially mediated the relation between spatial skills and mathematics achievement. Overall, our results point to spatial visualization as a unique and robust predictor of children’s mathematics achievement.
+Keywords: Spatial skills; Spatial visualization; Numerical skills; Executive functions; Mathematics achievement; Latent-variable analysis (SEM)
+
+Selene Tomassini, Nicola Falcionelli, Giulia Bruschi, Agnese Sbrollini, Niccolò Marini, Paolo Sernani, Micaela Morettini, Henning Müller, Aldo Franco Dragoni, Laura Burattini,
+On-cloud decision-support system for non-small cell lung cancer histology characterization from thorax computed tomography scans,
+Computerized Medical Imaging and Graphics,
+Volume 110,
+2023,
+102310,
+ISSN 0895-6111,
+https://doi.org/10.1016/j.compmedimag.2023.102310.
+(https://www.sciencedirect.com/science/article/pii/S0895611123001283)
+Abstract: Non-Small Cell Lung Cancer (NSCLC) accounts for about 85% of all lung cancers. Developing non-invasive techniques for NSCLC histology characterization may not only help clinicians to make targeted therapeutic treatments but also prevent subjects from undergoing lung biopsy, which is challenging and could lead to clinical implications. The motivation behind the study presented here is to develop an advanced on-cloud decision-support system, named LUCY, for non-small cell LUng Cancer histologY characterization directly from thorax Computed Tomography (CT) scans. This aim was pursued by selecting thorax CT scans of 182 LUng ADenocarcinoma (LUAD) and 186 LUng Squamous Cell carcinoma (LUSC) subjects from four openly accessible data collections (NSCLC-Radiomics, NSCLC-Radiogenomics, NSCLC-Radiomics-Genomics and TCGA-LUAD), in addition to the implementation and comparison of two end-to-end neural networks (the core layer of whom is a convolutional long short-term memory layer), the performance evaluation on test dataset (NSCLC-Radiomics-Genomics) from a subject-level perspective in relation to NSCLC histological subtype location and grade, and the dynamic visual interpretation of the achieved results by producing and analyzing one heatmap video for each scan. LUCY reached test Area Under the receiver operating characteristic Curve (AUC) values above 77% in all NSCLC histological subtype location and grade groups, and a best AUC value of 97% on the entire dataset reserved for testing, proving high generalizability to heterogeneous data and robustness. Thus, LUCY is a clinically-useful decision-support system able to timely, non-invasively and reliably provide visually-understandable predictions on LUAD and LUSC subjects in relation to clinically-relevant information.
+Keywords: Clinical decision-support system; Cloud computing; Convolutional long short-term memory; Non-small cell lung cancer histology characterization; Supervised deep learning; Thorax computed tomography
+
+Matheus V. Todescato, Luan F. Garcia, Dennis G. Balreira, Joel L. Carbonera,
+Multiscale patch-based feature graphs for image classification,
+Expert Systems with Applications,
+Volume 235,
+2024,
+121116,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2023.121116.
+(https://www.sciencedirect.com/science/article/pii/S0957417423016184)
+Abstract: Deep learning architectures have demonstrated outstanding results in image classification in the last few years. However, applying sophisticated neural network architectures in small datasets remains challenging. In this context, transfer learning is a promising approach for dealing with this scenario. Generally, the available pre-trained architectures adopt a standard fixed input, which usually implies resizing and cropping the input images in the preprocessing phase, causing information loss. Besides, images present visual features in different scales in real-world scenarios, and most common approaches do not consider this fact. In this paper, we propose an approach that applies transfer learning for dealing with small datasets and leverages visual features extracted by pre-trained models from different scales. We based our approach on graph convolutional networks (GCN) that take graphs representing the images in different scales as input and whose nodes are characterized by features extracted by pre-trained models from regular image patches of different scales. Since GCN can deal with graphs with different numbers of nodes, our approach can deal naturally with images of heterogeneous sizes without discarding relevant information. We evaluated our approach in two datasets: a set of geological images and a publicly available dataset, both presenting characteristics that challenge traditional approaches. We tested our approach by adopting three different pre-trained models as feature extractors: two efficient pre-trained CNN models (DenseNet and ResNeXt) and one Vision Transformer (CLIP). We compared our approach with two conventional approaches for dealing with image classification. The experiments show that our approach achieves better results than the conventional approaches for this task.
+Keywords: Image classification; Transfer learning; Feature extraction; Multiscale
+
+Kaiwen Yang, Jiwei Yang, Xinmei Tian,
+Learning multi-granularity features from multi-granularity regions for person re-identification,
+Neurocomputing,
+Volume 432,
+2021,
+Pages 206-215,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2020.12.016.
+(https://www.sciencedirect.com/science/article/pii/S092523122031897X)
+Abstract: Part-based methods for person re-identification have been widely studied. In existing part-based methods, although multiple parts are explored, only coarse-grained features of these parts are utilized. Thus, too much fine-grained information is discarded, which limits their ability to extract detailed discriminative features. To tackle this problem, we propose a novel person re-identification network to learn discriminative features across multiple granularities from body regions which are also multi-grained. Specifically, we detect multi-granularity body regions at different stages of a backbone network, and multi-granularity features are learned from body regions with corresponding granularities. To overcome the severe mismatching problem of fine-grained regions and to learn discriminative features, the detection of multi-granularity body regions and the learning of multi-granularity features are jointly optimized. This joint optimization pushes the learned features concentrating on body regions. Moreover, with the body regions well located, the multi-granularity features can be well aligned. Extensive experiments on four popular datasets show that our method is the state-of-the-art in recent years.
+Keywords: Person re-ID; Multi-granularity feature fusion; Human region localization
+
+Camille Meyer,
+The commons: A model for understanding collective action and entrepreneurship in communities,
+Journal of Business Venturing,
+Volume 35, Issue 5,
+2020,
+106034,
+ISSN 0883-9026,
+https://doi.org/10.1016/j.jbusvent.2020.106034.
+(https://www.sciencedirect.com/science/article/pii/S0883902619301429)
+Abstract: The creation of commons—resources that are shared, accessible, and collectively owned and managed by communities—is increasingly being adopted by social entrepreneurs as a way of contributing to community development and putting value into economic activities. Yet, little research is evident related to the entrepreneurial processes involved in the creation and commercialization of these shared resources. Drawing on the Institutional Analysis and Development framework developed by Ostrom (2005), I explain how commons are entrepreneurially created. Based on a comparative study of five community banks in Brazil, I derive two ideological principles of collective entrepreneurship that help sustain commercialization of commons without commodification, namely ‘self-organization’ and ‘right to access’. I elucidate how these principles are enacted across venture levels through downward and upward mechanisms of social control facilitated by entrepreneurs who enhance collective action. This article contributes to the entrepreneurship theory of commons by explaining how commons are entrepreneurially created and by adding the collective entrepreneurship principles and mechanisms that commons of different types need in order to achieve and sustain wealth-creation options without incurring the downsides of commodification.
+Keywords: Commons; Decommodification; Community enterprise; Institutional Analysis and Development framework; Microfinance; Brazil
+
+Philipp Gesner, Frank Kirschbaum, Richard Jakobi, Ivo Horstkötter, Bernard Bäker,
+Robust Data-Driven Error Compensation for a Battery Model,
+IFAC-PapersOnLine,
+Volume 54, Issue 7,
+2021,
+Pages 256-261,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2021.08.368.
+(https://www.sciencedirect.com/science/article/pii/S2405896321011423)
+Abstract: Models of traction batteries are an essential tool throughout the development of automotive drivetrains. Surprisingly, today’s massively collected battery data is not yet used for more accurate and reliable simulations. Primarily, the non-uniform excitation during regular battery operations prevent a consequent utilization of such measurements. Hence, there is a need for methods which enable robust models based on large datasets. For that reason, a data-driven error model is introduced enhancing an existing physically motivated model. A neural network compensates the existing dynamic error and is further limited based on a description of the underlying data. This paper tries to verify the effectiveness and robustness of the general setup and additionally evaluates a one-class support vector machine as the proposed model for the training data distribution. Based on five datasets it is shown, that gradually limiting the data-driven error compensation outside the boundary leads to a similar improvement and an increased overall robustness.
+Keywords: Nonlinear models; Neural Networks; System Identification; Automobile industry
+
+P.K. Bhagat, P. Choudhary,
+Image annotation: Then and now,
+Image and Vision Computing,
+Volume 80,
+2018,
+Pages 1-23,
+ISSN 0262-8856,
+https://doi.org/10.1016/j.imavis.2018.09.017.
+(https://www.sciencedirect.com/science/article/pii/S0262885618301628)
+Abstract: Automatic image annotation (AIA) plays a vital role in dealing with the exponentially growing digital images. Image annotation helps in effective retrieval, organization, classification, auto-illustration, etc. of the image. It started in early 1990. However, in the last three decades, there has been extensive research in AIA, and various new approaches have been advanced. In this article, we review more than 200 references related to image annotation proposed in the last three decades. This paper is an attempt to discuss predominant approaches, its constraints and ways to deal. Each segment of the article exhibits a discourse to expound the finding and future research directions and their hurdles. This paper also presents performance evaluation measures with relevant and influential image annotation database.
+Keywords: Image annotation; Automatic image annotation; Multi-label classification; Image labeling; Image tagging; Annotation dataset; Annotation performance evaluation; Image features; Image retrieval
+
+Pratap Chandra Mandal, Imon Mukherjee, Goutam Paul, B.N. Chatterji,
+Digital image steganography: A literature survey,
+Information Sciences,
+Volume 609,
+2022,
+Pages 1451-1488,
+ISSN 0020-0255,
+https://doi.org/10.1016/j.ins.2022.07.120.
+(https://www.sciencedirect.com/science/article/pii/S002002552200809X)
+Abstract: Steganography is the art of concealing information in a cover media in such a way that the presence of the information is unknown. Digital image steganography accomplishes the potential for protected communication that is crucial in most of the applications nowadays. Steganography has several beneficial applications. It has been driven to the frontrunner of present security systems by the amazing development in computational power, the rise in security consciousness. The main challenge in proposing a steganographic technique is to maintain a suitable balance among higher embedding capacity, imperceptibility, and security that separate it from correlated systems like cryptography and watermarking. This article offers an extensive state-of-the-art review and analysis of some recent steganographic techniques. Furthermore, we have discussed popular steganography tools in detail. Challenges in the recent deep learning based steganographic techniques have been addressed. To explore the domain, the article concludes with mentioning some future research directions.
+Keywords: Data hiding; Steganography; Spatial domain; Transform domain; Information security; Steganalysis
+
+Mohammad Arjomandi Rad, Kent Salomonsson, Mirza Cenanovic, Henrik Balague, Dag Raudberget, Roland Stolt,
+Correlation-based feature extraction from computer-aided design, case study on curtain airbags design,
+Computers in Industry,
+Volume 138,
+2022,
+103634,
+ISSN 0166-3615,
+https://doi.org/10.1016/j.compind.2022.103634.
+(https://www.sciencedirect.com/science/article/pii/S016636152200029X)
+Abstract: Many high-level technical products are associated with changing requirements, drastic design changes, lack of design information, and uncertainties in input variables which makes their design process iterative and simulation-driven. Regression models have been proven to be useful tools during design, altering the resource-intensive finite element simulation models. However, building regression models from computer-aided design (CAD) parameters is associated with challenges such as dealing with too many parameters and their low or coupled impact on studied outputs which ultimately requires a large training dataset. As a solution, extraction of hidden features from CAD is presented on the application of volume simulation of curtain airbags concerning geometric changes in design loops. After creating a prototype that covers all aspects of a real curtain airbag, its CAD parameters have been analyzed to find out the correlation between design parameters and volume as output. Next, using the design of the experiment latin hypercube sampling method, 100 design samples are generated and the corresponding volume for each design sample was assessed. It was shown that selected CAD parameters are not highly correlated with the volume which consequently lowers the accuracy of prediction models. Various geometric entities, such as the medial axis, are used to extract several hidden features (referred to as sleeping parameters). The correlation of the new features and their performance and precision through two regression analyses are studied. The result shows that choosing sleeping parameters as input reduces dimensionality and the need to use advanced regression algorithms, allowing designers to have more accurate predictions (in this case approximately 95%) with a reasonable number of samples. Furthermore, it was concluded that using sleeping parameters in regression-based tools creates real-time prediction ability in the early development stage of the design process which could contribute to lower development lead time by eliminating design iterations.
+Keywords: Feature extraction; CAD/CAE; Parametric models; Medial Axis; Design Automation; Machine Learning; Regression Analysis; Curtain Airbag
+
+Bernadin Namoano, Christos Emmanouilidis, Cristobal Ruiz-Carcel, Andrew G Starr,
+Change detection in streaming data analytics: A comparison of Bayesian online and martingale approaches,
+IFAC-PapersOnLine,
+Volume 53, Issue 3,
+2020,
+Pages 336-341,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2020.11.054.
+(https://www.sciencedirect.com/science/article/pii/S2405896320302044)
+Abstract: On line change detection is a key activity in streaming analytics, which aims to determine whether the current observation in a time series marks a change point in some important characteristic of the data, given the sequence of data observed so far. It can be a challenging task when monitoring complex systems, which are generating streaming data of significant volume and velocity. While applicable to diverse problem domains, it is highly relevant to monitoring high value and critical engineering assets. This paper presents an empirical evaluation of two algorithmic approaches for streaming data change detection. These are a modified martingale and a Bayesian online detection algorithm. Results obtained with both synthetic and real world data sets are presented and relevant advantages and limitations are discussed.
+Keywords: streaming analytics; change detection; martingale; Bayesian online detection
+
+Vitor C. Zimmerer, Chris J.D. Hardy, James Eastman, Sonali Dutta, Leo Varnet, Rebecca L. Bond, Lucy Russell, Jonathan D. Rohrer, Jason D. Warren, Rosemary A. Varley,
+Automated profiling of spontaneous speech in primary progressive aphasia and behavioral-variant frontotemporal dementia: An approach based on usage-frequency,
+Cortex,
+Volume 133,
+2020,
+Pages 103-119,
+ISSN 0010-9452,
+https://doi.org/10.1016/j.cortex.2020.08.027.
+(https://www.sciencedirect.com/science/article/pii/S0010945220303336)
+Abstract: Language production provides important markers of neurological health. One feature of impairments of language and cognition, such as those that occur in stroke aphasia or Alzheimer's disease, is an overuse of high frequency, “familiar” expressions. We used computerized analysis to profile narrative speech samples from speakers with variants of frontotemporal dementia (FTD), including subtypes of primary progressive aphasia (PPA). Analysis was performed on language samples from 29 speakers with semantic variant PPA (svPPA), 25 speakers with logopenic variant PPA (lvPPA), 34 speakers with non-fluent variant PPA (nfvPPA), 14 speakers with behavioral variant FTD (bvFTD) and 20 older normal controls (NCs). We used frequency and collocation strength measures to determine use of familiar words and word combinations. We also computed word counts, content word ratio and a combination ratio, a measure of the degree to which the individual produces connected language. All dementia subtypes differed significantly from NCs. The most discriminating variables were word count, combination ratio, and content word ratio, each of which distinguished at least one dementia group from NCs. All participants with PPA, but not participants with bvFTD, produced significantly more frequent forms at the level of content words, word combinations, or both. Each dementia group differed from the others on at least one variable, and language production variables correlated with established behavioral measures of disease progression. A machine learning classifier, using narrative speech variables, achieved 90% accuracy when classifying samples as NC or dementia, and 59.4% accuracy when matching samples to their diagnostic group. Automated quantification of spontaneous speech in both language-led and non-language led dementias, is feasible. It allows extraction of syndromic profiles that complement those derived from standardized tests, warranting further evaluation as candidate biomarkers. Inclusion of frequency-based language variables benefits profiling and classification.
+Keywords: Language profiles; Dementia; Primary progressive aphasia; Frontotemporal dementia; Usage-frequency
+
+Amy P.K. Nelson, Robert J. Gray, James K. Ruffle, Henry C. Watkins, Daniel Herron, Nick Sorros, Danil Mikhailov, M. Jorge Cardoso, Sebastien Ourselin, Nick McNally, Bryan Williams, Geraint E. Rees, Parashkev Nachev,
+Deep forecasting of translational impact in medical research,
+Patterns,
+Volume 3, Issue 5,
+2022,
+100483,
+ISSN 2666-3899,
+https://doi.org/10.1016/j.patter.2022.100483.
+(https://www.sciencedirect.com/science/article/pii/S266638992200068X)
+Abstract: Summary
+The value of biomedical research—a $1.7 trillion annual investment—is ultimately determined by its downstream, real-world impact, whose predictability from simple citation metrics remains unquantified. Here we sought to determine the comparative predictability of future real-world translation—as indexed by inclusion in patents, guidelines, or policy documents—from complex models of title/abstract-level content versus citations and metadata alone. We quantify predictive performance out of sample, ahead of time, across major domains, using the entire corpus of biomedical research captured by Microsoft Academic Graph from 1990–2019, encompassing 43.3 million papers. We show that citations are only moderately predictive of translational impact. In contrast, high-dimensional models of titles, abstracts, and metadata exhibit high fidelity (area under the receiver operating curve [AUROC] > 0.9), generalize across time and domain, and transfer to recognizing papers of Nobel laureates. We argue that content-based impact models are superior to conventional, citation-based measures and sustain a stronger evidence-based claim to the objective measurement of translational potential.
+Keywords: deep learning; representation learning; natural language processing; research impact; translational research
+
+Xinguo Feng, Yanjun Zhang, Mark Huasong Meng, Yansong Li, Chegne Eu Joe, Zhe Wang, Guangdong Bai,
+Detecting contradictions from IoT protocol specification documents based on neural generated knowledge graph,
+ISA Transactions,
+Volume 141,
+2023,
+Pages 10-19,
+ISSN 0019-0578,
+https://doi.org/10.1016/j.isatra.2023.04.025.
+(https://www.sciencedirect.com/science/article/pii/S0019057823001945)
+Abstract: Due to the boom of Internet of Things (IoT) in recent years, various IoT devices are connected to the Internet and communicate with each other through network protocols such as the Constrained Application Protocol (CoAP). These protocols are typically defined and described in specification documents, such as Request for Comments (RFC), which are written in natural or semi-formal languages. Since developers largely follow the specification documents when implementing web protocols, they have become the de facto protocol specifications. Therefore, it must be ensured that the descriptions in them are consistent to avoid technological issues, incompatibility, security risks, or even legal concerns. In this work, we propose Neural RFC Knowledge Graph (NRFCKG), a neural network-generated knowledge graph based contradictions detection tool for IoT protocol specification documents. Our approach can automatically parse the specification documents and construct knowledge graphs from them through entity extraction, relation extraction, and rule extraction with large language models. It then conducts an intra-entity and inter-entity contradiction detection over the generated knowledge graph. We implement NRFCKG and apply it to the most extensively used messaging protocols in IoT, including the main RFC (RFC7252) of CoAP, the specification document of MQTT, and the specification document of AMQP. Our evaluation shows that NRFCKG generalizes well to other specification documents and it manages to detect contradictions from these IoT protocol specification documents.
+Keywords: Internet of things; Natural language processing; Web protocol; Contradiction detection; Large language models
+
+Leon R. Devereux, Jacqueline M. Cole,
+Chapter 7 - Data-driven materials discovery for solar photovoltaics,
+Editor(s): Jennifer Dunn, Prasanna Balaprakash,
+Data Science Applied to Sustainability Analysis,
+Elsevier,
+2021,
+Pages 129-164,
+ISBN 9780128179765,
+https://doi.org/10.1016/B978-0-12-817976-5.00008-5.
+(https://www.sciencedirect.com/science/article/pii/B9780128179765000085)
+Abstract: The increase in global energy demand, coupled with the urgent necessity to transition to a fully sustainable energy infrastructure, means inexpensive, versatile and efficient solar energy technology will be in very high demand over the coming decades. Solar photovoltaic (PV) devices are reliant on highly specialized materials in order to harvest light as efficiently as possible. Many materials engineers are now using data science techniques to accelerate their search for new materials with optimized properties for solar devices. This chapter discusses such techniques, sorted into three overarching categories: machine learning for property prediction, high-throughput computational screening, and automated database generation. We then focus in on case studies of recent projects that have used the above techniques to design novel materials for next-generation PV technologies which present an alternative to conventional silicon crystal cells: dye-sensitized solar cells, organic polymer PV and organic/inorganic hybrid perovskite PV devices. These devices share the benefit of using relatively cheap starting materials and they have unique applications, such as smart windows and wearable devices. However, each technology has also experienced limitations in material design which have acted as obstacles to commercialization. This chapter will discuss these issues and how the different techniques of data science for materials discovery are being used to overcome such bottlenecks. Following this, we look at a vision for the future of PV materials engineering in the form of “inverse design”, assisted by autoencoder machine learning methods.
+Keywords: Photovoltaics; Data science; Materials discovery; Quantum chemistry; High-throughput; Computational screening; Natural language processing; Text-mining; Materials database; Electronic structure; Absorption properties
+
+Haozhou Wang, Tang Li, Erika Nishida, Yoichiro Kato, Yuya Fukano, Wei Guo,
+Drone-Based Harvest Data Prediction Can Reduce On-Farm Food Loss and Improve Farmer Income,
+Plant Phenomics,
+Volume 5,
+2023,
+0086,
+ISSN 2643-6515,
+https://doi.org/10.34133/plantphenomics.0086.
+(https://www.sciencedirect.com/science/article/pii/S2643651524001419)
+Abstract: On-farm food loss (i.e., grade-out vegetables) is a difficult challenge in sustainable agricultural systems. The simplest method to reduce the number of grade-out vegetables is to monitor and predict the size of all individuals in the vegetable field and determine the optimal harvest date with the smallest grade-out number and highest profit, which is not cost-effective by conventional methods. Here, we developed a full pipeline to accurately estimate and predict every broccoli head size (n > 3,000) automatically and nondestructively using drone remote sensing and image analysis. The individual sizes were fed to the temperature-based growth model and predicted the optimal harvesting date. Two years of field experiments revealed that our pipeline successfully estimated and predicted the head size of all broccolis with high accuracy. We also found that a deviation of only 1 to 2 days from the optimal date can considerably increase grade-out and reduce farmer's profits. This is an unequivocal demonstration of the utility of these approaches to economic crop optimization and minimization of food losses.
+
+Sajid Ali, Tamer Abuhmed, Shaker El-Sappagh, Khan Muhammad, Jose M. Alonso-Moral, Roberto Confalonieri, Riccardo Guidotti, Javier Del Ser, Natalia Díaz-Rodríguez, Francisco Herrera,
+Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence,
+Information Fusion,
+Volume 99,
+2023,
+101805,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2023.101805.
+(https://www.sciencedirect.com/science/article/pii/S1566253523001148)
+Abstract: Artificial intelligence (AI) is currently being utilized in a wide range of sophisticated applications, but the outcomes of many AI models are challenging to comprehend and trust due to their black-box nature. Usually, it is essential to understand the reasoning behind an AI model’s decision-making. Thus, the need for eXplainable AI (XAI) methods for improving trust in AI models has arisen. XAI has become a popular research subject within the AI field in recent years. Existing survey papers have tackled the concepts of XAI, its general terms, and post-hoc explainability methods but there have not been any reviews that have looked at the assessment methods, available tools, XAI datasets, and other related aspects. Therefore, in this comprehensive study, we provide readers with an overview of the current research and trends in this rapidly emerging area with a case study example. The study starts by explaining the background of XAI, common definitions, and summarizing recently proposed techniques in XAI for supervised machine learning. The review divides XAI techniques into four axes using a hierarchical categorization system: (i) data explainability, (ii) model explainability, (iii) post-hoc explainability, and (iv) assessment of explanations. We also introduce available evaluation metrics as well as open-source packages and datasets with future research directions. Then, the significance of explainability in terms of legal demands, user viewpoints, and application orientation is outlined, termed as XAI concerns. This paper advocates for tailoring explanation content to specific user types. An examination of XAI techniques and evaluation was conducted by looking at 410 critical articles, published between January 2016 and October 2022, in reputed journals and using a wide range of research databases as a source of information. The article is aimed at XAI researchers who are interested in making their AI models more trustworthy, as well as towards researchers from other disciplines who are looking for effective XAI methods to complete tasks with confidence while communicating meaning from data.
+Keywords: Explainable Artificial Intelligence; Interpretable machine learning; Trustworthy AI; AI principles; Post-hoc explainability; XAI assessment; Data Fusion; Deep Learning
+
+Nuno Moniz, Luís Torgo,
+A review on web content popularity prediction: Issues and open challenges,
+Online Social Networks and Media,
+Volume 12,
+2019,
+Pages 1-20,
+ISSN 2468-6964,
+https://doi.org/10.1016/j.osnem.2019.05.002.
+(https://www.sciencedirect.com/science/article/pii/S2468696418300971)
+Abstract: With the profusion of web content, researchers have avidly studied and proposed new approaches to enable the anticipation of its impact on social media, presenting many distinct approaches throughout the last decade. Diverse approaches have been presented to tackle the problem of web content popularity prediction, including standard classification and regression approaches. Furthermore, these approaches have also taken into consideration distinct scenarios of data availability, where one may target the prediction of popularity before or after the publication of the items, which is highly interesting for different objectives from a user standpoint. This work aims at reviewing previous work and discussing open issues and challenges that could foster impactful research on this topic. Five areas are identified that require further research, covering the full spectrum of the problem: social media data, the learning task, recommendation and evaluation.
+Keywords: Web content; Predictive modelling; Social media; Popularity; Evaluation
+
+Giulia Rando, Silvia Sfameni, Mariam Hadhri, Alessio Mezzi, Marco Brucale, Giovanna De Luca, Elpida Piperopoulos, Candida Milone, Dario Drommi, Giuseppe Rosace, Valentina Trovato, Maria Rosaria Plutino,
+Methyl Red-loaded halloysite nanotubes-based silica coatings for durable dyeing of polyester fabrics,
+Surfaces and Interfaces,
+Volume 53,
+2024,
+105006,
+ISSN 2468-0230,
+https://doi.org/10.1016/j.surfin.2024.105006.
+(https://www.sciencedirect.com/science/article/pii/S2468023024011623)
+Abstract: Since unmodified polyester fibres have no reactive groups like those in cellulose and protein fibres, they do not show an affinity for water-soluble acid, basic and direct dyestuffs. Only disperse dyestuff, a non-ionic dyestuff class with low molar mass molecules, proved to be useful for dyeing this man-made fibre following a solid–solid interaction; disperse dyestuffs do not form primary chemical bonds with polymer chains rather the dye colour is retained by H-bonds and Van der Waals forces. Herein, a new strategy for dyeing polyester fabrics with a direct dyestuff in a two-step strategy was designed and realized, using an organic–inorganic composite coating based on methyl red-loaded sol-gel modified halloysite nanotubes. In the first step two distinct reaction methods were compared to functionalize halloysite nanotubes with (3-Glycidyloxypropyl)trimethoxysilane, as a covalent crosslinker between the halloysite nanotubes and fibres, (i) in water and (ii) in ethanol, using BF3O(C2H5) and chloridric acid (HCl) as catalysts, respectively. In the second step, methyl red loaded GPTMS modified halloysite sols were applied onto polyester fabrics by impregnation. The amount of methyl red dyestuff was evaluated to be superior for the complex realized in ethanol than in water, thus promoting homogeneous nanocomposite coatings on treated polyester samples. Methyl red loaded sol-gel modified halloysite complex, as well as treated and untreated samples, were investigated to characterize their properties and morphology. NMR investigation confirmed the structure of the new complex, validating the successful dyestuff coordination reaction at GPTMS. The influence of treatments on the morphology of fibres surfaces was demonstrated by Scanning Electron Microscopy (SEM), Energy Dispersive X-ray spectroscopy (EDX), and Atomic Force Microscopy (AFM) analyses, highlighting the influence of GPTMS-based composites on the microstructure of functionalized polyester fibres. To further confirm if the suggested approach offers a stable dyestuff loading on PE, diffuse reflectance spectroscopic studies, X-ray Photoelectron Spectroscopy (XPS) and colour fastness to rubbing and washing tests were carried out on the coated polyester. All findings make sol-gel based modification of halloysite a reliable and promising method for eco-friendly dyeing processes of polyester fabrics.
+Keywords: Halloysite; Methyl red; Polyester fabrics; Sol-gel; (3-glycidyloxypropyl)trimethoxysilane; Dyeing coating
+
+Simona-Vasilica Oprea, Adela Bâra,
+Detecting Malicious Uniform Resource Locators Using an Applied Intelligence Framework,
+Computers, Materials and Continua,
+Volume 79, Issue 3,
+2024,
+Pages 3827-3853,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2024.051598.
+(https://www.sciencedirect.com/science/article/pii/S154622182400078X)
+Abstract: The potential of text analytics is revealed by Machine Learning (ML) and Natural Language Processing (NLP) techniques. In this paper, we propose an NLP framework that is applied to multiple datasets to detect malicious Uniform Resource Locators (URLs). Three categories of features, both ML and Deep Learning (DL) algorithms and a ranking schema are included in the proposed framework. We apply frequency and prediction-based embeddings, such as hash vectorizer, Term Frequency-Inverse Dense Frequency (TF-IDF) and predictors, word to vector-word2vec (continuous bag of words, skip-gram) from Google, to extract features from text. Further, we apply more state-of-the-art methods to create vectorized features, such as GloVe. Additionally, feature engineering that is specific to URL structure is deployed to detect scams and other threats. For framework assessment, four ranking indicators are weighted: computational time and performance as accuracy, F1 score and type error II. For the computational time, we propose a new metric-Feature Building Time (FBT) as the cutting-edge feature builders (like doc2vec or GloVe) require more time. By applying the proposed assessment step, the skip-gram algorithm of word2vec surpasses other feature builders in performance. Additionally, eXtreme Gradient Boost (XGB) outperforms other classifiers. With this setup, we attain an accuracy of 99.5% and an F1 score of 0.99.
+Keywords: Detecting malicious URL; classifiers; text to feature; deep learning; ranking algorithms; feature building time
+
+Jekaterina Erenpreisa, Kristine Salmina, Olga Anatskaya, Mark S. Cragg,
+Paradoxes of cancer: Survival at the brink,
+Seminars in Cancer Biology,
+Volume 81,
+2022,
+Pages 119-131,
+ISSN 1044-579X,
+https://doi.org/10.1016/j.semcancer.2020.12.009.
+(https://www.sciencedirect.com/science/article/pii/S1044579X20302698)
+Abstract: The fundamental understanding of how Cancer initiates, persists and then progresses is evolving. High-resolution technologies, including single-cell mutation and gene expression measurements, are now attainable, providing an ever-increasing insight into the molecular details. However, this higher resolution has shown that somatic mutation theory itself cannot explain the extraordinary resistance of cancer to extinction. There is a need for a more Systems-based framework of understanding cancer complexity, which in particular explains the regulation of gene expression during cell-fate decisions. Cancer displays a series of paradoxes. Here we attempt to approach them from the view-point of adaptive exploration of gene regulatory networks at the edge of order and chaos, where cell-fate is changed by oscillations between alternative regulators of cellular senescence and reprogramming operating through self-organisation. On this background, the role of polyploidy in accessing the phylogenetically pre-programmed “oncofetal attractor” state, related to unicellularity, and the de-selection of unsuitable variants at the brink of cell survival is highlighted. The concepts of the embryological and atavistic theory of cancer, cancer cell “life-cycle”, and cancer aneuploidy paradox are dissected under this lense. Finally, we challenge researchers to consider that cancer “defects” are mostly the adaptation tools of survival programs that have arisen during evolution and are intrinsic of cancer. Recognition of these features should help in the development of more successful anti-cancer treatments.
+Keywords: Cancer atavism; Reversible polyploidy; Self-organisation; Cancer “life-cycle”; Aneuploidy; Bivalency
+
+Shansita Das Sharma, Austin Coursey, Marcos Quinones-Grueiro, Gautam Biswas,
+Comparison of Transfer Learning Techniques for Building Energy Forecasting,
+IFAC-PapersOnLine,
+Volume 58, Issue 4,
+2024,
+Pages 180-185,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2024.07.214.
+(https://www.sciencedirect.com/science/article/pii/S2405896324002982)
+Abstract: The growing demand for building energy efficiency necessitates accurate predictions of normal versus abnormal operations to understand their impact on energy management. However, integrating predictive models into practical applications faces challenges, especially in buildings with limited measurements and data. This paper explores the viability of three widely adopted transfer learning techniques in improving energy consumption models, focusing on real-world data with internal building measurements. The findings suggest that transferring information between buildings is a promising method to provide positive improvements in energy prediction models.
+Keywords: Energy systems; Forecasting; Machine learning
+
+Fredy Barrientos-Espillco, María J. Gómez-Silva, Eva Besada-Portas, Gonzalo Pajares,
+Integration of object detection and semantic segmentation based on convolutional neural networks for navigation and monitoring of cyanobacterial blooms in lentic water scenes,
+Applied Soft Computing,
+Volume 163,
+2024,
+111849,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2024.111849.
+(https://www.sciencedirect.com/science/article/pii/S1568494624006239)
+Abstract: Lentic waters, such as lakes, lagoons, reservoirs, and wetlands are characterized by their absence of current. In recent decades, they have been threatened by pollution and scarcity due to various environmental factors. Therefore, they require frequent monitoring to ensure their health and purity, especially to control the proliferation of harmful cyanobacteria (pollutants). Machine Vision Systems (MVS) on board Autonomous Surface Vehicles (ASVs) is a good option for automatic image processing in this context. ASVs must navigate safely, and obstacle detection is essential. In addition, the segmentation of pollutants in water is crucial. We propose an architecture based on convolutional neural networks that integrates both object detection and semantic segmentation. The goal is to simultaneously extract all available global information to detect objects and amorphous textures (cyanobacterial patches and water bodies), considering their variations in size, pose, and appearance. The architecture includes two branches: object detection and semantic segmentation, sharing the same backbone and neck. We evaluate the model on our dataset and the results show that it can holistically understand lentic water scenes with high accuracy, and the integration of the attention mechanism improves its overall performance.
+Keywords: Dual-task; Object detection; Semantic segmentation; Convolutional Neural Networks; Autonomous surface vehicles; Lentic waters; Cyanobacterial blooms
+
+Stefania Russo, Moritz Lürig, Wenjin Hao, Blake Matthews, Kris Villez,
+Active learning for anomaly detection in environmental data,
+Environmental Modelling & Software,
+Volume 134,
+2020,
+104869,
+ISSN 1364-8152,
+https://doi.org/10.1016/j.envsoft.2020.104869.
+(https://www.sciencedirect.com/science/article/pii/S1364815220309269)
+Abstract: Due to the growing amount of data from in-situ sensors in environmental monitoring, it becomes necessary to automatically detect anomalous data points. Nowadays, this is mainly performed using supervised machine learning models, which need a fully labelled data set for their training process. However, the process of labelling data is typically cumbersome and, as a result, a hindrance to the adoption of machine learning methods for automated anomaly detection. In this work, we propose to address this challenge by means of active learning. This method consists of querying the domain expert for the labels of only a selected subset of the full data set. We show that this reduces the time and costs associated to labelling while delivering the same or similar anomaly detection performances. Finally, we also show that machine learning models providing a nonlinear classification boundary are to be recommended for anomaly detection in complex environmental data sets.
+Keywords: Active learning; Anomaly detection; Machine learning; Environmental monitoring
+
+Yan Wang, Qiyuan Sun, Zhenzhong Liu, Lin Gu,
+Visual detection and tracking algorithms for minimally invasive surgical instruments: A comprehensive review of the state-of-the-art,
+Robotics and Autonomous Systems,
+Volume 149,
+2022,
+103945,
+ISSN 0921-8890,
+https://doi.org/10.1016/j.robot.2021.103945.
+(https://www.sciencedirect.com/science/article/pii/S0921889021002232)
+Abstract: Minimally invasive surgical instrument visual detection and tracking is one of the core algorithms of minimally invasive surgical robots. With the development of machine vision and robotics, related technologies such as virtual reality, three-dimensional reconstruction, path planning, and human–machine collaboration can be applied to surgical operations to assist clinicians or use surgical robots to complete clinical operations. The minimally invasive surgical instrument vision detection and tracking algorithm analyzes the image transmitted by the surgical robot endoscope, extracting the position of the surgical instrument tip in the image, so as to provide the surgical navigation. This technology can greatly improve the accuracy and success rate of surgical operations. The purpose of this paper is to further study the visual detection and tracking technology of minimally invasive surgical instruments, summarize the existing research results, and apply it to the surgical robot project. By reading the literature, the author summarized the theoretical basis and related algorithms of this technology in recent years. Finally, the author compares the accuracy, speed and application scenario of each algorithm, and analyzes the advantages and disadvantages of each algorithm. The papers included in the review were selected through Web of Science, Google Scholar, PubMed and CNKI searches using the keywords: “object detection”, “object tracking”, “surgical tool detection”, “surgical tool tracking”, “surgical instrument detection” and “surgical instrument tracking” limiting results to the year range 1985–2021. Our study shows that this technology will have a great development prospect in the aspects of accuracy and real-time improvement in the future.
+Keywords: Surgical robots; Machine vision; Detection and tracking of surgical instruments; Deep learning; Feature extraction
+
+Marco Casini,
+Chapter 3 - Building digital revolution,
+Editor(s): Marco Casini,
+In Woodhead Publishing Series in Civil and Structural Engineering,
+Construction 4.0,
+Woodhead Publishing,
+2022,
+Pages 151-186,
+ISBN 9780128217979,
+https://doi.org/10.1016/B978-0-12-821797-9.00013-1.
+(https://www.sciencedirect.com/science/article/pii/B9780128217979000131)
+Abstract: The chapter provides and overview of the digital revolution that is changing the Architecture, Engineering, Construction and Operation (AECO) industry and leading to the Construction 4.0 model, based on augmented digital design, connected and automated construction processes, and smart building operations and maintenance. The key technology drivers—building information modeling, cloud and edge computing, Internet of things, 5G networks, artificial intelligence and machine learning, Big Data and advanced analytics, and nanotechnology—are described, highlighting their role in the digital transformation of the construction sector and the new opportunities brought in terms of higher productivity and building quality. A thorough analysis of Construction 4.0 tools and methods is given, describing the applications and advantages in the whole value chain of the new “digital twin building life cycle” achievable with the full integration of all these digital technologies.
+Keywords: Construction 4.0; building information modeling; cloud computing; edge computing; Internet of things; 5G network; artificial intelligence; machine learning; Big Data; advanced analytics; nanotechnology; digital twin; digital building life cycle; augmented digital design; data-driven design; connected construction; building automation; automated construction site
+
+Lalith Kumar Shiyam Sundar, Otto Muzik, Irène Buvat, Luc Bidaut, Thomas Beyer,
+Potentials and caveats of AI in hybrid imaging,
+Methods,
+Volume 188,
+2021,
+Pages 4-19,
+ISSN 1046-2023,
+https://doi.org/10.1016/j.ymeth.2020.10.004.
+(https://www.sciencedirect.com/science/article/pii/S1046202320302188)
+Abstract: State-of-the-art patient management frequently mandates the investigation of both anatomy and physiology of the patients. Hybrid imaging modalities such as the PET/MRI, PET/CT and SPECT/CT have the ability to provide both structural and functional information of the investigated tissues in a single examination. With the introduction of such advanced hardware fusion, new problems arise such as the exceedingly large amount of multi-modality data that requires novel approaches of how to extract a maximum of clinical information from large sets of multi-dimensional imaging data. Artificial intelligence (AI) has emerged as one of the leading technologies that has shown promise in facilitating highly integrative analysis of multi-parametric data. Specifically, the usefulness of AI algorithms in the medical imaging field has been heavily investigated in the realms of (1) image acquisition and reconstruction, (2) post-processing and (3) data mining and modelling. Here, we aim to provide an overview of the challenges encountered in hybrid imaging and discuss how AI algorithms can facilitate potential solutions. In addition, we highlight the pitfalls and challenges in using advanced AI algorithms in the context of hybrid imaging and provide suggestions for building robust AI solutions that enable reproducible and transparent research.
+Keywords: Hybrid imaging; Artificial intelligence; Deep learning; Machine learning; Radiomics
+
+
+Full Issue PDF,
+JACC: CardioOncology,
+Volume 4, Issue 4,
+2022,
+Pages I-CXXXIX,
+ISSN 2666-0873,
+https://doi.org/10.1016/S2666-0873(22)00437-9.
+(https://www.sciencedirect.com/science/article/pii/S2666087322004379)
+
+Anna Michelson,
+Pushing the boundaries: Erotic romance and the symbolic boundary nexus,
+Poetics,
+Volume 94,
+2022,
+101729,
+ISSN 0304-422X,
+https://doi.org/10.1016/j.poetic.2022.101729.
+(https://www.sciencedirect.com/science/article/pii/S0304422X22001115)
+Abstract: How do contested emerging subgenres become legitimated and institutionalized? This case illustrates the meso-level negotiation of community sense (Wohl, 2015) as stakeholders of a genre (romance fiction) debate whether genre boundaries include a new subgenre (erotic romance). Erotic romance upended conventions by introducing explicit and sometimes unconventional sex into the traditionally heteronormative romance genre. However, opposition to subgenre inclusion involved more than sexual content. Drawing on interviews (n = 40) and text data from Romantic Times (n = 360) and Romance Writers Report (n = 180), I find that mainstream incorporation of erotic romance involved community negotiation of multiple symbolic boundary debates: (1) What is acceptable sexuality? (2) What is a real book? (3) Who is a professional author? Erotic romance was fully institutionalized after best-selling Fifty Shades of Grey forced the community to confront all three boundary debates at once. Each debate represents a different symbolic boundary around the mainstream romance genre, but the case can only be fully understood by examining how they intersect. I conceptualize that intersection as the symbolic boundary nexus and argue that analyzing genre classifications as a set of intersecting boundaries is a productive approach for understanding how cultural communities negotiate contested classification processes.
+Keywords: Romance; Genre; Symbolic boundaries; Classification; Legitimation
+
+Newton Spolaôr, Huei Diana Lee, Weber Shoity Resende Takaki, Leandro Augusto Ensina, Claudio Saddy Rodrigues Coy, Feng Chung Wu,
+A systematic review on content-based video retrieval,
+Engineering Applications of Artificial Intelligence,
+Volume 90,
+2020,
+103557,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2020.103557.
+(https://www.sciencedirect.com/science/article/pii/S0952197620300488)
+Abstract: Content-based video retrieval and indexing have been associated with intelligent methods in many applications such as education, medicine and agriculture. However, an extensive and replicable review of the recent literature is missing. Moreover, relevant topics that can support video retrieval, such as dimensionality reduction, have not been surveyed. This work designs and conducts a systematic review to find papers able to answer the following research question: “what segmentation, feature extraction, dimensionality reduction and machine learning approaches have been applied for content-based video indexing and retrieval?”. By applying a research protocol proposed by us, 153 papers published from 2011 to 2018 were selected. As a result, it was found that strategies for cut-based segmentation, color-based indexing, k-means based dimensionality reduction and data clustering have been the most frequent choices in recent papers. All the information extracted from these papers can be found in a publicly available spreadsheet. This work also indicates additional findings and future research directions.
+Keywords: Color features; Unsupervised learning; Shot boundary detection
+
+Stanley Cohen,
+Chapter 5 - Dealing with data: strategies of preprocessing data,
+Editor(s): Stanley Cohen,
+Artificial Intelligence and Deep Learning in Pathology,
+Elsevier,
+2021,
+Pages 77-92,
+ISBN 9780323675383,
+https://doi.org/10.1016/B978-0-323-67538-3.00005-1.
+(https://www.sciencedirect.com/science/article/pii/B9780323675383000051)
+Abstract: A machine learning model is only as good as the data it is given to work on. Data may have redundancies, missing values, artifactual outliers, irrelevant features (noise), and so on. In addition, the feature vectors that characterize data are usually of high dimension (each sample has a very large number of features or attributes). For a variety of technical reasons, this may also compromise performance. Direct observation of the data, in addition to cleaning up the data, may lead to removal of some of the unimportant or compromised features, thus reducing dimensionality as well. In addition, there are a number of mathematical techniques by which machine learning algorithms can reduce dimensionality in an automatic and unsupervised manner. These considerations are an important part of the armamentarium of every data scientist and machine learning specialist and must be understood by the pathologists partnering with them to ensure the clinical applicability and validity of the final result. Of equal importance is the need to avoid bias from contamination or limitations of the dataset. In addition to ethical and moral issues, such bias can lead to incorrect conclusions from that data.
+Keywords: Bias; Data preprocessing; Dimensional reduction; Eigenvalues; Eigenvectors; Feature engineering; Feature extraction; Manifolds; Principal component analysis
+
+Zahra Mirikharaji, Kumar Abhishek, Alceu Bissoto, Catarina Barata, Sandra Avila, Eduardo Valle, M. Emre Celebi, Ghassan Hamarneh,
+A survey on deep learning for skin lesion segmentation,
+Medical Image Analysis,
+Volume 88,
+2023,
+102863,
+ISSN 1361-8415,
+https://doi.org/10.1016/j.media.2023.102863.
+(https://www.sciencedirect.com/science/article/pii/S1361841523001238)
+Abstract: Skin cancer is a major public health problem that could benefit from computer-aided diagnosis to reduce the burden of this common disease. Skin lesion segmentation from images is an important step toward achieving this goal. However, the presence of natural and artificial artifacts (e.g., hair and air bubbles), intrinsic factors (e.g., lesion shape and contrast), and variations in image acquisition conditions make skin lesion segmentation a challenging task. Recently, various researchers have explored the applicability of deep learning models to skin lesion segmentation. In this survey, we cross-examine 177 research papers that deal with deep learning-based segmentation of skin lesions. We analyze these works along several dimensions, including input data (datasets, preprocessing, and synthetic data generation), model design (architecture, modules, and losses), and evaluation aspects (data annotation requirements and segmentation performance). We discuss these dimensions both from the viewpoint of select seminal works, and from a systematic viewpoint, examining how those choices have influenced current trends, and how their limitations should be addressed. To facilitate comparisons, we summarize all examined works in a comprehensive table as well as an interactive table available online33https://github.com/sfu-mial/skin-lesion-segmentation-survey..
+Keywords: Skin lesion; Deep learning; Segmentation; Survey
+
+Syed Shoaib Ahmad Shah, Hafiza Komal Zafar, Muhammad Sufyan Javed, Muhammad Aizaz Ud Din, Saleh S. Alarfaji, Georgia Balkourani, Manzar Sohail, Panagiotis Tsiakaras, Tayyaba Najam,
+Mxenes for Zn-based energy storage devices: Nano-engineering and machine learning,
+Coordination Chemistry Reviews,
+Volume 501,
+2024,
+215565,
+ISSN 0010-8545,
+https://doi.org/10.1016/j.ccr.2023.215565.
+(https://www.sciencedirect.com/science/article/pii/S0010854523005544)
+Abstract: Zn-based rechargeable energy devices showed more advantages, including safety, abundance, and high volumetric/gravimetric capacities. MXenes have been evaluated as valuable emerging 2D materials due to their thermal/chemical stabilities, conductivities, flexible mechanical properties, and unique topological features. However, the recent trends in MXenes for Zn-based rechargeable energy devices have rarely been reviewed. This review article presents a comprehensive summary of the latest developments in the design and synthesis of MXene materials intended for utilization as electrodes in Zn-based energy storage devices. Specifically, the focus is on their application in Zn-ion supercapacitors, Zn-ion batteries, Zn-air batteries, and Zn-halide batteries. Firstly, we have deliberately discussed the synthesis of MXenes by summarizing the latest reported techniques but giving the weightage of the initial synthetic methods. Further, the discussion on nano-engineering of active sites revealed that surface termination followed by defect engineering is an emerging strategy to improve the performance of MXenes. The role of machine learning in the synthesis of MXenes is also summarized by establishing the structural activity relationship. In the next section and sub-sections, we have outlined the recent advances in the MXenes as electrode materials for Zn-based energy storage devices. Each section is arranged according to the synthesis strategies to clarify the structural activity relationship in each sub-section and provide a suitable basis for the researchers to design and synthesize targeted materials instead of conventional hit-and-trial methods. Finally, concluding remarks and future perspectives are discussed to offer new directions in targeted MXenes synthesis for energy storage devices.
+Keywords: Zn-based energy storage devices; Zn-ion battery; Zn-ion supercapacitor; MXenes; Machine learning; Zn-air battery
+
+Margarita N. Favorskaya, Alexandr G. Zotin,
+Semantic segmentation of multispectral satellite images for land use analysis based on embedded information,
+Procedia Computer Science,
+Volume 192,
+2021,
+Pages 1504-1513,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2021.08.154.
+(https://www.sciencedirect.com/science/article/pii/S1877050921016483)
+Abstract: Semantic segmentation of satellite and aerial imageries has many applications including automated map making, land use analysis, urban planning and so on. This paper presents a special type of semantic segmentation. First, the boundaries of natural objects such as agricultural fields are detected and approximated by polygons. Second, texture recognition based on Digital Wavelet Transform (DWT) and Local Binary Patterns (LBPs) is implemented using a limited textural dictionary. The obtained information is embedded using DWT and Arnold’s transform. Such watermarked images can be publicly available, but semantic information after extraction and inpainting is provided only to the authorized users. Such semantic labelling is very useful in land use analysis of rural territories.
+Keywords: Semantic segmentation; multispectral satellite image; texture recognition; watermarking schemes; inpainting
+
+Jesse Minor, Geoffrey A. Boyce,
+Smokey Bear and the pyropolitics of United States forest governance,
+Political Geography,
+Volume 62,
+2018,
+Pages 79-93,
+ISSN 0962-6298,
+https://doi.org/10.1016/j.polgeo.2017.10.005.
+(https://www.sciencedirect.com/science/article/pii/S0962629816301548)
+Abstract: Wildfire prevention advertisements featuring Smokey Bear represent the longest-standing and most successful government advertising and branding campaign in U.S. history. As the public face of U.S. fire control policy, Smokey Bear uses mass media to influence the attitudes and behavior of U.S. citizenry in order to accomplish particular outcomes related to wildfire prevention and suppression, forest protection, and resource management. Smokey Bear can therefore be viewed as a governmental instrument that simultaneously targets the behavior of the U.S. public and the biophysical materiality of combustible forests. Examining the evolution of Smokey Bear and related wildfire prevention media, we explore connections between state management of people, territory, and flammable landscapes. Borrowing from Nigel Clark (2011), we use the term pyropolitics to describe the resulting more-than-human assemblage of citizenship, fire suppression and forest ecology. Importantly, this pyropolitical assemblage has substantive and recursive impacts on state practice. Through aggressive wildfire prevention and suppression that include and extend beyond Smokey Bear, the U.S. state has transformed fuel loads, species compositions, and ecosystem dynamics across North America. One result is a heightened propensity toward catastrophic wildfire, requiring additional and sustained state intervention to maintain an imposed and unstable equilibrium. Thus even as the economic, social and cultural realities of U.S. civic life have changed over the course of the 20th and early 21st centuries – and even as knowledge of the ecological benefits of fire to ecosystem health has developed over time – the message of Smokey Bear has remained remarkably consistent, communicating an official imperative to prevent anthropogenic ignition.
+Keywords: Advertising; Biopolitics; Environmentality; Governmentality; Posthumanism; State theory; Wildfire
+
+Rana Husni AlMahmoud, Bassam Hammo, Hossam Faris,
+A modified bond energy algorithm with fuzzy merging and its application to Arabic text document clustering,
+Expert Systems with Applications,
+Volume 159,
+2020,
+113598,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2020.113598.
+(https://www.sciencedirect.com/science/article/pii/S095741742030422X)
+Abstract: Conventional textual documents clustering algorithms suffer from several shortcomings, such as the slow convergence of the immense high-dimensional data, the sensitivity to the initial value, and the understandability of the description of the resulted clusters. Although many clustering algorithms have been developed for English and other languages, very few have tackled the problem of clustering the under-resourced Arabic language. In this work, we propose a modified version of the Bond Energy Algorithm (BEA) combined with a fuzzy merging technique to solve the problem of Arabic text document clustering. The proposed algorithm, Clustering Arabic Documents based on Bond Energy, hereafter named CADBE, attempts to identify and display natural variable clusters within huge sized data. CADBE has three steps to cluster Arabic documents: the first step instantiates a cluster affinity matrix using the BEA, the second step uses a new and novel method to partition the cluster matrix automatically into small coherent clusters, and the last step uses a fuzzy merging technique to merge similar clusters based on the associations and interrelations between the resulted clusters. Experimental results showed that the proposed algorithm effectively outperformed the conventional clustering algorithms such as Expectation–Maximization (EM), Single Linkage, and UPGMA in terms of clustering purity and entropy. It also outperformed k-means, k-means++, spherical k-means, and CoclusMod in most test cases. However, there are several merits of CADBE. First, unlike the traditional clustering algorithms, it does not require to specify the number of clusters. In addition, it produces clusters with distinct boundaries, which makes its results more objective, and finally it is deterministic, such that it is insensitive to the order in which documents are presented to the algorithm.
+Keywords: Bond energy algorithm; Arabic text document clustering; Fuzzy Merging
+
+Mohammad Soltani Delgosha, Nastaran Hajiheydari, Mojtaba Talafidaryani,
+Discovering IoT implications in business and management: A computational thematic analysis,
+Technovation,
+Volume 118,
+2022,
+102236,
+ISSN 0166-4972,
+https://doi.org/10.1016/j.technovation.2021.102236.
+(https://www.sciencedirect.com/science/article/pii/S0166497221000171)
+Abstract: IoT as a disruptive technology is contributing toward ground-breaking experiences in contemporary enterprises and in our daily life. Rapidly changing business environment and phenomenally evolving technology enhancement necessitate a robust understanding of IoT implications from business and management perspective. The current study benefits from an explanatory sequential mixed-method approach to represent and interpret the inductive topical framework of IoT literature in business and management with emphasis on business model. Bayesian statistical topic model called latent Dirichlet allocation is employed to conduct a comprehensive analysis of 347 related scholarly articles to reveal the topical composition of related research. Further, we followed a thematic analysis for interpreting the extracted topics and gaining in-depth qualitative insights. Theoretical implications with emphasizing on research agenda for future study avenues and managerial implications based on influential themes are provided.
+Keywords: Internet of things; Topic modelling; Business model; Thematic analysis; Business and management; Future research
+
+Salim Razı,
+Emergency remote teaching adaptation of the anonymous multi–mediated writing model,
+System,
+Volume 113,
+2023,
+102981,
+ISSN 0346-251X,
+https://doi.org/10.1016/j.system.2023.102981.
+(https://www.sciencedirect.com/science/article/pii/S0346251X23000039)
+Abstract: Covid-19 related transfer of instruction to digital platforms has heightened the complications involved in teaching writing, including assessment problems regarding the increased risk of academic misconduct incidents. This study aimed at scrutinizing how the revised anonymous multi–mediated writing model fits emergency remote teaching (ERT), ensuring the promotion of academic integrity. The revised model was implemented throughout a two–semester freshmen “Writing Skills” course via a mixed methods triangulation research design in the ELT department of a university in Türkiye. Quantitative data came from writing assignments and peer feedback analyses, whereas qualitative data were retrieved through reflection papers and interviews. Students' ERT scores were compared to pre-Covid face-to-face (F2F) learning scores, revealing no significant differences; confirming that students’ performances were similar in F2F or ERT without any increase in academic misconduct in ERT. The AMMW model worked well in ERT by enabling scaffolding through asymmetrical and symmetrical asynchronous online feedback, with the integration of a rubric as the learning tool. Qualitative findings revealed the limitations of online teaching, especially regarding the importance of teacher–student(s) interaction. As an anthology of L2 writing practice amid the Covid-19 outbreak, this study may help other academics to cope with cases resembling those presented here.
+Keywords: Anonymous multi–mediated writing model; Academic integrity; Preventing plagiarism; Asynchronous online peer feedback; Asynchronous online teacher feedback; ERT (Emergency remote teaching)
+
+Selene Tomassini, Agnese Sbrollini, Giacomo Covella, Paolo Sernani, Nicola Falcionelli, Henning Müller, Micaela Morettini, Laura Burattini, Aldo Franco Dragoni,
+Brain-on-Cloud for automatic diagnosis of Alzheimer’s disease from 3D structural magnetic resonance whole-brain scans,
+Computer Methods and Programs in Biomedicine,
+Volume 227,
+2022,
+107191,
+ISSN 0169-2607,
+https://doi.org/10.1016/j.cmpb.2022.107191.
+(https://www.sciencedirect.com/science/article/pii/S0169260722005727)
+Abstract: Background and objective
+Alzheimer’s disease accounts for approximately 70% of all dementia cases. Cortical and hippocampal atrophy caused by Alzheimer’s disease can be appreciated easily from a T1-weighted structural magnetic resonance scan. Since a timely therapeutic intervention during the initial stages of the syndrome has a positive impact on both disease progression and quality of life of affected subjects, Alzheimer’s disease diagnosis is crucial. Thus, this study relies on the development of a robust yet lightweight 3D framework, Brain-on-Cloud, dedicated to efficient learning of Alzheimer’s disease-related features from 3D structural magnetic resonance whole-brain scans by improving our recent convolutional long short-term memory-based framework with the integration of a set of data handling techniques in addition to the tuning of the model hyper-parameters and the evaluation of its diagnostic performance on independent test data.
+Methods
+For this objective, four serial experiments were conducted on a scalable GPU cloud service. They were compared and the hyper-parameters of the best experiment were tuned until reaching the best-performing configuration. In parallel, two branches were designed. In the first branch of Brain-on-Cloud, training, validation and testing were performed on OASIS-3. In the second branch, unenhanced data from ADNI-2 were employed as independent test set, and the diagnostic performance of Brain-on-Cloud was evaluated to prove its robustness and generalization capability. The prediction scores were computed for each subject and stratified according to age, sex and mini mental state examination.
+Results
+In its best guise, Brain-on-Cloud is able to discriminate Alzheimer’s disease with an accuracy of 92% and 76%, sensitivity of 94% and 82%, and area under the curve of 96% and 92% on OASIS-3 and independent ADNI-2 test data, respectively.
+Conclusions
+Brain-on-Cloud shows to be a reliable, lightweight and easily-reproducible framework for automatic diagnosis of Alzheimer’s disease from 3D structural magnetic resonance whole-brain scans, performing well without segmenting the brain into its portions. Preserving the brain anatomy, its application and diagnostic ability can be extended to other cognitive disorders. Due to its cloud nature, computational lightness and fast execution, it can also be applied in real-time diagnostic scenarios providing prompt clinical decision support.
+Keywords: Alzheimer’s disease; Cloud computing; Computer-aided diagnosis; Convolutional LSTM; 3D structural magnetic resonance; Supervised deep learning
+
+Tomasz M. Stępkowski, Vanessa Linke, Dorota Stadnik, Maciej Zakrzewski, Anna E. Zawada, Remigiusz A. Serwa, Agnieszka Chacinska,
+Temporal alterations of the nascent proteome in response to mitochondrial stress,
+Cell Reports,
+Volume 43, Issue 10,
+2024,
+114803,
+ISSN 2211-1247,
+https://doi.org/10.1016/j.celrep.2024.114803.
+(https://www.sciencedirect.com/science/article/pii/S2211124724011549)
+Abstract: Summary
+Under stress, protein synthesis is attenuated to preserve energy and mitigate challenges to protein homeostasis. Here, we describe, with high temporal resolution, the dynamic landscape of changes in the abundance of proteins synthesized upon stress from transient mitochondrial inner membrane depolarization. This nascent proteome was altered when global translation was attenuated by stress and began to normalize as translation was recovering. This transition was associated with a transient desynchronization of cytosolic and mitochondrial translation and recovery of cytosolic and mitochondrial ribosomal proteins. Further, the elongation factor EEF1A1 was downregulated upon mitochondrial stress, and its silencing mimicked the stress-induced nascent proteome remodeling, including alterations in the nascent respiratory chain proteins. Unexpectedly, the stress-induced alterations in the nascent proteome were independent of physiological protein abundance and turnover. In summary, we provide insights into the physiological and pathological consequences of mitochondrial function and dysfunction.
+Keywords: translation; mitochondria; protein synthesis; EEF1A; EEF1A1; elongation factor; nascent chain; proteomics; mass spectrometry; cellular stress
+
+Andry Alamsyah, Yoga Sagama,
+Empowering Indonesian internet users: An approach to counter online toxicity and enhance digital well-being,
+Intelligent Systems with Applications,
+Volume 22,
+2024,
+200394,
+ISSN 2667-3053,
+https://doi.org/10.1016/j.iswa.2024.200394.
+(https://www.sciencedirect.com/science/article/pii/S2667305324000693)
+Abstract: The proliferation of online toxicity, characterized by offensive and disrespectful language, has been a pervasive issue in Indonesia’s digital environment, impacting users’ mental health and well-being. Simultaneously, the potential of Natural Language Processing (NLP) in detecting and managing toxic comments provides a promising avenue for mitigating online toxicity. This study presents a 3-stages methodology consisting of type, target audience, and topics to detect and categorize online toxicity in the Indonesian language using fine-tuned IndoBERTweet and Indonesian RoBERTa models. The results indicate that the IndoBERTweet model, with optimally adjusted hyperparameters, consistently outperforms the Indonesian RoBERTa model in all stages of our proposed methodology. These outcomes are substantiated by higher precision, recall, and F1 score metrics exhibited by the IndoBERTweet model. This model also exhibits remarkable performance in real-world applicability, accurately classifying new Indonesian language content from Twitter (now X). This research establishes a stepping stone for future work, including exploring other language models, applying the methodology to other languages, training the models on larger and more diverse datasets, and applying it to other social media platforms or forums. Our proposal contributes to create safer online spaces, and the results provide insights for the development of automated moderation tools, playing a significant role in combating online harassment and ensuring online community well-being.
+Keywords: Online toxicity; Content moderation; Indonesian language; IndoBERTweet; Indonesian RoBERTa
+
+Oluwatosin Alabi, Tom Vercauteren, Miaojing Shi,
+Multitask learning in minimally invasive surgical vision: A review,
+Medical Image Analysis,
+Volume 101,
+2025,
+103480,
+ISSN 1361-8415,
+https://doi.org/10.1016/j.media.2025.103480.
+(https://www.sciencedirect.com/science/article/pii/S1361841525000283)
+Abstract: Minimally invasive surgery (MIS) has revolutionized many procedures and led to reduced recovery time and risk of patient injury. However, MIS poses additional complexity and burden on surgical teams. Data-driven surgical vision algorithms are thought to be key building blocks in the development of future MIS systems with improved autonomy. Recent advancements in machine learning and computer vision have led to successful applications in analysing videos obtained from MIS with the promise of alleviating challenges in MIS videos. Surgical scene and action understanding encompasses multiple related tasks that, when solved individually, can be memory-intensive, inefficient, and fail to capture task relationships. Multitask learning (MTL), a learning paradigm that leverages information from multiple related tasks to improve performance and aid generalization, is well-suited for fine-grained and high-level understanding of MIS data. This review provides a narrative overview of the current state-of-the-art MTL systems that leverage videos obtained from MIS. Beyond listing published approaches, we discuss the benefits and limitations of these MTL systems. Moreover, this manuscript presents an analysis of the literature for various application fields of MTL in MIS, including those with large models, highlighting notable trends, new directions of research, and developments.
+Keywords: Computer aided intervention; Multitask learning; Minimally invasive surgeries; Scene understanding
+
+Min Wang, Lei Zhou, Qian Li, An-an Zhang,
+Open world long-tailed data classification through active distribution optimization,
+Expert Systems with Applications,
+Volume 213, Part B,
+2023,
+119054,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2022.119054.
+(https://www.sciencedirect.com/science/article/pii/S0957417422020723)
+Abstract: Real-world data exhibits a long-tailed label distribution, which leads to classification bias. Popular re-sampling or re-weighting methods usually require known category information. However, learning from long-tailed data with open categories is a challenging issue. In this paper, we propose an active distribution optimization algorithm (DALC) to handle the interesting issue. Through clustering, querying and classification iterations, we explore new categories and balance label distribution. For clustering, we present an exploration technique that adaptively obtains optimal data distribution with minimal total distance/cost. For each query, we design a critical instance selection strategy with the cluster information. For classification, we establish an ensemble model to continuously balance the label distribution. We conducted experiments on synthetic, benchmark and domain datasets. The results of the significance test verified the effectiveness of DALC and its superiority over state-of-the-art long-tailed data classification and open set classification algorithms.
+Keywords: Active learning; Cost-sensitive; Long-tailed distribution; Open set classification
+
+Erin Sweeney Smith, Amanda Koziura, Elizabeth Meinke, Evan Meszaros,
+Designing and implementing an instructional triptych for a digital future,
+The Journal of Academic Librarianship,
+Volume 49, Issue 2,
+2023,
+102672,
+ISSN 0099-1333,
+https://doi.org/10.1016/j.acalib.2023.102672.
+(https://www.sciencedirect.com/science/article/pii/S0099133323000113)
+Abstract: In response to the evolving needs of students and faculty, a small team of librarians rebuilt their library instruction program from the ground-up in 2020. The new approach consisted of three aspects: shifting introductory lessons to easily-accessible Canvas LMS modules, revamping LibGuides, and introducing a credit-bearing course. Together, they allowed librarians to move beyond traditional one-shot instruction, form deeper partnerships with faculty, and make the expertise of librarians more accessible. While the impetus for change was the onset of the COVID-19 pandemic, the new program laid the groundwork for rethinking traditional approaches to instruction and finding better ways to meet faculty and students at the point of need.
+Keywords: Canvas; LibGuides; Instruction; Asynchronous; Course design
+
+Raffael Heiss, Andreas Nanz, Jörg Matthes,
+Social media information literacy: Conceptualization and associations with information overload, news avoidance and conspiracy mentality,
+Computers in Human Behavior,
+Volume 148,
+2023,
+107908,
+ISSN 0747-5632,
+https://doi.org/10.1016/j.chb.2023.107908.
+(https://www.sciencedirect.com/science/article/pii/S0747563223002595)
+Abstract: In this study, we present a novel scale for measuring social media information literacy (SMIL) that encompasses six sub-dimensions: navigation, curation, appraisal, comprehension, creation, and interaction. We also examine antecedents of SMIL, its association with information overload, and possible indirect consequences such as news avoidance and conspiracy thinking. Relying on a two-wave panel dataset (n = 901), we first used factor analysis to test the proposed measurement. The results showed that the six dimensions were empirically distinct and loaded on a higher order SMIL factor. In a second step, we explored antecedents and outcomes of SMIL and its sub-dimensions. We found that not age, but education and frequency of social media use were positively associated with gains in SMIL. Furthermore, SMIL was associated with a decrease in information overload. Information overload, in turn, was associated with a decrease in news avoidance and an increase in conspiracy mentality. Taken together, our results lend support that SMIL may support positive civic outcomes by its potential role in lowering information overload. Helping citizens to acquire SMIL may be one valuable measure to foster democratic resilience.
+Keywords: Social media; Media literacy; Information literacy; Information overload; News avoidance; Conspiracy mentality
+
+Pauline Puteaux, SimYing Ong, KokSheik Wong, William Puech,
+A survey of reversible data hiding in encrypted images – The first 12 years,
+Journal of Visual Communication and Image Representation,
+Volume 77,
+2021,
+103085,
+ISSN 1047-3203,
+https://doi.org/10.1016/j.jvcir.2021.103085.
+(https://www.sciencedirect.com/science/article/pii/S104732032100050X)
+Abstract: In the last few years, with the increasing popularity of cloud computing and the availability of mobile smart devices as well as ubiquitous network connections, more and more users are uploading their personal data to remote servers. However, this can lead to significant security breaches, where confidentiality, integrity and authentication are constantly threatened. To overcome these multiple problems, multimedia data must be secured, for example by means of encryption before transmission and storage. In this survey, we look into the issues involved in handling encrypted multimedia data, and more specifically we focus on reversible data hiding in encrypted images (RDHEI). The aim of this survey is to present the birth and evolution of RDHEI methods over the last 12 years. We first highlight different classes and characteristics of RDHEI, then describe representative RDHEI methods. A comparison table is presented to summarize the key features and achievements of each representative RDHEI method considered in this survey. Finally, we share the future outlook of emerging applications and open research topics relevant to RDHEI for the next 12 years and beyond.
+Keywords: Multimedia security; Image encryption; Data hiding; Signal processing in the encrypted domain
+
+Jiajia Li, Xue Han, Yiming Qin, Feng Tan, Yulong Chen, Zikai Wang, Haitao Song, Xi Zhou, Yuan Zhang, Lun Hu, Pengwei Hu,
+Artificial intelligence accelerates multi-modal biomedical process: A Survey,
+Neurocomputing,
+Volume 558,
+2023,
+126720,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2023.126720.
+(https://www.sciencedirect.com/science/article/pii/S0925231223008433)
+Abstract: The abundance of artificial intelligence AI algorithms and growing computing power has brought a disruptive revolution to the smart medical industry. Its powerful data abstraction and representation capabilities enable the modeling of hundreds of millions of medical data, such as sub-Computed Tomography tumor identification, retinal lesion screening, and survival curve analysis. However, all of these applications demonstrate AI’s use of unimodal data for specific tasks. In contrast, clinicians deal with multi-modal data from multiple sources when diagnosing, performing prognostic assessments, and deciding on treatment plans. These requirements have facilitated the development of multi-modal AI solutions and improved the performance of AI models in handling complex medical scenarios and data. In this paper, we provide an overview of the current state of the art and research in multi-modal biomedical AI, including applications, data, methods, and analytics. Additionally, we summarize potential research directions for multi-modal AI technologies in the future of healthcare.
+Keywords: Multi-modal biomedicine; Artificial intelligence; Deep learning; Neural network
+
+Huiyu Xiong, Lanxiao Wang, Heqian Qiu, Taijin Zhao, Benliu Qiu, Hongliang Li,
+Adaptively forget with crossmodal and textual distillation for class-incremental video captioning,
+Neurocomputing,
+Volume 624,
+2025,
+129388,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2025.129388.
+(https://www.sciencedirect.com/science/article/pii/S0925231225000608)
+Abstract: With the increasing volume of video data, it is critical that intelligent systems have the ability to continuously analyze the increasing number of videos while avoiding the usage of data from early tasks. These video data are difficult to store, and training models from scratch face privacy and high energy consumption pitfalls. However, existing research has primarily focused on incremental learning for image and video classification, with limited attention given to analyzing multimodal inputs and leveraging the spatio-temporal contextual information embedded in videos to generate meaningful captions. In this paper, we first present the Class-Incremental Video Captioning (CI-VC) task. There are two difficulties in this task, which are the stability–plasticity dilemma faced in processing textual information with spatio-temporal states and correlating video-text inter-modal information, respectively. To fill this unexplored area, we primitively propose a method to Adaptively Forget with crossmodal and textual Distillation for class-incremental video captioning (AFD). Considering the unique encoder–decoder networks of captioning and the privacy of input data, we refer to the three stages without playback of old samples: visual encoding, textual decoding and network supervision. In the phase of learning new knowledge, we use Fine-grained Sensitivity Selection (FgSS) to refine the selection of stored knowledge from the old model, forgetting some irrelevant information to make room for the memory of new classes. In order to memorize the text information during decoding, we design Growing Word Embedding (G) with elastic capacity to store the embedding tokens of text that have already been seen as textual meta-signal pairs to be retrieved the lexical information during further caption generation. Meanwhile, the Dual-level Knowledge Distillation (DlKD) is performed at both cross-modal semantic information and the textual final output to constrain from the perspective of the extracted level specific features, integrating the newly learned knowledge and consolidating the inter-model and intra-model knowledge of the old classes. To illustrate the ability of our model to resist forgetting, we designed a metric CIDER˜t to detect the stage forgetting rate. Experiments on the public datasets MSR-VTT, MSVD and VATEX show that the proposed method significantly resists the forgetting of previous tasks without replaying old samples, and performs well on the new task.
+Keywords: Class-incremental learning; Video captioning; Encoder–Decoder; Multimodal attention; Knowledge distillation
+
+Partho P. Sengupta, Sirish Shrestha, Béatrice Berthon, Emmanuel Messas, Erwan Donal, Geoffrey H. Tison, James K. Min, Jan D’hooge, Jens-Uwe Voigt, Joel Dudley, Johan W. Verjans, Khader Shameer, Kipp Johnson, Lasse Lovstakken, Mahdi Tabassian, Marco Piccirilli, Mathieu Pernot, Naveena Yanamala, Nicolas Duchateau, Nobuyuki Kagiyama, Olivier Bernard, Piotr Slomka, Rahul Deo, Rima Arnaout,
+Proposed Requirements for Cardiovascular Imaging-Related Machine Learning Evaluation (PRIME): A Checklist: Reviewed by the American College of Cardiology Healthcare Innovation Council,
+JACC: Cardiovascular Imaging,
+Volume 13, Issue 9,
+2020,
+Pages 2017-2035,
+ISSN 1936-878X,
+https://doi.org/10.1016/j.jcmg.2020.07.015.
+(https://www.sciencedirect.com/science/article/pii/S1936878X20306367)
+Abstract: Machine learning (ML) has been increasingly used within cardiology, particularly in the domain of cardiovascular imaging. Due to the inherent complexity and flexibility of ML algorithms, inconsistencies in the model performance and interpretation may occur. Several review articles have been recently published that introduce the fundamental principles and clinical application of ML for cardiologists. This paper builds on these introductory principles and outlines a more comprehensive list of crucial responsibilities that need to be completed when developing ML models. This paper aims to serve as a scientific foundation to aid investigators, data scientists, authors, editors, and reviewers involved in machine learning research with the intent of uniform reporting of ML investigations. An independent multidisciplinary panel of ML experts, clinicians, and statisticians worked together to review the theoretical rationale underlying 7 sets of requirements that may reduce algorithmic errors and biases. Finally, the paper summarizes a list of reporting items as an itemized checklist that highlights steps for ensuring correct application of ML models and the consistent reporting of model specifications and results. It is expected that the rapid pace of research and development and the increased availability of real-world evidence may require periodic updates to the checklist.
+Keywords: artificial intelligence; cardiovascular imaging; checklist; digital health; machine learning; reporting guidelines; reproducible research
+
+Sahand Vahidnia, Alireza Abbasi, Hussein Abbass,
+A temporal ontology guided clustering methodology with a case study on detection and tracking of artificial intelligence topics,
+Expert Systems with Applications,
+Volume 247,
+2024,
+123279,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2024.123279.
+(https://www.sciencedirect.com/science/article/pii/S0957417424001441)
+Abstract: Detection and tracking of topics from publicly available academic data can benefit the scientific community and other stakeholders throughout their investment and other decisions, by informing the decisions regarding the field of science, its evolution, and its dynamics. In this study, we introduce a novel temporal clustering method for topic detection, using document abstracts, keywords, and their corresponding textual representations. In this method, the temporal dimension is employed to parameterise the effect of older data on the clusters, while ontology guidance is utilised to guide their evolution. Ontology is used for both enhancing the representations, and decision-making for the evolutionary steps of split and merging of the clusters. We show the effectiveness of the representations of documents in a single time slice, before demonstrating the evolution of topics in a case study of AI-related publications. Finally, the resulting topic evolutionary map is evaluated after automatically labelling the clusters using ranked author keywords, facilitating the assessment of the topics and observing their evolution.
+Keywords: Topic detection and tracking; Document clustering; Document topic models; Temporal clustering; Representation learning
+
+Paula da Costa Ferreira, Nádia Pereira, Carlos Martinho, Hugo Marques, Hélio Martins, Alexandra Marques Pinto, Alexandra Barros, Aristides Ferreira, Mafalda Gomes, Ana Margarida Veiga Simão,
+Teachers’ awareness and emotional response to cyberbullying: Exploring emotional regulation strategies in the classroom,
+Computers in Human Behavior Reports,
+Volume 18,
+2025,
+100647,
+ISSN 2451-9588,
+https://doi.org/10.1016/j.chbr.2025.100647.
+(https://www.sciencedirect.com/science/article/pii/S2451958825000624)
+Abstract: Cyberbullying is a major and pressing issue in schools, reducing students' well-being and placing emotional burden on teachers. Despite increased attention to students' experiences, there is limited research on teachers' knowledge, emotional responses, and emotion regulation when witnessing student cyberbullying. Thus, this study explores teachers' knowledge, emotional responses, and emotion regulation strategies to respond to cyberbullying, and the impact of an innovative game-based platform on their emotion regulation abilities. Employing an integrated emotions and emotion regulation appraisal model, the mixed-methods study employed a sequential explanatory design. 543 teachers and 533 students were surveyed to examine a substantial difference between teachers' self-reports and students' self-reports of cyberbullying, with students reporting more instances. 63 teachers provided qualitative interviews with information on how they responded emotionally, which were predominantly negative in valence—concern, surprise, and frustration—and led to the prevalent use of response modulation strategies. Quasi-experimental, longitudinal research conducted among 64 teachers analyzed whether a serious game-based intervention can be effective. Emotion regulation was still a concern, however, pre-post-tests indicated that the platform supported increased use of cognitive reappraisal and coping responses for responding to cyberbullying. These findings are supportive of the need for training interventions to specifically target strengthening teachers' socio-emotional abilities, potentially contributing to early intervention and healthy school climate development. Schools can use technology-supported interventions to prompt teachers of their socio-emotional abilities and hence manage cyberbullying effectively. Future studies should use larger samples and longer longitudinal designs to adequately address and assess teachers’ emotion regulation approaches across time.
+Keywords: Student cyberbullying; Teacher awareness; Emotions; Emotion regulation; Serious game-based interventions; Teacher professional development
+
+Kweku Adams, Rexford Attah-Boakye, Honglan Yu, Irene Chu, Maria Ishaque,
+Competence and enterprise of management as drivers of early foreign listing of medium-sized emerging market multinationals (EMNEs) from Africa,
+Journal of Business Research,
+Volume 158,
+2023,
+113660,
+ISSN 0148-2963,
+https://doi.org/10.1016/j.jbusres.2023.113660.
+(https://www.sciencedirect.com/science/article/pii/S0148296323000188)
+Abstract: EMNEs from Africa are missing in global places and spaces, and Africapitalism is also meagrely represented within the capillaries of international investments, relative to the opportunities offered by globalisation and Africa’s rich natural resource endowment. Using the Penrosian MNE growth theory, we investigate how African firms' managerial competence and entrepreneurial behaviours can be enhanced by engaging foreign executive directors during pre, early and post-internationalisation. We conduct our analysis by using data from 157 companies domiciled in 17 African countries. Our results show that whilst access to liquidity, foreign managerial know-how, and experience are key drivers of early foreign listing of African EMNEs, these factors have less effect on corporate outcomes during the 3rd and 5th year without the moderating effect of foreign executive directors. We contribute to the international business and international entrepreneurship literature by showing that African EMNEs can succeed in global spaces if they leverage the expertise of foreign executive directors as they bring idiosyncratic industry and market knowledge during early internationalisation. EMNEs intending to internationalise must use a polycentric governing board structure to reflect the intended destination country. Our results imply that early listing on the international stock markets is among the key strategies latecomers use to enter a global game they are just learning to play.
+Keywords: Early internationalisation; Managerial competence; Foreign listing; Oil and gas multinationals; Africa
+
+Yaozhong Wu, Jianguang Fang, Chi Wu, Cunyi Li, Guangyong Sun, Qing Li,
+Additively manufactured materials and structures: A state-of-the-art review on their mechanical characteristics and energy absorption,
+International Journal of Mechanical Sciences,
+Volume 246,
+2023,
+108102,
+ISSN 0020-7403,
+https://doi.org/10.1016/j.ijmecsci.2023.108102.
+(https://www.sciencedirect.com/science/article/pii/S0020740323000048)
+Abstract: Lightweight materials and structures have been extensively studied for a wide range of applications in design and manufacturing of more environment-friendly and more sustainable products, such as less materials and lower energy consumption, while maintaining proper mechanical and energy absorption characteristics. Additive manufacturing (AM) or 3D printing techniques offer more freedom to realize some new designs of novel lightweight materials and structures in an efficient way. However, the rational design for desired mechanical properties of these materials and structures remains a demanding topic. This paper provides a comprehensive review on the recent advances in additively manufactured materials and structures as well as their mechanical properties with an emphasis on energy absorption applications. First, the additive manufacturing techniques used for fabricating various materials and structures are briefly reviewed. Then, a variety of lightweight AM materials and structures are discussed, together with their mechanical properties and energy-absorption characteristics. Next, the AM-induced defects, their impacts on mechanical properties and energy absorption, as well as the methods for minimizing the effects are discussed. After that, numerical modeling approaches for AM materials and structures are outlined. Furthermore, design optimization techniques are reviewed, including parametric optimization, topology optimization, and nondeterministic optimization with fabrication-induced uncertainties. Notably, data-driven and machine learning-based techniques exhibit compelling potential in design for additive manufacturing, process-property relations, and in-situ monitoring. Finally, significant challenges and future directions in this area are highlighted. This review is anticipated to provide a deep understanding of the state-of-the-art additively manufactured materials and structures, aiming to improve the future design for desired mechanical properties and energy absorption.
+Keywords: Additive manufacturing; Mechanical property; Energy absorption; Cellular material; Lattice structure; Machine learning; Optimization; Defect
+
+Thien Huynh-The, Quoc-Viet Pham, Xuan-Qui Pham, Thanh Thi Nguyen, Zhu Han, Dong-Seong Kim,
+Artificial intelligence for the metaverse: A survey,
+Engineering Applications of Artificial Intelligence,
+Volume 117, Part A,
+2023,
+105581,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2022.105581.
+(https://www.sciencedirect.com/science/article/pii/S0952197622005711)
+Abstract: Along with the massive growth of the Internet from the 1990s until now, various innovative technologies have been created to bring users breathtaking experiences with more virtual interactions in cyberspace. Many virtual environments have been developed with immersive experience and digital transformation, but most are incoherent instead of being integrated into a platform. In this context, metaverse has been introduced as a shared virtual world that is fueled by many emerging technologies. Among such technologies, artificial intelligence (AI) has shown the great importance of enhancing immersive experience and enabling human-like intelligence of virtual agents. In this survey, we make a beneficial effort to explore the role of AI, including machine learning algorithms and deep learning architectures, in the foundation and development of the metaverse. As the main contributions, we convey a comprehensive investigation of AI-based methods concerning several technical aspects (e.g., natural language processing, machine vision, blockchain, networking, digital twin, and neural interface) that have potentials to build virtual worlds in the metaverse. Furthermore, several primary AI-aided applications, including healthcare, manufacturing, smart cities, and gaming, are studied to be promisingly deployed in the virtual worlds. Finally, we conclude the key contribution and open some future research directions of AI for the metaverse. Serving as a foundational survey, this work will help researchers, including experts and non-experts in related fields, in applying, developing, and optimizing AI techniques to polish the appearance of virtual worlds and improve the quality of applications built in the metaverse.
+Keywords: Artificial intelligence; Blockchain; Deep learning; Immersive experience; Machine learning; Machine vision; Metaverse; Metaverse applications; Networking; Virtual worlds
+
+Yan Guo, Hong-Chen Liu, Fu-Jiang Liu, Wei-Hua Lin, Quan-Sen Shao, Jun-Shun Su,
+Chinese named entity recognition with multi-network fusion of multi-scale lexical information,
+Journal of Electronic Science and Technology,
+Volume 22, Issue 4,
+2024,
+100287,
+ISSN 1674-862X,
+https://doi.org/10.1016/j.jnlest.2024.100287.
+(https://www.sciencedirect.com/science/article/pii/S1674862X24000557)
+Abstract: Named entity recognition (NER) is an important part in knowledge extraction and one of the main tasks in constructing knowledge graphs. In today's Chinese named entity recognition (CNER) task, the BERT-BiLSTM-CRF model is widely used and often yields notable results. However, recognizing each entity with high accuracy remains challenging. Many entities do not appear as single words but as part of complex phrases, making it difficult to achieve accurate recognition using word embedding information alone because the intricate lexical structure often impacts the performance. To address this issue, we propose an improved Bidirectional Encoder Representations from Transformers (BERT) character word conditional random field (CRF) (BCWC) model. It incorporates a pre-trained word embedding model using the skip-gram with negative sampling (SGNS) method, alongside traditional BERT embeddings. By comparing datasets with different word segmentation tools, we obtain enhanced word embedding features for segmented data. These features are then processed using the multi-scale convolution and iterated dilated convolutional neural networks (IDCNNs) with varying expansion rates to capture features at multiple scales and extract diverse contextual information. Additionally, a multi-attention mechanism is employed to fuse word and character embeddings. Finally, CRFs are applied to learn sequence constraints and optimize entity label annotations. A series of experiments are conducted on three public datasets, demonstrating that the proposed method outperforms the recent advanced baselines. BCWC is capable to address the challenge of recognizing complex entities by combining character-level and word-level embedding information, thereby improving the accuracy of CNER. Such a model is potential to the applications of more precise knowledge extraction such as knowledge graph construction and information retrieval, particularly in domain-specific natural language processing tasks that require high entity recognition precision.
+Keywords: Bi-directional long short-term memory (BiLSTM); Chinese named entity recognition (CNER); Iterated dilated convolutional neural network (IDCNN); Multi-network integration; Multi-scale lexical features
+
+Kolar Tomaž, Wattanacharoensil Walanchalee,
+One does not simply … project a destination image within a participatory culture,
+Journal of Destination Marketing & Management,
+Volume 18,
+2020,
+100494,
+ISSN 2212-571X,
+https://doi.org/10.1016/j.jdmm.2020.100494.
+(https://www.sciencedirect.com/science/article/pii/S2212571X20301165)
+Abstract: This study examines how internet memes, as an increasingly relevant and conceptually distinctive type of user-generated content (UGC), represent Thailand's destination image and how such representation differs from established destination image sources. For this purpose, participatory culture is first proposed as an alternative conceptual framework, followed by empirical research, which upgrades visual content analysis (VCA) with semiotic analysis. The findings of VCA reveal that memes yield a markedly different representation of Thailand as they introduce an entire cluster of peculiar and controversial themes, which are not depicted on destination marketing organization (DMO) and TripAdvisor photos. Semiotic analysis, in addition, uncovers that memetic representation is evocative and conveys a layer of symbolic notions and alluding connotations. In this manner, findings attest that memes are a semantically rich format and genre of UGC, which expands existing knowledge about destination-image formation and representation on social media. Managerial implications, limitations, and recommendations for future research in this domain are also discussed.
+Keywords: Destination image; Internet memes; UGC format; Participatory culture; Online humor; Content analysis; Semiotic analysis
+
+Md. Rajib Hossain, Mohammed Moshiul Hoque, Nazmul Siddique, M. Ali Akber Dewan,
+AraCovTexFinder: Leveraging the transformer-based language model for Arabic COVID-19 text identification,
+Engineering Applications of Artificial Intelligence,
+Volume 133, Part A,
+2024,
+107987,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2024.107987.
+(https://www.sciencedirect.com/science/article/pii/S0952197624001453)
+Abstract: In light of the pandemic, the identification and processing of COVID-19-related text have emerged as critical research areas within the field of Natural Language Processing (NLP). With a growing reliance on online portals and social media for information exchange and interaction, a surge in online textual content, comprising disinformation, misinformation, fake news, and rumors has led to the phenomenon of an infodemic on the World Wide Web. Arabic, spoken by over 420 million people worldwide, stands as a significant low-resource language, lacking efficient tools or applications for the detection of COVID-19-related text. Additionally, the identification of COVID-19 text is an essential prerequisite task for detecting fake and toxic content associated with COVID-19. This gap hampers crucial COVID information retrieval and processing necessary for policymakers and health authorities. Addressing this issue, this paper introduces an intelligent Arabic COVID-19 text identification system named ‘AraCovTexFinder,’ leveraging a fine-tuned fusion-based transformer model. Recognizing the challenges posed by a scarcity of related text corpora, substantial morphological variations in the language, and a deficiency of well-tuned hyperparameters, the proposed system aims to mitigate these hurdles. To support the proposed method, two corpora are developed: an Arabic embedding corpus (AraEC) and an Arabic COVID-19 text identification corpus (AraCoV). The study evaluates the performance of six transformer-based language models (mBERT, XML-RoBERTa, mDeBERTa-V3, mDistilBERT, BERT-Arabic, and AraBERT), 12 deep learning models (combining Word2Vec, GloVe, and FastText embedding with CNN, LSTM, VDCNN, and BiLSTM), and the newly introduced model AraCovTexFinder. Through extensive evaluation, AraCovTexFinder achieves a high accuracy of 98.89 ± 0.001%, outperforming other baseline models, including transformer-based language and deep learning models. This research highlights the importance of specialized tools in low-resource languages to combat the infodemic relating to COVID-19, which can assist policymakers and health authorities in making informed decisions.
+Keywords: Natural language processing; Low-resource text identification; Text processing; Language model; Arabic covid text; Ablation study; Late-fusion
+
+Francesco Lupi, Mohammed M. Mabkhot, Eleonora Boffa, Pedro Ferreira, Dario Antonelli, Antonio Maffei, Niels Lohse, Michele Lanzetta,
+Automatic definition of engineer archetypes: A text mining approach,
+Computers in Industry,
+Volume 152,
+2023,
+103996,
+ISSN 0166-3615,
+https://doi.org/10.1016/j.compind.2023.103996.
+(https://www.sciencedirect.com/science/article/pii/S016636152300146X)
+Abstract: With the rapid and continuous advancements in technology, as well as the constantly evolving competences required in the field of engineering, there is a critical need for the harmonization and unification of engineering professional figures or archetypes. The current limitations in tymely defining and updating engineers' archetypes are attributed to the absence of a structured and automated approach for processing educational and occupational data sources that evolve over time. This study aims to enhance the definition of professional figures in engineering by automating archetype definitions through text mining and adopting a more objective and structured methodology based on topic modeling. This will expand the use of archetypes as a common language, bridging the gap between educational and occupational frameworks by providing a unified and up-to-date engineering professional figure tailored to a specific period, specialization type, and level. We validate the automatically defined industrial engineer archetype against our previously manually defined profile.
+Keywords: Text mining; Engineering; Professional profile; Archetype; Latent dirichlet allocation; Industry 4.0
+
+Claudio Ferrari, Stefano Berretti, Pietro Pala, Alberto Del Bimbo,
+Measuring 3D face deformations from RGB images of expression rehabilitation exercises,
+Virtual Reality & Intelligent Hardware,
+Volume 4, Issue 4,
+2022,
+Pages 306-323,
+ISSN 2096-5796,
+https://doi.org/10.1016/j.vrih.2022.05.004.
+(https://www.sciencedirect.com/science/article/pii/S2096579622000456)
+Abstract: Background
+The accurate (quantitative) analysis of 3D face deformation is a problem of increasing interest in many applications. In particular, defining a 3D model of the face deformation into a 2D target image to capture local and asymmetric deformations remains a challenge in existing literature. A measure of such local deformations may be a relevant index for monitoring the rehabilitation exercises of patients suffering from Parkinson’s or Alzheimer’s disease or those recovering from a stroke.
+Methods
+In this paper, a complete framework that allows the construction of a 3D morphable shape model (3DMM) of the face is presented for fitting to a target RGB image. The model has the specific characteristic of being based on localized components of deformation. The fitting transformation is performed from 3D to 2D and guided by the correspondence between landmarks detected in the target image and those manually annotated on the average 3DMM. The fitting also has the distinction of being performed in two steps to disentangle face deformations related to the identity of the target subject from those induced by facial actions.
+Results
+The method was experimentally validated using the MICC-3D dataset, which includes 11 subjects. Each subject was imaged in one neutral pose and while performing 18 facial actions that deform the face in localized and asymmetric ways. For each acquisition, 3DMM was fit to an RGB frame whereby, from the apex facial action and the neutral frame, the extent of the deformation was computed. The results indicate that the proposed approach can accurately capture face deformation, even localized and asymmetric deformations.
+Conclusion
+The proposed framework demonstrated that it is possible to measure deformations of a reconstructed 3D face model to monitor facial actions performed in response to a set of targets. Interestingly, these results were obtained using only RGB targets, without the need for 3D scans captured with costly devices. This paves the way for the use of the proposed tool in remote medical rehabilitation monitoring.
+Keywords: 3D morphable face model; Sparse and locally coherent 3DMM components; Local and asymmetric; Face deformations; Face rehabilitation; Face deformation measure
+
+
+Full Issue PDF,
+JACC: Advances,
+Volume 2, Issue 7,
+2023,
+100639,
+ISSN 2772-963X,
+https://doi.org/10.1016/S2772-963X(23)00615-4.
+(https://www.sciencedirect.com/science/article/pii/S2772963X23006154)
+
+Mais Haj Bakri, Ali Can Özarslan, Azime Erarslan, Yeliz Basaran Elalmis, Fatih Ciftci,
+Biomedical applications of wearable biosensors,
+Next Materials,
+Volume 3,
+2024,
+100084,
+ISSN 2949-8228,
+https://doi.org/10.1016/j.nxmate.2023.100084.
+(https://www.sciencedirect.com/science/article/pii/S2949822823000849)
+Abstract: Over the last decade, both scientific and commercial communities have focused on developing wearable sensors for biomedical use. These sensors monitor vital signs in various individuals, including patients, athletes, infants, and the elderly. They contribute to mobile health technologies, offering real-time health recommendations and management. Wearable and implantable devices are reshaping healthcare, driven by sensor advancements. Biosensors, known for their simplicity and adaptability, hold significant potential. This review focuses on categorizing wearable biosensors, including classifying biological elements, nanomaterials, and transducers. It also examines the various types of wearable sensors, specialized sensor designs, applications in textile materials, wearable medical devices, and the advantages of biosensors in medicine. Comprehensive analysis of the various applications of wearable biotechnology while addressing the challenges and possible remedies associated with wearable technology were reviewed.
+Keywords: Wearable biosensors; Functional nanomaterials; Stretchable electronics
+
+Ruichan Lv, Micah Raab, Yanxing Wang, Jie Tian, Jun Lin, Paras N. Prasad,
+Nanochemistry advancing photon conversion in rare-earth nanostructures for theranostics,
+Coordination Chemistry Reviews,
+Volume 460,
+2022,
+214486,
+ISSN 0010-8545,
+https://doi.org/10.1016/j.ccr.2022.214486.
+(https://www.sciencedirect.com/science/article/pii/S0010854522000819)
+Abstract: Rare-earth (RE) doped nanoparticles show unique features of photon conversion from an incident wavelength to a more suitable wavelength at an intended biological site, thus enhancing the scope of theranostics. A number of reviews have already addressed biomedical applications of photon upconversion luminescence (UCL) from infrared (IR) to a shorter wavelength. However, there has been a great deal of recent interest in using photon downshifting luminescence (DSL) in RE ions to produce wavelengths in the near infrared (NIR) optical transparency windows such as NIR II and NIR III to enable deep tissue penetration with significantly less scattering for 3D deep tissue imaging. This review is unique in scope and distinct from past reviews as we present nanochemistry approaches assisted by the new area of materials informatics utilizing artificial intelligence (AI) and machine learning to produce optimized multishell nanostructures containing RE ions. It introduces approaches for photosentitization utilizing new mechanisms of energy transfer for photon harvesting by strongly absorbing dye antennas to produce highly efficient both photon UCL and DSL (in some cases concurrently). This includes dye conjugation for sensitization, luminescence modulation by metal and other elemental co-doping, core-multishell structure for controlling excitation dynamics with minimal heating, and hierarchical composite nanostructures for multimodal MRI, CT, photoacoustic, cerenkov, UCL, and NIR II imaging. It presents AI machine learning assisted material informatics including discrete dipole approximation (DDA) simulation, heuristic algorithms (HAs), logistic regression (LR), and support vector machine (SVM) as providing valuable insight for nanochemistry by searching optimized element, concentration, and key influence element, which can improve the efficiency compared with the conventional “trial and error” method or intuitive experiments. We describe surface modification of these photonic nanoprobes for in vitro/ vivo deep tissue bioimaging, and for multimodal imaging. Also, the probes can be used for sensing, accurate NIR nanothermometry, theranostics, and imaging guided synergistic photodynamic therapy (PDT), photothermal therapy (PTT), photoactive therapy, and controlled drug release. Selected examples of theranostics such as the brain theranostics with neurophotonics, preclinical surgery navigation with the developed NIR II imaging are provided. We hope that this timely account of our current understanding and status of preclinically used RE luminescence probes will hopefully entice an abroad range of scientists in different disciplineses.
+Keywords: Nanochemistry; Photo conversion; Rare earth; Theronostics
+
+Ajay Vikram Singh, Vaisali Chandrasekar, Poonam Janapareddy, Divya Elsa Mathews, Peter Laux, Andreas Luch, Yin Yang, Beatriz Garcia-Canibano, Shidin Balakrishnan, Julien Abinahed, Abdulla Al Ansari, Sarada Prasad Dakua,
+Emerging Application of Nanorobotics and Artificial Intelligence To Cross the BBB: Advances in Design, Controlled Maneuvering, and Targeting of the Barriers,
+ACS Chemical Neuroscience,
+Volume 12, Issue 11,
+2021,
+Pages 1835-1853,
+ISSN 1948-7193,
+https://doi.org/10.1021/acschemneuro.1c00087.
+(https://www.sciencedirect.com/science/article/pii/S1948719321000207)
+Abstract: The blood–brain barrier (BBB) is a prime focus for clinicians to maintain the homeostatic function in health and deliver the theranostics in brain cancer and number of neurological diseases. The structural hierarchy and in situ biochemical signaling of BBB neurovascular unit have been primary targets to recapitulate into the in vitro modules. The microengineered perfusion systems and development in 3D cellular and organoid culture have given a major thrust to BBB research for neuropharmacology. In this review, we focus on revisiting the nanoparticles based bimolecular engineering to enable them to maneuver, control, target, and deliver the theranostic payloads across cellular BBB as nanorobots or nanobots. Subsequently we provide a brief outline of specific case studies addressing the payload delivery in brain tumor and neurological disorders (e.g., Alzheimer’s disease, Parkinson’s disease, multiple sclerosis, etc.). In addition, we also address the opportunities and challenges across the nanorobots’ development and design. Finally, we address how computationally powered machine learning (ML) tools and artificial intelligence (AI) can be partnered with robotics to predict and design the next generation nanorobots to interact and deliver across the BBB without causing damage, toxicity, or malfunctions. The content of this review could be references to multidisciplinary science to clinicians, roboticists, chemists, and bioengineers involved in cutting-edge pharmaceutical design and BBB research.
+
+Keywords: Blood−brain barrier; nanorobots; transcytosis; machine learning and artificial intelligence; bioengineering; nanoparticles
+
+Billie F. Spencer, Vedhus Hoskere, Yasutaka Narazaki,
+Advances in Computer Vision-Based Civil Infrastructure Inspection and Monitoring,
+Engineering,
+Volume 5, Issue 2,
+2019,
+Pages 199-222,
+ISSN 2095-8099,
+https://doi.org/10.1016/j.eng.2018.11.030.
+(https://www.sciencedirect.com/science/article/pii/S2095809918308130)
+Abstract: Computer vision techniques, in conjunction with acquisition through remote cameras and unmanned aerial vehicles (UAVs), offer promising non-contact solutions to civil infrastructure condition assessment. The ultimate goal of such a system is to automatically and robustly convert the image or video data into actionable information. This paper provides an overview of recent advances in computer vision techniques as they apply to the problem of civil infrastructure condition assessment. In particular, relevant research in the fields of computer vision, machine learning, and structural engineering is presented. The work reviewed is classified into two types: inspection applications and monitoring applications. The inspection applications reviewed include identifying context such as structural components, characterizing local and global visible damage, and detecting changes from a reference image. The monitoring applications discussed include static measurement of strain and displacement, as well as dynamic measurement of displacement for modal analysis. Subsequently, some of the key challenges that persist toward the goal of automated vision-based civil infrastructure and monitoring are presented. The paper concludes with ongoing work aimed at addressing some of these stated challenges.
+Keywords: Structural inspection and monitoring; Artificial intelligence; Computer vision; Machine learning; Optical flow
+
+
+Full Issue PDF,
+JACC: Advances,
+Volume 3, Issue 5,
+2024,
+101002,
+ISSN 2772-963X,
+https://doi.org/10.1016/S2772-963X(24)00191-1.
+(https://www.sciencedirect.com/science/article/pii/S2772963X24001911)
+
+Qiwu Jiang, Suhan Yang, Shan He, Fei Li,
+AI drug discovery tools and analysis technology: New methods aid in studying the compatibility of Traditional Chinese Medicine,
+Pharmacological Research - Modern Chinese Medicine,
+Volume 14,
+2025,
+100566,
+ISSN 2667-1425,
+https://doi.org/10.1016/j.prmcm.2024.100566.
+(https://www.sciencedirect.com/science/article/pii/S2667142524002082)
+Abstract: Introduction
+The compatibility of Traditional Chinese Medicine (TCM) holds the potential for reducing toxicity and enhancing efficacy, serving as a crucial guide for the clinical application of TCM. In recent years, the development of artificial intelligence (AI) drug discovery tools has introduced novel approaches for analyzing the multichemical components of TCM, thereby saving time and efforts in experiments.
+Methods
+The keywords "Traditional Chinese Medicine" and "Artificial Intelligence", "Traditional Chinese Medicine" and "drug compatibility" were searched across various literature databases, including Web of Science, Google Scholar, PubMed, and Elsevier. Over 100 articles were reviewed, and after narrowing the selection to those focused on compatibility, the chosen studies were carefully analyzed to summarize the latest developments for this review.
+Results
+The review introduce AI drug discovery tools, including virtual screening, target prediction, ADMET prediction, and data mining, along with their roles in studying TCM compatibility. The results further provide insights of AI's application in TCM combination prediction, TCM compatibility mechanisms, and optimization of TCM compatibility ratio within the TCM compatibility research field.
+Discussion
+Traditional Chinese Medicine uses holistic formulas involving multiple components, targets, and pathways for disease treatment, but scientific explanations of these formulas are limited. AI aids TCM research by predicting combinations, mechanisms, and optimizing ratios, which improves efficiency and reducing costs. However, AI predictions may not be definitely accurate, and traditional expertise is still essential for validation. Future applications of AI in TCM require improved tools and collaboration between AI and TCM researchers.
+Keywords: Traditional Chinese Medicine compatibility; AI drug discovery tool; Combination prediction; Compatibility mechanisms; Compatibility ratio optimization
+
+Monika Sharma, Pankaj Pal, Sukesh Kumar Gupta,
+Advances in Alzheimer's disease: A multifaceted review of potential therapies and diagnostic techniques for early detection,
+Neurochemistry International,
+Volume 177,
+2024,
+105761,
+ISSN 0197-0186,
+https://doi.org/10.1016/j.neuint.2024.105761.
+(https://www.sciencedirect.com/science/article/pii/S0197018624000883)
+Abstract: Alzheimer's disease (AD) remains one of the most formidable neurological disorders, affecting millions globally. This review provides a holistic overview of the therapeutic strategies, both conventional and novel, aimed at mitigating the impact of AD. Initially, we delve into the conventional approach, emphasizing the role of Acetylcholinesterase (AChE) inhibition, which has been a cornerstone in AD management. As our understanding of AD evolves, several novel potential approaches emerge. We discuss the promising roles of Butyrylcholinesterase (BChE) inhibition, Tau Protein inhibitors, COX-2 inhibition, PPAR-γ agonism, and FAHH inhibition, among others. The potential of the endocannabinoids (eCB) system, cholesterol-lowering drugs, metal chelators, and MMPs inhibitors are also explored, culminating in the exploration of the pivotal role of microRNA in AD progression. Parallel to these therapeutic insights, we shed light on the novel tools and methodologies revolutionizing AD research. From the quantitative analysis of gene expression by qRTPCR to the evaluation of mitochondrial function using induced pluripotent stem cells (iPSCs), the advances in diagnostic and research tools offer renewed hope. Moreover, we explore the current landscape of clinical trials, highlighting the leading drug interventions and their respective stages of development. This comprehensive review concludes with a look into the future perspectives, capturing the potential breakthroughs and innovations on the horizon. Through a synthesis of current knowledge and emerging research, this article aims to provide a consolidated resource for clinicians, researchers, and academicians in the realm of Alzheimer's disease.
+Keywords: COX-2; PPAR-γ; qRT-PCR; MicroRNA; Mitochondrial dysfunction
+
+Crystal T. Lee, Yung-Cheng Shen,
+Exploring determinants of non-fungible token creators’ engagement behaviors on metaverse-based NFT platforms: A multi-analytical SEM-IPMA method,
+Journal of Business Research,
+Volume 185,
+2024,
+114920,
+ISSN 0148-2963,
+https://doi.org/10.1016/j.jbusres.2024.114920.
+(https://www.sciencedirect.com/science/article/pii/S0148296324004247)
+Abstract: The advancing technologies of blockchain and Web 3.0 are transforming the decentralized nature of the Internet. Token-based services, particularly nonfungible tokens (NFTs), are innovative methods of performing financial transactions that have contributed to the growth of crypto commerce. Previous studies on NFT have focused on the role of investors, with a limited understanding of NFT creators. This study aims to provide a comprehensive examination of how NFT technology is utilized in cryptographic art by NFT creators. Based on the uses and gratifications (U&G) theory, the research utilizes a mixed-method approach combining in-depth interviews and online surveys of 1331 NFT creators from eight prominent NFT platforms. The results demonstrated that content and reward gratification were associated with NFT creation identification, whereas social gratification facilitated community identification. Both NFT and community identification facilitate consumption and creation behaviors. We also discussed theoretical and practical implications for stakeholders.
+Keywords: NFT; Uses and gratifications (U&G); NFT creators; Web 3.0; Blockchain
+
+Kosaku Nakano, Sophia Vögler, Kenji Tanaka,
+Advancing state of health estimation for electric vehicles: Transformer-based approach leveraging real-world data,
+Advances in Applied Energy,
+Volume 16,
+2024,
+100188,
+ISSN 2666-7924,
+https://doi.org/10.1016/j.adapen.2024.100188.
+(https://www.sciencedirect.com/science/article/pii/S266679242400026X)
+Abstract: The widespread adoption of electric vehicles (EVs) underscores the urgent need for innovative approaches to estimate their lithium-ion batteries’ state of health (SOH), which is crucial for ensuring safety and efficiency. This study introduces SOH-TEC, a transformer encoder-based model that processes raw time-series battery and vehicle-related data from a single EV trip to estimate the SOH. Unlike conventional methods that rely on lab-experimented battery cycle data, SOH-TEC utilizes real-world EV operation data, enhancing practical application. The model is trained and evaluated on a real-world dataset collected over nearly three years from three EVs. This dataset includes reliable SOH labels obtained through periodic constant-current full-discharge tests using a chassis dynamometer. Despite the challenges posed by noisy EV real-world data, the model shows high accuracy, with a mean absolute error of 0.72% and a root mean square error of 1.17%. Moreover, our proposed pre-training strategies with unlabeled data, particularly SOH ordinal comparison, significantly enhance the model’s performance; using only 50% of the labeled data achieves results nearly identical to those obtained with the full dataset. Self-attention map analysis reveals that the model primarily focuses on stationary or consistent driving periods to estimate SOH. While the study is constrained by a dataset featuring repetitive driving patterns, it highlights the significant potential of transformer for SOH estimation in EVs and offers valuable insights for future data collection and model development.
+Keywords: Lithium-ion battery; Electric vehicle; State of health estimation; Deep learning; Transformer
+
+Mustafa Alhasan, Mohamed Hasaneen,
+Digital imaging, technologies and artificial intelligence applications during COVID-19 pandemic,
+Computerized Medical Imaging and Graphics,
+Volume 91,
+2021,
+101933,
+ISSN 0895-6111,
+https://doi.org/10.1016/j.compmedimag.2021.101933.
+(https://www.sciencedirect.com/science/article/pii/S0895611121000823)
+Abstract: The advancement of technology remained an immersive interest for humankind throughout the past decades. Tech enterprises offered a stream of innovation to address the universal healthcare concerns. The novel coronavirus holds a substantial foothold of planet earth which is combatted by digital interventions across afflicted geographical boundaries and territories. This study aims to explore the trends of modern healthcare technologies and Artificial Intelligence (AI) during COVID-19 crisis, define the concepts and clinical role of AI in the mitigation of COVID-19, investigate and correlate the efficacy of AI-enabled technology in medical imaging during COVID-19 and determine advantages, drawbacks, and challenges of artificial intelligence during COVID-19 pandemic. The paper applied systematic review approach using a deliberated research protocol and Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) flow chart. Digital technologies can coordinate COVID-19 responses in a cascade fashion that extends from the clinical care facility to the exterior of the pending viral epicenter. With cases of healthcare robotics, aerial drones, and the internet of things as evidentiary examples. PCR tests and medical imaging are the frontier diagnostics of COVID-19. Computed tomography helped to correct the accuracy variation of PCR tests at a clinical sensitivity of 98 %. Artificial intelligence can enable autonomous COVID-19 responses using techniques like machine learning. Technology could be an endless system of innovation and opportunities when sourced effectively. Scientists can utilize technology to resolve global concerns challenging the history of tangible possibility. Digital interventions have enhanced the responses to COVID-19, magnified the role of medical imaging amid the COVID-19 crisis and have exposed healthcare professionals to the opportunity of contactless care.
+Keywords: Healthcare; Digital technologies; Artificial intelligence; Machine learning; COVID-19; Medical imaging
+
+Matías Mascitti,
+The Metaverse impact on the politics means,
+Computer Law & Security Review,
+Volume 55,
+2024,
+106037,
+ISSN 2212-473X,
+https://doi.org/10.1016/j.clsr.2024.106037.
+(https://www.sciencedirect.com/science/article/pii/S0267364924001031)
+Abstract: Here, I pose a hypothetical scenario starring the Metaverse arrival in fifteen years. First, I describe this network of networks. Then, I provide some notes on the Metaverse impact on the politics means in the constitutional states, i.e., rule of law, democracy, and human rights. Next, I propose some measures to fit that political means to the Metaverse ecosystem. Hence, they will serve as the basis for the Metaverse regulation in advance and -in turn- they will be useful as a starting point for the academic debate and will enlighten us for the analysis of concepts and institutions that today require reforms because they are not suitable for the regulation of intersubjective conducts in the digital era; e.g., civil liability for damage caused by robotics and autonomous systems, 'unlimited' power of Terms of service imposition by largest internet platforms, real democracy weakness, data and privacy protection by the use of extended reality tools, non-personal data protection.
+Keywords: Metaverse; Hypothetical scenario; Rule of law; Democracy; Human rights; Adaptation
+
+Nuria Rodríguez-Barroso, Goran Stipcich, Daniel Jiménez-López, José Antonio Ruiz-Millán, Eugenio Martínez-Cámara, Gerardo González-Seco, M. Victoria Luzón, Miguel Angel Veganzones, Francisco Herrera,
+Federated Learning and Differential Privacy: Software tools analysis, the Sherpa.ai FL framework and methodological guidelines for preserving data privacy,
+Information Fusion,
+Volume 64,
+2020,
+Pages 270-292,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2020.07.009.
+(https://www.sciencedirect.com/science/article/pii/S1566253520303213)
+Abstract: The high demand of artificial intelligence services at the edges that also preserve data privacy has pushed the research on novel machine learning paradigms that fit these requirements. Federated learning has the ambition to protect data privacy through distributed learning methods that keep the data in its storage silos. Likewise, differential privacy attains to improve the protection of data privacy by measuring the privacy loss in the communication among the elements of federated learning. The prospective matching of federated learning and differential privacy to the challenges of data privacy protection has caused the release of several software tools that support their functionalities, but they lack a unified vision of these techniques, and a methodological workflow that supports their usage. Hence, we present the Sherpa.ai Federated Learning framework that is built upon a holistic view of federated learning and differential privacy. It results from both the study of how to adapt the machine learning paradigm to federated learning, and the definition of methodological guidelines for developing artificial intelligence services based on federated learning and differential privacy. We show how to follow the methodological guidelines with the Sherpa.ai Federated Learning framework by means of a classification and a regression use cases.
+Keywords: Federated learning; Differential privacy; Software framework; Sherpa.ai Federated Learning framework
+
+Jenny K. Sjöström, Richard Gyllencreutz, Antonio Martínez Cortizas, Andreas Nylund, Sanna R. Piilo, Frederik Schenk, Michelle McKeown, Eleonor E. Ryberg, Malin E. Kylander,
+Holocene storminess dynamics in northwestern Ireland: Shifts in storm duration and frequency between the mid- and late Holocene,
+Quaternary Science Reviews,
+Volume 337,
+2024,
+108803,
+ISSN 0277-3791,
+https://doi.org/10.1016/j.quascirev.2024.108803.
+(https://www.sciencedirect.com/science/article/pii/S0277379124003044)
+Abstract: Substantial uncertainties exist regarding how future climate change will affect storminess (storm frequency and intensity) in Ireland and the United Kingdom (UK). Knowledge about spatiotemporal variations of past storminess gives us a better understanding of its mechanisms on centennial to millennial time scales, as well as the impact of external forcing on future storminess in climate models. Here, we present the oldest storm record to date from Ireland, covering the last 8000 years, reconstructed from the Roycarter Bog, a coastal blanket bog in north-western Ireland. The sequence was analysed for grain-size, chemical, mineral and organic molecular composition. The chronology was built on 11 AMS radiocarbon dates. The deposit characteristics, location and low inorganic content suggest aeolian transport of particles to the bog throughout the studied period. Cluster analysis of the grain-size frequency curves, along with the coarse to fine sand ratio, allowed the identification of eleven storm periods (cal yr BP): 6150–5500 (1); 4970–4130 (2); 4000 (3); 3490–3290 (4); 3230 (5); 2850–2590 (6); 2170–1920 (7); 1440 (8); 1225–890 (9); 620–470 (10); and 290–230 (11). During the mid-Holocene, the relative sea level was lower and the local beach sources located further away, giving a longer transport distance compared to the late Holocene. In the latter part of the mid-Holocene (6150–4130 cal yr BP), during the Holocene thermal maximum, increased storminess and wind strengths were inferred for north-western Ireland, manifested as two longer storm periods. During the late Holocene the storm frequency increased, and a greater number (9) of shorter storm periods were recorded. Comparison between our results and regional peat palaeostorm records from Scotland, north of our study site, showed an antiphase relationship between storminess in Ireland and Scotland during the latter part of the mid-Holocene, but mostly in-phase storminess over the last 3000 years. Taken together, enhanced wind strength and storminess were recorded during the warmer mid-Holocene, while an increased frequency of storm events occurred in the cooler late Holocene. Mid-Holocene storm periods occurred during locally wet periods, while most of the storm periods during late Holocene occurred during drier phases. Alternatively, the elevated mineral input during late Holocene promoted microbial activity and peat decomposition. The apparent variability in cyclicity and frequency between the mid- and late Holocene indicates that the processes governing storminess in the region shifted. This calls for further studies ahead, including climate modelling, to disentangle the complex processes governing storminess on millennial to centennial time scale.
+
+Tomasz Boruta,
+Computation-aided studies related to the induction of specialized metabolite biosynthesis in microbial co-cultures: An introductory overview,
+Computational and Structural Biotechnology Journal,
+Volume 21,
+2023,
+Pages 4021-4029,
+ISSN 2001-0370,
+https://doi.org/10.1016/j.csbj.2023.08.011.
+(https://www.sciencedirect.com/science/article/pii/S2001037023002866)
+Abstract: Co-cultivation is an effective method of inducing the production of specialized metabolites (SMs) in microbial strains. By mimicking the ecological interactions that take place in natural environment, this approach enables to trigger the biosynthesis of molecules which are not formed under monoculture conditions. Importantly, microbial co-cultivation may lead to the discovery of novel chemical entities of pharmaceutical interest. The experimental efforts aimed at the induction of SMs are greatly facilitated by computational techniques. The aim of this overview is to highlight the relevance of computational methods for the investigation of SM induction via microbial co-cultivation. The concepts related to the induction of SMs in microbial co-cultures are briefly introduced by addressing four areas associated with the SM induction workflows, namely the detection of SMs formed exclusively under co-culture conditions, the annotation of induced SMs, the identification of SM producer strains, and the optimization of fermentation conditions. The computational infrastructure associated with these areas, including the tools of multivariate data analysis, molecular networking, genome mining and mathematical optimization, is discussed in relation to the experimental results described in recent literature. The perspective on the future developments in the field, mainly in relation to the microbiome-related research, is also provided.
+Keywords: Co-culture; Specialized metabolites; Data analysis; Molecular networks; Genome mining; Optimization
+
+
+Proceedings to the 58th Annual Conference of the Particle Therapy Cooperative Group (PTCOG58),
+International Journal of Particle Therapy,
+Volume 6, Issue 4,
+2020,
+Pages 45-491,
+ISSN 2331-5180,
+https://doi.org/10.14338/IJPT.19-PTCOG-6.4.
+(https://www.sciencedirect.com/science/article/pii/S2331518023001518)
+
+Antoni Burguera, Francisco Bonin-Font,
+Visual Loop Detection in Underwater Robotics: an Unsupervised Deep Learning Approach⁎⁎This work is partially supported by Ministry of Economy and Competitiveness under contracts DPI2017-86372-C3-3-R (AEI,FEDER,UE) and TIN2014-58662-R (AEI,FEDER,UE).,
+IFAC-PapersOnLine,
+Volume 53, Issue 2,
+2020,
+Pages 14656-14661,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2020.12.1476.
+(https://www.sciencedirect.com/science/article/pii/S2405896320318899)
+Abstract: This paper presents a novel Deep Neural Network aimed at fast and robust visual loop detection targeted to underwater images. In order to help the proposed network to learn the features that define loop closings, a global image descriptor built upon clusters of local SIFT descriptors is proposed. Also, a method allowing unsupervised training is presented, eliminating the need for a hand-labelled ground truth. Once trained, the Neural Network builds two descriptors of an image that can be easily compared to other image descriptors to ascertain if they close a loop or not. The experimental results, performed using real data gathered in coastal areas of Mallorca (Spain), show the validity of our proposal and favourably compares it to previously existing methods.
+Keywords: Robot vision; underwater robotics; neural networks; loop detection; SLAM
+
+Ramona Bongelli, Alessia Bertolazzi, Marina Paolanti, Ilaria Riccioni,
+Exploring online patient-doctor interactions. An epistemic and pragmatic analysis of Q&A patterns in an Italian “Ask to the doctor” medical forum,
+Patient Education and Counseling,
+Volume 134,
+2025,
+108662,
+ISSN 0738-3991,
+https://doi.org/10.1016/j.pec.2025.108662.
+(https://www.sciencedirect.com/science/article/pii/S0738399125000291)
+Abstract: The main objective of this research is to investigate the epistemic and pragmatic management of patient-doctor interactions in Italian online health communities. To achieve this goal, an advanced web scraping methodology was used to extract from an Italian Q&A service (within the healthcare platforms, Il Mio Dottore) 200 pairs of questions and answers concerning two pathological conditions: anxiety and hypothyroidism. We first tagged the two sub-corpora and analyzed them both quantitatively and qualitatively to establish (i) what types of questions were used by patients, and what epistemic attitude and pragmatic function they convey; (ii) whether doctors’ replies were aligned or not; (iii) whether there were differences between the two sub-corpora. The results revealed many similarities between the two sub-corpora, but also some differences, mainly concerning doctors’ response patterns, with a tendency towards misalignment more pronounced in the anxiety sub-corpus. The practical implications of this and similar research may be numerous. First, they can improve understanding of the epistemic and pragmatic dynamics at play in Q&A services. Secondly, such knowledge can be used to formulate practical recommendations to foster better alignment with patients, thereby improving their engagement. Finally, this knowledge can guide the development of chatbot design guidelines.
+Keywords: Medical forum; Q&A services; Anxiety; Hypothyroidism; Questions; Answers; Epistemic positions
+
+Heather R. Dial, Eduardo Europa, Stephanie M. Grasso, Maria Luisa Mandelli, Kristin M. Schaffer, H. Isabel Hubbard, Lisa D. Wauters, Lindsey Wineholt, Stephen M. Wilson, Maria Luisa Gorno-Tempini, Maya L. Henry,
+Baseline structural imaging correlates of treatment outcomes in semantic variant primary progressive aphasia,
+Cortex,
+Volume 158,
+2023,
+Pages 158-175,
+ISSN 0010-9452,
+https://doi.org/10.1016/j.cortex.2022.10.004.
+(https://www.sciencedirect.com/science/article/pii/S0010945222002829)
+Abstract: Semantic variant primary progressive aphasia (svPPA) is a neurodegenerative disorder characterized by a loss of semantic knowledge in the context of anterior temporal lobe atrophy (left > right). Core features of svPPA include anomia and single-word comprehension impairment. Despite growing evidence supporting treatment for anomia in svPPA, there is a paucity of research investigating neural mechanisms supporting treatment-induced gains and generalization to untrained items. In the current study, we examined the relation between the structural integrity of brain parenchyma (tissue inclusive of gray and white matter) at pre-treatment and treatment outcomes for trained and untrained items in a group of 19 individuals with svPPA who completed lexical retrieval treatment. Two structural neuroimaging approaches were used: an exploratory, whole-brain, voxel-wise approach and an a priori region of interest (ROI) approach. Based on previous research, bilateral temporal (inferior, middle, and superior temporal gyri), parietal (supramarginal and angular gyri), frontal (inferior and middle frontal gyri) and medial temporal (hippocampus and parahippocampal gyri) ROIs were selected from the Automated Anatomical Labeling (AAL) atlas. Analyses revealed improved naming of trained items and generalization to untrained items following treatment, providing converging evidence that individuals with svPPA can benefit from treatment for anomia. Better post-treatment naming accuracy was associated with the structural integrity of inferior parietal cortex and the hippocampus. Specifically, improved naming of trained items was related to the left supramarginal (phonological processing) and angular gyri (phonological and semantic processing), and improved naming of trained and untrained items was related to the left hippocampus (episodic, context-based memory). Future research should examine treatment outcomes in relation to pre-treatment functional and structural connectivity as well as changes in network dynamics following speech-language intervention to further elucidate the neural mechanisms underlying treatment response in svPPA and related disorders.
+Keywords: Semantic variant primary progressive aphasia; Lexical retrieval treatment; Magnetic resonance imaging; Anomia; Treatment outcomes
+
+Xieling Chen, Haoran Xie, Zongxi Li, Gary Cheng,
+Topic analysis and development in knowledge graph research: A bibliometric review on three decades,
+Neurocomputing,
+Volume 461,
+2021,
+Pages 497-515,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2021.02.098.
+(https://www.sciencedirect.com/science/article/pii/S0925231221009528)
+Abstract: Knowledge graph as a research topic is increasingly popular to represent structural relations between entities. Recent years have witnessed the release of various open-source and enterprise-supported knowledge graphs with dramatic growth in applying knowledge representation and reasoning into different areas like natural language processing and computer vision. This study aims to comprehensively explore the status and trends – particularly the thematic research structure – of knowledge graphs. Specifically, based on 386 research articles published from 1991 to 2020, we conducted analyses in terms of the (1) visualization of the trends of annual article and citation counts, (2) recognition of major institutions, countries/regions, and publication sources, (3) visualization of scientific collaborations of major institutions and countries/regions, and (4) detection of major research themes and their developmental tendencies. Interest in knowledge graph research has clearly increased from 1991 to 2020 and is continually expanding. China is the most prolific country in knowledge graph research. Moreover, countries/regions and institutions that have higher levels of international collaboration are more impactful. Several widely studied issues such as knowledge graph embedding, search and query based on knowledge graphs, and knowledge graphs for intangible cultural heritage are highlighted. Based on the results, we further summarize perspective directions and suggestions for researchers, practitioners, and project managers to facilitate future research on knowledge graphs.
+Keywords: Knowledge graphs; Bibliometric analysis; Structural topic modeling; Research topics; Scientific collaboration
+
+Tarak Nath Das, Sourav Moyra, Russel Aliamintakath Sharafudheen, Arghya Ghosh, Aparna Ramesh, Tapas Kumar Maji, Goutam Ghosh,
+Organic two-dimensional nanostructures: Harnessing soft matter for multifunctional applications,
+Journal of Molecular Liquids,
+Volume 416, Part A,
+2024,
+126506,
+ISSN 0167-7322,
+https://doi.org/10.1016/j.molliq.2024.126506.
+(https://www.sciencedirect.com/science/article/pii/S0167732224025650)
+Abstract: Over the past two decades, two-dimensional (2D) materials have garnered substantial interest because of their distinctive atomic-scale layered structures, which are associated with a variety of applications, ranging from materials science to biomedical processes. However, in the case of inorganic 2D materials, challenges related to large-scale production and the toxicity associated with heavy metals greatly restrict their applications. Hence, the development of organic 2D systems has garnered significant interest, offering immense potential, as an almost infinite range of molecules can be designed and synthesized with predictable functionalities. Thus, developing a range of techniques that provide advanced, customizable synthesis methods for producing intrinsically flexible, lightweight, and easily processable 2D nanomaterials is crucial. In this context, various non-covalent interactions, including hydrogen bonding (H-bonding), π-stacking, electrostatic forces, coordination linkages, and van der Waals forces, play a vital role in stabilizing the overall structure, which can be tuned to manipulate the structure–property relationship. The high surface area and active site exposure of these 2D systems are key to their advancement in applications in materials science, nanodevices, optoelectronics, energy and environmental science, and biomedical fields. This review discusses the development of non-covalently and covalently linked organic 2D nano assemblies, highlighting various synthetic approaches and their potential applications in the current context. Beginning with the increasing dimensionality of small molecular self-assembled nanostructures, the discussion progresses to various interfacial synthetic approaches for creating covalently linked systems with precise control over their dimensionality and crystallinity. Specifically, we presented an overview of supramolecular 2D assemblies of small organic molecules, peptide self-assembly, covalent organic frameworks (COFs), and coordination polymers (CPs), offering insights into potential future research directions.
+Keywords: Organic 2D nanostructures; Molecular engineering; Supramolecular self-assembly; Energy harvesting materials; Biocompatible 2D assemblies
+
+M. Negri, L. Pavan, M. Macchi, A. Polenghi, A. Ruberti,
+A Transfer Learning approach for Anomaly Detection within a Collaborative Prognostic Framework for advanced maintenance services,
+IFAC-PapersOnLine,
+Volume 58, Issue 8,
+2024,
+Pages 258-263,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2024.08.130.
+(https://www.sciencedirect.com/science/article/pii/S2405896324008528)
+Abstract: Original Equipment Manufacturers of industrial machineries are shifting toward a servitization strategy aimed at proposing various maintenance solutions delivered as a Service leveraging on advanced digitalised technologies. Given this trend, the present research aims at studying the feasibility of adopting a transfer learning approach, within a collaborative prognostic framework, to support the maintenance servitization strategy of an Original Equipment Manufacturer. The maintenance task that the research focuses on is anomaly detection. The research is carried out considering the need for a cost-effective maintenance management solution delivered to support a fleet of assets. The application of the approach to an industrial case is correspondingly developed, allowing to validate the transfer learning approach in the context of an Original Equipment Manufacturer that provides an advanced maintenance service offering, and can leverage the proposed solution to create business-grade anomaly detection models, with limited effort in terms of resources and time. The validation allows to derive different managerial implications.
+Keywords: transfer learning; collaborative prognostics; anomaly detection; servitization; predictive maintenance; Original Equipment Manufacturer; manufacturing
+
+Ammar Ahmed, Ali Azam,
+2 - Medical additive manufacturing in the battle against the COVID-19 pandemic,
+Editor(s): Shadpour Mallakpour, Chaudhery Mustansar Hussain,
+In Additive Manufacturing Materials and Technologies,
+Medical Additive Manufacturing,
+Elsevier,
+2024,
+Pages 21-60,
+ISBN 9780323953832,
+https://doi.org/10.1016/B978-0-323-95383-2.00023-8.
+(https://www.sciencedirect.com/science/article/pii/B9780323953832000238)
+Abstract: This chapter comprehensively discusses the applications of medical additive manufacturing in the fight against the pandemic. Recent applications of MAM in the fight against the COVID-19 pandemic include 3D-printed holographic microscopes, medical face shields, nasopharyngeal swabs for preventive/diagnostic testing, personal protective equipment, respiratory masks, air filtration masks made of polylactic acid, new IT-based additive manufacturing and 3D-bioprinted ideal tissue models for antiviral research. Also, a scientometric study of the MAM-related literature (published between January 2000 and April 2022) against the COVID-19 infection was conducted in VOS viewer. The most cooccurring keywords and up-to-date research frontiers of the MAM research were evaluated, and the MAM knowledge was categorized into ten distinct themes. Significantly, this chapter presents the significant role of MAM during the COVID-19 pandemic, in addition to evaluating the frontiers and potential challenges hindering the enhancement of MAM. To conduct the bibliometric study of the MAM research, the published literature was downloaded from the Science Citation Index Expanded (SCIE) and Emerging Science Citation Index (ESCI) databases. The scientometric simulations were conducted in VOS viewer to obtain the following objectives. (1) To find the most collaborative forces and highly influential keywords in the MAM research against COVID-19. (2) Research clusters of the MAM knowledge. (3) Knowledge structure of the MAM literature including various subfields, documents and keywords. (4) Distribution of MAM-related published literature into the research frontiers and hotspots for future studies.
+Keywords: Medical additive manufacturing; 3D printing; COVID-19
+
+
+Full Issue PDF,
+JACC: Heart Failure,
+Volume 12, Issue 1,
+2024,
+Pages e1-e242,
+ISSN 2213-1779,
+https://doi.org/10.1016/S2213-1779(23)00780-1.
+(https://www.sciencedirect.com/science/article/pii/S2213177923007801)

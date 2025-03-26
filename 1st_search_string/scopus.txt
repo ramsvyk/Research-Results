@@ -1,0 +1,411 @@
+﻿Scopus
+EXPORT DATE: 26 March 2025
+
+Tang Z.-Y., Tian C.-X., Ye G.-X., Li J., Wang W., Gong X.-Q., Chen X.-J., Fand D.-Y.
+AUTHOR FULL NAMES: Tang, Zhan-Yong (15822992800); Tian, Chao-Xiong (57219352012); Ye, Gui-Xin (57193613039); Li, Jing (57225124163); Wang, Wei (56948520300); Gong, Xiao-Qing (25652823800); Chen, Xiao-Jiang (8317069000); Fand, Ding-Yi (57219357947)
+15822992800; 57219352012; 57193613039; 57225124163; 56948520300; 25652823800; 8317069000; 57219357947
+A Recognition Method for Text-Based Captcha Based on CGAN [一种基于条件生成式对抗网络的文本类验证码识别方法]
+(2020) Jisuanji Xuebao/Chinese Journal of Computers, 43 (8), pp. 1572 - 1588, Cited 2 times.
+DOI: 10.11897/SP.J.1016.2020.01572
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092413283&doi=10.11897%2fSP.J.1016.2020.01572&partnerID=40&md5=2b3e01596d6884f052ac34e7fff16165
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Makse H.A., Zava M.
+AUTHOR FULL NAMES: Makse, Hernán A. (7003916720); Zava, Marta (59679897200)
+7003916720; 59679897200
+The Science of Influencers and Superspreaders: Using Networks and Artificial Intelligence to Understand Fake News, Pandemics, Markets, and the Brain
+(2024) Understanding Complex Systems, Part F4274, pp. 1 - 447, Cited 0 times.
+DOI: 10.1007/978-3-031-78058-5
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-86000632337&doi=10.1007%2f978-3-031-78058-5&partnerID=40&md5=a6f7cd7c59271a8e7b8376ab5298212b
+
+DOCUMENT TYPE: Book chapter
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ungless E.L., Vitsakis N., Talat Z., Garforth J., Ross B., Onken A., Kasirzadeh A., Birch A.
+AUTHOR FULL NAMES: Ungless, Eddie L. (57222237616); Vitsakis, Nikolas (57472596800); Talat, Zeerak (57343018000); Garforth, James (57210802649); Ross, Björn (57195061365); Onken, Arno (35273049200); Kasirzadeh, Atoosa (57208268996); Birch, Alexandra (35263632000)
+57222237616; 57472596800; 57343018000; 57210802649; 57195061365; 35273049200; 57208268996; 35263632000
+The Only Way is Ethics: A Guide to Ethical Research with Large Language Models
+(2025) Proceedings - International Conference on Computational Linguistics, COLING, Part F206484-1, pp. 8992 - 9005, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85218492393&partnerID=40&md5=5980ee4246e1cfcf460595d0964dcd2a
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Gorwa R., Veale M.
+AUTHOR FULL NAMES: Gorwa, Robert (57203651357); Veale, Michael (57073209400)
+57203651357; 57073209400
+Moderating model marketplaces: platform governance puzzles for AI intermediaries
+(2024) Law, Innovation and Technology, Cited 4 times.
+DOI: 10.1080/17579961.2024.2388914
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208017860&doi=10.1080%2f17579961.2024.2388914&partnerID=40&md5=657c8dca7af75cc08aba7bde7d06928c
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Article in press
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Thomas A.W., Ré C., Poldrack R.A.
+AUTHOR FULL NAMES: Thomas, Armin W. (57208344290); Ré, Christopher (10739281400); Poldrack, Russell A. (7004739390)
+57208344290; 10739281400; 7004739390
+Interpreting mental state decoding with deep learning models
+(2022) Trends in Cognitive Sciences, 26 (11), pp. 972 - 986, Cited 13 times.
+DOI: 10.1016/j.tics.2022.07.003
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139590885&doi=10.1016%2fj.tics.2022.07.003&partnerID=40&md5=0de6c87cf5d2e6660e515837643acd69
+
+DOCUMENT TYPE: Review
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Makhortykh M., Zucker E.M., Simon D.J., Bultmann D., Ulloa R.
+AUTHOR FULL NAMES: Makhortykh, Mykola (56951186100); Zucker, Eve M. (14421970500); Simon, David J. (56468695100); Bultmann, Daniel (57189560185); Ulloa, Roberto (57223296042)
+56951186100; 14421970500; 56468695100; 57189560185; 57223296042
+Shall androids dream of genocides? How generative AI can change the future of memorialization of mass atrocities
+(2023) Discover Artificial Intelligence, 3 (1), art. no. 28, Cited 12 times.
+DOI: 10.1007/s44163-023-00072-6
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85174380272&doi=10.1007%2fs44163-023-00072-6&partnerID=40&md5=9dfce90068a3188dd025dd7beeecc431
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Zhu H., Chen Z., Liu S.
+AUTHOR FULL NAMES: Zhu, Han (57221180146); Chen, Zhenzhong (55737671700); Liu, Shan (55600731300)
+57221180146; 55737671700; 55600731300
+Information Bottleneck based Self-distillation: Boosting Lightweight Network for Real-world Super-Resolution
+(2024) IEEE Transactions on Circuits and Systems for Video Technology, Cited 0 times.
+DOI: 10.1109/TCSVT.2024.3519136
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85212757263&doi=10.1109%2fTCSVT.2024.3519136&partnerID=40&md5=9c922f4baf92ea789a0d015785cc1c4d
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Article in press
+SOURCE: Scopus
+
+Lee B.D., Gitter A., Greene C.S., Raschka S., Maguire F., Titus A.J., Kessler M.D., Lee A.J., Chevrette M.G., Stewart P.A., Britto-Borges T., Cofer E.M., Yu K.-H., Carmona J.J., Fertig E.J., Kalinin A.A., Signal B., Lengerich B.J., Triche T.J., Jr., Boca S.M.
+AUTHOR FULL NAMES: Lee, Benjamin D. (57205181012); Gitter, Anthony (27867713200); Greene, Casey S. (12141512300); Raschka, Sebastian (57191574183); Maguire, Finlay (56118405300); Titus, Alexander J. (57190819141); Kessler, Michael D. (57191526767); Lee, Alexandra J. (56606530000); Chevrette, Marc G. (57191092412); Stewart, Paul Allen (7403039434); Britto-Borges, Thiago (36647233200); Cofer, Evan M. (57201519518); Yu, Kun-Hsing (46961582400); Carmona, Juan Jose (58370363400); Fertig, Elana J. (15768654400); Kalinin, Alexandr A. (56701977200); Signal, Brandon (56922158500); Lengerich, Benjamin J. (56132063200); Triche, Timothy J. (7004983032); Boca, Simina M. (21740680900)
+57205181012; 27867713200; 12141512300; 57191574183; 56118405300; 57190819141; 57191526767; 56606530000; 57191092412; 7403039434; 36647233200; 57201519518; 46961582400; 58370363400; 15768654400; 56701977200; 56922158500; 56132063200; 7004983032; 21740680900
+Ten quick tips for deep learning in biology
+(2022) PLoS Computational Biology, 18 (3), art. no. e1009803, Cited 23 times.
+DOI: 10.1371/journal.pcbi.1009803
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127019209&doi=10.1371%2fjournal.pcbi.1009803&partnerID=40&md5=b9855b65ebedcbf0098699571b294c5d
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Fitch K., Motion J.
+AUTHOR FULL NAMES: Fitch, Kate (55117909600); Motion, Judy (6507485840)
+55117909600; 6507485840
+Popular culture and social change: The hidden work of public relations
+(2020) Popular Culture and Social Change: The Hidden Work of Public Relations, pp. 1 - 158, Cited 1 times.
+DOI: 10.4324/9781315203515
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85096253508&doi=10.4324%2f9781315203515&partnerID=40&md5=3352e203bd3bbc6a7d6e0245d553c52a
+
+DOCUMENT TYPE: Book
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Basak H., Kundu R., Sarkar R.
+AUTHOR FULL NAMES: Basak, Hritam (57221149969); Kundu, Rohit (57222071191); Sarkar, Ram (13607482600)
+57221149969; 57222071191; 13607482600
+MFSNet: A multi focus segmentation network for skin lesion segmentation
+(2022) Pattern Recognition, 128, art. no. 108673, Cited 63 times.
+DOI: 10.1016/j.patcog.2022.108673
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127686767&doi=10.1016%2fj.patcog.2022.108673&partnerID=40&md5=ca4b72b4070d3426e6533f6ef4a24b95
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Miao X., Brooker R., Monroe S.
+AUTHOR FULL NAMES: Miao, Xin (59362289300); Brooker, Richard (58194972300); Monroe, Samantha (58044857600)
+59362289300; 58194972300; 58044857600
+Where Generative AI Fits Within and in Addition to Existing AI K12 Education Interactions: Industry and Research Perspectives
+(2024) Machine Learning in Educational Sciences: Approaches, Applications and Advances, pp. 359 - 384, Cited 2 times.
+DOI: 10.1007/978-981-99-9379-6_17
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193573376&doi=10.1007%2f978-981-99-9379-6_17&partnerID=40&md5=71f365bc9aaa5d52988dfadf30abed1c
+
+DOCUMENT TYPE: Book chapter
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Qin D., Amariucai G.T., Qiao D., Guan Y., Fu S.
+AUTHOR FULL NAMES: Qin, Dong (57218709369); Amariucai, George T. (24314652700); Qiao, Daji (14055000700); Guan, Yong (35248121200); Fu, Shen (57211109941)
+57218709369; 24314652700; 14055000700; 35248121200; 57211109941
+A comprehensive and reliable feature attribution method: Double-sided remove and reconstruct (DoRaR)
+(2024) Neural Networks, 173, art. no. 106166, Cited 1 times.
+DOI: 10.1016/j.neunet.2024.106166
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185405209&doi=10.1016%2fj.neunet.2024.106166&partnerID=40&md5=e5d9f6083f889a42e4975d398e701525
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Guo Q., Qi H., Sun J., Juefei-Xu F., Ma L., Lin D., Feng W., Wang S.
+AUTHOR FULL NAMES: Guo, Qing (57191163500); Qi, Hua (57211029245); Sun, Jingyang (57221147987); Juefei-Xu, Felix (54911989900); Ma, Lei (55479591700); Lin, Di (56421056100); Feng, Wei (56471162500); Wang, Song (57191715308)
+57191163500; 57211029245; 57221147987; 54911989900; 55479591700; 56421056100; 56471162500; 57191715308
+EfficientDeRain+: Learning Uncertainty-Aware Filtering via RainMix Augmentation for High-Efficiency Deraining
+(2024) International Journal of Computer Vision, Cited 0 times.
+DOI: 10.1007/s11263-024-02281-7
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208117581&doi=10.1007%2fs11263-024-02281-7&partnerID=40&md5=73d3d5b8e86a12e303c3cb2026478e80
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Article in press
+SOURCE: Scopus
+
+Mei K., Patel V.M.
+AUTHOR FULL NAMES: Mei, Kangfu (57204393471); Patel, Vishal M. (56660008900)
+57204393471; 56660008900
+LTT-GAN: Looking Through Turbulence by Inverting GANs
+(2023) IEEE Journal on Selected Topics in Signal Processing, 17 (3), pp. 587 - 598, Cited 15 times.
+DOI: 10.1109/JSTSP.2023.3238552
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85147316812&doi=10.1109%2fJSTSP.2023.3238552&partnerID=40&md5=0a98831bee7a4579d58f18666e14c631
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Yang F., Zhang J., Zhang Q.
+AUTHOR FULL NAMES: Yang, Fei (57201912129); Zhang, Jialu (57220012285); Zhang, Qian (57221143411)
+57201912129; 57220012285; 57221143411
+Multi-scale capsule generative adversarial network for snow removal
+(2021) IET Computer Vision, 15 (7), pp. 474 - 486, Cited 3 times.
+DOI: 10.1049/cvi2.12038
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141802481&doi=10.1049%2fcvi2.12038&partnerID=40&md5=2ff6297386d90970d7f85658efe09698
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Wilson M.R., Beachy S.H., Schumm S.N.
+AUTHOR FULL NAMES: Wilson, M. Roy (55547134856); Beachy, Sarah H. (57194078001); Schumm, Samantha N. (57216161842)
+55547134856; 57194078001; 57216161842
+Rethinking race and ethnicity in biomedical research
+(2025) Rethinking Race and Ethnicity in Biomedical Research, pp. 1 - 271, Cited 5 times.
+DOI: 10.17226/27913
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217614135&doi=10.17226%2f27913&partnerID=40&md5=658574fe16f34bffb4e0faf5b1207068
+
+DOCUMENT TYPE: Book
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kumar R., Ong E.T., Anggoro S., Toh T.L., Fukui M.
+AUTHOR FULL NAMES: Kumar, Rajendra (57225853677); Ong, Eng Tek (33867769300); Anggoro, Subuh (57193871661); Toh, Tin Lam (16403102700); Fukui, Masanori (57191502979)
+57225853677; 33867769300; 57193871661; 16403102700; 57191502979
+Transdisciplinary teaching and technological integration for improved learning: Case studies and practical approaches
+(2024) Transdisciplinary Teaching and Technological Integration for Improved Learning: Case Studies and Practical Approaches, pp. 1 - 414, Cited 0 times.
+DOI: 10.4018/979-8-3693-8217-2
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85204337137&doi=10.4018%2f979-8-3693-8217-2&partnerID=40&md5=a785fb3d9f290545c47036203ad27cf8
+
+DOCUMENT TYPE: Book
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wang C., Zhu H., Fan W., Wu X.-M., Chen J.
+AUTHOR FULL NAMES: Wang, Cong (57209930195); Zhu, Honghe (57216566219); Fan, Wanshu (57206253891); Wu, Xiao-Ming (55715036100); Chen, Junyang (57209837328)
+57209930195; 57216566219; 57206253891; 55715036100; 57209837328
+Single image rain removal using recurrent scale-guide networks
+(2022) Neurocomputing, 467, pp. 242 - 255, Cited 19 times.
+DOI: 10.1016/j.neucom.2021.10.029
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117112579&doi=10.1016%2fj.neucom.2021.10.029&partnerID=40&md5=e06b37809023d9eb5cfa77c6f2c7ea2f
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ma F., Wang Y., Gao J., Xiao H., Zhou J.
+AUTHOR FULL NAMES: Ma, Fenglong (57052032200); Wang, Yaqing (57201216214); Gao, Jing (55702655600); Xiao, Houping (57188631093); Zhou, Jing (57208360539)
+57052032200; 57201216214; 55702655600; 57188631093; 57208360539
+Rare disease prediction by generating quality-assured electronic health records*
+(2020) Proceedings of the 2020 SIAM International Conference on Data Mining, SDM 2020, pp. 514 - 522, Cited 14 times.
+DOI: 10.1137/1.9781611976236.58
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089184370&doi=10.1137%2f1.9781611976236.58&partnerID=40&md5=9c25763cfbe2da6df5e694fb80535bc4
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Adrian-Alin B., Remus B.
+AUTHOR FULL NAMES: Adrian-Alin, Barglazan (59305833200); Remus, Brad (59364732800)
+59305833200; 59364732800
+Wavelet Based Inpainting Detection
+(2024) Advances in Artificial Intelligence and Machine Learning, 4 (3), pp. 2783 - 2809, Cited 0 times.
+DOI: 10.54364/AAIML.2024.43162
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85206490574&doi=10.54364%2fAAIML.2024.43162&partnerID=40&md5=39ae4e75366eabc12beb9170f18b3465
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Ramanathan V., Han W., Bassiouny D., Rakovitch E., Martel A.L.
+AUTHOR FULL NAMES: Ramanathan, Vishwesh (58189724800); Han, Wenchao (57485226300); Bassiouny, Dina (57191963331); Rakovitch, Eileen (6602686754); Martel, Anne L. (57204567828)
+58189724800; 57485226300; 57191963331; 6602686754; 57204567828
+Ink Removal in Whole Slide Images using Hallucinated Data
+(2023) Progress in Biomedical Optics and Imaging - Proceedings of SPIE, 12471, art. no. 124710Y, Cited 0 times.
+DOI: 10.1117/12.2653281
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160536193&doi=10.1117%2f12.2653281&partnerID=40&md5=fa7baf85803b116f56852c5e4a8dc06d
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Cai L., Fu Y., Huo W., Xiang Y., Zhu T., Zhang Y., Zeng H., Zeng D.
+AUTHOR FULL NAMES: Cai, Lei (57195983143); Fu, Yuli (8503971400); Huo, Wanliang (57226130613); Xiang, Youjun (14625770500); Zhu, Tao (57207880969); Zhang, Ying (59647744200); Zeng, Huanqiang (24340094500); Zeng, Delu (15057229900)
+57195983143; 8503971400; 57226130613; 14625770500; 57207880969; 59647744200; 24340094500; 15057229900
+Multiscale Attentive Image De-Raining Networks via Neural Architecture Search
+(2023) IEEE Transactions on Circuits and Systems for Video Technology, 33 (2), pp. 618 - 633, Cited 22 times.
+DOI: 10.1109/TCSVT.2022.3207516
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139389991&doi=10.1109%2fTCSVT.2022.3207516&partnerID=40&md5=4b8ebd1e70a2cbb71fe53a6074c70690
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Simmons B.A., Hulvey R.A.
+AUTHOR FULL NAMES: Simmons, Beth A. (7102183312); Hulvey, Rachel A. (58802841500)
+7102183312; 58802841500
+CYBERBORDERS: EXERCISING STATE SOVEREIGNTY ONLINE
+(2023) Temple Law Review, 95 (4), pp. 617 - 640, Cited 1 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181833012&partnerID=40&md5=eec819af57e4a2e455817eccf36cea47
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Mengara O., Avila A., Falk T.H.
+AUTHOR FULL NAMES: Mengara, Orson (58819637800); Avila, Anderson (56414301600); Falk, Tiago H. (7004897891)
+58819637800; 56414301600; 7004897891
+Backdoor Attacks to Deep Neural Networks: A Survey of the Literature, Challenges, and Future Research Directions
+(2024) IEEE Access, 12, pp. 29004 - 29023, Cited 4 times.
+DOI: 10.1109/ACCESS.2024.3355816
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182917500&doi=10.1109%2fACCESS.2024.3355816&partnerID=40&md5=ec465e672556109395d3f147932705a1
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Lima A.A., Mridha M.F., Das S.C., Kabir M.M., Islam M.R., Watanobe Y.
+AUTHOR FULL NAMES: Lima, Aklima Akter (57240773800); Mridha, M. Firoz (36761314400); Das, Sujoy Chandra (57240880200); Kabir, Muhammad Mohsin (57220863661); Islam, Md. Rashedul (56420500200); Watanobe, Yutaka (8714192600)
+57240773800; 36761314400; 57240880200; 57220863661; 56420500200; 8714192600
+A Comprehensive Survey on the Detection, Classification, and Challenges of Neurological Disorders
+(2022) Biology, 11 (3), art. no. 469, Cited 51 times.
+DOI: 10.3390/biology11030469
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127603830&doi=10.3390%2fbiology11030469&partnerID=40&md5=5eb0fb2668afbf2da68cc9e9cd9c4900
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Frosio G.F.
+AUTHOR FULL NAMES: Frosio, Giancarlo F. (57193028874)
+57193028874
+Why keep a dog and bark yourself? From intermediary liability to responsibility
+(2018) International Journal of Law and Information Technology, 26 (1), pp. 1 - 33, Cited 30 times.
+DOI: 10.1093/ijlit/eax021
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041050850&doi=10.1093%2fijlit%2feax021&partnerID=40&md5=638949652bfce29d3866c48b52fa5a41
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Su Z., Zhang Y., Shi J., Zhang X.-P.
+AUTHOR FULL NAMES: Su, Zhipeng (57222380164); Zhang, Yixiong (36700858900); Shi, Jianghong (7404494682); Zhang, Xiao-Ping (35214025100)
+57222380164; 36700858900; 7404494682; 35214025100
+Recurrent Network Knowledge Distillation for Image Rain Removal
+(2022) IEEE Transactions on Cognitive and Developmental Systems, 14 (4), pp. 1642 - 1653, Cited 4 times.
+DOI: 10.1109/TCDS.2021.3131045
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85120575631&doi=10.1109%2fTCDS.2021.3131045&partnerID=40&md5=60d8e3a0a85da2f09ae4b397224fd739
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Uddin Z., Sr.
+AUTHOR FULL NAMES: Uddin, Zia (57221097939)
+57221097939
+Applied Machine Learning for Assisted Living
+(2022) Applied Machine Learning for Assisted Living, pp. 1 - 131, Cited 5 times.
+DOI: 10.1007/978-3-031-11534-9
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166112050&doi=10.1007%2f978-3-031-11534-9&partnerID=40&md5=f275dc47e67cfb76605aa422957f8bdc
+
+DOCUMENT TYPE: Book
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kalantari S., Nazemi E., Masoumi B.
+AUTHOR FULL NAMES: Kalantari, Somayeh (56568500200); Nazemi, Eslam (56945673800); Masoumi, Behrooz (35812479400)
+56568500200; 56945673800; 35812479400
+Emergence phenomena in self-organizing systems: a systematic literature review of concepts, researches, and future prospects
+(2020) Journal of Organizational Computing and Electronic Commerce, 30 (3), pp. 224 - 265, Cited 24 times.
+DOI: 10.1080/10919392.2020.1748977
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085495954&doi=10.1080%2f10919392.2020.1748977&partnerID=40&md5=3655624c246f96a604952384c57adb5f
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Bibiano A.C., Uchôa A., Assunção W.K.G., Tenório D., Colanzi T.E., Vergilio S.R., Garcia A.
+AUTHOR FULL NAMES: Bibiano, Ana Carla (57202890121); Uchôa, Anderson (57201011963); Assunção, Wesley K.G. (37361009900); Tenório, Daniel (57194164196); Colanzi, Thelma E. (35145339600); Vergilio, Silvia Regina (6506290092); Garcia, Alessandro (7404608626)
+57202890121; 57201011963; 37361009900; 57194164196; 35145339600; 6506290092; 7404608626
+Composite refactoring: Representations, characteristics and effects on software projects
+(2023) Information and Software Technology, 156, art. no. 107134, Cited 4 times.
+DOI: 10.1016/j.infsof.2022.107134
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85145966825&doi=10.1016%2fj.infsof.2022.107134&partnerID=40&md5=581350936b5b9365cc7476ca1738340b
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kim B.N., Dolz J., Jodoin P.-M., Desrosiers C.
+AUTHOR FULL NAMES: Kim, Bach Ngoc (57219693389); Dolz, Jose (56578010400); Jodoin, Pierre-Marc (6507483969); Desrosiers, Christian (23088056900)
+57219693389; 56578010400; 6507483969; 23088056900
+Privacy-Net: An Adversarial Approach for Identity-Obfuscated Segmentation of Medical Images
+(2021) IEEE Transactions on Medical Imaging, 40 (7), art. no. 9376890, pp. 1737 - 1749, Cited 22 times.
+DOI: 10.1109/TMI.2021.3065727
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102694607&doi=10.1109%2fTMI.2021.3065727&partnerID=40&md5=1c8b6ea535bb917063c52853f68698d7
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Liu R., Lin Y., Teoh X., Liu G., Huang Z., Dong J.S.
+AUTHOR FULL NAMES: Liu, Ruofan (57251078400); Lin, Yun (56683209800); Teoh, Xiwen (59343542100); Liu, Gongshen (56136751400); Huang, Zhiyong (9269381800); Dong, Jin Song (55666373900)
+57251078400; 56683209800; 59343542100; 56136751400; 9269381800; 55666373900
+Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List
+(2024) Proceedings of the 33rd USENIX Security Symposium, pp. 523 - 540, Cited 2 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85205018960&partnerID=40&md5=c0440e0b7e1e86e344e14c0cf49e1215
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Bhat P., Behal S., Dutta K.
+AUTHOR FULL NAMES: Bhat, Parnika (57207301890); Behal, Sunny (54419434600); Dutta, Kamlesh (36871512100)
+57207301890; 54419434600; 36871512100
+A system call-based android malware detection approach with homogeneous & heterogeneous ensemble machine learning
+(2023) Computers and Security, 130, art. no. 103277, Cited 49 times.
+DOI: 10.1016/j.cose.2023.103277
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85158002130&doi=10.1016%2fj.cose.2023.103277&partnerID=40&md5=06aad5a9375d00537c1910acc159d756
+
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+

@@ -1,0 +1,2181 @@
+@inproceedings{Xu2024LiCoEvalEL,
+  title={LiCoEval: Evaluating LLMs on License Compliance in Code Generation},
+  author={Weiwei Xu and Kai Gao and Hao He and Minghui Zhou},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:271709404}
+}
+
+@article{Zhong2023CopyrightPA,
+  title={Copyright Protection and Accountability of Generative AI: Attack, Watermarking and Attribution},
+  author={Haonan Zhong and Jiamin Chang and Ziyue Yang and Tingmin Wu and Pathum Chamikara Mahawaga Arachchige and Chehara Pathmabandu and Minhui Xue},
+  journal={Companion Proceedings of the ACM Web Conference 2023},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:257557331}
+}
+
+@article{Choksi2023WhoseTI,
+  title={Whose Text Is It Anyway? Exploring BigCode, Intellectual Property, and Ethics},
+  author={Madiha Zahrah Choksi and David Goedicke},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2304.02839},
+  url={https://api.semanticscholar.org/CorpusID:257985329}
+}
+
+@inproceedings{Wang2021DetectAR,
+  title={Detect and remove watermark in deep neural networks via generative adversarial networks},
+  author={Haoqi Wang and Mingfu Xue and Shichang Sun and Yushu Zhang and Jian Wang and Weiqiang Liu},
+  booktitle={Information Security Conference},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:235435750}
+}
+
+@article{Majdinasab2024TrainedWM,
+  title={Trained Without My Consent: Detecting Code Inclusion In Language Models Trained on Code},
+  author={Vahid Majdinasab and Amin Nikanjam and Foutse Khomh},
+  journal={ArXiv},
+  year={2024},
+  volume={abs/2402.09299},
+  url={https://api.semanticscholar.org/CorpusID:267657668}
+}
+
+@inproceedings{Kamil2020GatekeepersLF,
+  title={Gatekeepers Liability for Internet Intermediaries in Malaysia: Way Forward},
+  author={Ida Shafinaz Mohd. Kamil and Ida Madieha Azmi},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:237139050}
+}
+
+@inproceedings{Kamil2020GatekeepersLF,
+  title={Gatekeepers Liability for Internet Intermediaries in Malaysia: Way Forward},
+  author={Ida Shafinaz Mohd. Kamil and Ida Madieha Azmi},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:237139050}
+}
+
+@article{SinghLLM2024InsolvencyAI,
+  title={Insolvency and Intellectual Property Rights Protection and Enforcement Issues in Bankruptcy Proceedings},
+  author={Shraddha Singh LLM},
+  journal={International Scientific Journal of Engineering and Management},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:269118502}
+}
+
+@article{Zhang2023REMARKLLMAR,
+  title={REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models},
+  author={Ruisi Zhang and Shehzeen Samarah Hussain and Paarth Neekhara and Farinaz Koushanfar},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2310.12362},
+  url={https://api.semanticscholar.org/CorpusID:264305916}
+}
+
+@article{Zhang2023REMARKLLMAR,
+  title={REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models},
+  author={Ruisi Zhang and Shehzeen Samarah Hussain and Paarth Neekhara and Farinaz Koushanfar},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2310.12362},
+  url={https://api.semanticscholar.org/CorpusID:264305916}
+}
+
+@article{Fan2023FATELLMAI,
+  title={FATE-LLM: A Industrial Grade Federated Learning Framework for Large Language Models},
+  author={Tao Fan and Yan Kang and Guoqiang Ma and Weijing Chen and Wenbin Wei and Lixin Fan and Qiang Yang},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2310.10049},
+  url={https://api.semanticscholar.org/CorpusID:264145987}
+}
+
+@article{Sauvola2024FutureOS,
+  title={Future of software development with generative AI},
+  author={Jaakko Sauvola and Sasu Tarkoma and Mika Klemettinen and Jukka Riekki and David Doermann},
+  journal={Automated Software Engineering},
+  year={2024},
+  volume={31},
+  pages={1-8},
+  url={https://api.semanticscholar.org/CorpusID:268325296}
+}
+
+@article{Senftleben2023GenerativeAA,
+  title={Generative AI and Author Remuneration},
+  author={Martin Senftleben},
+  journal={IIC - International Review of Intellectual Property and Competition Law},
+  year={2023},
+  volume={54},
+  pages={1535 - 1560},
+  url={https://api.semanticscholar.org/CorpusID:259616357}
+}
+
+@article{Wang2023CopyrightPF,
+  title={Copyright Protection for AI-Generated Works},
+  author={Faye F Wang},
+  journal={Amicus Curiae},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:270898830}
+}
+
+@article{Li2023OnES,
+  title={On Extracting Specialized Code Abilities from Large Language Models: A Feasibility Study},
+  author={Zongjie Li and Chaozheng Wang and Pingchuan Ma and Chaowei Liu and Shuai Wang and Daoyuan Wu and Cuiyun Gao},
+  journal={2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)},
+  year={2023},
+  pages={893-905},
+  url={https://api.semanticscholar.org/CorpusID:257365453}
+}
+
+@article{Finck2018CopyrightLO,
+  title={Copyright Law on Blockchains: Between New Forms of Rights Administration and Digital Rights Management 2.0},
+  author={Mich{\`e}le Finck and Valentina Moscon},
+  journal={IIC - International Review of Intellectual Property and Competition Law},
+  year={2018},
+  volume={50},
+  pages={77 - 108},
+  url={https://api.semanticscholar.org/CorpusID:169639766}
+}
+
+@article{Shutske2023EditorialHT,
+  title={Editorial: Harnessing the Power of Large Language Models in Agricultural Safety \& Health},
+  author={John M. Shutske},
+  journal={Journal of Agricultural Safety and Health},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:265314446}
+}
+
+@article{cittadinanza2020KnowYR,
+  title={Know your rights.},
+  author={Diritto di cittadinanza},
+  journal={The American journal of nursing},
+  year={2020},
+  volume={101 3},
+  pages={
+          90
+        },
+  url={https://api.semanticscholar.org/CorpusID:23826267}
+}
+
+@article{Novelli2024GenerativeAI,
+  title={Generative AI in EU Law: Liability, Privacy, Intellectual Property, and Cybersecurity},
+  author={Claudio Novelli and Federico Casolari and Philipp Hacker and Giorgio Spedicato and Luciano Floridi},
+  journal={ArXiv},
+  year={2024},
+  volume={abs/2401.07348},
+  url={https://api.semanticscholar.org/CorpusID:266998966}
+}
+
+@article{Chesterman2024GoodMB,
+  title={Good Models Borrow, Great Models Steal: Intellectual Property Rights and Generative AI},
+  author={Simon Chesterman},
+  journal={SSRN Electronic Journal},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:264062742}
+}
+
+@article{Li2023ProtectingIP,
+  title={Protecting Intellectual Property of Large Language Model-Based Code Generation APIs via Watermarks},
+  author={Zongjie Li and Chaozheng Wang and Shuai Wang and Cuiyun Gao},
+  journal={Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:265352433}
+}
+
+@inproceedings{Yu2023CodeIPPromptIP,
+  title={CodeIPPrompt: Intellectual Property Infringement Assessment of Code Language Models},
+  author={Zhiyuan Yu and Yuhao Wu and Ning Zhang and Chenguang Wang and Yevgeniy Vorobeychik and Chaowei Xiao},
+  booktitle={International Conference on Machine Learning},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:260140077}
+}
+
+@article{Napitupulu2023TheIO,
+  title={The Implication of Generative Artificial Intelligence towards Intellectual Property Rights (Examining the Multifaceted Implications of Generative Artificial Intelligence on Intellectual Property Rights)},
+  author={Priscilla Auleader Napitupulu and Clara Alrosa Fernanda Sinaga and Albert Lukas Pithel Hasugian},
+  journal={West Science Law and Human Rights},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:264949496}
+}
+
+@article{Kalyvaki2023NavigatingTM,
+  title={Navigating the Metaverse Business and Legal Challenges: Intellectual Property, Privacy, and Jurisdiction},
+  author={Maria Kalyvaki},
+  journal={Journal of Metaverse},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:257331213}
+}
+
+@article{Ong2021ProtectingIP,
+  title={Protecting Intellectual Property of Generative Adversarial Networks from Ambiguity Attacks},
+  author={Ding Sheng Ong and Chee Seng Chan and KamWoh Ng and Lixin Fan and Qiang Yang},
+  journal={2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2021},
+  pages={3629-3638},
+  url={https://api.semanticscholar.org/CorpusID:235692919}
+}
+
+@article{Kraizberg2023NonfungibleTA,
+  title={Non-fungible tokens: a bubble or the end of an era of intellectual property rights},
+  author={Elli Kraizberg},
+  journal={Financial Innovation},
+  year={2023},
+  volume={9},
+  pages={1-20},
+  url={https://api.semanticscholar.org/CorpusID:247807997}
+}
+
+@article{Peng2023ProtectingTI,
+  title={Protecting the Intellectual Property of Diffusion Models by the Watermark Diffusion Process},
+  author={Sen Peng and Yufei Chen and Cong Wang and Xiaohua Jia},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2306.03436},
+  url={https://api.semanticscholar.org/CorpusID:268117400}
+}
+
+@article{Saputra2023ArtificialIA,
+  title={Artificial Intelligence and Intellectual Property Protection in Indonesia and Japan},
+  author={Rian Saputra and Tiara Tiolince and Iswantoro Iswantoro and Sanju Kumar Sigh},
+  journal={Journal of Human Rights, Culture and Legal System},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:259707268}
+}
+
+@article{Picht2023AIAI,
+  title={AI and IP: Theory to Policy and Back Again – Policy and Research Recommendations at the Intersection of Artificial Intelligence and Intellectual Property},
+  author={Peter Georg Picht and Florent Thouvenin},
+  journal={IIC - International Review of Intellectual Property and Competition Law},
+  year={2023},
+  volume={54},
+  pages={916 - 940},
+  url={https://api.semanticscholar.org/CorpusID:259377408}
+}
+
+@article{Abduh2021IntellectualPR,
+  title={Intellectual Property Rights Protection Function in Resolving Copyright Disputes},
+  author={Rachmad Abduh and Fajaruddin},
+  journal={International Journal Reglement \& Society (IJRS},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:249088197}
+}
+
+@article{Fei2022SupervisedGW,
+  title={Supervised GAN Watermarking for Intellectual Property Protection},
+  author={Jianwei Fei and Zhihua Xia and Benedetta Tondi and Mauro Barni},
+  journal={2022 IEEE International Workshop on Information Forensics and Security (WIFS)},
+  year={2022},
+  pages={1-6},
+  url={https://api.semanticscholar.org/CorpusID:252118722}
+}
+
+@article{Okonkwo2021NFTCA,
+  title={NFT, Copyright; and Intellectual Property Commercialisation},
+  author={Ifeanyichukwu E. R. Okonkwo},
+  journal={SSRN Electronic Journal},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:237812473}
+}
+
+@article{Jiang2022TheIO,
+  title={The impact of knowledge management on intellectual property risk prevention: analysis from China's strategic emerging industries},
+  author={Yixiao Jiang and Zongguo Ma and Xiquan Wang},
+  journal={J. Knowl. Manag.},
+  year={2022},
+  volume={27},
+  pages={197-207},
+  url={https://api.semanticscholar.org/CorpusID:252398056}
+}
+
+@article{Zhang2018ProtectingIP,
+  title={Protecting Intellectual Property of Deep Neural Networks with Watermarking},
+  author={Jialong Zhang and Zhongshu Gu and Jiyong Jang and Hui Wu and Marc Ph. Stoecklin and Heqing Huang and Ian Molloy},
+  journal={Proceedings of the 2018 on Asia Conference on Computer and Communications Security},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:44085059}
+}
+
+@article{Hamza2022ASO,
+  title={A Survey of Intellectual Property Rights Protection in Big Data Applications},
+  author={Rafik Hamza and Hilmil Pradana},
+  journal={Algorithms},
+  year={2022},
+  volume={15},
+  pages={418},
+  url={https://api.semanticscholar.org/CorpusID:253439246}
+}
+
+@article{Ruan2022IntellectualPP,
+  title={Intellectual property protection for deep semantic segmentation models},
+  author={Hongjia Ruan and Huihui Song and Bo Liu and Yong Cheng and Qingshan Liu},
+  journal={Frontiers of Computer Science},
+  year={2022},
+  volume={17},
+  url={https://api.semanticscholar.org/CorpusID:251462451}
+}
+
+@article{Li2022CombinationOB,
+  title={Combination of Blockchain and AI for Music Intellectual Property Protection},
+  author={N. Li},
+  journal={Computational Intelligence and Neuroscience},
+  year={2022},
+  volume={2022},
+  url={https://api.semanticscholar.org/CorpusID:248551997}
+}
+
+@article{Harnowo2022LawAT,
+  title={Law as Technological Control of the Infringement of Intellectual Property Rights in the Digital Era},
+  author={Tri Harnowo},
+  journal={Corporate and Trade Law Review},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:253075859}
+}
+
+@article{Atikah2022IntellectualPR,
+  title={Intellectual Property Rights as The Resource for Creative Economic in Indonesia},
+  author={Ika Atikah and Ahmad Zaini and Iin Ratna Sumirat},
+  journal={Jurnal Penelitian Hukum De Jure},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:254818277}
+}
+
+@article{Niqresh2018DigitalLA,
+  title={Digital Library and Intellectual Issues—Issues in Copyright and Intellectual Property},
+  author={Mohammad Ahmad Niqresh},
+  journal={International Education Studies},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:169967839}
+}
+
+@article{Yasaei2021GNN4IPGN,
+  title={GNN4IP: Graph Neural Network for Hardware Intellectual Property Piracy Detection},
+  author={Rozhin Yasaei and Shi Yu and Emad Kasaeyan Naeini and Mohammad Abdullah Al Faruque},
+  journal={2021 58th ACM/IEEE Design Automation Conference (DAC)},
+  year={2021},
+  pages={217-222},
+  url={https://api.semanticscholar.org/CorpusID:236133961}
+}
+
+@article{Xue2021ActiveIP,
+  title={Active intellectual property protection for deep neural networks through stealthy backdoor and users’ identities authentication},
+  author={Mingfu Xue and Shichang Sun and Yushu Zhang and Jian Wang and Weiqiang Liu},
+  journal={Applied Intelligence},
+  year={2021},
+  volume={52},
+  pages={16497 - 16511},
+  url={https://api.semanticscholar.org/CorpusID:247687888}
+}
+
+@article{Sherman2021TheCO,
+  title={The Color of Creatorship: Intellectual Property, Race, and the Making of Americans},
+  author={Zoe Sherman},
+  journal={Rethinking Marxism},
+  year={2021},
+  volume={33},
+  pages={324 - 326},
+  url={https://api.semanticscholar.org/CorpusID:234347811}
+}
+
+@article{Kharytonov2021IntellectualPL,
+  title={Intellectual property law in the field of sports: specifics of manifestations and features of legal regulation},
+  author={Evgen Kharytonov and Olena Kharytonova and Maxym Tkalych and Inna Bolokan and Hanna Samilo and Yuliia Tolmachevska},
+  journal={Cuestiones Pol{\'i}ticas},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:238786652}
+}
+
+@article{Hauck2021BlockchainSC,
+  title={Blockchain, Smart Contracts and Intellectual Property. Using distributed ledger technology to protect, license and enforce intellectual property rights},
+  author={Ronny Hauck},
+  journal={Legal Issues in the Digital Age},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:245577424}
+}
+
+@article{Httner2020RecentAI,
+  title={Recent advances in the intellectual property landscape of filamentous fungi},
+  author={Silvia H{\"u}ttner and Anton Johansson and Paulo Gonçalves Teixeira and Puck Achterberg and Ramkumar B Nair},
+  journal={Fungal Biology and Biotechnology},
+  year={2020},
+  volume={7},
+  url={https://api.semanticscholar.org/CorpusID:219166151}
+}
+
+@article{Rizzo2019FinegrainWF,
+  title={Fine-grain watermarking for intellectual property protection},
+  author={Stefano Giovanni Rizzo and Flavio Bertini and Danilo Montesi},
+  journal={EURASIP Journal on Information Security},
+  year={2019},
+  volume={2019},
+  pages={1-20},
+  url={https://api.semanticscholar.org/CorpusID:197402093}
+}
+
+@article{Ito2018ACE,
+  title={A Critical Examination of the Application of Blockchain Technology to Intellectual Property Management},
+  author={Kensuke Ito and Marcus O’Dair},
+  journal={Business Transformation through Blockchain},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:169295411}
+}
+
+@article{Lin2018OnPO,
+  title={On Protection of Intangible Cultural Heritage in China from the Intellectual Property Rights Perspective},
+  author={Qing Lin and Zhe-yu Lian},
+  journal={Sustainability},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:158650728}
+}
+
+@article{Uzuegbunam2019DoCI,
+  title={Do Corporate Investors Affect Entrepreneurs’ IP Portfolio? Entrepreneurial Finance and Intellectual Property in New Firms},
+  author={Ikenna S. Uzuegbunam and Brandon Ofem and Satish Nambisan},
+  journal={Entrepreneurship Theory and Practice},
+  year={2019},
+  volume={43},
+  pages={673 - 696},
+  url={https://api.semanticscholar.org/CorpusID:158160232}
+}
+
+@article{Geiger2019TheCO,
+  title={The Constitutionalization of Intellectual Property Law in the EU and the Funke Medien, Pelham and Spiegel Online Decisions of the CJEU: Progress, but Still Some Way to Go!},
+  author={Christophe Geiger and Elena Izyumenko},
+  journal={IIC - International Review of Intellectual Property and Competition Law},
+  year={2019},
+  volume={51},
+  pages={282 - 306},
+  url={https://api.semanticscholar.org/CorpusID:214363744}
+}
+
+@article{Hutson2024RethinkingPI,
+  title={Rethinking Plagiarism in the Era of Generative AI},
+  author={James Hutson},
+  journal={Journal of Intelligent Communication},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:269413759}
+}
+
+@article{Bornemann2019TheEO,
+  title={The Effect of Intellectual Property Boxes on Innovative Activity \& Effective Tax Rates},
+  author={Tobias Bornemann and Stacie Kelley Laplante and Benjamin Osswald},
+  journal={International Accounting eJournal},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:29150511}
+}
+
+@article{Islam2019ImpactsOI,
+  title={Impacts of intellectual property provisions in trade treaties on access to medicine in low and middle income countries: a systematic review},
+  author={Md. Deen Islam and Warren A. Kaplan and Danielle Trachtenberg and Rachel Denae Thrasher and Kevin P. Gallagher and Veronika J. Wirtz},
+  journal={Globalization and Health},
+  year={2019},
+  volume={15},
+  url={https://api.semanticscholar.org/CorpusID:209509496}
+}
+
+@article{Osborn20193DPA,
+  title={3D Printing and Intellectual Property},
+  author={Lucas S. Osborn},
+  journal={Social Science Research Network},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:113913470}
+}
+
+@article{Bhattacharya2019IntellectualPR,
+  title={Intellectual Property Regimes and Wage Inequality},
+  author={Sourav Bhattacharya and Pavel Chakraborty and Chirantan Chatterjee},
+  journal={ERPN: Patents (Sub-Topic)},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:85461715}
+}
+
+@article{Alnafrah2019TextMA,
+  title={Text mining as a facilitating tool for deploying blockchain technology in the intellectual property rights system},
+  author={Ibrahim Alnafrah and Elena L. Bogdanova and Tatyana G. Maximova},
+  journal={International Journal of Intellectual Property Management},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:197796169}
+}
+
+@article{Poticha2019IntellectualPF,
+  title={Intellectual property-The Foundation of Innovation: A scientist's guide to intellectual property.},
+  author={David Poticha and Mark W Duncan},
+  journal={Journal of mass spectrometry : JMS},
+  year={2019},
+  volume={54 3},
+  pages={
+          288-300
+        },
+  url={https://api.semanticscholar.org/CorpusID:59226264}
+}
+
+@inproceedings{Haynes2019MediaRA,
+  title={Media Rights and Intellectual Property},
+  author={Richard P. Haynes},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:152792314}
+}
+
+@article{Omelyanyuk2019SystematizationOI,
+  title={Systematization of Intellectual Property Objects for Forensic Purposes},
+  author={Georgii G. Omel’yanyuk and Viktoriya V. Gulevskaya and A. S. Savenko},
+  journal={Theory and Practice of Forensic Science},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:241299623}
+}
+
+@article{Abramowicz2019PrizeAR,
+  title={Prize and Reward Alternatives to Intellectual Property},
+  author={Michael Abramowicz},
+  journal={Legal Perspectives in Information Systems eJournal},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:159309984}
+}
+
+@article{Baran2018IntellectualPM,
+  title={Intellectual property management in startups — problematic issues},
+  author={Agnieszka Baran and A. S. Zhumabaeva},
+  journal={Engineering Management in Production and Services},
+  year={2018},
+  volume={10},
+  pages={66 - 74},
+  url={https://api.semanticscholar.org/CorpusID:56039104}
+}
+
+@article{Adler2018TakingIP,
+  title={Taking Intellectual Property into Their Own Hands},
+  author={Amy M. Adler and Jeanne Fromer},
+  journal={California Law Review},
+  year={2018},
+  volume={107},
+  pages={1455},
+  url={https://api.semanticscholar.org/CorpusID:158728049}
+}
+
+@article{DeBeukelaer2018ThePE,
+  title={The political economy of intellectual property rights: the paradox of Article 27 exemplified in Ghana},
+  author={Christiaan De Beukelaer and Martin Fredriksson},
+  journal={Review of African Political Economy},
+  year={2018},
+  volume={46},
+  pages={459 - 479},
+  url={https://api.semanticscholar.org/CorpusID:158384992}
+}
+
+@article{Garcia2024ThePO,
+  title={The Paradox of Artificial Creativity: Challenges and Opportunities of Generative AI Artistry},
+  author={Manuel B. Garcia},
+  journal={Creativity Research Journal},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:270154899}
+}
+
+@article{Yu2018AHO,
+  title={A Half-Century of Scholarship on the Chinese Intellectual Property System},
+  author={Philip S. Yu},
+  journal={Entrepreneurship \& Law eJournal},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:158292800}
+}
+
+@inproceedings{Bently2018IntellectualPL,
+  title={Intellectual property law (5th Edition)},
+  author={Lionel A. F. Bently and Brad Sherman and Dev Saif Gangjee and Phillip Johnson},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:149682693}
+}
+
+@article{Schr2018WhereIT,
+  title={Where is the Morality? Moral Rights in International Intellectual Property and Trade Law},
+  author={Elizabeth Sch{\'e}r{\'e}},
+  journal={Intellectual Property: Other eJournal},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:158358303}
+}
+
+@inproceedings{Tritton2018TrittonOI,
+  title={Tritton on Intellectual Property in Europe},
+  author={Guy Tritton and Richard W. Davis},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:166644523}
+}
+
+@inproceedings{Burri2018CulturalHA,
+  title={Cultural Heritage and Intellectual Property},
+  author={Mira Burri},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:149826554}
+}
+
+@article{Gargate2018IntellectualPA,
+  title={Intellectual property audit of an organization},
+  author={Gouri Gargate and Qutbuddin Siddiquee and Chaitanya Wingkar},
+  journal={The Journal of World Intellectual Property},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:158321665}
+}
+
+@article{Chang2023TheRO,
+  title={The rise of generative artificial intelligence (AI) language models - challenges and opportunities for geographical and environmental education},
+  author={Chew Hung Chang and Gillian Kidman},
+  journal={International Research in Geographical and Environmental Education},
+  year={2023},
+  volume={32},
+  pages={85 - 89},
+  url={https://api.semanticscholar.org/CorpusID:257821330}
+}
+
+@article{Strowel2023ChatGPTAG,
+  title={ChatGPT and Generative AI Tools: Theft of Intellectual Labor?},
+  author={Alain M. Strowel},
+  journal={IIC - International Review of Intellectual Property and Competition Law},
+  year={2023},
+  volume={54},
+  pages={491-494},
+  url={https://api.semanticscholar.org/CorpusID:257966567}
+}
+
+@article{Vasa2023ETHICALIA,
+  title={ETHICAL IMPLICATIONS AND BIAS IN GENERATIVE AI},
+  author={Yeshwanth Vasa},
+  journal={International Journal for Research Publication and Seminar},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:272976322}
+}
+
+@inproceedings{Adi2018TurningYW,
+  title={Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring},
+  author={Yossi Adi and Carsten Baum and Moustapha Ciss{\'e} and Benny Pinkas and Joseph Keshet},
+  booktitle={USENIX Security Symposium},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:3322503}
+}
+
+@inproceedings{Armstrong2022AccessTK,
+  title={Access to knowledge in Africa: The role of copyright},
+  author={Chris Armstrong and Jeremy Beer and Dick Kawooya and Achal Prabhala and Tobias Schonwetter},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:153711332}
+}
+
+@article{Hugenholtz2021CopyrightAA,
+  title={Copyright and Artificial Creation: Does EU Copyright Law Protect AI-Assisted Output?},
+  author={Philip Hugenholtz and Jo{\~a}o Pedro Quintais},
+  journal={IIC - International Review of Intellectual Property and Competition Law},
+  year={2021},
+  volume={52},
+  pages={1190 - 1216},
+  url={https://api.semanticscholar.org/CorpusID:244184811}
+}
+
+@article{Gallifant2024PeerRO,
+  title={Peer review of GPT-4 technical report and systems card},
+  author={Jack Gallifant and Amelia Fiske and Yulia A. Levites Strekalova and Juan S Osorio-Valencia and Rachael L. Parke and Rogers Mwavu and Nicole Martinez and Judy Wawira Gichoya and Marzyeh Ghassemi and Dina Demner-Fushman and Liam G. McCoy and Leo Anthony Celi and Robin L Pierce},
+  journal={PLOS Digital Health},
+  year={2024},
+  volume={3},
+  url={https://api.semanticscholar.org/CorpusID:267039006}
+}
+
+@article{Hui2024PLeakPL,
+  title={PLeak: Prompt Leaking Attacks against Large Language Model Applications},
+  author={Bo Hui and Haolin Yuan and Neil Zhenqiang Gong and Philippe Burlina and Yinzhi Cao},
+  journal={ArXiv},
+  year={2024},
+  volume={abs/2405.06823},
+  url={https://api.semanticscholar.org/CorpusID:269757030}
+}
+
+@article{Bansal2018NewWO,
+  title={New Ways of Seeing through Qualitative Research},
+  author={Pratima (Tima) Bansal and Wendy K. Smith and Eero Vaara},
+  journal={Academy of Management Journal},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:149816788}
+}
+
+@article{Baranyanan2021SimplificationOL,
+  title={Simplification of Law Regulations in Copyright Criminal Act Settlement},
+  author={Soeleman Djaiz Baranyanan},
+  journal={Journal of Human Rights, Culture and Legal System},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:238817353}
+}
+
+@article{Caloz2018ElectromagneticN,
+  title={Electromagnetic Nonreciprocity},
+  author={Christophe Caloz and Andrea Al{\'u} and Sergei A. Tretyakov and Dimitrios L. Sounas and Karim Achouri and Zo{\'e}-Lise Deck-L{\'e}ger},
+  journal={Physical Review Applied},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:115135638}
+}
+
+@article{Xiao2020ABT,
+  title={A Blockchain-Based Traceable IP Copyright Protection Algorithm},
+  author={Lijun Xiao and Weihong Huang and Yong Xie and Weidong Xiao and Kuan-Ching Li},
+  journal={IEEE Access},
+  year={2020},
+  volume={8},
+  pages={49532-49542},
+  url={https://api.semanticscholar.org/CorpusID:213261173}
+}
+
+@article{Hua2018ReverseEC,
+  title={Reverse Engineering Convolutional Neural Networks Through Side-channel Information Leaks},
+  author={Weizhe Hua and Zhiru Zhang and Gookwon Edward Suh},
+  journal={2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC)},
+  year={2018},
+  pages={1-6},
+  url={https://api.semanticscholar.org/CorpusID:5041258}
+}
+
+@article{Hristov2020ArtificialIA,
+  title={Artificial Intelligence and the Copyright Survey},
+  author={Kalin Hristov},
+  journal={Law \& Society: Private Law - Intellectual Property eJournal},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:226064157}
+}
+
+@article{Hou2018CopyrightPO,
+  title={Copyright Protections of Digital Content in the Age of 3D Printer: Emerging Issues and Survey},
+  author={Jong-Uk Hou and Dongkyu Kim and Wonhyuk Ahn and Heung-Kyu Lee},
+  journal={IEEE Access},
+  year={2018},
+  volume={6},
+  pages={44082-44093},
+  url={https://api.semanticscholar.org/CorpusID:52152458}
+}
+
+@article{Geiger2018TextAD,
+  title={Text and Data Mining in the Proposed Copyright Reform: Making the EU Ready for an Age of Big Data?},
+  author={Christophe Geiger and Giancarlo F. Frosio and Oleksandr Bulayenko},
+  journal={IIC - International Review of Intellectual Property and Competition Law},
+  year={2018},
+  volume={49},
+  pages={814 - 844},
+  url={https://api.semanticscholar.org/CorpusID:170047813}
+}
+
+@article{Kate2019ObstaclesAO,
+  title={Obstacles and Opportunities},
+  author={Warner ten Kate and L{\'a}szlo Varr{\'o} and Anne-Sophie Corbeau},
+  journal={Disaster Security},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:151784724}
+}
+
+@article{Kim2018TypeIITA,
+  title={Type-II tRNAs and Evolution of Translation Systems and the Genetic Code},
+  author={Yunsoo Kim and Bruce Kowiatek and Kristopher Opron and Zachary Frome Burton},
+  journal={International Journal of Molecular Sciences},
+  year={2018},
+  volume={19},
+  url={https://api.semanticscholar.org/CorpusID:53094165}
+}
+
+@article{Zhou2021PropertyIA,
+  title={Property Inference Attacks Against GANs},
+  author={Junhao Zhou and Yufei Chen and Chao Shen and Yang Zhang},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2111.07608},
+  url={https://api.semanticscholar.org/CorpusID:244117091}
+}
+
+@article{Townsend2018IrishDA,
+  title={Irish Drama and the Other Revolutions: Playwrights, Sexual Politics and the International Left, 1892–1964},
+  author={Sarah L. Townsend},
+  journal={TDR/The Drama Review},
+  year={2018},
+  volume={62},
+  pages={171-173},
+  url={https://api.semanticscholar.org/CorpusID:26191347}
+}
+
+@article{Gustafsson2020scikitfemAP,
+  title={scikit-fem: A Python package for finite element assembly},
+  author={Tom Gustafsson and G. D. McBain},
+  journal={J. Open Source Softw.},
+  year={2020},
+  volume={5},
+  pages={2369},
+  url={https://api.semanticscholar.org/CorpusID:225293836}
+}
+
+@article{Katyal2019ThePO,
+  title={The Paradox of Source Code Secrecy},
+  author={Sonia K. Katyal},
+  journal={Cornell Law Review},
+  year={2019},
+  volume={104},
+  pages={1183-1279},
+  url={https://api.semanticscholar.org/CorpusID:201144185}
+}
+
+@inproceedings{Diehl2018WhyH,
+  title={Why have ‘Sustainable Product-Service Systems’ not been widely implemented? Meeting new design challenges to achieve societal sustainability},
+  author={Jan Carel Diehl},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:53868507}
+}
+
+@article{Tytri2018AligningTM,
+  title={Aligning the Mindset and Capabilities within a Business Network for Successful Adoption of Smart Services},
+  author={Pekka T{\"o}yt{\"a}ri and Taija Turunen and Maximilian Klein and Ville Eloranta and Sebastian Biehl and Risto Rajala},
+  journal={Journal of Product Innovation Management},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:53128486}
+}
+
+@article{Hitaj2018HaveYS,
+  title={Have You Stolen My Model? Evasion Attacks Against Deep Neural Network Watermarking Techniques},
+  author={Dorjan Hitaj and Luigi V. Mancini},
+  journal={ArXiv},
+  year={2018},
+  volume={abs/1809.00615},
+  url={https://api.semanticscholar.org/CorpusID:52156865}
+}
+
+@article{deFilippi2019Bitcoin,
+  title={Bitcoin},
+  author={Primavera de Filippi},
+  journal={ERN: International Financial Flows (Topic)},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:219356073}
+}
+
+@article{Rooksby2019CopyrightsIH,
+  title={Copyrights in higher education: motivating a research agenda},
+  author={Jacob H. Rooksby and Christopher S. Hayter},
+  journal={The Journal of Technology Transfer},
+  year={2019},
+  volume={44},
+  pages={250-263},
+  url={https://api.semanticscholar.org/CorpusID:158984105}
+}
+
+@article{Banne2024IntellectualPR,
+  title={Intellectual Property Rights and Food Security},
+  author={Vishal B Banne Banne},
+  journal={SSRN Electronic Journal},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:152528396}
+}
+
+@article{Liu2024TheIO,
+  title={The impact of intellectual property rights protection on green innovation: A quasi-natural experiment based on the pilot policy of the Chinese intellectual property court.},
+  author={Yue Liu and Liming Chen and Han Luo and Yuzhao Liu and Yixian Wen},
+  journal={Mathematical biosciences and engineering : MBE},
+  year={2024},
+  volume={21 2},
+  pages={
+          2587-2607
+        },
+  url={https://api.semanticscholar.org/CorpusID:267110003}
+}
+
+@article{Ren2024ProtectingIP,
+  title={Protecting Intellectual Property With Reliable Availability of Learning Models in AI-Based Cybersecurity Services},
+  author={Ge Ren and Jun Wu and Gaolei Li and Sheng Tao Li and Mohsen Guizani},
+  journal={IEEE Transactions on Dependable and Secure Computing},
+  year={2024},
+  volume={21},
+  pages={600-617},
+  url={https://api.semanticscholar.org/CorpusID:253654538}
+}
+
+@article{Daraojimba2023MAPPINGIR,
+  title={MAPPING INTERNATIONAL RESEARCH COOPERATION AND INTELLECTUAL PROPERTY MANAGEMENT IN THE FIELD OF MATERIALS SCIENCE: AN EXPLORATION OF STRATEGIES, AGREEMENTS, AND HURDLES},
+  author={Chibuike Daraojimba and Nsisong Louis and Eyo-Udo and Blessed Afeyokalo Egbokhaebho and Kelechi Anthony Ofonagoro and Oluwaseun Ayo Ogunjobi and Olawe Alaba Tula and Adeyinka Alex Banso},
+  journal={Engineering Science \& Technology Journal},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:261654050}
+}
+
+@article{Ubaydullayeva2023ArtificialIA,
+  title={Artificial Intelligence and Intellectual Property: Navigating the Complexities of Cyber Law},
+  author={Anna Ubaydullayeva},
+  journal={International Journal of Law and Policy},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:261474937}
+}
+
+@article{Maghfirah2023UNDERSTANDINGIP,
+  title={UNDERSTANDING INTELLECTUAL PROPERTY RIGHTS IN THE INDONESIAN TRADING BUSINESS},
+  author={Nurul Maghfirah and Siti Zaviera and Daffa Alghazy and Chairul Fahmi},
+  journal={Al-Mudharabah: Jurnal Ekonomi dan Keuangan Syariah},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:262205655}
+}
+
+@article{Foster2023IntellectualPR,
+  title={Intellectual property rights and control in the digital economy: Examining the expansion of M-Pesa},
+  author={Christopher Foster},
+  journal={The Information Society},
+  year={2023},
+  volume={40},
+  pages={1 - 17},
+  url={https://api.semanticscholar.org/CorpusID:264121004}
+}
+
+@article{Bamakan2022PatentsAI,
+  title={Patents and intellectual property assets as non-fungible tokens; key technologies and challenges},
+  author={Seyed Mojtaba Hosseini Bamakan and Nasim Nezhadsistani and Omid Bodaghi and Qiang Qu},
+  journal={Scientific Reports},
+  year={2022},
+  volume={12},
+  url={https://api.semanticscholar.org/CorpusID:246700675}
+}
+
+@article{Liang2023FedCIPFC,
+  title={FedCIP: Federated Client Intellectual Property Protection with Traitor Tracking},
+  author={Junchuan Liang and Rong Wang},
+  journal={ArXiv},
+  year={2023},
+  volume={abs/2306.01356},
+  url={https://api.semanticscholar.org/CorpusID:259064125}
+}
+
+@article{Xia2023IntellectualPP,
+  title={Intellectual property protection for traditional medical knowledge in China’s context: a round peg in a square hole?},
+  author={Nan Xia},
+  journal={Medical Law Review},
+  year={2023},
+  volume={31},
+  pages={358 - 390},
+  url={https://api.semanticscholar.org/CorpusID:257984172}
+}
+
+@article{Adams2023TheEO,
+  title={The Evolution of Intellectual Property Rights in the Digital Age},
+  author={Racheal Adams},
+  journal={Journal of Modern Law and Policy},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:265613480}
+}
+
+@article{Chen2022DoesIP,
+  title={Does intellectual property protection stimulate digital economy development?},
+  author={Wen Chen and Ying Wu},
+  journal={Journal of Applied Economics},
+  year={2022},
+  volume={25},
+  pages={723 - 730},
+  url={https://api.semanticscholar.org/CorpusID:248782372}
+}
+
+@article{Tenni2022WhatIT,
+  title={What is the impact of intellectual property rules on access to medicines? A systematic review},
+  author={Brigitte Frances Tenni and Hazel V. J. Moir and Belinda Townsend and Burcu Kilic and Anne Maree Farrell and Tessa Keegel and Deborah Gleeson},
+  journal={Globalization and Health},
+  year={2022},
+  volume={18},
+  url={https://api.semanticscholar.org/CorpusID:248184319}
+}
+
+@article{Disemadi2022ContextualizationOL,
+  title={Contextualization of Legal Protection of Intellectual Property in Micro Small and Medium Enterprises in Indonesia},
+  author={Hari Sutra Disemadi},
+  journal={LAW REFORM},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:252060882}
+}
+
+@article{Bonnet2022ImpactOB,
+  title={Impact of blockchain and distributed ledger technology for the management, protection, enforcement and monetization of intellectual property: a systematic literature review},
+  author={Severin Bonnet and Frank Teuteberg},
+  journal={Information Systems and e-Business Management},
+  year={2022},
+  volume={21},
+  pages={229 - 275},
+  url={https://api.semanticscholar.org/CorpusID:254900522}
+}
+
+@article{Xu2022ImprovingTI,
+  title={Improving the Innovative Performance of Renewable Energy Enterprises in China: Effects of Subsidy Policy and Intellectual Property Legislation},
+  author={Xiaofeng Xu and Xiang Chen and Yi Xu and Tao Wang and Yifan Zhang},
+  journal={Sustainability},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:250327180}
+}
+
+@inproceedings{He2021ProtectingIP,
+  title={Protecting Intellectual Property of Language Generation APIs with Lexical Watermark},
+  author={Xuanli He and Qiongkai Xu and L. Lyu and Fangzhao Wu and Chenguang Wang},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:244909149}
+}
+
+@article{Peng2022IntellectualPP,
+  title={Intellectual property protection of DNN models},
+  author={Sen Peng and Yufei Chen and Jie Xu and Zizhuo Chen and Cong Wang and Xiaohua Jia},
+  journal={World Wide Web},
+  year={2022},
+  volume={26},
+  pages={1877-1911},
+  url={https://api.semanticscholar.org/CorpusID:253871225}
+}
+
+@article{Konara2022DistanceII,
+  title={‘Distance’ in intellectual property protection and MNEs’ foreign subsidiary innovation performance},
+  author={Palitha Konara and Georgios Batsakis and Vikrant Shirodkar},
+  journal={Journal of Product Innovation Management},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:246929892}
+}
+
+@article{Cao2021IPGuardPI,
+  title={IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary},
+  author={Xiaoyu Cao and Jinyuan Jia and Neil Zhenqiang Gong},
+  journal={Proceedings of the 2021 ACM Asia Conference on Computer and Communications Security},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:263892253}
+}
+
+@article{Watson2022NegotiatingPM,
+  title={Negotiating platformisation: MusicTech, intellectual property rights and third wave platform reintermediation in the music industry},
+  author={Allan Watson and Andrew Leyshon},
+  journal={Journal of Cultural Economy},
+  year={2022},
+  volume={15},
+  pages={326 - 343},
+  url={https://api.semanticscholar.org/CorpusID:247553018}
+}
+
+@article{Le2022DeterminantsOI,
+  title={Determinants of Intellectual Property Rights Protection in Asian Developing Countries},
+  author={Ha Thi Viet Le and Trang Thi-Dai Luong and Trang Thi Thu Nguyen and Duy Van Nguyen},
+  journal={Journal of the Knowledge Economy},
+  year={2022},
+  volume={14},
+  pages={4780-4806},
+  url={https://api.semanticscholar.org/CorpusID:252776610}
+}
+
+@article{Le2022DeterminantsOI,
+  title={Determinants of Intellectual Property Rights Protection in Asian Developing Countries},
+  author={Ha Thi Viet Le and Trang Thi-Dai Luong and Trang Thi Thu Nguyen and Duy Van Nguyen},
+  journal={Journal of the Knowledge Economy},
+  year={2022},
+  volume={14},
+  pages={4780-4806},
+  url={https://api.semanticscholar.org/CorpusID:252776610}
+}
+
+@article{Gold2022WhatTC,
+  title={What the COVID-19 pandemic revealed about intellectual property},
+  author={E. Richard Gold},
+  journal={Nature Biotechnology},
+  year={2022},
+  volume={40},
+  pages={1428 - 1430},
+  url={https://api.semanticscholar.org/CorpusID:252756485}
+}
+
+@article{Lin2021ChaoticWA,
+  title={Chaotic Weights: A Novel Approach to Protect Intellectual Property of Deep Neural Networks},
+  author={Ning Lin and Xiaoming Chen and Hang Lu and Xiaowei Li},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  year={2021},
+  volume={40},
+  pages={1327-1339},
+  url={https://api.semanticscholar.org/CorpusID:226508110}
+}
+
+@article{Li2022IntellectualPP,
+  title={Intellectual property protection, religious culture and dynamic capabilities of enterprises: evidence from Chinese listed companies},
+  author={Xing Li and Ye Qi and Guiyang Zhang},
+  journal={Technology Analysis \& Strategic Management},
+  year={2022},
+  volume={36},
+  pages={1263 - 1277},
+  url={https://api.semanticscholar.org/CorpusID:249942580}
+}
+
+@article{Trequattrini2022IntangibleAM,
+  title={Intangible assets management and digital transformation: evidence from intellectual property rights-intensive industries},
+  author={Raffaele Trequattrini and Alessandra Lardo and Benedetta Cuozzo and Simone Manfredi},
+  journal={Meditari Accountancy Research},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:247539266}
+}
+
+@article{Chakraborty2020HardwareAssistedIP,
+  title={Hardware-Assisted Intellectual Property Protection of Deep Learning Models},
+  author={Abhishek Chakraborty and Ankit Mondal and Ankur Srivastava},
+  journal={2020 57th ACM/IEEE Design Automation Conference (DAC)},
+  year={2020},
+  pages={1-6},
+  url={https://api.semanticscholar.org/CorpusID:221353450}
+}
+
+@article{Spinello2019IntellectualPR,
+  title={Intellectual property rights},
+  author={Richard A. Spinello},
+  journal={Libr. Hi Tech},
+  year={2019},
+  volume={25},
+  pages={12-22},
+  url={https://api.semanticscholar.org/CorpusID:5159054}
+}
+
+@article{Marek2022NavigatingIP,
+  title={Navigating intellectual property in the landscape of digital cultural heritage sites},
+  author={Hannah M. Marek},
+  journal={International Journal of Cultural Property},
+  year={2022},
+  volume={29},
+  pages={1 - 21},
+  url={https://api.semanticscholar.org/CorpusID:252186474}
+}
+
+@article{Sekalala2021DecolonisingHR,
+  title={Decolonising human rights: how intellectual property laws result in unequal access to the COVID-19 vaccine},
+  author={Sharifah Sekalala and Lisa Forman and Tim Hodgson and Moses Mulumba and Hadijah Namyalo-Ganafa and Benjamin Mason Meier},
+  journal={BMJ Global Health},
+  year={2021},
+  volume={6},
+  url={https://api.semanticscholar.org/CorpusID:235809201}
+}
+
+@article{Grimaldi2021AFO,
+  title={A framework of intellectual property protection strategies and open innovation},
+  author={Michele Grimaldi and Marco Greco and Livio Cricelli},
+  journal={Journal of Business Research},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:225135976}
+}
+
+@article{Xue2021DNNIP,
+  title={DNN Intellectual Property Protection: Taxonomy, Attacks and Evaluations (Invited Paper)},
+  author={Mingfu Xue and Jian Wang and Weiqiang Liu},
+  journal={Proceedings of the 2021 Great Lakes Symposium on VLSI},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:235474151}
+}
+
+@article{Li2019HowTP,
+  title={How to prove your model belongs to you: a blind-watermark based framework to protect intellectual property of DNN},
+  author={Zheng Li and Chengyu Hu and Yang Zhang and Shanqing Guo},
+  journal={Proceedings of the 35th Annual Computer Security Applications Conference},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:207847538}
+}
+
+@article{Schwartz2021GlobalSS,
+  title={Global secular stagnation and the rise of intellectual property monopoly},
+  author={Herman Mark Schwartz},
+  journal={Review of International Political Economy},
+  year={2021},
+  volume={29},
+  pages={1448 - 1476},
+  url={https://api.semanticscholar.org/CorpusID:235559263}
+}
+
+@article{Sariola2021IntellectualPR,
+  title={Intellectual property rights need to be subverted to ensure global vaccine access},
+  author={Salla Sariola},
+  journal={BMJ Global Health},
+  year={2021},
+  volume={6},
+  url={https://api.semanticscholar.org/CorpusID:232765827}
+}
+
+@article{Yan2021ProtectingIP,
+  title={Protecting intellectual property in foreign subsidiaries: An internal network defense perspective},
+  author={Yan Yan and Jiatao Li and Jingjing Zhang},
+  journal={Journal of International Business Studies},
+  year={2021},
+  volume={53},
+  pages={1924 - 1944},
+  url={https://api.semanticscholar.org/CorpusID:236589797}
+}
+
+@article{Thambisetty2021TheTI,
+  title={The TRIPS Intellectual Property Waiver Proposal: Creating the Right Incentives in Patent Law and Politics to end the COVID-19 Pandemic},
+  author={Sivaramjani Thambisetty},
+  journal={Social Science Research Network},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:236386130}
+}
+
+@article{Erfani2021IntellectualPW,
+  title={Intellectual property waiver for covid-19 vaccines will advance global health equity},
+  author={Parsa Erfani and Agnes Binagwaho and Mohamed Jalloh and Muhammad Yunus and Paul Farmer and Vanessa B. Kerry},
+  journal={BMJ},
+  year={2021},
+  volume={374},
+  url={https://api.semanticscholar.org/CorpusID:236778690}
+}
+
+@article{Wan2021ImpactOI,
+  title={Impact of intellectual property protection on the innovation efficiency in China’s hi-tech industry},
+  author={Qunchao Wan and Ling Yuan and Zhu Yao and Yong Xu},
+  journal={Technology Analysis \& Strategic Management},
+  year={2021},
+  volume={35},
+  pages={107 - 122},
+  url={https://api.semanticscholar.org/CorpusID:238734249}
+}
+
+@article{Tee2021DeterminantsOR,
+  title={Determinants of Renewable Energy Production: Do Intellectual Property Rights Matter?},
+  author={Wu Shun Tee and Lee Chin and Abdul Samad Abdul-Rahim},
+  journal={Energies},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:240564453}
+}
+
+@article{Tietze2020CrisisCriticalIP,
+  title={Crisis-Critical Intellectual Property: Findings From the COVID-19 Pandemic},
+  author={Frank Tietze and Pratheeba Vimalnath and Leonidas Aristodemou and Jenny Molloy},
+  journal={IEEE Transactions on Engineering Management},
+  year={2020},
+  volume={69},
+  pages={2039-2056},
+  url={https://api.semanticscholar.org/CorpusID:215416025}
+}
+
+@article{Xue2020IntellectualPP,
+  title={Intellectual Property Protection for Deep Learning Models: Taxonomy, Methods, Attacks, and Evaluations},
+  author={Mingfu Xue and Yushu Zhang and Jian Wang and Weiqiang Liu},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2020},
+  volume={PP},
+  pages={1-1},
+  url={https://api.semanticscholar.org/CorpusID:235914115}
+}
+
+@article{Cao2019IPGuardPT,
+  title={IPGuard: Protecting the Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary},
+  author={Xiaoyu Cao and Jinyuan Jia and Neil Zhenqiang Gong},
+  journal={ArXiv},
+  year={2019},
+  volume={abs/1910.12903},
+  url={https://api.semanticscholar.org/CorpusID:204960658}
+}
+
+@article{Li2020ChinasIP,
+  title={China’s intellectual property rights provocation: A political economy view},
+  author={Shaomin Li and Ilan Alon},
+  journal={Journal of International Business Policy},
+  year={2020},
+  volume={3},
+  pages={60-72},
+  url={https://api.semanticscholar.org/CorpusID:203298742}
+}
+
+@inproceedings{2019InnovationAI,
+  title={Innovation and Intellectual Property Rights (Innovation in Firms: A Microeconomic Perspective)},
+  author={},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:221685436}
+}
+
+@article{Habib2019AreHC,
+  title={Are human capital, intellectual property rights, and research and development expenditures really important for total factor productivity? An empirical analysis},
+  author={Misbah Habib and Jawad Abbas and Rahat Noman},
+  journal={International Journal of Social Economics},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:159264719}
+}
+
+@article{Schwartz2019AmericanHI,
+  title={American hegemony: intellectual property rights, dollar centrality, and infrastructural power},
+  author={Herman Mark Schwartz},
+  journal={Review of International Political Economy},
+  year={2019},
+  volume={26},
+  pages={490 - 519},
+  url={https://api.semanticscholar.org/CorpusID:191924569}
+}
+
+@article{Contreras2020PledgingIP,
+  title={Pledging intellectual property for COVID-19},
+  author={Jorge L. Contreras and Michael Eisen and Ariel B. Ganz and Mark A. Lemley and Jenny Molloy and Diane McFerrin Peters and Frank Tietze},
+  journal={Nature Biotechnology},
+  year={2020},
+  volume={38},
+  pages={1146 - 1149},
+  url={https://api.semanticscholar.org/CorpusID:222153166}
+}
+
+@article{Martin2020mRNAVI,
+  title={mRNA vaccines: intellectual property landscape},
+  author={Cecilia Martin and Drew M. Lowery},
+  journal={Nature Reviews Drug Discovery},
+  year={2020},
+  volume={19},
+  pages={578 - 578},
+  url={https://api.semanticscholar.org/CorpusID:220840928}
+}
+
+@article{Ardani2021ModelOA,
+  title={Model Ownership and Intellectual Property Rights for Collaborative Sustainability on Building Information Modeling},
+  author={Jeri Adin Ardani and Christiono Utomo and Yani Rahmawati},
+  journal={Buildings},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:238815041}
+}
+
+@article{Gassmann2021PatentMP,
+  title={Patent Management: Protecting Intellectual Property and Innovation},
+  author={Oliver Gassmann and Martin A. Bader and Mark James Thompson},
+  journal={Patent Management},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:229405790}
+}
+
+@article{Schwartz2020IntellectualPT,
+  title={Intellectual property, technorents and the labour share of production},
+  author={Herman Mark Schwartz},
+  journal={Competition \& Change},
+  year={2020},
+  volume={26},
+  pages={415 - 435},
+  url={https://api.semanticscholar.org/CorpusID:228961875}
+}
+
+@article{Motari2020TheRO,
+  title={The role of intellectual property rights on access to medicines in the WHO African region: 25 years after the TRIPS agreement},
+  author={Marion Motari and Jean Baptiste Niki{\'e}ma and Ossy Muganga Julius Kasilo and Stanislav Kniazkov and Andr{\'e} Loua and Aissatou Sougou and Prosper Tumusiime},
+  journal={BMC Public Health},
+  year={2020},
+  volume={21},
+  url={https://api.semanticscholar.org/CorpusID:232201423}
+}
+
+@article{Huang2021IntellectualPR,
+  title={Intellectual Property Rights Protection},
+  author={Can Huang and Naubahar Sharif},
+  journal={The Oxford Handbook of China Innovation},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:244768748}
+}
+
+@article{Androshchuk2021ArtificialIE,
+  title={Artificial intelligence: economy, intellectual property, threats},
+  author={Hennadii Androshchuk},
+  journal={Theory and Practice of Intellectual Property},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:237777017}
+}
+
+@article{Dolganin2021NonfungibleT,
+  title={Non-fungible tokens (NFT) and intellectual property: The triumph of the proprietary approach?},
+  author={Aleksandr A. Dolganin},
+  journal={Digital Law Journal},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:244021171}
+}
+
+@article{Meirison2021IntellectualPR,
+  title={Intellectual Property Rights and Monopoly in the Perspective of Islamic Jurisprudence},
+  author={Meirison Meirison and Zerly Nazar},
+  journal={Al-Ahkam},
+  year={2021},
+  volume={31},
+  pages={49-68},
+  url={https://api.semanticscholar.org/CorpusID:236624094}
+}
+
+@article{Niculescu2018StrategicIP,
+  title={Strategic Intellectual Property Sharing: Competition on an Open Technology Platform Under Network Effects},
+  author={Marius F. Niculescu and Dongjun Wu and Lizhen Xu},
+  journal={Inf. Syst. Res.},
+  year={2018},
+  volume={29},
+  pages={498-519},
+  url={https://api.semanticscholar.org/CorpusID:34598956}
+}
+
+@article{Lin2020BlockchainAI,
+  title={Blockchain and IoT-based architecture design for intellectual property protection},
+  author={Jun Lin and Wen Long and Anting Zhang and Yueting Chai},
+  journal={Int. J. Crowd Sci.},
+  year={2020},
+  volume={4},
+  pages={283-293},
+  url={https://api.semanticscholar.org/CorpusID:225719896}
+}
+
+@article{Virchenko2021CommercializationOI,
+  title={Commercialization of intellectual property: innovative impact on global competitiveness of national economies},
+  author={Volodymyr Virchenko and Yurii Petrunia and Valerii Osetskyi and Mykhaylo Makarenko and Valentyna Sheludko},
+  journal={Marketing and Management of Innovations},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:237990057}
+}
+
+@article{aclaratorios2019AgreementOT,
+  title={Agreement on Trade-Related Aspects of Intellectual Property Rights},
+  author={“fines aclaratorios and Montserrat L{\'o}pez-Bellosta and Cl{\'a}usula Bolar and Vida Efectiva de las Patentes and Efectos de la patente},
+  journal={Status of WTO Legal Instruments},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:261623908}
+}
+
+@article{Brandl2018ForeignAA,
+  title={Foreign actors and intellectual property protection regulations in developing countries},
+  author={Kristin Brandl and Izzet Sidki Darendeli and Ram Mudambi},
+  journal={Journal of International Business Studies},
+  year={2018},
+  volume={50},
+  pages={826-846},
+  url={https://api.semanticscholar.org/CorpusID:169456999}
+}
+
+@article{Chen2020DECOYDH,
+  title={DECOY: DEflection-Driven HLS-Based Computation Partitioning for Obfuscating Intellectual PropertY},
+  author={Jianqi Chen and Monir Zaman and Yiorgos Makris and Shawn Blanton and Subhasish Mitra and Benjamin Carrion Schafer},
+  journal={2020 57th ACM/IEEE Design Automation Conference (DAC)},
+  year={2020},
+  pages={1-6},
+  url={https://api.semanticscholar.org/CorpusID:222298247}
+}
+
+@article{Holland2018IntellectualPP,
+  title={Intellectual Property Protection of 3D Print Supply Chain with Blockchain Technology},
+  author={Martin Holland and Josip Stjepandi{\'c} and Christian Nigischer},
+  journal={2018 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC)},
+  year={2018},
+  pages={1-8},
+  url={https://api.semanticscholar.org/CorpusID:52014828}
+}
+
+@article{Li2020DOESIP,
+  title={DOES INTELLECTUAL PROPERTY RIGHTS PROTECTION CONSTITUTE A BARRIER TO RENEWABLE ENERGY? AN ECONOMETRIC ANALYSIS},
+  author={Jinkai Li and Oluwasola Emmanuel Omoju and Jin Zhang and Emily E. Ikhide and Gang Lu and Adedoyin Isola Lawal and Vivian A. Ozue},
+  journal={National Institute Economic Review},
+  year={2020},
+  volume={251},
+  pages={R37 - R46},
+  url={https://api.semanticscholar.org/CorpusID:212820710}
+}
+
+@article{Chirico2018ToPO,
+  title={To patent or not to patent: That is the question. Intellectual property protection in family firms},
+  author={Francesco Chirico and Giuseppe Criaco and Massimo Ba{\`u} and Lucia Naldi and Luis R. G{\'o}mez‐Mej{\'i}a and Josip Kotlar},
+  journal={Entrepreneurship Theory and Practice},
+  year={2018},
+  volume={44},
+  pages={339 - 367},
+  url={https://api.semanticscholar.org/CorpusID:158087086}
+}
+
+@article{Aristodemou2018TheSO,
+  title={The state-of-the-art on Intellectual Property Analytics (IPA): A literature review on artificial intelligence, machine learning and deep learning methods for analysing intellectual property (IP) data},
+  author={Leonidas Aristodemou and Frank Tietze},
+  journal={World Patent Information},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:116376892}
+}
+
+@article{Campi2020IntellectualPR,
+  title={Intellectual Property Rights and Agricultural Development: Evidence from a Worldwide Index of IPRs in Agriculture (1961-2018)},
+  author={Mercedes Campi and Alessandro Nuvolari},
+  journal={The Journal of Development Studies},
+  year={2020},
+  volume={57},
+  pages={650 - 668},
+  url={https://api.semanticscholar.org/CorpusID:218606761}
+}
+
+@article{Marr2020TheVO,
+  title={The valorization of non-patent intellectual property in academic medical centers},
+  author={Kieren A. Marr and Phillip Phan},
+  journal={The Journal of Technology Transfer},
+  year={2020},
+  volume={45},
+  pages={1823 - 1841},
+  url={https://api.semanticscholar.org/CorpusID:222067639}
+}
+
+@article{Malkin2020TheMI,
+  title={The made in China challenge to US structural power: industrial policy, intellectual property and multinational corporations},
+  author={Anton Malkin},
+  journal={Review of International Political Economy},
+  year={2020},
+  volume={29},
+  pages={538 - 570},
+  url={https://api.semanticscholar.org/CorpusID:224944589}
+}
+
+@article{Dass2020IntellectualPP,
+  title={Intellectual Property Protection and Financial Markets: Patenting versus Secrecy*},
+  author={Nishant Dass and Vikram Nanda and Haemin Dennis Park and Steven Chong Xiao},
+  journal={Review of Finance},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:234617426}
+}
+
+@article{Orlando2020AreDT,
+  title={Are digital technologies killing future innovation? The curvilinear relationship between digital technologies and firm's intellectual property},
+  author={Beatrice Orlando and Alice Mazzucchelli and Antonio Usai and Melita Nicotra and Francesco Paoletti},
+  journal={Journal of Intellectual Capital},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:230577625}
+}
+
+@article{Cheng2020IntellectualPT,
+  title={Intellectual Property Tools in Safeguarding Intangible Cultural Heritage: A Chinese Perspective},
+  author={Le Cheng and Yuchang Yuan},
+  journal={International Journal for the Semiotics of Law - Revue internationale de S{\'e}miotique juridique},
+  year={2020},
+  volume={34},
+  pages={893 - 906},
+  url={https://api.semanticscholar.org/CorpusID:219742372}
+}
+
+@article{Pathak2020ATA,
+  title={A Two-Staged Approach to Technology Entrepreneurship: Differential Effects of Intellectual Property Rights},
+  author={Saurav Pathak and Etayankara Muralidharan},
+  journal={Technology Innovation Management Review},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:225746095}
+}
+
+@article{Woniak2019TheRP,
+  title={The Rapeseed Potential in Poland and Germany in the Context of Production, Legislation, and Intellectual Property Rights},
+  author={Ewa Woźniak and Ewa Waszkowska and Tomasz Zimny and Sławomir Sowa and Tomasz Twardowski},
+  journal={Frontiers in Plant Science},
+  year={2019},
+  volume={10},
+  url={https://api.semanticscholar.org/CorpusID:207759288}
+}
+
+@article{Grkaynak2018IntellectualPL,
+  title={Intellectual Property Law and Practice in the Blockchain Realm},
+  author={G{\"o}nenç G{\"u}rkaynak and Ilay Yilmaz and Burak Yesilaltay and Berk Bengi},
+  journal={Law \& Society: Private Law - Intellectual Property eJournal},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:69995678}
+}
+
+@article{Dosso2019FirmMV,
+  title={Firm market valuation and intellectual property assets},
+  author={Mafini Dosso and Antonio Vezzani},
+  journal={Industry and Innovation},
+  year={2019},
+  volume={27},
+  pages={705 - 729},
+  url={https://api.semanticscholar.org/CorpusID:169024378}
+}
+
+@article{tHoen2018MedicinePA,
+  title={Medicine procurement and the use of flexibilities in the Agreement on Trade-Related Aspects of Intellectual Property Rights, 2001–2016},
+  author={Ellen F. M. ‘t Hoen and Jacquelyn D. Veraldi and Brigit Toebes and Hans V. Hogerzeil},
+  journal={Bulletin of the World Health Organization},
+  year={2018},
+  volume={96},
+  pages={185 - 193},
+  url={https://api.semanticscholar.org/CorpusID:3911859}
+}
+
+@article{Chen2018HardwareTD,
+  title={Hardware Trojan Detection in Third-Party Digital Intellectual Property Cores by Multilevel Feature Analysis},
+  author={Xiaoming Chen and Qiaoyi Liu and Song Yao and Jia Wang and Qiang Xu and Yu Wang and Yongpan Liu and Huazhong Yang},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  year={2018},
+  volume={37},
+  pages={1370-1383},
+  url={https://api.semanticscholar.org/CorpusID:49275797}
+}
+
+@article{Davoudi2018CorrectionOT,
+  title={Correction on Testing the Mediating Role of Open Innovation on the Relationship between Intellectual Property Rights and Organizational Performance: A Case of Science and Technology Park},
+  author={Seyed Mehdi Mousavi Davoudi and Kiarash Fartash and Venera G. Zakirova and Asiya M. Belyalova and Rashad A. Kurbanov and Anna V. Boiarchuk and Zhanna M. Sizova},
+  journal={EURASIA Journal of Mathematics, Science and Technology Education},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:169473502}
+}
+
+@article{Wu2020IntellectualPR,
+  title={Intellectual Property Rights},
+  author={Mark Wu},
+  journal={Handbook of Deep Trade Agreements},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:14349779}
+}
+
+@inproceedings{Khan2020ImpactOD,
+  title={Impact of Digital Economy on Intellectual Property Law},
+  author={Asif Khan and Ximei Wu},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:234603802}
+}
+
+@article{SantosRutschman2020TheIP,
+  title={The Intellectual Property of COVID-19},
+  author={Ana Santos Rutschman},
+  journal={ERN: Intellectual Property (Topic)},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:225202736}
+}
+
+@inproceedings{Davoudi2018TestingTM,
+  title={Testing the Mediating Role of Open Innovation on the Relationship between Intellectual Property Rights and Organizational Performance : A Case of Science and Technology},
+  author={Seyed Mehdi Mousavi Davoudi and Kiarash Fartash and Venera G. Zakirova and Asiya M. Belyalova and Rashad A. Kurbanov and Anna V. Boiarchuk and Zhanna M. Sizova},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:54986201}
+}
+
+@article{Deng2019GovernmentRS,
+  title={Government R\&D subsidies, intellectual property rights protection and innovation},
+  author={Ping Deng and Hao Lu and Jin Hong and Qiong Chen and Yang Yang},
+  journal={Chinese Management Studies},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:158760282}
+}
+
+@article{Kop2019AII,
+  title={AI \& Intellectual Property: Towards an Articulated Public Domain},
+  author={Mauritz Kop},
+  journal={SSRN Electronic Journal},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:214091152}
+}
+
+@article{Reynolds2018IntellectualPP,
+  title={Intellectual property policies for solar geoengineering},
+  author={Jesse L. Reynolds and Jorge L. Contreras and Joshua D. Sarnoff},
+  journal={Wiley Interdisciplinary Reviews: Climate Change},
+  year={2018},
+  volume={9},
+  url={https://api.semanticscholar.org/CorpusID:58888118}
+}
+
+@article{Grinvald2019IntellectualPL,
+  title={Intellectual Property Law and the Right to Repair},
+  author={Leah Chan Grinvald and Ofer Tur-Sinai},
+  journal={SSRN Electronic Journal},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:159131156}
+}
+
+@inproceedings{Rimmer2019IntellectualPP,
+  title={Intellectual Property Policy},
+  author={Matthew Rimmer},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:153137938}
+}
+
+@article{GuoFitoussi2019IntellectualPR,
+  title={Intellectual property rights, complementarity and the firm's economic performance},
+  author={Liang Guo-Fitoussi and Ahmed Bounfour and Sabrine Rekik},
+  journal={International Journal of Intellectual Property Management},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:197823327}
+}
+
+@article{Knechtel2019ProtectYC,
+  title={Protect Your Chip Design Intellectual Property: An Overview},
+  author={Johann Knechtel and Satwik Patnaik and Ozgur Sinanoglu},
+  journal={Proceedings of the International Conference on Omni-Layer Intelligent Systems},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:61153482}
+}
+
+@inproceedings{Diega2018AgainstTD,
+  title={Against the dehumanisation of decision-making. Algorithmic decisions at the crossroads of intellectual property, data protection, and freedom of information},
+  author={Guido Noto La Diega},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:56413369}
+}
+
+@article{Drexl2019TechnicalAO,
+  title={Technical Aspects of Artificial Intelligence: An Understanding from an Intellectual Property Law Perspective},
+  author={Josef Drexl and Reto M. Hilty and Francisco Beneke and Luc Desaunettes and Mich{\`e}le Finck and Jure Globo{\vc}nik and Bego{\~n}a Gonzalez Otero and J{\"o}rg Hoffmann and Leonard Hollander and Daria Kim and Heiko Richter and Stefan Scheuerer and Peter R. Slowinski and Jannick Thonemann},
+  journal={IRPN: Innovation \& Copyright Law \& Policy (Sub-Topic)},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:208841608}
+}
+
+@article{Chu2018ATO,
+  title={A Tale of Two Growth Engines: Interactive Effects of Monetary Policy and Intellectual Property Rights},
+  author={Angus Chun Kwok Chu and Ching‐chong Lai and Chih-hsing Liao},
+  journal={Journal of Money, Credit and Banking},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:145045469}
+}
+
+@article{Skowronski2018TheIO,
+  title={The Influence of Intellectual Property Rights on Poaching in Manufacturing Outsourcing},
+  author={Keith Skowronski and W.C. Benton},
+  journal={Production and Operations Management},
+  year={2018},
+  volume={27},
+  pages={531 - 552},
+  url={https://api.semanticscholar.org/CorpusID:159011421}
+}
+
+@article{Zhou2019CanIP,
+  title={Can intellectual property rights within climate technology transfer work for the UNFCCC and the Paris Agreement?},
+  author={Chen Zhou},
+  journal={International Environmental Agreements: Politics, Law and Economics},
+  year={2019},
+  volume={19},
+  pages={107-122},
+  url={https://api.semanticscholar.org/CorpusID:158233151}
+}
+
+@article{Poesche2019DecentralizedPT,
+  title={Decentralized Production: The Need for Social Norms-Based Intellectual Property?},
+  author={Jurgen Poesche and Taina Pihlajarinne and Anette Al{\'e}n-Savikko and Timo R. Nyberg and Ilkka Kauranen},
+  journal={International Journal of Innovation and Technology Management},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:158902176}
+}
+
+@article{Kalinina2019LogisticAT,
+  title={Logistic approach to intellectual property},
+  author={Olga Vladimirovna Kalinina and Larisa Alekseeva and Daria Varlamova and Sergey Barykin and Irina Kapustina},
+  journal={E3S Web of Conferences},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:202363105}
+}
+
+@article{Andanda2019TowardsAP,
+  title={Towards a Paradigm Shift in Governing Data Access and Related Intellectual Property Rights in Big Data and Health-Related Research},
+  author={Pamela Andanda},
+  journal={IIC - International Review of Intellectual Property and Competition Law},
+  year={2019},
+  volume={50},
+  pages={1052 - 1081},
+  url={https://api.semanticscholar.org/CorpusID:211795199}
+}
+
+@article{Dass2019IntellectualPP,
+  title={Intellectual Property Protection and Financial Markets: Patenting vs. Secrecy},
+  author={Nishant Dass and Vikram Nanda and Haemin Dennis Park and Steven Chong Xiao},
+  journal={Corporate Finance: Valuation},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:7226569}
+}
+
+@article{Mandelman2019IntellectualPT,
+  title={Intellectual Property, Tariffs, and International Trade Dynamics},
+  author={Federico S. Mandelman and Andrea Waddle},
+  journal={Federal Reserve Bank of Atlanta Research Paper Series},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:159341745}
+}
+
+@article{Golan2019IntellectualPR,
+  title={Intellectual Property Rights and Ethnobiology: An Update on Posey's Call to Action},
+  author={Jacob J. Golan and Simone Athayde and Elizabeth Anne Olson and Alex C. McAlvay},
+  journal={Journal of Ethnobiology},
+  year={2019},
+  volume={39},
+  pages={109 - 90},
+  url={https://api.semanticscholar.org/CorpusID:198150482}
+}
+
+@article{Contreras2019TechnicalSS,
+  title={Technical Standards, Standards-Setting Organizations and Intellectual Property: A Survey of the Literature (With an Emphasis on Empirical Approaches)},
+  author={Jorge L. Contreras},
+  journal={Intellectual Property: Empirical Studies eJournal},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:55414256}
+}
+
+@article{Modic2019InnovationsII,
+  title={Innovations in intellectual property rights management},
+  author={Dolores Modic and Anastasia Hafner and Nadja Damij and Luka Cehovin Zajc},
+  journal={European Journal of Management and Business Economics},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:169546867}
+}
+
+@article{Rimmer2019BeyondTP,
+  title={Beyond the Paris Agreement: Intellectual Property, Innovation Policy, and Climate Justice},
+  author={Matthew Rimmer},
+  journal={Laws},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:150938243}
+}
+
+@inproceedings{Potekhin2018EvaluationOP,
+  title={Evaluation of possibility to increasing sustainability of high-rise buildings through use university intellectual property},
+  author={Igor Potekhin and V. S. Mischenko and Angela B. Mottaeva and A. V. Zheltenkov},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:54876260}
+}
+
+@article{Husovec2019TheEO,
+  title={The Essence of Intellectual Property Rights Under Article 17(2) of the EU Charter},
+  author={Martin Husovec},
+  journal={German Law Journal},
+  year={2019},
+  volume={20},
+  pages={840 - 863},
+  url={https://api.semanticscholar.org/CorpusID:216621631}
+}
+
+@article{Lee2018TheCE,
+  title={The Complementary Effect of Intellectual Property Protection Mechanisms on Product Innovation Performance},
+  author={Jung Min Lee and Si Hyung Joo and Yeonbae Kim},
+  journal={ERN: Knowledge Management \& Innovation (Topic)},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:158611390}
+}
+
+@article{Osgood2018IntellectualPP,
+  title={Intellectual property provisions and support for US trade agreements},
+  author={Iain Osgood and Yilang Feng},
+  journal={The Review of International Organizations},
+  year={2018},
+  volume={13},
+  pages={421-455},
+  url={https://api.semanticscholar.org/CorpusID:157399802}
+}
+
+@article{Kur2019ChoiceOL,
+  title={Choice of Law and Intellectual Property Rights},
+  author={Annette Kur and Ulf Maunsbach},
+  journal={Oslo Law Review},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:149642636}
+}
+
+@inproceedings{Holgersson2018TheBO,
+  title={The Business of Intellectual Property: A Literature Review of IP Management Research},
+  author={Marcus Holgersson and Sarah van Santen},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:169940545}
+}
+
+@inproceedings{Ezell2019TheWF,
+  title={The Way Forward for Intellectual Property Internationally},
+  author={Stephen Ezell and Nigel Cory},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:191847571}
+}
+
+@article{Biagioli2018WeighingIP,
+  title={Weighing intellectual property: Can we balance the social costs and benefits of patenting?},
+  author={Mario Biagioli},
+  journal={History of Science},
+  year={2018},
+  volume={57},
+  pages={140 - 163},
+  url={https://api.semanticscholar.org/CorpusID:81980226}
+}
+
+@article{Rudaya2019IssuesOS,
+  title={Issues of strategic management of Russian innovative organizations’ intellectual property},
+  author={Irina Rudaya},
+  journal={Upravlenie},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:240789915}
+}
+
+@inproceedings{Mendis20193DPA,
+  title={3D Printing and Beyond: Intellectual Property and Regulation},
+  author={Dinusha Mendis and Mark A. Lemley and Matthew Rimmer},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:158185417}
+}
+
+@article{Halloush2019ABM,
+  title={A blockchain model for preserving intellectual property},
+  author={Zain A. Halloush and Qussai M. Yaseen},
+  journal={Proceedings of the Second International Conference on Data Science, E-Learning and Information Systems},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:208607829}
+}
+
+@article{Yang2019TheSO,
+  title={The Survey on Intellectual Property Based on Blockchain Technology},
+  author={Fan Yang and Yue Shi and Qingqing Wu and Fei Li and Wei Zhou and Zhiyan Hu and Naixue N. Xiong and Yong Zhang},
+  journal={2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS)},
+  year={2019},
+  pages={743-748},
+  url={https://api.semanticscholar.org/CorpusID:199440163}
+}
+
+@inproceedings{Koul2018WTOAO,
+  title={WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPs Agreement)},
+  author={Autar Krishen Koul},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:169609547}
+}
+
+@inproceedings{Tripathi2018ArtificialIA,
+  title={Artificial Intelligence and Intellectual Property Law},
+  author={Swapnil Tripathi and Chandni Ghatak},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:199150939}
+}
+
+@article{Li2019AnalysisAD,
+  title={Analysis and data mining of intellectual property using GRNN and SVM},
+  author={Liying Li},
+  journal={Personal and Ubiquitous Computing},
+  year={2019},
+  volume={24},
+  pages={139 - 150},
+  url={https://api.semanticscholar.org/CorpusID:208086280}
+}
+
+@article{Basedow2019IntellectualPI,
+  title={Intellectual Property in the Global Arena},
+  author={J{\"u}rgen Basedow and Toshiyuki Kono and Axel Metzger and Max-Planck-Institut f{\"u}r ausl{\"a}ndisches und internationales Privatrecht},
+  journal={The Essential Guide to Intellectual Property},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:152921363}
+}
+
+@article{Li2019AnalysisAD,
+  title={Analysis and data mining of intellectual property using GRNN and SVM},
+  author={Liying Li},
+  journal={Personal and Ubiquitous Computing},
+  year={2019},
+  volume={24},
+  pages={139 - 150},
+  url={https://api.semanticscholar.org/CorpusID:208086280}
+}
+
+@article{Fink2019WhatRF,
+  title={What Role for Intellectual Property in Industrial Development?},
+  author={Carsten Fink and Julio D. Raffo},
+  journal={Intellectual Property and Development: Understanding the Interfaces},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:159346531}
+}
+
+@article{Baron2019MakingTR,
+  title={Making the Rules: The Governance of Standard Development Organizations and their Policies on Intellectual Property Rights},
+  author={Justus Baron and Jorge L. Contreras and Martin Husovec and Pierre Larouche and Nikolaus Thumm},
+  journal={DecisionSciRN: Organizational Decision-Making (Topic)},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:169113846}
+}
+
+@article{Senchenia2019EfficientUO,
+  title={Efficient use of intellectual property},
+  author={Grigory I. Senchenia},
+  journal={Voprosy Ekonomiki},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:170043832}
+}
+
+@article{No2019IntellectualPR,
+  title={Intellectual Property Rights (IPR)},
+  author={Sr No and Mr. Manish and R Khodaskar and Mrs. R. V Kulkarni and Mr. H. J. Joshi and Mr. Shyam Deshmukh and Mr Abhijeet Karve},
+  journal={Definitions},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:242487021}
+}
+
+@article{Kodynetz2019CommercializationOI,
+  title={Commercialization of Intellectual Property Rights as Foundation for Innovation},
+  author={А.O. Kodynetz and Liubov Maidanyk},
+  journal={Science and innovation},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:204505712}
+}
+
+@article{Somaya2018EmbodimentAA,
+  title={Embodiment, Anthropomorphism, and Intellectual Property Rights for AI Creations},
+  author={Deepak Somaya and Lav R. Varshney},
+  journal={Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:58003970}
+}
+
+@article{Rutschman2020PropertyAI,
+  title={Property and Intellectual Property in Vaccine Markets},
+  author={Ana Santos Rutschman},
+  journal={Texas A\&M Journal of Property Law},
+  year={2020},
+  url={https://api.semanticscholar.org/CorpusID:229115370}
+}
+
+@article{Shatkovskaya2018ImpactOT,
+  title={Impact of Technological Blockchain Paradigm on the Movement of Intellectual Property in the Digital Space},
+  author={Tatyana V. Shatkovskaya and A. B. Shumilina and G. G. Nebratenko and Ju. I. Isakova and E. Yu. Sapozhnikova},
+  journal={EUROPEAN RESEARCH STUDIES JOURNAL},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:169158161}
+}
+
+@article{Ezzeddine2018NonlinearEO,
+  title={Nonlinear Effects of Intellectual Property Rights on Technological Innovation},
+  author={Selma Ezzeddine and M. Sami Hammami},
+  journal={Journal of Economic Integration},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:158664199}
+}
+
+@article{Qi2018ASO,
+  title={A Study of the Effect of Implementing Intellectual Property Education with Digital Teaching on Learning Motivation and Achievements},
+  author={Aimin Qi},
+  journal={Eurasia journal of mathematics, science and technology education},
+  year={2018},
+  volume={14},
+  pages={2445-2452},
+  url={https://api.semanticscholar.org/CorpusID:54013515}
+}
+
+@article{Yu2018TheRO,
+  title={The Rise of China in the International Intellectual Property Regime},
+  author={Peter K. Yu},
+  journal={Environment for Innovation eJournal},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:169731581}
+}
+
+@inproceedings{Rout2018ABR,
+  title={A brief review on intellectual property rights with special attention on patent},
+  author={Susanta Kumar Rout},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:158910126}
+}
+
+@inproceedings{Ghosh2018ExhaustingIP,
+  title={Exhausting Intellectual Property Rights},
+  author={Shubha Ghosh and Irene Calboli},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:158759408}
+}
+
+@article{Wiebe2018ElectrifyingOS,
+  title={Electrifying Organic Synthesis},
+  author={Anton Wiebe and Tile Gieshoff and Sabine Moehle and Eduardo Rodrigo and Michael Zirbes and Siegfried R. Waldvogel},
+  journal={Angewandte Chemie (International Ed. in English)},
+  year={2018},
+  volume={57},
+  pages={5594 - 5619},
+  url={https://api.semanticscholar.org/CorpusID:3724646}
+}
+
+@article{Parker2018InnovationOA,
+  title={Innovation, Openness, and Platform Control},
+  author={Geoffrey G. Parker and Marshall W. Van Alstyne},
+  journal={Product Innovation eJournal},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:11550870}
+}
+
+@inproceedings{Nash2021IntersectionalityAI,
+  title={Intersectionality: An Intellectual History},
+  author={Jennifer C. Nash},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:147724054}
+}
+
+@article{KarimiJafari2018CreatingCA,
+  title={Creating Cocrystals: A Review of Pharmaceutical Cocrystal Preparation Routes and Applications},
+  author={Maryam Karimi-Jafari and Luis Padrela and Gavin Walker and Denise M. Croker},
+  journal={Crystal Growth \& Design},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:104550404}
+}
+
+@article{Farha2019DrugRF,
+  title={Drug repurposing for antimicrobial discovery},
+  author={Maya A. Farha and Eric D. Brown},
+  journal={Nature Microbiology},
+  year={2019},
+  volume={4},
+  pages={565 - 577},
+  url={https://api.semanticscholar.org/CorpusID:71144351}
+}
+
+@inproceedings{Salem2019UpdatesLeakDS,
+  title={Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning},
+  author={A. Salem and Apratim Bhattacharyya and Michael Backes and Mario Fritz and Yang Zhang},
+  booktitle={USENIX Security Symposium},
+  year={2019},
+  url={https://api.semanticscholar.org/CorpusID:91184074}
+}
+
+@article{Durand2019IntellectualMI,
+  title={Intellectual monopoly in global value chains},
+  author={C{\'e}dric Durand and Wiliiam Milberg},
+  journal={Review of International Political Economy},
+  year={2019},
+  volume={27},
+  pages={404 - 429},
+  url={https://api.semanticscholar.org/CorpusID:170037793}
+}
+
+@article{AlKhoury2022IntellectualCH,
+  title={Intellectual Capital History and Trends: A Bibliometric Analysis Using Scopus Database},
+  author={Abeer Al-Khoury and Sahraa Anwer Hussein and Muthana Abdulwhab and Zainab M. Aljuboori and Hossam Haddad and Mostafa A. Ali and Ibtihal A. Abed and Hakeem Hammood Flayyih},
+  journal={Sustainability},
+  year={2022},
+  url={https://api.semanticscholar.org/CorpusID:252340444}
+}
+
+@inproceedings{Hancock2018TemperateFC,
+  title={Temperate Fruit Crop Breeding: Germplasm to Genomics},
+  author={J. F. Hancock},
+  year={2018},
+  url={https://api.semanticscholar.org/CorpusID:89179785}
+}
+
+@article{Irwin2021WhatIW,
+  title={What it will take to vaccinate the world against COVID-19},
+  author={Aisling Irwin},
+  journal={Nature},
+  year={2021},
+  volume={592},
+  pages={176 - 178},
+  url={https://api.semanticscholar.org/CorpusID:232365934}
+}
+
+@article{Chowdhury2019IntellectualCE,
+  title={Intellectual capital efficiency and organisational performance},
+  author={Leena Afroz Mostofa Chowdhury and Tarek Rana and Mohammad Istiaq Azim},
+  journal={Journal of Intellectual Capital},
+  year={2019},
+  volume={20},
+  pages={784-806},
+  url={https://api.semanticscholar.org/CorpusID:211386395}
+}
+
+@inproceedings{2021,
+  title={Административное право и процесс},
+  author={Инна Викторовна Панова and А. Б. Панов},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:239748906}
+}
+
+@article{Feuerriegel2023GenerativeA,
+  title={Generative AI},
+  author={Stefan Feuerriegel and Jochen Hartmann and Christian Janiesch and Patrick Zschech},
+  journal={Business \& Information Systems Engineering},
+  year={2023},
+  pages={1-16},
+  url={https://api.semanticscholar.org/CorpusID:258240392}
+}
+
+@article{Wach2023TheDS,
+  title={The dark side of generative artificial intelligence: A critical analysis of controversies and risks of ChatGPT},
+  author={K. Wach and Cong Doanh Duong and Joanna Ejdys and Rūta Kazlauskaitė and Paweł Korzyński and Grzegorz Mazurek and Joanna Paliszkiewicz and Ewa Wanda Ziemba},
+  journal={Entrepreneurial Business and Economics Review},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:259853259}
+}
+
+@article{Dehouche2021PlagiarismIT,
+  title={Plagiarism in the age of massive Generative Pre-trained Transformers (GPT-3)},
+  author={Nassim Dehouche},
+  journal={Ethics in Science and Environmental Politics},
+  year={2021},
+  url={https://api.semanticscholar.org/CorpusID:233676730}
+}
+
+@article{Mckenzie2018ChildAA,
+  title={Child and Adolescent Intellectual Disability Screening Questionnaire to identify children with intellectual disability},
+  author={Karen Mckenzie and George Murray and Aja Louise Murray and Lauren Delahunty and Linda Hutton and Kara R. Murray and Anne O'hare},
+  journal={Developmental Medicine \& Child Neurology},
+  year={2018},
+  volume={61},
+  url={https://api.semanticscholar.org/CorpusID:52091338}
+}
+
+
+
+
