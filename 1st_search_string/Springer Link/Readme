@@ -1,0 +1,15 @@
+Script as of 08.04 04:00 did not:
+- catch 2 of the citations:
+  These were "Abstracts from the 56th European Society of Human Genetics (ESHG) Conference: e-Posters" and "Abstracts from the 53rd European Society of Human Genetics (ESHG) Conference: Interactive e-Posters"
+    Should examine why later. Because they were not found as links in the parse_article_links.
+    Manually fixed in xlsx file
+- provide a unique reference ID for 30+ articles which did not have an author. Instead created ref1 as IDs for everyone.
+    Manually fixed in xlsx file
+    Problem lies in dealing with no ID or authors for creating a key.
+    Should examine fixes later
+
+
+.txt to .xlsx did not:
+properly catch every authors or editor name which contained {\}. Caught many, but not everyone
+  Manually fixed in xlsx file
+    should examine why or use different one
