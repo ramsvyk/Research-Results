@@ -4256,15 +4256,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3696443.3708943},
 doi = {10.1145/3696443.3708943},
-abstract = {Large language models (LLMs) are remarked by their substantial computational requirements. To mitigate the cost, researchers develop specialized CUDA kernels, which often fuse several tensor operations to maximize the utilization of GPUs as much as possible. However, those specialized kernels may still leave performance on the table as CUDA assembly experts show that manual optimization of GPU SASS schedules can lead to better performance, and trial-and-error is largely employed to manually find the best GPU SASS schedules.
- 
- 
- 
- 
- 
- 
- 
-In this work, we employ an automatic approach to optimize GPU SASS schedules, which thus can be integrated into existing compiler frameworks. The key to automatic optimization is training an RL agent to mimic how human experts perform manual scheduling. To this end, we formulate an assembly game, where RL agents can play to find the best GPU SASS schedules. The assembly game starts from a -O3 optimized SASS schedule, and the RL agents can iteratively apply actions to mutate the current schedules. Positive rewards are generated if the mutated schedules get higher throughput by executing on GPUs. Experiments show that CuAsmRL can further improve the performance of existing specialized CUDA kernels transparently by up to 26\%, and on average 9\%. Moreover, it is used as a tool to reveal potential optimization moves learned automatically},
+abstract = {Large language models (LLMs) are remarked by their substantial computational requirements. To mitigate the cost, researchers develop specialized CUDA kernels, which often fuse several tensor operations to maximize the utilization of GPUs as much as possible. However, those specialized kernels may still leave performance on the table as CUDA assembly experts show that manual optimization of GPU SASS schedules can lead to better performance, and trial-and-error is largely employed to manually find the best GPU SASS schedules. In this work, we employ an automatic approach to optimize GPU SASS schedules, which thus can be integrated into existing compiler frameworks. The key to automatic optimization is training an RL agent to mimic how human experts perform manual scheduling. To this end, we formulate an assembly game, where RL agents can play to find the best GPU SASS schedules. The assembly game starts from a -O3 optimized SASS schedule, and the RL agents can iteratively apply actions to mutate the current schedules. Positive rewards are generated if the mutated schedules get higher throughput by executing on GPUs. Experiments show that CuAsmRL can further improve the performance of existing specialized CUDA kernels transparently by up to 26\%, and on average 9\%. Moreover, it is used as a tool to reveal potential optimization moves learned automatically},
 booktitle = {Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization},
 pages = {493–506},
 numpages = {14},
@@ -4282,7 +4274,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3696443.3708954},
 doi = {10.1145/3696443.3708954},
-abstract = {Recently, AlphaDev has shown significant advances in the synthesis of branchless sorting kernels for arrays of lengths&nbsp;3 to&nbsp;5.                In this paper, we propose an enumerative search technique based on A* search and present novel optimality-pre­serving heuristics and non-optimality-preserving cuts for sorting kernel synthesis.                Our algorithm outperforms AlphaDev in synthesis time by two orders of magnitude ran on a standard notebook instead of a TPU cluster.                Because our algorithm can explore the solution space, we are able to enumerate all correct sorting kernels for length&nbsp;3 and simply select the best-performing one.                For larger array lengths, we intelligently sample the solution space and find a sorting kernel that outperforms the state-of-the-art.                Furthermore, we establish a new tight lower bound for the shortest sorting kernel for length&nbsp;4.                Finally, we provide a comprehensive comparison against several other existing synthesis techniques and show that none of them is able to synthesize sorting kernels for arrays longer than&nbsp;3.},
+abstract = {Recently, AlphaDev has shown significant advances in the synthesis of branchless sorting kernels for arrays of lengths&nbsp;3 to&nbsp;5.                In this paper, we propose an enumerative search technique based on A* search and present novel optimality-pre­serving heuristics and non-optimality-preserving cuts for sorting kernel synthesis. Our algorithm outperforms AlphaDev in synthesis time by two orders of magnitude ran on a standard notebook instead of a TPU cluster.                Because our algorithm can explore the solution space, we are able to enumerate all correct sorting kernels for length&nbsp;3 and simply select the best-performing one.                For larger array lengths, we intelligently sample the solution space and find a sorting kernel that outperforms the state-of-the-art.                Furthermore, we establish a new tight lower bound for the shortest sorting kernel for length&nbsp;4.                Finally, we provide a comprehensive comparison against several other existing synthesis techniques and show that none of them is able to synthesize sorting kernels for arrays longer than&nbsp;3.},
 booktitle = {Proceedings of the 23rd ACM/IEEE International Symposium on Code Generation and Optimization},
 pages = {1–14},
 numpages = {14},
@@ -5361,15 +5353,7 @@ year = {2025},
 isbn = {9798400713507},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-abstract = {We are pleased to present the proceedings of the 2025 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation (PEPM 2025), held in Denver, Colorado, January 21st, 2025, in affiliation with the annual Symposium on Principles of Programming Languages (POPL 2025).
- 
- 
- 
- 
- 
- 
- 
-PEPM has a history going back to 1991, and originates in the discoveries of practically useful automated techniques for evaluating programs with only partial input. Over the years, the scope of PEPM has expanded to include a variety of research areas centered around the theme of semantics-based program manipulation --- the systematic exploitation of treating programs not only as subject to black-box execution, but also as data structures that can be generated, analyzed, and transformed while establishing or maintaining important semantic properties.},
+abstract = {We are pleased to present the proceedings of the 2025 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation (PEPM 2025), held in Denver, Colorado, January 21st, 2025, in affiliation with the annual Symposium on Principles of Programming Languages (POPL 2025). PEPM has a history going back to 1991, and originates in the discoveries of practically useful automated techniques for evaluating programs with only partial input. Over the years, the scope of PEPM has expanded to include a variety of research areas centered around the theme of semantics-based program manipulation --- the systematic exploitation of treating programs not only as subject to black-box execution, but also as data structures that can be generated, analyzed, and transformed while establishing or maintaining important semantic properties.},
 location = {Denver, CO, USA}
 }
 
@@ -5492,31 +5476,7 @@ volume = {9},
 number = {POPL},
 url = {https://doi.org/10.1145/3704912},
 doi = {10.1145/3704912},
-abstract = {Proof assistants based on dependent type theory, such as Coq, Lean and Agda, use different universes to classify types, typically combining a predicative hierarchy of universes for computationally-relevant types, and an impredicative universe of proof-irrelevant propositions. In general, a universe is characterized by its sort, such as Type or Prop, and its level, in the case of a predicative sort. Recent research has also highlighted the potential of introducing more sorts in the type theory of the proof assistant as a structuring means to address the coexistence of different logical or computational principles, such as univalence, exceptions, or definitional proof irrelevance. This diversity raises concrete and subtle issues from both theoretical and practical perspectives. In particular, in order to avoid duplicating definitions to inhabit all (combinations of) universes, some sort of polymorphism is needed. Universe level polymorphism is well-known and effective to deal with hierarchies, but the handling of polymorphism between sorts is currently ad hoc and limited in all major proof assistants, hampering reuse and extensibility.
- 
- 
- 
- 
- 
- 
- 
-This work develops sort polymorphism and its metatheory, studying in particular monomorphization, large elimination, and parametricity. 
- 
- 
- 
- 
- 
- 
- 
-We implement sort polymorphism in Coq and present examples from a new sort-polymorphic prelude of basic definitions and automation.
- 
- 
- 
- 
- 
- 
- 
-Sort polymorphism is a natural solution that effectively addresses the limitations of current approaches and prepares the ground for future multi-sorted type theories.},
+abstract = {Proof assistants based on dependent type theory, such as Coq, Lean and Agda, use different universes to classify types, typically combining a predicative hierarchy of universes for computationally-relevant types, and an impredicative universe of proof-irrelevant propositions. In general, a universe is characterized by its sort, such as Type or Prop, and its level, in the case of a predicative sort. Recent research has also highlighted the potential of introducing more sorts in the type theory of the proof assistant as a structuring means to address the coexistence of different logical or computational principles, such as univalence, exceptions, or definitional proof irrelevance. This diversity raises concrete and subtle issues from both theoretical and practical perspectives. In particular, in order to avoid duplicating definitions to inhabit all (combinations of) universes, some sort of polymorphism is needed. Universe level polymorphism is well-known and effective to deal with hierarchies, but the handling of polymorphism between sorts is currently ad hoc and limited in all major proof assistants, hampering reuse and extensibility. This work develops sort polymorphism and its metatheory, studying in particular monomorphization, large elimination, and parametricity. We implement sort polymorphism in Coq and present examples from a new sort-polymorphic prelude of basic definitions and automation. Sort polymorphism is a natural solution that effectively addresses the limitations of current approaches and prepares the ground for future multi-sorted type theories.},
 journal = {Proc. ACM Program. Lang.},
 month = jan,
 articleno = {76},
@@ -5824,23 +5784,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3708493.3712686},
 doi = {10.1145/3708493.3712686},
-abstract = {Compilers are complex, and significant effort has been expended on testing them. Techniques such as random program generation and differential testing have proved highly effective and have uncovered thousands of bugs in production compilers. The majority of effort has been expended on validating that a compiler produces correct code for a given input, while less attention has been paid to ensuring that the compiler produces performant code.
- 
- 
- 
-
- 
- 
- 
-In this work we adapt differential testing to the task of identifying missed optimization opportunities in compilers. We develop a novel testing approach which combines large language models (LLMs) with a series of differential testing strategies and use them to find missing code size optimizations in C / C++ compilers.
- 
- 
- 
-
- 
- 
- 
-The advantage of our approach is its simplicity. We offload the complex task of generating random code to an off-the-shelf LLM, and use heuristics and analyses to identify anomalous compiler behavior. Our approach requires fewer than 150 lines of code to implement. This simplicity makes it extensible. By simply changing the target compiler and initial LLM prompt we port the approach from C / C++ to Rust and Swift, finding bugs in both. To date we have reported 24 confirmed bugs in production compilers, and conclude that LLM-assisted testing is a promising avenue for detecting optimization bugs in real world compilers.},
+abstract = {Compilers are complex, and significant effort has been expended on testing them. Techniques such as random program generation and differential testing have proved highly effective and have uncovered thousands of bugs in production compilers. The majority of effort has been expended on validating that a compiler produces correct code for a given input, while less attention has been paid to ensuring that the compiler produces performant code. In this work we adapt differential testing to the task of identifying missed optimization opportunities in compilers. We develop a novel testing approach which combines large language models (LLMs) with a series of differential testing strategies and use them to find missing code size optimizations in C / C++ compilers. The advantage of our approach is its simplicity. We offload the complex task of generating random code to an off-the-shelf LLM, and use heuristics and analyses to identify anomalous compiler behavior. Our approach requires fewer than 150 lines of code to implement. This simplicity makes it extensible. By simply changing the target compiler and initial LLM prompt we port the approach from C / C++ to Rust and Swift, finding bugs in both. To date we have reported 24 confirmed bugs in production compilers, and conclude that LLM-assisted testing is a promising avenue for detecting optimization bugs in real world compilers.},
 booktitle = {Proceedings of the 34th ACM SIGPLAN International Conference on Compiler Construction},
 pages = {81–91},
 numpages = {11},
@@ -7264,8 +7208,7 @@ volume = {82},
 issn = {1076-9757},
 url = {https://doi.org/10.1613/jair.1.17654},
 doi = {10.1613/jair.1.17654},
-abstract = {Generative models are rapidly gaining popularity and being integrated into everyday applications, raising concerns over their safe use as various vulnerabilities are exposed. In light of this, the field of red teaming is undergoing fast-paced growth, highlighting the need for a comprehensive survey covering the entire pipeline and addressing emerging topics. Our extensive survey, which examines over 120 papers, introduces a taxonomy of fine-grained attack strategies grounded in the inherent capabilities of language models. Additionally, we have developed the “searcher” framework to unify various automatic red teaming approaches. Moreover, our survey covers novel areas including multimodal attacks and defenses, risks around LLM-based agents, overkill of harmless queries, and the balance between harmlessness and helpfulness.
-Warning: This paper contains examples that may be offensive, harmful, or biased.},
+abstract = {Generative models are rapidly gaining popularity and being integrated into everyday applications, raising concerns over their safe use as various vulnerabilities are exposed. In light of this, the field of red teaming is undergoing fast-paced growth, highlighting the need for a comprehensive survey covering the entire pipeline and addressing emerging topics. Our extensive survey, which examines over 120 papers, introduces a taxonomy of fine-grained attack strategies grounded in the inherent capabilities of language models. Additionally, we have developed the “searcher” framework to unify various automatic red teaming approaches. Moreover, our survey covers novel areas including multimodal attacks and defenses, risks around LLM-based agents, overkill of harmless queries, and the balance between harmlessness and helpfulness. Warning: This paper contains examples that may be offensive, harmful, or biased.},
 journal = {J. Artif. Int. Res.},
 month = feb,
 numpages = {89},

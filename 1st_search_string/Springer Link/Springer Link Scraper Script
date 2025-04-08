@@ -1,0 +1,323 @@
+import requests
+from bs4 import BeautifulSoup
+import time
+import re
+from urllib.parse import urlencode, urljoin
+
+BASE_URL = "https://link.springer.com"
+HEADERS = {"User-Agent": "Mozilla/5.0"}
+
+def parse_ris_to_bib(ris_text):
+    """
+    Minimal RIS-to-BibTeX parser.
+    Converts common RIS tags to a BibTeX @article entry (or other types).
+    Expand as needed for more complete coverage of RIS fields.
+    """
+    lines = ris_text.splitlines()
+    bib_type = "article"  # default type
+    fields = {}
+    authors = []
+    editors = []
+    pages = []
+
+    for line in lines:
+        # Each RIS line typically has a 2-char tag, two spaces, a dash, and then the value.
+        # Example: AU  - Doe, John
+        match = re.match(r'^([A-Z0-9]{2})  - (.*)$', line)
+        if not match:
+            continue
+
+        tag, val = match.groups()
+        val = val.strip()
+
+        if tag == "TY":
+            # Map RIS 'type' to a BibTeX type (simplified)
+            if val.upper() in ["JOUR", "MGZN", "NEWS"]:
+                bib_type = "article"
+            elif val.upper() == "BOOK":
+                bib_type = "book"
+            elif val.upper() == "CHAP":
+                bib_type = "incollection"
+            elif val.upper() == "CONF":
+                bib_type = "inproceedings"
+            elif val.upper() == "THES":
+                bib_type = "phdthesis"
+            elif val.upper() == "RPRT":
+                bib_type = "techreport"
+            else:
+                bib_type = "misc"
+
+        elif tag == "AU":
+            # Collect multiple authors
+            authors.append(val)
+
+        elif tag == "ED":
+            # Collect multiple editors
+            editors.append(val)
+
+        elif tag in ["TI", "T1"]:
+            # Title
+            fields["title"] = val
+
+        elif tag == "BT":
+            # Book title
+            fields["booktitle"] = val
+
+        elif tag in ["JO", "T2", "JF"]:
+            # Journal or container title
+            fields["journal"] = val
+
+        elif tag in ["PY", "Y1"]:
+            # Year (sometimes has extra detail, e.g. 2022/01/01)
+            # We'll just capture the first 4-digit year we find
+            ymatch = re.search(r'(\d{4})', val)
+            if ymatch:
+                fields["year"] = ymatch.group(1)
+        
+        elif tag == "DA":
+            # Month
+            # Capture just the 6th and 7th digits
+            mmatch = re.search(r'^\d{5}(\d{2})', val)
+            if mmatch:
+                fields["month"] = mmatch.group(2)
+
+        elif tag == "PB":
+            # Publisher
+            fields["publisher"] = val
+
+        elif tag == "SP":
+            # Start page
+            pages.append(val)
+
+        elif tag == "EP":
+            # End page
+            pages.append(val)
+
+        elif tag == "VL":
+            # Volume
+            fields["volume"] = val
+
+        elif tag == "IS":
+            # Number
+            fields["number"] = val
+
+        elif tag == "AB":
+            # Abstract
+            fields["abstract"] = val
+
+        elif tag == "SN":
+            # ISSN
+            fields["issn"] = val
+
+        elif tag == "UR":
+            # Url
+            fields["url"] = val
+        
+        elif tag == "DO":
+            # DOI
+            fields["doi"] = val
+
+        elif tag == "ID":
+            # Article ID
+            fields["id"] = val
+
+        # 'ER' = end of record; do nothing
+
+    # Construct a BibTeX entry
+    # Create a simple key from the title (or fallback)
+    if "id" in fields:
+        key_candidate = fields["id"]
+    elif "title" in fields:
+        key_candidate = re.sub(r'\W+', '', fields["title"])  # remove non-alphanumeric
+        key_candidate = key_candidate.lower()[:20]  # truncate
+        if not key_candidate:
+            key_candidate = "untitled"
+    else:
+        key_candidate = "untitled"
+
+    # Build author string for BibTeX
+    authors_str = " and ".join(authors)
+
+    # Build editor string for BibTeX
+    editors_str = " and ".join(editors)
+
+    # Build pages string for BibTeX if more than 0 pages items
+    if len(pages) == 2:
+        pages_str = "-".join(pages)
+    else:
+        pages_str = "".join(pages)
+
+    # Construct the BibTeX text
+    bib_lines = [f"@{bib_type}{{{key_candidate},"]
+    if authors_str:
+        bib_lines.append(f"  author = {{{authors_str}}},")
+    if editors_str:
+        bib_lines.append(f"  editor = {{{editors_str}}},")
+    if "title" in fields:
+        bib_lines.append(f"  title = {{{fields['title']}}},")
+    if "booktitle" in fields:
+        bib_lines.append(f"  booktitle = {{{fields['booktitle']}}},")
+    if "year" in fields:
+        bib_lines.append(f"  year = {{{fields['year']}}},")
+    if "month" in fields:
+        bib_lines.append(f"  month = {{{fields['month']}}},")
+    if "publisher" in fields:
+        bib_lines.append(f"  publisher = {{{fields['publisher']}}},")
+    if "volume" in fields:
+        bib_lines.append(f"  volume = {{{fields['volume']}}},")
+    if "number" in fields:
+        bib_lines.append(f"  number = {{{fields['number']}}},")
+    if "journal" in fields:
+        bib_lines.append(f"  journal = {{{fields['journal']}}},")
+    if pages_str:
+        bib_lines.append(f"  pages = {{{pages_str}}},")
+    if "abstract" in fields:
+        bib_lines.append(f"  abstract = {{{fields['abstract']}}},")
+    if "issn" in fields:
+        bib_lines.append(f"  issn = {{{fields['issn']}}},")
+    if "url" in fields:
+        bib_lines.append(f"  url = {{{fields['url']}}},")
+    if "doi" in fields:
+        bib_lines.append(f"  doi = {{{fields['doi']}}},")
+    
+    bib_lines.append("}\n")
+
+    return "\n".join(bib_lines)
+
+
+def get_bib_content(article_url):
+    """
+    1) Visit the article page
+    2) Try to find a BibTeX link
+    3) If not found, try to find an RIS/refman link (Download CITATION, not references)
+    4) Convert to BibTeX
+    5) Return BibTeX string (or None if not found)
+    """
+    print(f"Accessing article page: {article_url}")
+    response = requests.get(article_url, headers=HEADERS)
+    if response.status_code != 200:
+        print(f"Error fetching article page: {article_url} (Status: {response.status_code})")
+        return None
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # --- 1) Try to find a direct BibTeX link ---
+    bib_anchor = soup.find("a", href=lambda h: h and "bibtex" in h.lower())
+    if bib_anchor and bib_anchor.get("href"):
+        bib_url = urljoin(BASE_URL, bib_anchor["href"])
+        print(f"Found BibTeX link: {bib_url}")
+        bib_response = requests.get(bib_url, headers=HEADERS)
+        if bib_response.status_code == 200:
+            return bib_response.text
+        else:
+            print(f"Error downloading BibTeX: {bib_url} (Status: {bib_response.status_code})")
+
+    # --- 2) If no BibTeX link, try to find an RIS or "refman" link for CITATION downloads ---
+    # We want to exclude "Download references" if it leads to a references-only file.
+    # So let's check the anchor's text or data attributes for something like "Download citation" or "Cite"
+    possible_anchors = soup.find_all("a", href=True)
+    ris_anchor = None
+    for anchor in possible_anchors:
+        href_lower = anchor["href"].lower()
+        text_lower = anchor.get_text(strip=True).lower()
+        # We want something that has "refman" or "ris" in the URL
+        # AND is presumably about "citation" or "cite" or something similar, not "references"
+        if ("refman" in href_lower or "ris" in href_lower) and \
+           ("citation" in text_lower or "cite" in text_lower or "export" in text_lower):
+            ris_anchor = anchor
+            break
+
+    if ris_anchor:
+        ris_url = urljoin(BASE_URL, ris_anchor["href"])
+        print(f"No BibTeX link found. Trying RIS/refman link: {ris_url}")
+        ris_response = requests.get(ris_url, headers=HEADERS)
+        if ris_response.status_code == 200:
+            return parse_ris_to_bib(ris_response.text)
+        else:
+            print(f"Error downloading RIS: {ris_url} (Status: {ris_response.status_code})")
+
+    print(f"No BibTeX or suitable CITATION link found for: {article_url}")
+    return None
+
+
+def parse_article_links(html):
+    """Parse the search results HTML and return a list of full article/chapter URLs."""
+    soup = BeautifulSoup(html, 'html.parser')
+    article_links = set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if ("/article/" in href or "/chapter/" in href) and href.startswith("/"):
+            full_url = urljoin(BASE_URL, href)
+            article_links.add(full_url)
+    return list(article_links)
+
+def get_next_page_url(html):
+
+    # Locate the next-page URL
+    soup = BeautifulSoup(html, "html.parser")
+    next_anchor = soup.find("a", {"rel": "next"})
+    if next_anchor and next_anchor.get("href"):
+        return urljoin(BASE_URL, next_anchor["href"])
+
+    # No next page found
+    return None
+
+def get_search_page(url):
+    """Download and return the HTML for a given search-results URL."""
+    print(f"Fetching search page: {url}")
+    response = requests.get(url, headers=HEADERS)
+    if response.status_code == 200:
+        return response.text
+    else:
+        print(f"Error fetching search page: {url} (Status: {response.status_code})")
+        return None
+
+def main():
+    # Define your search parameters
+    search_query = '((generative) OR (LLM)) AND (identify) AND (remove) AND (code) AND ((copyright) OR (intellectual property))'
+    start_year = "2018"
+
+    # Build initial URL
+    params = {
+        "query": search_query,
+        "facet-start-year": start_year
+    }
+    current_url = f"{BASE_URL}/search/page/1?" + urlencode(params)
+    all_bib_entries = ""
+    bib_entry_counter = 0
+
+    while current_url:
+        html = get_search_page(current_url)
+        if not html:
+            break
+
+        article_links = parse_article_links(html)
+        if not article_links:
+            print(f"No articles found on page: {current_url}")
+            break
+
+        print(f"Found {len(article_links)} article links on this page.")
+        for article_url in article_links:
+            bib_content = get_bib_content(article_url)
+            if bib_content:
+                # Append with extra spacing
+                all_bib_entries += bib_content.strip() + "\n\n"
+                bib_entry_counter += 1
+            time.sleep(1)  # polite delay
+
+        # Check for next page
+        next_url = get_next_page_url(html)
+        print(bib_entry_counter)
+        if not next_url:
+            print("No next page found. Ending pagination.")
+            break
+        current_url = next_url
+        time.sleep(2)  # polite delay
+
+    # Write all combined BibTeX to a file
+    with open("all_citations.bib", "w", encoding="utf-8") as f:
+        f.write(all_bib_entries)
+    print("All BibTeX citations have been saved to all_citations.bib")
+
+if __name__ == "__main__":
+    main()
