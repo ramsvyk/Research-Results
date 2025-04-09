@@ -1,0 +1,698 @@
+<RECORD 1>
+RETHINKING LLM UNLEARNING OBJECTIVES: A GRADIENT PERSPECTIVE AND GO BEYOND
+Wang, Qizhou (TMLR Group, Department of Computer Science, Hong Kong Baptist University, Hong Kong); Zhou, Jin Peng; Zhou, Zhanke; Shin, Saebyeol; Han, Bo; Weinberger, Kilian Q. Source: arXiv,  February 26, 2025
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 2>
+SIMPLICITY PREVAILS: RETHINKING NEGATIVE PREFERENCE OPTIMIZATION FOR LLM UNLEARNING
+Fan, Chongyu (Michigan State University, United States); Liu, Jiancheng; Lin, Licong; Jia, Jinghan; Zhang, Ruiqi; Mei, Song; Liu, Sijia Source: arXiv,  October 9, 2024
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 3>
+Towards Holistic Secure and Trustworthy Deep Learning
+Chen, Huili  (University of California, San Diego) Source: ProQuest Dissertations and Theses Global,  2022
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 4>
+Pluvio: Assembly Clone Search for Out-of-domain Architectures and Libraries through Transfer Learning and Conditional Variational Information Bottleneck
+Fu, Zhiwei (Queen's University, Kingston; ON, Canada); Ding, Steven H.H.; Alaca, Furkan; Fung, Benjamin C.M.; Charland, Philippe Source: arXiv,  July 20, 2023
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 5>
+Nirikshan: Process mining software repositories to identify inefficiencies, imperfections, and enhance existing process capabilities
+Gupta, Monika  (Indraprastha Institute of Information Technology, Delhi IIITD, New Delhi, India) Source: 36th International Conference on Software Engineering, ICSE Companion 2014 - Proceedings, p 658-661,  2014,  36th International Conference on Software Engineering, ICSE Companion 2014 - Proceedings
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 6>
+GNN4TJ: Graph Neural Networks for Hardware Trojan Detection at Register Transfer Level
+Yasaei, Rozhin (University of California, Department of Electrical Engineering and Computer Science, Irvine; CA, United States); Yu, Shih-Yuan; Al Faruque, Mohammad Abdullah Source: Proceedings -Design, Automation and Test in Europe, DATE,  v 2021-February, p 1504-1509,  February 1, 2021,  Proceedings of the 2021 Design, Automation and Test in Europe, DATE 2021
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 7>
+When are smells indicators of architectural refactoring opportunities? a study of 50 software projects
+Sousa, Leonardo (ECE-Carnegie Mellon University, United States); Oizumi, Willian; Garcia, Alessandro; Oliveira, Anderson; Cedrim, Diego; Lucena, Carlos Source: IEEE International Conference on Program Comprehension, p 354-365,  July 13, 2020,  Proceedings - 2020 IEEE/ACM 28th International Conference on Program Comprehension, ICPC 2020
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 8>
+Subtle Signatures, Strong Shields: Advancing Robust and Imperceptible Watermarking in Large Language Models
+Ren, Yubing (Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China); Guo, Ping; Cao, Yanan; Ma, Wei Source: Proceedings of the Annual Meeting of the Association for Computational Linguistics, p 5508-5519,  2024,  62nd Annual Meeting of the Association for Computational Linguistics, ACL 2024 - Proceedings of the Conference
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 9>
+A generalized procedure to identify three-dimensional rock blocks around complex excavations
+Yu, Q. (China University of Geosciences, School of Water Resources and Environment Science, Beijing, China); Ohnishi, Y.; Xue, G.; Chen, D. Source: International Journal for Numerical and Analytical Methods in Geomechanics,  33, 3, 355-375, 2009
+
+
+
+Database: GeoRef 
+
+GeoRef, Copyright 2025, American Geological Institute.
+
+<RECORD 10>
+A generalized procedure to identify three-dimensional rock blocks around complex excavations
+Yu, Q. (School of Water Resources and Environment Science, China University of Geosciences, Beijing 100083, China); Ohnishi, Y.; Xue, G.; Chen, D. Source: International Journal for Numerical and Analytical Methods in Geomechanics,  v 33, n 3, p 355-375,  February 25, 2009
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 11>
+A metric-based approach to identifying refactoring opportunities for merging code clones in a Java software system
+Higo, Yoshiki (Department of Computer Science, Graduate School of Information Science and Technology, Osaka University, 1-3, Machikaneyama-cho, Toyonaka, Osaka 560-8531, Japan); Kusumoto, Shinji; Inoue, Katsuro Source: Journal of Software Maintenance and Evolution,  v 20, n 6, p 435-461,  November/December 2008
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 12>
+RING-A-BELL! HOW RELIABLE ARE CONCEPT REMOVAL METHODS FOR DIFFUSION MODELS?
+Hsu, Chia-Yi (National Yang Ming Chiao Tung University, Taiwan); Tsai, Yu-Lin; Xie, Chulin; Lin, Chih-Hsun; Chen, Jia-You; Li, Bo; Chen, Pin-Yu; Yu, Chia-Mu; Huang, Chun-Ying Source: 12th International Conference on Learning Representations, ICLR 2024,  2024,  12th International Conference on Learning Representations, ICLR 2024
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 13>
+Assessment of asme code examinations on regenerative, letdown and residual heat removal heat exchangers
+Gosselin, S.R. (Pacific Northwest National Laboratory, P.O. Box 999, Richland, WA 99352); Cumblidge, S.E.; Anderson, M.T.; Simonen, F.A.; Tinsley, G.A.; Lydell, B.; Doctor, S.R. Source: American Society of Mechanical Engineers, Pressure Vessels and Piping Division (Publication) PVP,  v 6, p 661-677,  2005,  Proceedings of the ASME Pressure Vessels and Piping Conference 2005 - Materials and Fabrication, PVP2005
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 14>
+RING-A-BELL! HOW RELIABLE ARE CONCEPT REMOVAL METHODS FOR DIFFUSION MODELS?
+Tsai, Yu-Lin (National Yang Ming Chiao Tung University, Taiwan); Hsu, Chia-Yi; Xie, Chulin; Lin, Chih-Hsun; Chen, Jia-You; Li, Bo; Chen, Pin-Yu; Yu, Chia-Mu; Huang, Chun-Ying Source: arXiv,  October 15, 2023
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 15>
+FFproc; an improved multivariate robust statistical data processing software for the estimation of MT transfer functions
+Castro, Cesar Daniel (Johann Wolfgang Goethe-Universitaet Frankfurt am Main, Institute for Geosciences, Applied Geophysics, Frankfurt, Germany); Hering, Philip; Hogg, Colin; Junge, Andreas Source: Geophysical Research Abstracts,  23,  European Geosciences Union general assembly 2021, 2021
+
+
+
+Database: GeoRef 
+
+GeoRef, Copyright 2025, American Geological Institute.
+
+<RECORD 16>
+Refining code-design mapping with flow analysis
+Zhang, Xiaofang (University of Oregon, Dept. of Computer and Information Science, Eugene, OR 97403-1202, United States); Young, Michal; Lasseter, John H. E. F. Source: Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering, p 231-240,  2004,  Twelfth ACM SIGSOFT International Symposium on the Foundations of Software Engineering, SIGSOFT 2004/FSE-12
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 17>
+Reducing program image size by extracting frozen code and data    (Open Access)
+Citron, Daniel (IBM Haifa Labs., University Campus, Haifa 31905, Israel); Haber, Gadi; Levin, Roy Source: EMSOFT 2004 - Fourth ACM International Conference on Embedded Software, p 297-305,  2004,  EMSOFT 2004 - Fourth ACM International Conference on Embedded Software
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 18>
+Automatic removal of buffer overflow vulnerabilities in C/C++ programs
+Ding, Sun (School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, Singapore); Tan, Hee Beng Kuan; Zhang, Hongyu Source: ICEIS 2014 - Proceedings of the 16th International Conference on Enterprise Information Systems,  v 2, p 49-59,  2014,  ICEIS 2014 - Proceedings of the 16th International Conference on Enterprise Information Systems
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 19>
+Watermarking two dimensional data object identifier for authenticated distribution of digital multimedia contents
+Kim, Jongweon (Department of Copyright Protection, Sangmyung University, Korea, Republic of); Kim, Namgyu; Lee, Dongwon; Park, Sungbum; Lee, Sangwon Source: Signal Processing: Image Communication,  v 25, n 8, p 559-576,  September 2010
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 20>
+Machine specific energy consumption analysis for CNC-milling toolpaths
+Pavanaskar, Sushrut (Department of Mechanical Engineering, University of California, Berkeley, Berkeley; CA; 94720, United States); McMains, Sara Source: Proceedings of the ASME Design Engineering Technical Conference,  v 1A-2015,  2015,  ASME 2015 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE 2015
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 21>
+The safety analysis of the 600 MWE sodium-cooled fast reactor with MARS-LMR
+Lee, Kwi Lim (Korea Atomic Energy Research Institute, Daejeon, Yuseong-gu, Korea, Republic of); Ha, Kwi Seok; Jeong, Hae Yong; Chang, Won Pyo Source: International Conference on Nuclear Engineering, Proceedings, ICONE,  v 3, n 1, p 673-677,  2012,  2012 20th International Conference on Nuclear Engineering and the ASME 2012 Power Conference, ICONE 2012-POWER 2012
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 22>
+On cracking direct-sequence spread-spectrum systems
+Jo, Youngho (Department of Electrical and Computer Engineering, University of Florida, Gainesville, FL 32611, United States); Wu, Dapeng Source: Wireless Communications and Mobile Computing,  v 10, n 7, p 986-1001,  July 2010
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 23>
+Comparing rule-based, feature-based and deep neural methods for de-identification of Dutch medical records
+Trienes, Jan (Nedap Healthcare, Groenlo, Netherlands); Trieschnigg, Dolf; Seifert, Christin; Hiemstra, Djoerd Source: CEUR Workshop Proceedings,  v 2551, p 3-11,  2020,  HSDM 2020 - Proceedings of the ACM WSDM 2020 Health Search and Data Mining Workshop, co-located with the 13th ACM International WSDM Conference, WSDM 2020
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 24>
+Countermeasures to improve LWR safety level in design and operation by accident analyses at Fukushima Daiichi nuclear power plants
+Shimizu, Kazumasa (Hokkaido University, North13 West8, North Ward, Sapporo, Japan); Hamada, Yuhei; Sakashita, Hiroto; Mori, Michitsugu Source: International Conference on Nuclear Engineering, Proceedings, ICONE,  v 6,  2013,  2013 21st International Conference on Nuclear Engineering, ICONE 2013
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 25>
+MagPySV; a Python package for processing and denoising geomagnetic observatory data
+Cox, Grace A. (University of Liverpool, Department of Earth, Ocean and Ecological Sciences, Liverpool, United Kingdom); Brown, William J.; Billingham, L.; Holme, R. Source: Geochemistry, Geophysics, Geosystems - G (super 3),  19, 9, 3347-3363, 2018
+
+
+
+Database: GeoRef 
+
+GeoRef, Copyright 2025, American Geological Institute.
+
+<RECORD 26>
+Improving JavaScript performance by deconstructing the type system    (Open Access)
+Ahn, Wonsun (University of Illinois, Urbana-Champaign, United States); Choi, Jiho; Shull, Thomas; Garzar&aacute;n, Mar&iacute;a J.; Torrellas, Josep Source: ACM SIGPLAN Notices,  v 49, n 6, p 496-507,  June 5, 2014
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 27>
+Improving javascript performance by deconstructing the type system    (Open Access)
+Ahn, Wonsun (University of Illinois, Urbana-Champaign, United States); Choi, Jiho; Shull, Thomas; Garzar&#225;n, Mar&#237;a J.; Torrellas, Josep Source: Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), p 496-507,  2014,  PLDI 2014 - Proceedings of the 2014 ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 28>
+Semantics-aware trace analysis
+Hoffman, Kevin (Computer Science Department, Purdue University, United States); Eugster, Patrick; Jagannathan, Suresh Source: Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), p 453-464,  2009,  PLDI'09 - Proceedings of the 2009 ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 29>
+Validation of valve leak quantification with non-intrusive acoustic emission technology    (Open Access)
+Hale, Stan  (Score Atlanta, Inc., United States) Source: ASME/NRC 2014 12th Valves, Pumps, and Inservice Testing Symposium, p 63-84,  2014,  ASME/NRC 2014 12th Valves, Pumps, and Inservice Testing Symposium
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+Open Access type(s): All Open Access, Bronze
+
+<RECORD 30>
+Semantics-aware trace analysis
+Hoffman, Kevin (Computer Science Department, Purdue University, United States); Eugster, Patrick; Jagannathan, Suresh Source: ACM SIGPLAN Notices,  v 44, n 6, p 453-464,  June 2009
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 31>
+An integrated approach for monitoring gas accumulation in safety related systems
+Ezekoye, L. Ike (Westinghouse Electric Co. LLC, Pittsburgh, PA, United States); Griffin, Ryan D.; Turkowski, William M.; Williams, Gregory R. Source: American Society of Mechanical Engineers, Pressure Vessels and Piping Division (Publication) PVP,  v 7, p 53-60,  2010,  Proceedings of the ASME Pressure Vessels and Piping Conference 2009
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 32>
+Snapshot review of the regulation of gas voids in Nuclear Steam Supply Systems in the United States
+Ezekoye, L. Ike (Westinghouse Electric Company, Pittsburgh, PA, United States); Turkowski, William M. Source: International Conference on Nuclear Engineering, Proceedings, ICONE,  v 1,  2010,  18th International Conference on Nuclear Engineering, ICONE18
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 33>
+CFD methodologies for A PWR fuel rod assembly
+Blowe, Ted N. (Department of Nuclear Engineering, Texas a and M University, College Station; TX; 77843-3133, United States); Kang, Shin K.; Hassan, Yassin A. Source: International Topical Meeting on Nuclear Reactor Thermal Hydraulics 2015, NURETH 2015,  v 1, p 692-710,  2015,  International Topical Meeting on Nuclear Reactor Thermal Hydraulics 2015, NURETH 2015
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 34>
+Effect of loading waveform and spectrum loading on the fatigue crack growth rate in simulated light water reactor environments
+Platts, Norman (Amec Foster Wheeler Walton House, Birchwood Park, Warrington; WA3 6GA, United Kingdom); Tice, David R.; Rigby, Keith; Swan, David I. Source: American Society of Mechanical Engineers, Pressure Vessels and Piping Division (Publication) PVP,  v 1A-2016,  2016,  ASME 2016 Pressure Vessels and Piping Conference, PVP 2016
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 35>
+Automatically patching errors in deployed software    (Open Access)
+Perkins, Jeff H. (MIT CSAIL, United States); Kim, Sunghun; Larsen, Sam; Amarasinghe, Saman; Bachrach, Jonathan; Carbin, Michael; Pacheco, Carlos; Sherwood, Frank; Sidiroglou, Stelios; Sullivan, Greg; Wong, Weng-Fai; Zibin, Yoav; Ernst, Michael D.; Rinard, Martin Source: SOSP'09 - Proceedings of the 22nd ACM SIGOPS Symposium on Operating Systems Principles, p 87-102,  2009,  SOSP'09 - Proceedings of the 22nd ACM SIGOPS Symposium on Operating Systems Principles
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 36>
+Beyond Software Watermarking: Traitor-Tracing for Pseudorandom Functions
+Goyal, Rishab (MIT, Cambridge; MA, United States); Kim, Sam; Waters, Brent; Wu, David J. Source: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),  v 13092 LNCS, p 250-280,  2021,  Advances in Cryptology – ASIACRYPT 2021 - 27th International Conference on the Theory and Application of Cryptology and Information Security, Proceedings, Part 3
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 37>
+Integral effect test for performance evaluation of the PAFS (passive auxiliary Feedwater system) during a SBO (station blackout) transient
+Bae, Byoung-Uhn (Thermal Hydraulics Safety Research Division, Korea Atomic Energy Research Institute, Daedeok-daero 989-111, Yuseong-gu, Daejeon; 305-353, Korea, Republic of); Kim, Seok; Park, Yu-Sun; Cho, Yun-Je; Kang, Kyoung-Ho Source: International Conference on Nuclear Engineering, Proceedings, ICONE,  v 2B,  2014
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 38>
+Closing the satellite operations loop with automation via Autobot
+Choi, Mirue  (Space Systems Engineer, Planet Germany GmbH, Kurf&uuml;rstendamm 22, Berlin; 10719, Germany) Source: Proceedings of the International Astronautical Congress, IAC,  v 2019-October,  2019,  70th International Astronautical Congress, IAC 2019
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 39>
+Removing useless variables in cost analysis of Java bytecode    (Open Access)
+Albert, E. (DSIC, Complutense University of Madrid, E-28040 Madrid, Spain); Arenas, P.; Genaim, S.; Puebla, G.; Zanardini, D. Source: Proceedings of the ACM Symposium on Applied Computing, p 368-375,  2008,  Proceedings of the 23rd Annual ACM Symposium on Applied Computing, SAC'08
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 40>
+Towards the development of shutdown emergency operating procedures for nuclear power reactors
+Malgas, Isaac  (Eskom, Generation, Koeberg Nuclear Power Station Nuclear Engineering, Cape Town 7441, South Africa) Source: International Conference on Nuclear Engineering, Proceedings, ICONE,  v 3,  2013,  2013 21st International Conference on Nuclear Engineering, ICONE 2013
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 41>
+Modeling and simulation of the heat and mass transfer characteristics of binary mixtures for boiling flow applications
+Srinivasan, Vedanth (Advanced Simulation Technologies, 47519 Halyard Dr, Plymouth, MI 48170, United States); De Wang, Ming Source: ASTM Special Technical Publication,  v 1534, p 285-314,  2012
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 42>
+An efficient hash-based algorithm for minimal κ-anonymity
+Sun, Xiaoxun (Department of Mathematics and Computing, University of Southern Queensland, Toowoomba, QLD 4350, Australia); Li, Min; Wang, Hua; Plank, Ashley Source: Conferences in Research and Practice in Information Technology Series,  v 74, p 101-107,  2008,  Computer Science 2008 - Proceedings of the 31st Australasian Computer Science Conference, ACSC 2008
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 43>
+Seeing your reflections revealing your data in the world of point source, point receiver acquisition - A case study
+Maycock, Andy  (ADCO, United Arab Emirates) Source: Society of Petroleum Engineers - Abu Dhabi International Petroleum Exhibition and Conference 2016,  v 2016-January,  2016,  Society of Petroleum Engineers - Abu Dhabi International Petroleum Exhibition and Conference 2016
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 44>
+Exploration of motion estimation algorithm in graphics processing environment
+Husemann, Ronaldo (DELET - UFRGS, Av. Osvaldo Aranha, 103, Porto Alegre - RS, Brazil); Lenz, Augusto L.; Gobbi, Marco; Roesler, Valter; Lima, Jos&#233; Valdeni Source: WebMedia'12 - Proceedings of the 2012 Brazilian Symposium on Multimedia and the Web, p 123-130,  2012,  WebMedia'12 - Proceedings of the 2012 Brazilian Symposium on Multimedia and the Web
+ Language: Portuguese
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 45>
+Pleistocene/Holocene (P/H) boundary oceanic Koefels-comet impact series scenario (KISS) of 12.850 yr BP global-warming threshold triad (GTT)-part II*
+Bujatti-Narbeshuber, Michael  (Intradom Beratungsgesellschaft, Vienna, Austria) Source: Geophysical Research Abstracts,  24,  European Geosciences Union general assembly 2022, 2022
+
+
+
+Database: GeoRef 
+
+GeoRef, Copyright 2025, American Geological Institute.
+
+<RECORD 46>
+Modeling and simulation of the heat and mass transfer characteristics of binary mixtures for boiling flow applications
+Srinivasan, Vedanth (Advanced Simulation Technologies, 47519 Halyard Dr., Plymouth, MI 48170, United States); Wang, De Ming Source: Journal of ASTM International,  v 8, n 2,  February 2011
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 47>
+No silver bullet: Identifying security vulnerabilities in anonymization protocols for hospital databases
+Zhang, Nan (Department of Computer Science, George Washington University, Washington, DC, United States); O'Neill, Liam; Das, Gautam; Cheng, Xiuzhen; Huang, Heng Source: International Journal of Healthcare Information Systems and Informatics,  v 7, n 4, p 48-58,  October-December 2012
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 48>
+Removing manually generated boilerplate from electronic texts: Experiments with Project Gutenberg e-books
+Kaser, Owen (University of New Brunswick, Canada); Lemire, Daniel Source: Proceedings of the 2007 Conference of the Center for Advanced Studies on Collaborative Research, CASCON '07, p 272-275,  2007,  Proceedings of the 2007 Conference of the Center for Advanced Studies on Collaborative Research, CASCON '07
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 49>
+Achieving anonymity via clustering
+Aggarwal, Gagan (Google Inc., Mountain View, CA 94043); Feder, Tom&#225;s; Kenthapadi, Krishnaram; Khuller, Samir; Panigrahy, Rina; Thomas, Dilys; Zhu, An Source: Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, p 153-162,  2006,  Proceedings of the Twenty-Fifth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2006
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 50>
+Preliminary results of column experiments simulating nutrients transport in artificial recharge by treated wastewater
+Leal, Maria (IMDEA Water, Alcala de Henares, Spain); Meffe, Raffaella; Lillo, Javier Source: Geophysical Research Abstracts,  15,  European Geosciences Union general assembly 2013, 2013
+
+
+
+Database: GeoRef 
+
+GeoRef, Copyright 2025, American Geological Institute.
+
+<RECORD 51>
+Impact damage analysis of discontinuous long-fiber thermoplastic composite plates
+Khawaja, Adnan I. (Greene, Tweed and Co., 2075 Detwiler Road, Kulpsville; PA; 19443, United States); Han, Joo H.; Kilic, M. Hakan Source: International SAMPE Technical Conference,  v 2016-January,  2016,  SAMPE Long Beach 2016 Conference and Exhibition
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 52>
+Formation and significance of laurionite in geothermal brine
+Regenspurg, Simona (GeoForschungs Zentrum Potsdam, International Centre for Geothermal Research, Potsdam, Germany); Driba, Dejene Legesse; Zorn, Carolin Source: Environmental Earth Sciences,  75, 10, 2016
+
+
+
+Database: GeoRef 
+
+GeoRef, Copyright 2025, American Geological Institute.
+
+<RECORD 53>
+Rapid and consistent identification of stratigraphic boundaries and stacking patterns in well-logs - An automated process utilizing wavelet transforms and beta distributions
+Ye, Shin-Ju (Upstream Research Company, United States); Wellner, Robert W.; Dunnexxonmobil, Paul A. Source: Proceedings - SPE Annual Technical Conference and Exhibition,  v 0,  2017,  Society of Petroleum Engineers - SPE Annual Technical Conference and Exhibition 2017
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 54>
+Rapid and consistent identification of stratigraphic boundaries and stacking patterns in well logs - An automated process utilizing wavelet transforms and beta distributions
+Ye, Shin-Ju (ExxonMobil Upstream Research Company, United States); Wellner, Robert W.; Dunn, Paul A. Source: SPE Middle East Oil and Gas Show and Conference, MEOS, Proceedings,  v 2017-March, p 2272-2295,  2017,  Society of Petroleum Engineers - SPE Middle East Oil and Gas Show and Conference 2017
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 55>
+Development of pirt (phenomena identification and ranking table) for SAS-SFR (SAS4A) validation
+Kawada, Ken-Ichi (Japan Atomic Energy Agency, Oarai, Ibaraki, Japan); Sato, Ikken; Tobita, Yoshiharu; Pfrang, Werner; Buffe, Laurence; Dufour, Emmanuelle Source: International Conference on Nuclear Engineering, Proceedings, ICONE,  v 6,  2014
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 56>
+Safety assessment of fuel storage ponds following cooling faults
+Webb, Jonathan (Atkins, The Hub, 500 Park Avenue, Aztec West, Almondsbury, Bristol; BS32 4RZ, United Kingdom); Bridgford, Charles Source: International Conference on Nuclear Engineering, Proceedings, ICONE,  v 2,  2016,  2016 24th International Conference on Nuclear Engineering, ICONE 2016
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 57>
+Time history broadening
+Strzelczyk, Andrzej T.  (Engineering Mechanics Department, Ontario Power Generation, 889 Brock Rd., Pickering, ON, L1W 3J2, Canada) Source: American Society of Mechanical Engineers, Pressure Vessels and Piping Division (Publication) PVP,  v 8, p 91-95,  2011,  ASME 2011 Pressure Vessels and Piping Conference, PVP 2011
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 58>
+UMID watermarking for managing metadata in content production
+Pelly, J. (Sony Broadcast and Prof. Europe, Basingstoke, Hampshire RG22 4SB1, United Kingdom); Tapson, D.; Stone, J.; Keating, S. Source: SMPTE Journal,  v 110, n 7, p 429-435,  July 2001
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 59>
+Identifying essential pairwise interactions in elastic network model using the alpha shape theory    (Open Access)
+Xia, Fei (School of Biological Sciences, Nanyang Technological University, 60 Nanyang Drive 637551, Singapore, Singapore); Tong, Dudu; Yang, Lifeng; Wang, Dayong; Hoi, Steven C. H.; Koehl, Patrice; Lu, Lanyuan Source: Journal of Computational Chemistry,  v 35, n 15, p 1111-1121,  May 5, 2014
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 60>
+Numerical study on thermal design for a DLP projector
+Lin, Sheam-Chyun (Department of Mechanical Engineering, National Taiwan University of Science and Technology, 43, Sec. 4, Keelung Road, Taipei, 106, Taiwan); Chuang, Fu-Sheng; Tsai, Ming-Lun; Shih, Hsien-Chang; Luo, Yu-Shan; Chou, Yung-Tai Source: 40th AIAA Thermophysics Conference,  2008,  40th AIAA Thermophysics Conference
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 61>
+Computation of Midsurface by Feature-Based Simplification-Abstraction-Decomposition
+Kulkarni, Yogesh H. (Department of Mechanical Engineering, College of Engineering Pune, Pune, Maharashtra; 411005, India); Sahasrabudhe, Anil; Kale, Mukund Source: Journal of Computing and Information Science in Engineering,  v 17, n 1,  March 1, 2017
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 62>
+Identification and characterization of a novel intracellular poly(3-hydroxybutyrate) depolymerase from Bacillus megaterium    (Open Access)
+Chen, Hui-Ju (Institute of Biochemistry and Molecular Biology, School of Life Science, National Yang-Ming University, Taipei, Taiwan); Pan, Shih-Chuan; Shaw, Gwo-Chyuan Source: Applied and Environmental Microbiology,  v 75, n 16, p 5290-5299,  August 2009
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+Open Access type(s): All Open Access, Green
+
+<RECORD 63>
+Quantification of the RELAP5 model uncertainty for application to the loss-of-RHR event during the mid-loop operation
+Kinoshita, Ikuo (Institute of Nuclear Safety System, Inc. (INSS), 64 Sata, Mihama-cho, Mikata-gun, Fukui 919-1205, Japan); Nagumo, Hiroichi; Yamada, Minoru; Sasaki, Yasuhiro; Yoshida, Yoshitaka Source: International Conference on Nuclear Engineering, Proceedings, ICONE,  v 2, p 611-621,  2009,  Proceedings of the 17th International Conference on Nuclear Engineering 2009, ICONE17
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 64>
+Bit level types for high level reasoning
+Jhala, Ranjit (UC San Diego); Majumdar, Rupak Source: Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering, p 128-140,  2006,  Proceedings of the 14th ACM SIGSOFT International Symposium on Foundations of Software Engineering
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 65>
+Insights into operating a low pressure feed pump for loss of all AC and DC power
+Baron, Barbara R. (Westinghouse Electric Co., LLC, P. O. Box 355, Pittsburgh, PA 15230-0355, United States); Lutz Jr., Robert J. Source: International Conference on Nuclear Engineering, Proceedings, ICONE,  v 4, p 809-815,  2008,  2008 Proceedings of the 16th International Conference on Nuclear Engineering, ICONE16
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 66>
+Adaptive MIMO-MLSE blind detection in heterogeneous stream transmission for mobile radio communications
+Kanno, Issei (Tokyo Institute of Technology, Tokyo, 152-8550, Japan); Suzuki, Hiroshi; Fukawa, Kazuhiko Source: IEICE Transactions on Communications,  v E91-B, n 7, p 2346-2356,  2008
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 67>
+Development and prototype testing of low-cost lightweight thin film solar concentrator
+Ganapathi, Gani (JPL/Caltech, Pasadena; CA, United States); Palisoc, Arthur; Buchroithner, Armin; Kindler, Andrew; Nataraj, Sai; Greschik, Gyula; Nesmith, Bill; Gidanian, Koorosh Source: ASME 2016 10th International Conference on Energy Sustainability, ES 2016, collocated with the ASME 2016 Power Conference and the ASME 2016 14th International Conference on Fuel Cell Science, Engineering and Technology,  v 1,  2016,  ASME 2016 10th International Conference on Energy Sustainability, ES 2016, collocated with the ASME 2016 Power Conference and the ASME 2016 14th International Conference on Fuel Cell Science, Engineering and Technology
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 68>
+Processes to establish approval for demolition of support facilities on nuclear licensed sites in the United Kingdom
+Urquhart, David (Halcrow Group Ltd.); Preen, Steve Source: Proceedings - 10th International Conference on Environmental Remediation and Radioactive Waste Management, ICEM'05,  v 2005, p 752-759,  2005,  Proceedings - 10th International Conference on Environmental Remediation and Radioactive Waste Management, ICEM'05
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
+<RECORD 69>
+Hydrocarbon reactivity in a plasma-catalyst system: Thermal versus plasma-assisted lean NOx reduction
+Schmieg, Steven J. (General Motors R and D Center, Chemical and Environmental Sciences Laboratory, 30500 Mound Road / Mail Code 480-106-185, Warren, MI 48090-9055, United States); Cho, Byong K.; Oh, Se H. Source: SAE Technical Papers,  2001,  International Fall Fuels and Lubricants Meeting and Exposition
+
+
+
+Database: Compendex 
+
+Compilation and indexing terms, Copyright 2025 Elsevier Inc.
+
